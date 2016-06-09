@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Pulse,Products.Flare">
+    <body>
+        <p>If necessary, in the <span class="Emphasis">Backup path for local SQL database</span> field, you can click the browse button and choose a location to store a copy of the current database. This field is only enabled if the database has been using a previous version of Pulse. Also, it is not enabled if you are connecting to a database on a remove server.</p>
+    </body>
+</html>

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="1803" MadCap:lastWidth="1109" MadCap:conditions="Products.Flare">
+    <head>
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="FilterStyles" />
+            <MadCap:keyword term="Styles:classes;Styles:tags;Styles:properties;Styles:values" />
+            <MadCap:concept term="StyleBasics" />Style Tags, Classes, Properties, and Values</h1>
+        <p>Following are the fundamental parts of styles that you will encounter.</p>
+        <h3 MadCap:conditions="General.Print">Tags</h3>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">tags</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p MadCap:conditions="">In the Stylesheet Editor, you will notice several elements in the Styles section that already exist for your use. These are called "tags." You also might hear them referred to simply as "styles" or as "selectors." A tag is an element to which you assign a look and feel. You can then apply that style to your content, so that the content takes on the look and feel associated with the style. Different kinds of tags are available in a stylesheet, to be used for various purposes in your content.</p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <p MadCap:conditions="" class="ExampleHead">example</p>
+                        <p MadCap:conditions="" class="Example">&lt;p&gt; is a tag, which can be used to affect the look of paragraphs in your content. Another tag is &lt;h2&gt;, which can be used to affect the look of second-level headings in your content. Yet another tag is &lt;span&gt;, which can be used to affect the look of character-level content (e.g., a portion of a paragraph, but not the entire paragraph).</p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p MadCap:conditions="" class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Complex selectors are called "descendant selectors" in CSS. For more information, see <a href="http://www.w3.org/" target="_blank">w3.org</a>.</p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h3 MadCap:conditions="General.Print">Classes</h3>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">classes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p MadCap:conditions="">You can think of tags as parent styles, because they can have children. A child of a tag is called a "class." Some of these classes might already be included in your stylesheet when you first add it to a project. You also have the option of creating classes of parent tags.</p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p MadCap:conditions="" class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Although you can create new style classes, you cannot create new parent tags.</p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:snippetBlock src="../../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide" />
+                <p MadCap:conditions="">When you create a class, it automatically takes on all of the same qualities (or "attributes") from the parent tag (e.g., color, alignment, size). However, you can change some of those attributes for the class as necessary so that it is different from the parent tag in some ways.</p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p MadCap:conditions="" class="ExampleHead">example</p>
+                        <p MadCap:conditions="" class="ExampleMiddleSection">Let's say you want to create a special look for paragraph notes in order to provide additional information in a topic. In addition, you might want yet another special kind of paragraph to be used for tips. Perhaps you want a blue background for your note paragraphs, and you want a yellow background for your tip paragraphs. Meanwhile, for your regular paragraphs, you do not want any colored background.</p>
+                        <p class="Example" MadCap:conditions="">Therefore, you could create a class of your parent &lt;p&gt; tag and name it "Note." Then you might create another class of your &lt;p&gt; tag and name it "Tip." For the Note class, you could change the background property to display in blue, and you could change the same property for the Tip class to display in yellow. But you would leave the background property for the parent &lt;p&gt; tag as it is, without a color. In the end, both the Note and Tip classes would take on all of the style settings from its parent tag—&lt;p&gt;—with the exception of the background color that you have specified for each.</p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:snippetBlock src="../../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide" />
+                <p MadCap:conditions="">How can you distinguish between parent tags and style classes? In the Simplified view of the Stylesheet Editor, style classes are listed after the parent tags, and a period is added between the name of the parent tag and the name of the class (e.g., p.Tip). </p>
+                <p MadCap:conditions="">
+                    <img src="../../Resources/Images/base_tags_style_classes_example_simplified.jpg" class="MaxWidth45Percent" />
+                </p>
+                <MadCap:snippetBlock src="../../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide" />
+                <p MadCap:conditions="" class="PageBreakBefore">In the Advanced view of the Stylesheet editor, parent tags and style classes are shown in a tree view. You can expand a parent tag to see its style classes.</p>
+                <p MadCap:conditions="">
+                    <img src="../../Resources/Images/base_tags_style_classes_example_advanced.jpg" class="MaxWidth60Percent" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide" />
+        <h3 MadCap:conditions="General.Print" class="PageBreakBefore">Properties and Values</h3>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">properties and values</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p MadCap:conditions="">Every tag and style class has certain attributes that contribute to its look and feel. The elements used to control these attributes are known as "properties," which can be organized into property groups (in the Advanced view of the Stylesheet Editor). The precise information within a property is known as a "value."</p>
+                <p MadCap:conditions="">There are hundreds of basic properties that you can use to change various aspects of a style.</p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">examples</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p MadCap:conditions="" class="ExampleHead">example</p>
+                        <p MadCap:conditions="" class="ExampleMiddleSection">Returning to the example of a note for a paragraph tag (p.Note), let's say we want the background to be blue. That particular quality can be controlled in a property called "background-color." In the Advanced view of the Stylesheet Editor, this property can be found in the property group named "Background." For our p.Note style, we would assign a value of "blue" to that property.</p>
+                        <p MadCap:conditions="" class="Example">
+                            <img src="../../Resources/Images/property_value_example.png" class="MaxWidth65Percent" />
+                        </p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:conceptLink term="StyleBasics" />
+        </p>
+    </body>
+</html>

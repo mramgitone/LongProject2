@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:conditions="Products.Lingo" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <title>
+        </title>
+        <meta name="description" content="MadCap Lingo statistics, computing project statistics, compute translation project stats, translation statistics, Lingo translation statistics" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="Reports" />
+            <MadCap:keyword term="Reports;Statistics" />Computing Statistics</h1>
+        <MadCap:snippetBlock src="../Resources/Snippets/NOTyetUPDATED.flsnp" />
+        <p>You can compute statistics for your <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" /> project, displaying information about the translation work. This is a way to compare the project files against the translation memory database in order to see how much translation work has been completed and how much still needs to be done. This report can be useful if you are a translator and need to provide estimates to a client, or if you are an author who is using <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" /> to manage the translation process.</p>
+        <p>
+            <img src="../Resources/Images/translation_report_example.png" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to compute statistics</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <ol type="1" class="Decimal">
+                    <li>In the File List window pane, make sure the files are displayed in a grid. If instead they are displayed in a folder structure, click <img src="../Resources/Images/show_hide_folders_btn.png" class="ReduceButtonSize" /> in the local toolbar to switch to grid view.</li>
+                    <li>Select the files to be included in the statistics report. <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/YouCanHoldShiftCtrlKeys.flsnp" /></li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                        <ul style="list-style-type: square;">
+                            <li>
+                                <p>
+                                    <span class="SetOffFirstLevel">Ribbon</span> Select <span class="Emphasis">File&gt;Compute Statistics</span>.    </p>
+                                <p>
+                                    <MadCap:snippetBlock src="../Resources/Snippets/UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" />
+                                </p>
+                            </li>
+                            <li>
+                                <span class="SetOffFirstLevel">Menu</span> Select <span class="Emphasis">File&gt;Compute Statistics</span>.</li>
+                            <li>
+                                <p>
+                                    <span class="SetOffFirstLevel">Project Editor</span> Click <img src="../Resources/Images/compute_statistics_btn.jpg" class="ReduceButtonSize" />.</p>
+                                <p>
+                                    <img src="../Resources/Images/translation_report_example2.jpg" class="MaxWidth100Percent" />
+                                </p>
+                            </li>
+                        </ul>
+                        <p>The statistics report opens as an HTML file, showing the following information (both for the entire project, as well as for individual documents in the project).</p>
+                        <ul>
+                            <li>
+                                <span class="SetOffFirstLevel">Number of segments</span>
+                            </li>
+                            <li>
+                                <span class="SetOffFirstLevel">Number of words</span>
+                            </li>
+                            <li>
+                                <span class="SetOffFirstLevel">Number of duplicates </span>These are segments that occur multiple times within the project. For example, the first time a segment occurs in the project and there is no match in the translation memory for it, it is counted as "No Match." If it shows up again 20 times in other places, it is counted as a "Duplicate."</li>
+                            <li>
+                                <span class="SetOffFirstLevel">Number of translated segments and words</span>
+                            </li>
+                            <li>
+                                <span class="SetOffFirstLevel">Matching percentages of segments and words in translation memory </span> For example, the number of segments and words that have 100% matches, those that have 85%-94% matches, those that have no matches.</li>
+                            <li>
+                                <span class="SetOffFirstLevel">Number of no matches </span>These are segments that are not translated and have no useful suggestions in the translation memory.</li>
+                        </ul>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

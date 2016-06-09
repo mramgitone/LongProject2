@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare" MadCap:lastBlockDepth="4" MadCap:lastHeight="111" MadCap:lastWidth="935">
+    <head>
+    </head>
+    <body>
+        <p class="TableText">Opens a submenu, which lets you select options for sorting table rows. See <MadCap:xref href="../../../Tables/More_About_Tables/Sorting_Table_Rows.htm">Sorting Table Rows</MadCap:xref>. Menu options include:</p>
+        <ul>
+            <li value="1"><span class="SetOffFirstLevel">Ascending </span>Sorts the selected table rows in ascending order.</li>
+            <li value="3"><span class="SetOffFirstLevel">Descending </span>Sorts the selected table rows in descending order. </li>
+        </ul>
+    </body>
+</html>

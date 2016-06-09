@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="4" MadCap:lastHeight="530" MadCap:lastWidth="1156">
+    <body>
+        <p>To join segments, hold down the <span class="Emphasis">SHIFT</span>&#160;or <span class="Emphasis">CTRL</span> key and select the relevant segments. Then in the local toolbar click <img src="../../Images/join_selected_segments_btn.png" class="ReduceButtonSize" />.</p>
+        <p class="ExampleHead">example</p>
+        <p class="ExampleMiddleSection">Let's say you import a Word document and the segments look like this in the Translation Editor:</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/join_segment1.png" alt="" title="" class="MaxWidth90Percent">
+            </img>
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="LingoGuides.LingoWhatsNewGuide">
+        </MadCap:snippetBlock>
+        <p class="ExampleMiddleSection">Therefore, you hold down your <span class="Emphasis">CTRL</span> key and select both segments. Then in the local toolbar you click <img src="../../Images/join_selected_segments_btn.png" class="ReduceButtonSize"></img>.</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/join_segment2.png" alt="" title="" class="MaxWidth90Percent">
+            </img>
+        </p>
+        <p class="ExampleMiddleSection">As a result, the segments are joined, like this:</p>
+        <p class="Example">
+            <img src="../../Images/join_segment3.png" alt="" title="" class="MaxWidth90Percent">
+            </img>
+        </p>
+        <p MadCap:conditions="" class="note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">In order to join segments they must be part of the same translation unit (e.g., same paragraph, same list item). If you select segments that are not part of the same translation unit, the join option is disabled.</p>
+    </body>
+</html>

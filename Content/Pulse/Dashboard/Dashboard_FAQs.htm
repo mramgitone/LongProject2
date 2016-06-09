@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="1163" MadCap:lastWidth="952" MadCap:conditions="Products.Pulse,Products.Flare">
+    <head>
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="Dashboard" />
+            <MadCap:keyword term="Administrators:Pulse;MadCap Pulse:dashboard" MadCap:conditions="Products.Flare" />
+            <MadCap:keyword term="Administrators;Dashboard" MadCap:conditions="Products.Pulse" />
+            <MadCap:concept term="FilterPulse" MadCap:conditions="Products.Flare" />Pulse Dashboard Frequently Asked Questions</h1>
+        <h1 class="Invisible" MadCap:conditions="General.OnlineLive">
+            <MadCap:keyword term="Administrators:Pulse;MadCap Pulse:dashboard" MadCap:conditions="Products.Flare" />
+            <MadCap:keyword term="Administrators;Dashboard" MadCap:conditions="Products.Pulse" />Pulse Dashboard FAQs</h1>
+        <p MadCap:conditions="General.OnlineLive,FlareGuides.FlarePulseGuide">Following are some frequent questions about administration tasks for the <MadCap:variable name="Products.Pulse" /> dashboard.</p>
+        <p class="FirstPageOfChapter" MadCap:conditions="PulseGuides.PulseServerAdminGuide,PulseGuides.PulseUserGuide">Following are some frequent questions about administration tasks for the <MadCap:variable name="Products.Pulse" /> dashboard.</p>
+        <MadCap:snippetBlock src="../../Resources/Snippets/ThisChapterDiscussesFollowing.flsnp" MadCap:conditions="PulseGuides.PulseUserGuide,PulseGuides.PulseServerAdminGuide" />
+        <h2 MadCap:conditions="General.Print">General Settings</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">general settings</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Following are general frequently asked questions about the dashboard. </p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>what version number do i have<span class="EightyFiveEM">?</span></MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <ol>
+                            <li>Log in to the <MadCap:variable name="Products.Pulse" /> dashboard as an administrator. </li>
+                            <li>Select <span class="Emphasis">Administration&gt;Settings</span>.The <MadCap:variable name="Products.Pulse" /> version number appears in the top right-corner of the page. <p><img src="../../Resources/Images/pulse_admin_settings_version.png" class="MaxWidth100Percent" /></p></li>
+                        </ol>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="General.Print">Managing Accounts</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">managing accounts</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p>If you are a member of the Administrators group and responsible for <MadCap:variable name="Products.Pulse" /> user administration, here are some answers to frequently asked questions. </p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>who can disable or delete user accounts<span class="EightyFiveEM">?</span></MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <p><MadCap:variable name="Products.Pulse" /> user accounts can be disabled or deleted by these individuals:</p>
+                        <ul>
+                            <li><span class="SetOffFirstLevel">Pulse Administrators </span>Members of the Administrators group can disable to delete user accounts from the Administration&gt;Settings menu. Members of the Employees and Customers groups cannot delete user accounts, including their own account.</li>
+                            <li><span class="SetOffFirstLevel">SQL&#160;Server Administrator </span>If you have administrative permissions to SQL&#160;Server, you can remove user information directly from the SQL&#160;database.&#160;This will immediately remove a user from <MadCap:variable name="Products.Pulse" />. </li>
+                        </ul>
+                        <p>For more information about users, see <MadCap:xref href="Settings/Managing_Users.htm">Users</MadCap:xref>.</p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>can users create two accounts with the same email address<span class="EightyFiveEM">?</span></MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <p><MadCap:variable name="Products.Pulse" /> does not allow users to create two accounts with the same email address. If a user attempts to register for a second account using the same email address, they will see the "Unable to register"&#160;error shown below:</p>
+                        <p>
+                            <img src="../../Resources/Images/pulse_unable_to_register.png" class="MaxWidth70Percent" />
+                        </p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:snippetBlock src="../../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePulseGuide,PulseGuides.PulseServerAdminGuide,PulseGuides.PulseUserGuide" />
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>how can i reuse an email address<span class="EightyFiveEM">?</span></MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p>If you delete a user account in the <MadCap:variable name="Products.Pulse" /> dashboard, access to <MadCap:variable name="Products.Pulse" /> features is immediately revoked. However, to give a user the ability to reuse an email address in <MadCap:variable name="Products.Pulse" />, you must also delete the user from the dbo.Users and dbo.Login tables in SQL&#160;Server. If you are using SQL Server Management Studio you can right-click the user and select <span class="Emphasis">Delete</span> from the context menu. Once the entries are deleted, the email can be used to create a new <MadCap:variable name="Products.Pulse" /> account.</p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="Products.FlareOnlineOnly">
+            <MadCap:conceptLink term="Dashboard" />
+        </p>
+    </body>
+</html>

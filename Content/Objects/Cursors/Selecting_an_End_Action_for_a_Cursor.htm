@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:ignoredWords="XXXX;XXXXX;F;W" MadCap:lastBlockDepth="14" MadCap:lastHeight="3162" MadCap:lastWidth="552" MadCap:conditionTagExpression="exclude[Snippets.Snippet1 or Snippets.Snippet2]" MadCap:conditions="Products.Mimic">
+    <head><title></title>
+        <link href="../../Resources/Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="FilterShapes" />
+            <MadCap:keyword term="Cursors:end actions;Actions:end actions;End actions;End actions:selecting" />
+            <MadCap:concept term="Cursors;Actions" />Selecting an End Action for a Cursor</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Objects/SelectEndActionSummary.flsnp" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="ExampleHead">example</p>
+                <p class="ExampleMiddleSection">Let's say you have a frame containing a cursor movement, and you want to give users a choice of performing a task (e.g., clicking an area in your movie) or watching as the task is performed for them (watching the cursor move along its trajectory and click the area). In a situation such as this, you might do the following:</p>
+                <ol class="Example">
+                    <li class="Example1"><a href="../Shapes/Adding_Shapes_to_Frames.htm">Add a rectangle shape</a> and place it around the area that you want the user to click. Then double-click that rectangle and <a href="../../Actions/Selecting_Actions_for_Objects.htm">select an action</a> for it, such as "GotoNext."</li>
+                    <li class="Example1"><a href="../Callouts/Adding_Callouts.htm">Add a callout</a>, pointing it to that rectangle area. <a href="../../Text/Adding_Text_Mimic.htm">Add text</a> to the callout, providing instructions for the user (e.g., "Click this area. Otherwise, click the button below to see it done.").</li>
+                    <li class="Example1"><a href="../Buttons/Adding_Buttons.htm">Add a button</a>. Give it an appropriate label (e.g., "Do it for me"). Double-click the button and select the <span class="Emphasis" style="font-weight: normal;">"StartCursor"</span> action for it.</li>
+                    <li class="Example1">Select an end action for the cursor. See the steps below for details. In this example, you might select an action such as "GotoNext." The end action is necessary in case the user opts to click the "Do it for me" button.</li>
+                    <li class="Example1"><a href="../../Frames/Pausing_Frames.htm">Pause the timing of the frame</a>. To do this, double-click the frame and select <span class="Emphasis" style="font-weight: normal;">"Pause movie at end of frame"</span> on the Transition tab. This will ensure that the frame waits for the user to perform an action (either clicking in the rectangle area or clicking the button) before moving on.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to select an end action for a cursor</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <ol>
+                    <li>Open the frame.</li>
+                    <li>In the Frame Editor, double-click the cursor shape. The Cursor Properties dialog opens.</li>
+                    <li>Select the <span class="Emphasis">End Action</span> tab. </li>
+                    <li>
+                        <p>Select the action that you want to apply to the cursor. </p>
+                        <MadCap:snippetBlock src="../../Resources/Snippets/Actions/ActionDefinitions.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/ClickOK.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Resources/Snippets/WhatsNext/WhatsNextAfterEdit.flsnp" />
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:conceptLink term="Cursors;Actions" />
+        </p>
+    </body>
+</html>

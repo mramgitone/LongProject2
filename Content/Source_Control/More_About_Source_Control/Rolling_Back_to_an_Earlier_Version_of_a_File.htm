@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="14" MadCap:lastHeight="1505" MadCap:lastWidth="804" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <head><title></title>
+        <link href="../../Resources/Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Source control:roll back;Roll back:source control" />
+            <MadCap:keyword term="Source control:differences;Differences:source control" />
+            <MadCap:keyword term="Source control:history;History:source control" />
+            <MadCap:concept term="FilterSourceControl" />Rolling Back to an Earlier Version of a File</h1>
+        <p>One of the benefits of <MadCap:snippetText src="../../Resources/Snippets/AllProductVariables.flsnp" />'s integrated source control is that you can view the history and differences for a particular file. <MadCap:snippetText src="../../Resources/Snippets/SourceControl/SourceControlRollbackSummary.flsnp" /></p>
+        <p MadCap:conditions="Products.Flare">See <MadCap:xref href="../About_Source_Control.htm">About Source Control and Multi-Authoring</MadCap:xref>, <MadCap:xref href="Viewing_the_History_of_Source_Control_Files.htm">Viewing the History of Source Control Files</MadCap:xref>, and <MadCap:xref href="Viewing_Differences_in_Source_Control_Files.htm">Viewing Differences in Source Control Files</MadCap:xref>.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Resources/Snippets/SourceControl/SourceControlRollbackExample.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Resources/Snippets/ForMoreInfo/SeeFlareOnlineHelp.flsnp" MadCap:conditions="Products.Analyzer" />
+        <MadCap:dropDown MadCap:conditions="Products.Flare">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to roll back to an earlier version of a file</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <ol MadCap:conditions="Products.Flare">
+                    <li>In one of the window panes (e.g., Content Explorer, Project Organizer, File List window pane, Pending Check-Ins window pane), select the relevant files(s).</li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                        <ul class="FirstLevel">
+                            <li><span class="SetOffFirstLevel">Pending Check-Ins Window Pane</span> From the <span class="Emphasis">Source Control</span> ribbon or <span class="Emphasis">View</span> menu, open the Pending Check-Ins window pane. Select the files, right-click, and select <span class="Emphasis">Source Control&gt;View History</span>.</li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon</span> <MadCap:snippetText src="../../Resources/Snippets/UIElements/SelectSourceControlRibbon.flsnp" /> In the <span class="Emphasis">File</span> section select <span class="Emphasis">View History</span>. </p>
+                                <p MadCap:conditions="General.OnlineLive">
+                                    <MadCap:snippetBlock src="../../Resources/Snippets/UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" />
+                                </p>
+                            </li>
+                            <li><span class="SetOffFirstLevel">Menu</span> Select <span class="Emphasis">File&gt;Source Control&gt;View History</span>.</li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Standard Toolbar</span> Click the down arrow next to the <span class="Emphasis">Source Control</span> button <img src="../../Resources/Images/source_control_btn.png" class="ReduceButtonSize" /> and select <span class="Emphasis">View History</span>. </p>
+                                <MadCap:snippetBlock src="../../Resources/Snippets/UIElements/ToOpenStandardToolbar.flsnp" />
+                            </li>
+                        </ul>
+                        <p>The History dialog opens.     </p>
+                    </li>
+                    <MadCap:snippetBlock src="../../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareSourceControlGuide" />
+                    <li>(Optional) View the differences between two versions of the file. This may help you decide which version of the file you want to retrieve. (Another way is to look at the dates for each version in the History dialog.)<p>To view the differences, follow these steps.</p><ol class="LowerAlpha"><li>Select the first file version from the list.</li><li>Hold the <span class="Emphasis">CTRL</span> key and select the second file version from the list.</li><li><p>Click <span class="Emphasis">Show Differences</span>.</p><MadCap:snippetBlock src="../../Resources/Snippets/SourceControl/SourceControlDifferencesClickShowDifferencesExplanation.flsnp" /><MadCap:dropDown><MadCap:dropDownHead><MadCap:dropDownHotspot MadCap:conditions="Products.FlareOnlineOnly">note</MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody class="Final"><MadCap:snippetBlock src="../../Resources/Snippets/Notes/NoteShowDiffDialog.flsnp" /></MadCap:dropDownBody></MadCap:dropDown></li><li>When you are finished viewing the differences, close the window pane.</li></ol></li>
+                    <li>In the History dialog, select the version of the file to which you want to roll back.</li>
+                    <li>Click <span class="Emphasis">Get Selected Version</span>. That file is downloaded from source control and replaces the local copy of the file in your project.</li>
+                    <li>In the History dialog, click <span class="Emphasis">Close</span>.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="Products.FlareOnlineOnly">
+            <MadCap:conceptLink term="Source Control" />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="10" MadCap:lastHeight="791" MadCap:lastWidth="830">
+    <head />
+    <body>
+        <p class="Subheading2">"Object reference not set to an instance of object" error occurs when renaming a topic</p>
+        <p>When renaming a topic <MadCap:variable name="Products.Flare" /> displays the following error message:</p>
+        <p class="Bold">Operation rename failed: "Object reference not set to an instance of an object" when renaming a topic.</p>
+        <p>If the topic is renamed, all links to that topic are lost.</p>
+        <p class="Subheading2">Cause and Solution</p>
+        <p>This problem can have one of the following causes.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>cause/solution <span style="font-size: 0.85em;">1</span></MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>The <MadCap:variable name="Products.Flare" /> application data has become corrupted.</p>
+                <p>Delete the contents of the <MadCap:variable name="Products.Flare" /> application data folder. Perform the following steps.</p>
+                <ol>
+                    <li>Close the <MadCap:variable name="Products.Flare" /> project.</li>
+                    <li>Navigate to <span class="Emphasis">C:\Users\&lt;username&gt;\AppData\Roaming\MadCap Software\Flare</span> in the Windows Explorer.</li>
+                    <li>Delete the contents of the <span class="Emphasis"><MadCap:variable name="Products.Flare" /></span> folder.</li>
+                    <li>Reopen the <MadCap:variable name="Products.Flare" /> project and rename the topic.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>cause/solution <span style="font-size: 0.85em;">2</span></MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p>The window layout needs to be reset.</p>
+                <ol>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                        </p>
+                        <ul class="FirstLevel">
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon </span>
+                                    <MadCap:snippetText src="../UIElements/SelectWindowRibbon.flsnp" /> In the <span class="Emphasis">Window Layout</span> section select  <span class="Emphasis">Reset Layout</span>.</p>
+                                <MadCap:snippetBlock src="../UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">Menu </span>Select <span class="Emphasis">Window&gt;Layouts&gt;Reset Window Layout</span>. </li>
+                        </ul>
+                        <p>The window pane layout will reset to default. </p>
+                    </li>
+                    <li>Rename the topic.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

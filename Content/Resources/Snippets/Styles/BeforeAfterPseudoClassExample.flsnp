@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="4" MadCap:lastHeight="819" MadCap:lastWidth="1161">
+    <body>
+        <p class="ExampleHead" MadCap:conditions="">example</p>
+        <p class="ExampleMiddleSection" MadCap:conditions="">Let's say you frequently enter the text "Here's How:" followed by different content. Instead of typing the words "Here's How:" each time, you can set them in a "before" pseudo class in a style.</p>
+        <p class="ExampleMiddleSection" MadCap:conditions="">For example, you might create a paragraph style class and name it "HeresHow" (p.HeresHow).</p>
+        <p class="ExampleMiddleSection" MadCap:conditions="">
+            <img src="../../Images/pseudo_class_before1.png" alt="" title="" class="MaxWidth40Percent" />
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide,FlareGuides.FlareStylesGuide" />
+        <p class="ExampleMiddleSection" MadCap:conditions="">You select that style in the Advanced View of the Stylesheet Editor. Then in the local toolbar of the Stylesheet Editor, you select <span class="Emphasis">Add Pseudo Class</span> and you choose <span class="Emphasis">Before</span>. This adds the pseudo class below that style.</p>
+        <p class="ExampleMiddleSection" MadCap:conditions="">
+            <img src="../../Images/pseudo_class_before2.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide,FlareGuides.FlareStylesGuide" />
+        <p class="ExampleMiddleSection" MadCap:conditions="">Next, you select that pseudo class. On the right side of the editor you choose to list the properties alphabetically, and you locate the <span class="Emphasis">Content</span> property. In that field, you type the following:</p>
+        <p class="ExampleCode3" MadCap:conditions="">Here's How:</p>
+        <p class="ExampleMiddleSection" MadCap:conditions="">
+            <img src="../../Images/pseudo_class_before3.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide,FlareGuides.FlareStylesGuide" />
+        <p class="ExampleMiddleSection">Now when you apply that style to a paragraph, those words appear at the beginning.</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/pseudo_class_before4.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <p class="ExampleMiddleSection">You can then enter any additional text after it.</p>
+        <p class="Example" MadCap:conditions="">
+            <img src="../../Images/pseudo_class_before5.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+    </body>
+</html>

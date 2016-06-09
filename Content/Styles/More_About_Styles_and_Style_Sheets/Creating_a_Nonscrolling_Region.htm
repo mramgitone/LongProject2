@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="10" MadCap:lastHeight="1563" MadCap:lastWidth="1140" MadCap:ignoredWords="Nonscrolling">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Styles:stylesheets;Nonscrolling region;Styles:nonscrolling region" />
+            <MadCap:concept term="FilterStyles" />Creating a Nonscrolling Region</h1>
+        <p>For online output you can specify that a certain portion of the content (usually a heading and breadcrumbs, if included) should remain fixed in place. This means that when the end user scrolls down to see more content, the fixed areas do not scroll with the rest of the text. You can see an example of this in any <MadCap:snippetText src="../../Resources/Snippets/AllProductVariables.flsnp" /> online Help topic.</p>
+        <p>In order to create this type of effect, you need to make changes to multiple properties for at least two or three different styles—&lt;body&gt;, the heading style (usually &lt;h1&gt; or a variant of it), and &lt;MadCap|breadcrumbsProxy&gt; (if you include breadcrumbs).</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to create a nonscrolling region</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <ol>
+                    <MadCap:snippetBlock src="../../Resources/Snippets/Styles/EditStyleStep1.flsnp" />
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/Styles/SelectMediumStep1.flsnp" />
+                        </p>
+                        <MadCap:snippetBlock src="../../Resources/Snippets/Styles/SelectMediumStep2.flsnp" />
+                        <p MadCap:conditions="General.OnlineLive,FlareGuides.FlareTopicsGuide">
+                            <img src="../../Resources/Images/medium_example1.jpg" class="MaxWidth80Percent">
+                            </img>
+                        </p>
+                        <p>In the case of nonscrolling regions, you probably want at least some of the settings described below to be different for online outputs than for print-based outputs.</p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/Styles/StylesMakeSureSimplifiedViewButtonShown.flsnp">
+                        </MadCap:snippetText>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/Styles/FilterHeadingStylesStep.flsnp" />
+                    </li>
+                    <li>From the <span class="Emphasis">Styles</span> area, select the <span class="Emphasis">h1</span> tag (or whatever tag you are using for headings at the top of topics).</li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/Styles/SelectShowAlphabeticalListStep.flsnp" />
+                    </li>
+                    <li>
+                        <p>Make changes to the following properties in the list. For each property, click in the cell to the right of it and enter the appropriate values.</p>
+                        <ul class="FirstLevel">
+                            <li><span class="SetOffFirstLevel">background-color</span> Select the background color you want for your nonscrolling region. If you already have a background color set for your breadcrumbs (using the &lt;MadCap|breadcrumbsProxy&gt; style), you might want to use the same color.</li>
+                            <li><span class="SetOffFirstLevel">border-bottom</span> Select the border type (e.g., solid), width (e.g., 2px), and color you want for the line under your nonscrolling region.</li>
+                            <li><span class="SetOffFirstLevel">left</span> Set the distance from the left edge of the browser window. This should be <span class="Emphasis">0</span>.</li>
+                            <li><span class="SetOffFirstLevel">margin</span> Set the distance to the edge of the browser window. The values for the top, bottom, left, and right may vary. Start with <span class="Emphasis">0</span> and adjust as necessary.</li>
+                            <li><span class="SetOffFirstLevel">padding</span> Set the distance from the edge of the "container" holding the content to the content itself. Again, the values for the top, bottom, left, and right may vary.</li>
+                            <li><span class="SetOffFirstLevel">position</span> This is the most critical property, which keeps the content from scrolling. Set it to <span class="Emphasis">fixed</span>.</li>
+                            <li><span class="SetOffFirstLevel">right</span> Set the distance from the right edge of the browser window. This should be <span class="Emphasis">0</span>.</li>
+                            <li><span class="SetOffFirstLevel">top</span> Set the distance to the top of the browser window. If you are not using breadcrumbs then enter <span class="Emphasis">0</span>. Otherwise enter enough space to clear the breadcrumbs (e.g., 30px).</li>
+                            <li><span class="SetOffFirstLevel">width</span> Set the width to <span class="Emphasis">100%</span> to make sure that the nonscrolling region fills the width of the page.</li>
+                        </ul>
+                        <MadCap:snippetBlock src="../../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide,FlareGuides.FlareTopicsGuide" />
+                        <p>Here is an example of how the settings might look in the Stylesheet Editor. The properties relevant for nonscrolling regions are highlighted.</p>
+                        <p>
+                            <img src="../../Resources/Images/nonscrolling_region_example1.jpg" class="MaxWidth70Percent" />
+                        </p>
+                    </li>
+                    <MadCap:snippetBlock src="../../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide,FlareGuides.FlareTopicsGuide" />
+                    <li>(Optional—complete the next three steps only if you are using breadcrumbs) <MadCap:snippetText src="../../Resources/Snippets/Styles/FilterReusableContentStylesStep.flsnp" /></li>
+                    <li>From the <span class="Emphasis">Styles</span> area, select the <span class="Emphasis">MadCap|breadcrumbsProxy</span> tag.</li>
+                    <li>
+                        <p>Make adjustments to the same style attributes as you did for the &lt;h1&gt; tag. You may need to make minor variations so that the breadcrumbs render above the &lt;h1&gt; text. </p>
+                        <p>Here is an example of how the settings might look in the Stylesheet Editor. The properties relevant for nonscrolling regions are highlighted.</p>
+                        <p>
+                            <img src="../../Resources/Images/nonscrolling_region_example2.jpg" class="MaxWidth65Percent" />
+                        </p>
+                    </li>
+                    <MadCap:snippetBlock src="../../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide,FlareGuides.FlareTopicsGuide" />
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/Styles/FilterAllStylesStep.flsnp" />
+                    </li>
+                    <li>From the <span class="Emphasis">Styles</span> area, select the <span class="Emphasis">body</span> tag.</li>
+                    <li>
+                        <p>Find and select the <span class="Emphasis">margin-top</span> property and in the cell to the right enter a value high enough to ensure that none of the topic text ends up hidden behind the nonscrolling region. </p>
+                        <p>A value of 100px might work well for some people, but 50px might work better for others. Enter a number somewhere in that range, preview a topic, and adjust the value as necessary.</p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

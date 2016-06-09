@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties conditions="Products.Mimic,Products.Capture,Products.MovieSync" fileTags="">
+    <ImageOverlay HasImage="false" Profile="C:\Users\pstoecklein\Documents\My Profiles\NoBorder.capro" ProfileHash="608a0ba25ab9149d40d3c99c3ec83bb3">
+        <OriginalImage Folder="C:\Trunk\Shared\Content\Resources\Images" ExportFormat="png" medium_print_EnableFormat="False" medium_print_ColorDepth="32" medium_print_DPI="300" FileName="" BackgroundColor="transparent" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" medium_print_EnableGrayScaleFormat="False" Border="none" BorderWidth="1" BorderColor="#000000" JPEGQuality="80" MinWidth="50" MinHeight="50" ComputedWidth="205" ComputedHeight="92" />
+        <Shapes>
+            <Shape Type="Bubble" X="16" Y="19" Width="115" Height="59" TipX="191" TipY="68" BackgroundColor="#ffff00" BackgroundColorAlt="#ffff00" BackgroundType="GradientNS" Color="#000000" FontSize="11" LineColor="#4169e1" LineWidth="1" EnableShadow="True" ShadowDX="4" ShadowDY="4" ShadowColor="#696969" ShadowTransparency="0.7" Right="74" Bottom="14" Left="16" Top="19">Enter callout text here. </Shape>
+        </Shapes>
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <Variables />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

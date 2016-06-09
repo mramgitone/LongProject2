@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="9" MadCap:lastHeight="458" MadCap:lastWidth="617" MadCap:conditions="Products.Mimic">
+    <head>
+    </head>
+    <body>
+        <p>
+            <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+            <ul class="FirstLevel">
+                <li>
+                    <p><span class="SetOffFirstLevel">Ribbon</span> Select <span class="Emphasis">File&gt;Recording Options</span>.</p>
+                    <p MadCap:conditions="General.OnlineLive">
+                        <MadCap:snippetBlock src="../UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" />
+                    </p>
+                </li>
+                <li><span class="SetOffFirstLevel">Menu</span> Select <span class="Emphasis">Tools&gt;Recording Options</span>.</li>
+            </ul>
+            <MadCap:dropDown MadCap:conditions="General.OnlineLive" class="SecondLevel">
+                <MadCap:dropDownHead>
+                    <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+                </MadCap:dropDownHead>
+                <MadCap:dropDownBody class="Final">
+                    <p class="note" MadCap:conditions="General.OnlineLive" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can also open this dialog from the Options button <img src="../../Images/options_btn_mimic.png" class="ReduceButtonSize" /> at the bottom of the recording area.</p>
+                </MadCap:dropDownBody>
+            </MadCap:dropDown>
+            <p> The Recording Options dialog opens. </p>
+        </p>
+    </body>
+</html>

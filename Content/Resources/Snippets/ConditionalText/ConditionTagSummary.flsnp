@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <body>
+        <p>A condition tag is a marker that you can apply to different areas of your content so that some sections show up in some of your outputs but not in others.</p>
+    </body>
+</html>

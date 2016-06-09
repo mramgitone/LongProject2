@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.AllProducts" MadCap:lastBlockDepth="1" MadCap:lastHeight="47" MadCap:lastWidth="1171">
+    <body>You can use the Options dialog to switch between ribbons and the classic tool strip layout. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Tour_of_the_Workspace/More_About_Customizing_the_Workspace/SwitchingRibbonMenu.htm" target="" title="" alt="">Switching Between Ribbons and the Tool Strip</MadCap:xref>.&#160;</MadCap:conditionalText><MadCap:snippetText src="../ForMoreInfo/SeeOnlineHelp.flsnp" MadCap:conditions="General.Print" /></body>
+    <head>
+    </head>
+</html>

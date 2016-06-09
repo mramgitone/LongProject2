@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="4" MadCap:lastHeight="345" MadCap:lastWidth="841">
+    <body>
+        <MadCap:snippetBlock src="MostImportantTOCs1.flsnp" />
+        <MadCap:snippetBlock src="MostImportantTOCs2.flsnp" />
+        <MadCap:snippetBlock src="MostImportantTOCs3.flsnp" />
+    </body>
+</html>

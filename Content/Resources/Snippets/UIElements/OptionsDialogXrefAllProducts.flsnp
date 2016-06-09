@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastBlockDepth="2" MadCap:lastHeight="67" MadCap:lastWidth="933" MadCap:conditions="Products.Align,Products.Analyzer,Products.Capture,Products.Contributor,Products.Flare,Products.HelpViewer,Products.Lingo,Products.Mimic,Products.MovieSync,Products.MovieViewer" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="TableText">
+            <MadCap:xref href="../../../UI_Elements/Options_Dialog.htm" MadCap:conditions="Products.Flare" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Options Dialog</MadCap:xref>
+            <MadCap:xref href="../../../UI_Elements/Options_Dialog_Align.htm" MadCap:conditions="Products.Align" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Options Dialog</MadCap:xref>
+            <MadCap:xref href="../../../UI_Elements/Options_Dialog_Analyzer.htm" MadCap:conditions="Products.Analyzer" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Options Dialog</MadCap:xref>
+            <MadCap:xref href="../../../UI_Elements/Options_Dialog_Capture.htm" MadCap:conditions="Products.Capture" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Options Dialog</MadCap:xref>
+            <MadCap:xref href="../../../UI_Elements/Options_Dialog_Contributor.htm" MadCap:conditions="Products.Contributor" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Options Dialog</MadCap:xref>
+            <MadCap:xref href="../../../UI_Elements/Options_Dialog_HelpViewer.htm" MadCap:conditions="Products.HelpViewer" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Options Dialog</MadCap:xref>
+            <MadCap:xref href="../../../UI_Elements/Options_Dialog_Lingo.htm" MadCap:conditions="Products.Lingo" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Options Dialog</MadCap:xref>
+            <MadCap:xref href="../../../UI_Elements/Options_Dialog_Mimic.htm" MadCap:conditions="Products.Mimic" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Options Dialog</MadCap:xref>
+            <MadCap:xref href="../../../UI_Elements/Options_Dialog_MovieSync.htm" MadCap:conditions="Products.MovieSync" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Options Dialog</MadCap:xref>
+            <MadCap:xref href="../../../UI_Elements/Options_Dialog_MovieViewer.htm" MadCap:conditions="Products.MovieViewer">Options Dialog</MadCap:xref>
+        </p>
+    </body>
+</html>

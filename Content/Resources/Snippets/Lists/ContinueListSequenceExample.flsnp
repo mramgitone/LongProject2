@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="4" MadCap:lastHeight="480" MadCap:lastWidth="893">
+    <body>
+        <p class="ExampleHead">example</p>
+        <p class="ExampleMiddleSection">Let's say you have a document with two lists, like this:</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/continue_sequence_style1.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide,AnalyzerGuides.AnalyzerWhatsNewGuide" />
+        <p class="ExampleMiddleSection">These two lists have been styled using the stylesheet. The first list is using a style class called "ol.Red," which is using a red font. The second list is using a style class called "ol.Blue," which is using a blue font.</p>
+        <p class="ExampleMiddleSection">You can alter the numbering of the second list, so that it continues where the first list ended. To do this, click in the second list. Right-click on the <span class="Emphasis">ol</span> structure bar to the left of that list, and from the context menu, select <span class="Emphasis">Continue Sequence</span>.</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/continue_sequence_style2.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <p class="Example">
+            <img src="../../Images/continue_sequence_style3.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+    </body>
+</html>

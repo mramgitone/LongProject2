@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="381" MadCap:lastWidth="863" MadCap:conditions="Products.Analyzer">
+    <body>
+        <ol>
+            <li>
+                <p>In the window pane, select all variable occurrences that you want to rename. <MadCap:snippetText src="../UIElements/IfSelectAllSomeRows.flsnp" /></p>
+                <MadCap:dropDown>
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">All variable occurrences that you select will be renamed to the same variable that you provide in the following steps.</p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li>In the local toolbar, click the <span class="Emphasis">Rename</span> button. The Rename Variable(s) dialog opens.</li>
+            <li>In the <span class="Emphasis">New variable name</span> field, enter a new variable. Type the name of the variable set, followed by a period, then the name of the variable (e.g., MyVariableSet.MyVariableName).</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+            <li>
+                <p>A message lets you know how many files were changed. <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" /> All of the selected variable occurrences are renamed.</p>
+                <MadCap:dropDown>
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <MadCap:snippetBlock src="../Notes/NoteCanUseBackupsWindow.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+        </ol>
+    </body>
+</html>

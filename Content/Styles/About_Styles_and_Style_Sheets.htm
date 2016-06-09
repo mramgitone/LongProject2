@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en" MadCap:ignoredWords="Stylesheets;basic.css&quot;);fancy.css&quot;);automatically.)" MadCap:lastBlockDepth="8" MadCap:lastHeight="3013" MadCap:lastWidth="1109" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer" MadCap:conditionTagExpression="include[Snippets.Snippet9]exclude[Snippets.Snippet10 or Snippets.Snippet8]">
+    <head>
+        <link href="../Resources/TableStyles/ReadBookSeeMovie.css" rel="stylesheet" MadCap:stylesheetType="table" /><title></title>
+        <link rel="StyleSheet" href="../Resources/Stylesheets/styles.css" />
+        <meta name="description" content="Learn about how to use Cascading Style Sheets (CSS) in a project." />
+    </head>
+    <body>
+        <h1 MadCap:conditions="General.OnlineLive,FlareGuides.FlarePrintedOutputGuide">
+            <MadCap:concept term="FilterSingleSourcePublishing" />
+            <MadCap:keyword term="Styles;Styles:stylesheets" />
+            <MadCap:concept term="Styles;LookGood" />
+            <MadCap:concept term="FilterStyles" />
+            <MadCap:conditionalText MadCap:conditions="General.OnlineLive">About </MadCap:conditionalText>Styles and Stylesheets</h1>
+        <h1 MadCap:conditions="FlareGuides.FlareStylesGuide">
+            <MadCap:keyword term="Styles;Styles:stylesheets" />Introduction</h1>
+        <MadCap:snippetBlock src="../Resources/Snippets/Banners/Contributor/SupportedInContributionNewDocWorkflows.flsnp" MadCap:conditions="Products.Contributor" />
+        <p MadCap:conditions="FlareGuides.FlarePrintedOutputGuide">One of the most important aspects of <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" /> is the use of styles and stylesheets. Quite simply, styles are the best, most efficient way to affect the look of your output.</p>
+        <p MadCap:conditions="FlareGuides.FlareStylesGuide" class="FirstPageOfChapter">One of the most important aspects of <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" /> is the use of styles and stylesheets. Quite simply, styles are the best, most efficient way to affect the look of your output.</p>
+        <p MadCap:conditions="FlareGuides.FlarePrintedOutputGuide">For more details about using styles see the online Help or the <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" /><i> Styles PDF Guide</i>  (see <MadCap:xref href="../PDF_Guides/PDF_Guides.htm" target="" title="" alt="">PDF Guides</MadCap:xref>). </p>
+        <MadCap:snippetBlock src="../Resources/Snippets/ThisChapterDiscussesFollowing.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide" />
+        <h2 MadCap:conditions="FlareGuides.FlareStylesGuide">What are Styles?</h2>
+        <p>
+            <MadCap:keyword term="Styles;Styles:stylesheets" />Styles are elements that contain formatting settings. You can apply styles to your content to change the way it looks. <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" /> works with <MadCap:keyword term="Cascading style sheets" />cascading stylesheet (CSS) rules that are specified by the World Wide Web Consortium, or <MadCap:keyword term="W3C" />W3C (<a href="http://www.w3.org/" target="_blank" MadCap:conditions="General.OnlineLive" MadCap:excludeAction="unbind">http://www.w3.org</a>).</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p class="ExampleHead">example</p>
+                <p class="Example">The heading above is using the &lt;<MadCap:conditionalText MadCap:conditions="General.OnlineLive">h1</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="FlareGuides.FlareStylesGuide,FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareGettingStartedGuide,FlareGuides.FlarePrintedManual">h2</MadCap:conditionalText>&gt; style tag (which is short for a <MadCap:conditionalText MadCap:conditions="General.OnlineLive">first</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="FlareGuides.FlareStylesGuide,FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareGettingStartedGuide,FlareGuides.FlarePrintedManual">second</MadCap:conditionalText>-level heading). Properties have been assigned to this style to affect its look (such as Arial, <MadCap:conditionalText MadCap:conditions="General.OnlineLive,FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareGettingStartedGuide,FlareGuides.FlarePrintedManual">12 pt</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="FlareGuides.FlareStylesGuide">14 pt</MadCap:conditionalText>, bold). We can apply this style to any block type of content (e.g., headings or paragraphs). If we were to change the color to green in the style, every heading or paragraph<MadCap:conditionalText MadCap:conditions="Products.Flare"> in the project</MadCap:conditionalText> that uses that style would change to green immediately.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p>An important aspect of CSS is that it is based on community-wide standards set by the W3C. This means that CSS can be used for any XML-based tool, not just <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" />. Tools such as Microsoft Word and Adobe FrameMaker also use styles, but they are proprietary, which means they can be used only within that application.</p>
+        <p MadCap:conditions="Products.Analyzer">For more information about working with styles, see the Flare online Help.</p>
+        <p MadCap:conditions="Products.Contributor">You might use styles from those provided by <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" />, from new stylesheets that you create, or from templates or topics sent to you by <MadCap:variable name="Products.Flare" /> authors.</p>
+        <MadCap:dropDown MadCap:conditions="Products.FlareOnlineOnly">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>read the book or see the movies</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <table style="mc-table-style: url('../Resources/TableStyles/ReadBookSeeMovie.css');margin-left: 0;margin-right: auto;" class="TableStyle-ReadBookSeeMovie" cellspacing="0">
+                    <col class="TableStyle-ReadBookSeeMovie-Column-Regular" style="width: 65%;" />
+                    <col class="TableStyle-ReadBookSeeMovie-Column-Regular" style="width: 35%;" />
+                    <tbody>
+                        <tr class="TableStyle-ReadBookSeeMovie-Body-Rows">
+                            <td class="TableStyle-ReadBookSeeMovie-BodyE-Regular-Rows" style="vertical-align: bottom;padding-left: 5px;padding-right: 5px;padding-top: 20px;padding-bottom: 5px;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">
+                                <p class="BookMovie1">READ THE</p>
+                                <p class="BookMovie2">BOOK</p>
+                            </td>
+                            <td class="TableStyle-ReadBookSeeMovie-BodyD-Regular-Rows" style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;">
+                                <p class="TableText"><a href="http://docs.madcapsoftware.com/FlareV11/FlareStylesGuide.pdf" target="_blank"><img src="../Resources/Images/pdf_cover_styles_guide.png" alt="" title="This guide discusses styles and how they are used in Flare to control the look and behavior of your output." class="Hyperlinked" /></a>
+                                </p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-ReadBookSeeMovie-Body-Rows">
+                            <td class="TableStyle-ReadBookSeeMovie-BodyA-Regular-Rows" style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;" colspan="2">
+                                <p class="BookMovie3">SEE THE MOVIES</p>
+                                <p class="TableTextCenteredVideo"><a href="http://www.madcapsoftware.com/videos/flare?videoid=meetflare&amp;playersize=small" target="_blank"><img src="../Resources/Images/video_styles1.png" alt="" title="" class="HyperlinkedSpaceAbove" /></a>
+                                </p>
+                                <p class="TableTextCenteredVideo"><a href="http://www.madcapsoftware.com/videos/flare?videoid=meetflare&amp;playersize=small" target="_blank"><img src="../Resources/Images/video_styles2.png" alt="" title="" class="HyperlinkedSpaceAbove" /></a>
+                                </p>
+                                <p class="TableTextCenteredVideo"><a href="http://www.madcapsoftware.com/videos/flare?videoid=meetflare&amp;playersize=small" target="_blank"><img src="../Resources/Images/video_styles3.png" alt="" title="" class="HyperlinkedSpaceAbove" /></a>
+                                </p>
+                                <p class="TableTextCenteredVideo"><a href="http://www.madcapsoftware.com/videos/flare?videoid=meetflare&amp;playersize=small" target="_blank"><img src="../Resources/Images/video_styles4.png" alt="" title="" class="HyperlinkedSpaceAbove" /></a>
+                                </p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="FlareGuides.FlareStylesGuide" class="NoPageBreakBefore">The Basics of Styles</h2>
+        <MadCap:dropDown MadCap:conditions="FlareGuides.FlareStylesGuide,Products.FlareOnlineOnly">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">the basics of css</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>See the following for more information about the basics of styles.</p>
+                <ul style="list-style-type: square;">
+                    <li><span class="SetOffFirstLevel">The W3C and CSS Resources </span>Learn about the organization behind cascading styles and other resources for learning more. See <MadCap:xref href="Basics_of_CSS/W3C_and_CSS_Resources.htm" target="" title="" alt="">W3C and CSS Resources</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel">What can CSS Do? </span>Learn about some of the different things CSS can be used to accomplish. See <MadCap:xref href="Basics_of_CSS/What_Can_CSS_Do.htm" target="" title="" alt="">What Can CSS Do?</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel">CSS Styles and Page Structure </span>Learn about the different parts of an XML-based document and how they relate to corresponding style elements. See <MadCap:xref href="Basics_of_CSS/CSS_Styles_and_Page_Structure.htm" target="" title="" alt="">CSS Styles and Page Structure</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel">Ways to Use CSS </span>Learn about the three basic ways that you can use CSS—inline, embedded, external. See <MadCap:xref href="Basics_of_CSS/Ways_to_Use_CSS.htm" target="" title="" alt="">Ways to Use CSS</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel">Cascading </span> Learn what is meant by the term "cascading" in CSS. See <MadCap:xref href="Basics_of_CSS/What_is_Meant_by_Cascading.htm" target="" title="" alt="">What is Meant by "Cascading"?</MadCap:xref></li>
+                    <li><span class="SetOffFirstLevel">Style Tags, Classes, Properties, and Values </span>Learn about the fundamental parts of styles. See <MadCap:xref href="Basics_of_CSS/Style_Tags_Classes_Properties_and_Values.htm" target="" title="" alt="">Style Tags, Classes, Properties, and Values</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel">Inheritance </span>Learn about the concept of inheritance in CSS. See <MadCap:xref href="Basics_of_CSS/Inheritance.htm" target="" title="" alt="">Inheritance</MadCap:xref>.</li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="FlareGuides.FlareStylesGuide" class="NoPageBreakBefore">Regular Stylesheets and Table Stylesheets</h2>
+        <MadCap:dropDown MadCap:conditions="Products.FlareOnlineOnly,FlareGuides.FlareStylesGuide">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">regular stylesheets and table stylesheets</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>There are two basic kinds of stylesheets in <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" />—regular stylesheets and special <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" /> table stylesheets. Each kind of stylesheet uses a different editor in <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" />. See <MadCap:xref href="About_Regular_Stylesheets.htm" target="" title="" alt="">About Regular Stylesheets</MadCap:xref> and <MadCap:xref href="About_Table_Stylesheets.htm">About Table Stylesheets</MadCap:xref>.</p>
+                <p>For the differences between regular stylesheets, table stylesheets, and local properties—and when you should use one over the other—see <MadCap:xref href="Using_Styles_and_Stylesheets/Regular_Stylesheets_Table_Stylesheets_or_Properties.htm">Regular Stylesheets, Table Stylesheets, or Properties?</MadCap:xref></p>
+                <MadCap:snippetBlock src="../Resources/Snippets/Notes/NoteFlareStylesheet.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide,FlareGuides.FlarePrintedOutputGuide" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="FlareGuides.FlareStylesGuide" class="NoPageBreakBefore">
+            <MadCap:keyword term="Mediums;Styles:mediums" />Mediums</h2>
+        <MadCap:dropDown MadCap:conditions="Products.FlareOnlineOnly,FlareGuides.FlareStylesGuide">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">
+                    <MadCap:keyword term="Mediums;Styles:mediums" />mediums</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>A medium is an alternative set of styles in a stylesheet that you use for different outputs. They are intended to be an exception to the default style. Mediums can be used in both regular stylesheets and table stylesheets. See <MadCap:xref href="Mediums/About_Stylesheet_Mediums.htm">About Stylesheet Mediums</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="FlareGuides.FlareStylesGuide" class="NoPageBreakBefore">
+            <MadCap:keyword term="Styles:skins;Skins:styles" />Skin Styles</h2>
+        <MadCap:dropDown MadCap:conditions="Products.FlareOnlineOnly,FlareGuides.FlareStylesGuide">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">
+                    <MadCap:keyword term="Styles:skins;Skins:styles" />skin styles</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>In addition to regular and table stylesheets, you can use skin styles. These let you control the look of the online output window (e.g., navigation pane, TOC or browse sequence entries, index keywords). See <MadCap:xref href="Using_Styles_and_Stylesheets/Skin_Styles.htm">Skin Styles</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="Products.FlareOnlineOnly">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="../Resources/Snippets/Notes/NoteFlareStylesheet.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:conceptLink term="Styles" />
+        </p>
+        <MadCap:snippetBlock src="../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+    </body>
+</html>

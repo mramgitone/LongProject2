@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="47" MadCap:lastWidth="821" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Lingo,Products.Contributor">
+    <body>
+        <p>You can apply a page or column break to a paragraph or heading. For example, you might do this if you want the paragraph or heading to start at the beginning of the next page or column. <MadCap:conditionalText MadCap:conditions="Products.Flare">This feature is used for print-based output.</MadCap:conditionalText></p>
+    </body>
+</html>

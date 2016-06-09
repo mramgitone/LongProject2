@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.AllProductsPlusDocBible" MadCap:lastBlockDepth="2" MadCap:lastHeight="216" MadCap:lastWidth="720">
+    <body>
+        <p MadCap:conditions="Products.Flare,Products.Contributor" style="text-align: right;">
+            <img src="../../Images/FooterCircle.eps" style="max-width: 30px;" />&#160;<img src="../../Images/FooterCircle.eps" style="max-width: 30px;" />&#160;<img src="../../Images/FooterLogoFlare.eps" style="max-width: 30px;" MadCap:conditions="Products.Flare" /><img src="../../Images/FooterLogoContributor.eps" style="max-width: 30px;" MadCap:conditions="Products.Contributor"></img></p>
+        <p class="FrameFooterText" MadCap:conditions="Products.Analyzer" style="text-align: right;">
+            <img src="../../Images/FooterCircleOrange.eps" style="max-width: 30px;" />&#160;<img src="../../Images/FooterCircleOrange.eps" style="max-width: 30px;" />&#160;<img src="../../Images/FooterLogoAnalyzer.eps" style="max-width: 30px;" MadCap:conditions="Products.Analyzer" /><img src="../../Images/FooterLogoLingo.eps" style="max-width: 30px;" MadCap:conditions="Products.Lingo" /></p>
+        <p class="FrameFooterText" MadCap:conditions="Products.Mimic,Products.Capture" style="text-align: right;">
+            <img src="../../Images/FooterCircleLightBlue.eps" style="max-width: 30px;" />&#160;<img src="../../Images/FooterCircleLightBlue.eps" style="max-width: 30px;" />&#160;<img src="../../Images/FooterLogoCapture.eps" style="max-width: 30px;" MadCap:conditions="Products.Capture" /><img src="../../Images/FooterLogoMimic.eps" style="max-width: 30px;" MadCap:conditions="Products.Mimic" /></p>
+        <p class="FrameFooterText" MadCap:conditions="Products.Pulse" style="text-align: right;">
+            <img src="../../Images/FooterCircleBlue.eps" style="max-width: 30px;" />&#160;<img src="../../Images/FooterCircleBlue.eps" style="max-width: 30px;" />&#160;<img src="../../Images/FooterLogoPulse.eps" style="max-width: 30px;" MadCap:conditions="Products.Pulse" /></p>
+    </body>
+</html>

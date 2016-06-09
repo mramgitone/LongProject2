@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>If you are a more experienced user, you may decide to use the Advanced section to write expressions manually, rather than clicking check boxes. You can type the names of the condition tags as well as any of the following tokens: OR, AND, NOT, (). This allows you to produce more complex, robust expressions to control your output (i.e., "and" statements, as well as "or" statements).</p>
+    </body>
+</html>

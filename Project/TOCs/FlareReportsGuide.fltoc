@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/PrintOnlyTopics/ComingSoonTitlePage.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/PrintOnlyTopics/TitlePage.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TitleFlare.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/PrintOnlyTopics/Copyright.htm"
+    StartSection="false"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageNumber="1"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/PrintOnlyTopics/PrintTOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="1"></TocEntry>
+  <TocEntry
+    Title="CH 1 About Reports"
+    Link="/Content/Reports/About_Reports.htm"
+    StartChapter="true"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="1"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue" />
+  <TocEntry
+    Title="CH 2 Adding Report Files"
+    Link="/Content/Reports/Adding_Report_Files.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="CH 3 Generating Reports"
+    Link="/Content/Reports/Generating_Reports.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 4 Saving Reports"
+    Link="/Content/Reports/Saving_Reports.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 5 Opening Reports"
+    Link="/Content/Reports/Opening_Reports.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 6 Saving Error Reports"
+    Link="/Content/Output/More_About_Building_Final_Output/Saving_Error_Reports.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="CH 7 Opening Error Reports"
+    Link="/Content/Output/More_About_Building_Final_Output/Opening_Error_Reports.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false" />
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/PDF_Guides/PDF_Guides.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

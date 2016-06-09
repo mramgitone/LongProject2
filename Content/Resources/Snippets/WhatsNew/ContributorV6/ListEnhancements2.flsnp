@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:conditions="Products.Contributor" MadCap:lastBlockDepth="12" MadCap:lastHeight="5667" MadCap:lastWidth="789" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <MadCap:snippetBlock src="ListEnhancements.flsnp" />
+        <h3 MadCap:conditions="General.Print">Custom Formats</h3>
+        <MadCap:dropDown class="ThirdLevel">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">custom formats</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../../Lists/CustomListFormatsSummary.flsnp" />
+                    <MadCap:conditionalText MadCap:conditions="General.OnlineLive"> See <MadCap:xref href="../../../../Lists/Creating_Custom_List_Formats.htm">Creating Custom List Formats</MadCap:xref> and <MadCap:xref href="../../../../Lists/Editing_Custom_List_Formats.htm">Editing Custom List Formats</MadCap:xref>.</MadCap:conditionalText>
+                </p>
+                <MadCap:snippetBlock src="../../Lists/MarkerPseudoElementNotSupportedInBrowsers.flsnp" MadCap:conditions="Products.Flare" />
+                <MadCap:dropDown class="FourthLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>creating custom list formats</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <p>To create a custom list format, use the <span class="Emphasis">Home</span> ribbon or the <span class="Emphasis">Format</span> menu (if using the tool strip view):</p>
+                        <ul>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Home Ribbon </span>In the <span class="Emphasis">Paragraph</span> section, click the down arrow on the list button <img src="../../../Images/lists_btn_bullet_list.png" class="ReduceButtonSize" alt="" />. Then select <span class="Emphasis">Custom Format&gt;Create Custom Format</span>.</p>
+                                <p MadCap:conditions="Products.Flare">
+                                    <img src="../../../Images/custom_list_format1.png" class="MaxWidth100Percent" />
+                                </p>
+                            </li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Format Menu </span>Select <span class="Emphasis">List&gt;Custom Format&gt;Create Custom Format</span>.</p>
+                                <p MadCap:conditions="Products.Flare">
+                                    <img src="../../../Images/custom_list_format2.png" class="MaxWidth100Percent" />
+                                </p>
+                            </li>
+                        </ul>
+                        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+                        <p>The Create New List Format dialog opens. Use this dialog to specify the type of counter (e.g., decimals, upper-roman, lower-alpha), custom characters and images, and the look for each level of the list format. (You can use only one counter per level in the format.)</p>
+                        <p>
+                            <img src="../../../Images/custom_list_format3.png" class="MaxWidth100Percent" />
+                        </p>
+                        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Custom list characters are supported only in PDF output. If you enter any text or add symbols in the Content field, the default list markers (e.g., circles, squares, numbers) are instead displayed in non-PDF outputs. However, custom bullet images are supported in all output formats.</p>
+                        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide,AnalyzerGuides.AnalyzerWhatsNewGuide" />
+                        <p>This dialog creates a complex selector and adds it to the selected stylesheet. You can see your custom list formats under (Complex Selectors), as well as under (Custom Lists).</p>
+                        <p>
+                            <img src="../../../Images/custom_list_format15.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide,AnalyzerGuides.AnalyzerWhatsNewGuide" />
+                        <p>A custom list format might look something like this when looking at the stylesheet in the Internal Text Editor:</p>
+                        <p>
+                            <img src="../../../Images/custom_list_format16.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide,AnalyzerGuides.AnalyzerWhatsNewGuide" />
+                        <p>After you create the custom list format, you can open a<MadCap:conditionalText MadCap:conditions="Products.Flare"> topic or snippet</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor"> document</MadCap:conditionalText> in the XML Editor and select that format when creating a new list.</p>
+                        <p MadCap:conditions="Products.Flare">
+                            <img src="../../../Images/custom_list_format17.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                        <p MadCap:conditions="Products.Contributor">
+                            <img src="../../../Images/custom_list_format17_contributor.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide" />
+                        <p>You can also change an existing list to another custom format by right-clicking the <span class="Emphasis">ol</span> (ordered list) or <span class="Emphasis">ul</span> (unordered) structure bar and choosing the format from the context menu.</p>
+                        <p>
+                            <img src="../../../Images/custom_list_format18.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide,AnalyzerGuides.AnalyzerWhatsNewGuide" />
+                        <MadCap:snippetBlock src="../../Lists/CustomListFormatExample.flsnp" MadCap:conditions="Products.Flare" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+                <MadCap:dropDown class="FourthLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>editing custom list formats</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <p>You can edit a custom list in a couple of ways:</p>
+                        <ul>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Edit List Format Dialog </span>
+                                    <MadCap:snippetText src="../../Lists/EditingFormatsFromDialog.flsnp" />
+                                </p>
+                                <p MadCap:conditions="Products.Flare">
+                                    <img src="../../../Images/custom_list_format13.png" alt="" title="" class="MaxWidth100Percent" />
+                                </p>
+                                <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+                                <p>To open this dialog, in the topic or snippet where you have added a list using the custom format, make sure the structure bars are turned on. Right-click the outermost (i.e., first level) structure bar (<span class="Emphasis">ol</span> or <span class="Emphasis">ul</span>) for the list. From the context menu, select <span class="Emphasis">Type&gt;Custom Format&gt;Edit Custom Format</span>.</p>
+                                <p>
+                                    <img src="../../../Images/custom_list_format14.png" alt="" title="" class="MaxWidth100Percent" />
+                                </p>
+                            </li>
+                            <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,Products.Contributor,AnalyzerGuides.AnalyzerWhatsNewGuide" />
+                            <li>
+                                <p><span class="SetOffFirstLevel">Styleshseet Editor </span>
+                                    <MadCap:snippetText src="../../Lists/EditingFormatsFromStylesheet.flsnp" />
+                                </p>
+                                <MadCap:snippetBlock src="../../Lists/EditingFormatsFromStylesheet2.flsnp" />
+                                <p>
+                                    <img src="../../../Images/custom_list_format19.png" alt="" title="" class="MaxWidth100Percent" />
+                                </p>
+                                <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide,AnalyzerGuides.AnalyzerWhatsNewGuide" />
+                                <MadCap:snippetBlock src="../../Lists/EditingFormatsFromStylesheet3.flsnp" />
+                                <p>
+                                    <img src="../../../Images/custom_list_format20.png" alt="" title="" class="MaxWidth100Percent" />
+                                </p>
+                                <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide,AnalyzerGuides.AnalyzerWhatsNewGuide" />
+                                <MadCap:snippetBlock src="../../Lists/EditingFormatsFromStylesheet4.flsnp" />
+                                <p>
+                                    <img src="../../../Images/custom_list_format21.png" alt="" title="" class="MaxWidth100Percent" />
+                                </p>
+                                <MadCap:snippetBlock src="../../Lists/EditingFormatsFromStylesheet5.flsnp" />
+                                <p>
+                                    <img src="../../../Images/custom_list_format22.png" alt="" title="" class="MaxWidth100Percent" />
+                                </p>
+                                <p>
+                                    <img src="../../../Images/custom_list_format23.png" alt="" title="" class="MaxWidth100Percent" />
+                                </p>
+                                <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide,AnalyzerGuides.AnalyzerWhatsNewGuide" />
+                                <MadCap:snippetBlock src="../../Notes/NoteMarkerPseudoElement.flsnp" />
+                                <MadCap:snippetBlock src="../../Notes/NoteRightClickEditCustomFormat.flsnp" />
+                            </li>
+                        </ul>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide" />
+                <MadCap:dropDown class="FourthLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>how to reset the style class</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <MadCap:snippetBlock src="../../Lists/ResetCustomListFormatStyle.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide,AnalyzerGuides.AnalyzerWhatsNewGuide" />
+        <h3 MadCap:conditions="General.Print">Keep Styles With Continue Sequence</h3>
+        <MadCap:dropDown class="ThirdLevel">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">keep styles with continue sequence</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p>If you apply the Continue Sequence option to a list, not only will that list continue the numbering of the previous list, but it will also grab the style attributes from the other list.<MadCap:conditionalText MadCap:conditions="General.OnlineLive"> See <MadCap:xref href="../../../../Lists/More_About_Lists/Continuing_the_Sequence_of_Lists.htm">Continuing the Sequence of Lists</MadCap:xref>.</MadCap:conditionalText></p>
+                <MadCap:snippetBlock src="../../Lists/ContinueListSequenceExample.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

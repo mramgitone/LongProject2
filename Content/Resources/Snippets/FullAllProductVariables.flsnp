@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="93" MadCap:lastWidth="1215" MadCap:conditions="Products.AllProducts">
+    <body>
+        <p><MadCap:variable name="Products.AlignFull" MadCap:conditions="Products.Align" /><MadCap:variable name="Products.AnalyzerFull" MadCap:conditions="Products.Analyzer" /><MadCap:variable name="Products.CaptureFull" MadCap:conditions="Products.Capture" /><MadCap:variable name="Products.Feedback ExplorerFull" MadCap:conditions="Products.FeedbackExplorer" /><MadCap:variable name="Products.FeedbackServerAdminFull" MadCap:conditions="Products.FeedbackServerAdmin" /><MadCap:variable name="Products.FlareFull" MadCap:conditions="Products.Flare" /><MadCap:variable name="Products.Help ViewerFull" MadCap:conditions="Products.HelpViewer" /><MadCap:variable name="Products.LingoFull" MadCap:conditions="Products.Lingo" /><MadCap:variable name="Products.MimicFull" MadCap:conditions="Products.Mimic" /><MadCap:variable name="Products.MovieSyncFull" MadCap:conditions="Products.MovieSync" /><MadCap:variable name="Products.Movie ViewerFull" MadCap:conditions="Products.MovieViewer" /><MadCap:variable name="Products.ContributorFull" MadCap:conditions="Products.Contributor" /><MadCap:variable name="Products.PulseFull" MadCap:conditions="Products.Pulse" />
+        </p>
+    </body>
+</html>

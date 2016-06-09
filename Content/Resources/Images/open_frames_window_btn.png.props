@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties conditions="Products.Mimic,Products.MovieSync" fileTags="">
+    <ImageOverlay Profile="C:\Users\rmartinez\Documents\My Profiles\SharedImagesBorder.capro" ProfileHash="54db5c24cb8b652271c02c6580da0b7a" ScreenRectangle="581,48,22,20">
+        <OriginalImage Folder="C:\Shared\Content\Resources\Images" FileName="" ImageScaleFactor="1.0" medium_print_EnableFormat="True" EdgeEffect="torn" Border="solid" BorderWidth="1" BackgroundColor="#ffffff" BorderColor="#000000" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" Right="0" Bottom="0" ExportFormat="png" JPEGQuality="80" EnableCropRectangle="true" CropRectangle="1,0,21,18" ComputedWidth="23" ComputedHeight="20">SUkqAGgCAACADNMv9/sgxPwAQmFQuGQ2HQ+IRGJROFQKCQaERSNRuOR2GRaCweIMmSAB7yePSmHkCWR2QMcwvuGMeaAAHzcAAydAB+v2EPx+P0AUCZPt9z+gAB/UsAQSFgMAAEAgSo1MAAQCAYAPl8veeP15gAc2OIS+Ywxe2mr1im06lv6lUye0K53G4XW62+v3Se3a/XowYGywN/zCZQtgYkADYdjyGP+FAGN5DIU2E5WlZaCZSnU4ANFksgASwgYOCMYwPqGL/WAAcD0fSqFZzJZC4Z7MP7PQq4XBoMZjgAg8PTP/UaqFrzlAAdkAgynKVHL9HbbPKwTe9fLM5iMQAETwcXjwxc+UAD4hkSPdfJW3qe74XDL7ynMxgsEAEf9cVil98oYW0AgAIQjiQigHgUBLZI4V8GgAJUIP4/yGFjCr8iYJqIQRBRtQ6vahqSo6EH1EgAH3EsSNVFKtq4AEVitGEWP+h6QP7GaFFbHIACWKAow1BIAGzIUTH4mUiqEo8VH0op9P+riZRI/8VxWLMqxk4piC8fCGFTLoACgKorMehQISAaxrmsoajxNNajNUfMSn3Fs4KLE8WNVE7VC4LouAAfE/uKYYuq8hZQ0MAAsi8L8xoTMsFGpSE2IRN02ShOcURLOE8Uw1TAjAkyURowlBUIhxGVOiA+1Uz5omjSU2TfJsTTgrdORdOKjVgAAxDEMdQVKhqQGELh7NkBVjgAZ1lRNJcXTtKdM1pKNK11IqEDIMoygAe1uOLYdiwWhNjgVcKNW5cCJJAYItnrct3XfYLCGALR6Xhe13pBed63vfjZICABAA/gAEAAEAAAAAAAAAAAEEAAEAAAAWAAAAAQEEAAEAAAAUAAAAAgEDAAQAAAAuAwAAAwEDAAEAAAAFAAAABgEDAAEAAAACAAAAEQEEAAEAAAAIAAAAFQEDAAEAAAAEAAAAFgEEAAEAAAAUAAAAFwEEAAEAAABfAgAAGgEFAAEAAAA2AwAAGwEFAAEAAAA+AwAAHAEDAAEAAAABAAAAKAEDAAEAAAACAAAAPQEDAAEAAAACAAAAUgEDAAEAAAACAAAAAAAAAAgACAAIAAgAAHcBAOgDAAAAdwEA6AMAAA==</OriginalImage>
+        <Shapes />
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <Variables />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

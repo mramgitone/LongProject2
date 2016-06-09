@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="291" MadCap:lastWidth="1071" MadCap:conditions="Products.Flare,Products.Contributor,Products.Lingo">
+    <head>
+    </head>
+    <body>
+        <p class="TableText">Opens a submenu that lets you insert special characters or symbols into the eitor. See <MadCap:xref href="../../../Characters_and_Symbols/Inserting_Special_Characters_and_Symbols.htm">Inserting Special Characters and Symbols</MadCap:xref>.</p>
+        <MadCap:snippetBlock src="CharacterOptionsList.flsnp" />
+    </body>
+</html>

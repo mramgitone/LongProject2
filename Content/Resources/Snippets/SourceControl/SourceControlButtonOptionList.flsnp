@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="6" MadCap:lastHeight="1869" MadCap:lastWidth="1079">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <ul>
+            <li MadCap:conditions="Snippets.Snippet1"><span class="SetOffFirstLevel">Project </span>Opens a submenu, which lets you select a source control action to be applied to the entire project (as opposed to just the selected folder or files): <ul class="SecondLevel"><li MadCap:conditions="Snippets.Snippet1"><p><span class="SetOffSecondLevel">Check In All </span>Opens the Check In dialog, which lets you check in all files in the project into source control.</p><p><MadCap:snippetText src="SourceControlCheckInSummary.flsnp" /></p><p MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../Source_Control/Checking_In_Source_Control_Files.htm">Checking In Source Control Files</MadCap:xref>.</p></li><li MadCap:conditions="Snippets.Snippet1"><p><span class="SetOffSecondLevel">Check Out All </span>Opens the Check Out dialog, which lets you check out all files in the project from source control.</p><p><MadCap:snippetText src="SourceControlCheckOutSummary.flsnp" /></p><p MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../Source_Control/Checking_Out_Source_Control_Files.htm">Checking Out Source Control Files</MadCap:xref>.</p></li><li MadCap:conditions="Snippets.Snippet1"><p><span class="SetOffSecondLevel">Get Latest Version All </span>Opens the Get Latest Version dialog, which lets you "get" all files in the project from source control.</p><p><MadCap:snippetText src="SourceControlGetLatestVersionSummary.flsnp" /></p><p MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../Source_Control/Getting_the_Latest_Version_of_Source_Control_Files.htm">Getting the Latest Version of Source Control Files</MadCap:xref>.</p></li><li MadCap:conditions="Snippets.Snippet1"><p><span class="SetOffSecondLevel">Undo Check Out All </span>Opens the Undo Check Out dialog, which lets you reverse the check-out of all files in the project.</p><p><MadCap:snippetText src="SourceControlUndoCheckOutSummary.flsnp" /></p><p MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../Source_Control/More_About_Source_Control/Undoing_a_Check_Out_of_Source_Control_Files.htm">Undoing a Check-Out of Source Control Files</MadCap:xref>.</p></li></ul></li>
+            <li MadCap:conditions="Snippets.Snippet1">
+                <p><span class="SetOffFirstLevel">Add </span>Opens the Add File(s) dialog, which lets you add the selected files to the integrated source control application. </p>
+                <p>
+                    <MadCap:snippetText src="SourceControlAddFilesSummary.flsnp" />
+                </p>
+                <p MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../Source_Control/Adding_Files_to_Source_Control.htm">Adding Files to Source Control</MadCap:xref>.</p>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">Check In </span>Opens the Check In dialog, which lets you check files into source control. </p>
+                <p>
+                    <MadCap:snippetText src="SourceControlCheckInSummary.flsnp" />
+                </p>
+                <p MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../Source_Control/Checking_In_Source_Control_Files.htm">Checking In Source Control Files</MadCap:xref>.</p>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">Check Out </span>Opens the Check Out dialog, which lets you check out files from source control. </p>
+                <p>
+                    <MadCap:snippetText src="SourceControlCheckOutSummary.flsnp" />
+                </p>
+                <p MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../Source_Control/Checking_Out_Source_Control_Files.htm">Checking Out Source Control Files</MadCap:xref>.</p>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">Get Latest Version </span>Opens the Get Latest Version dialog, which lets you "get" files from source control. </p>
+                <p>
+                    <MadCap:snippetText src="SourceControlGetLatestVersionSummary.flsnp" />
+                </p>
+                <p MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../Source_Control/Getting_the_Latest_Version_of_Source_Control_Files.htm">Getting the Latest Version of Source Control Files</MadCap:xref>.</p>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">Undo Check Out </span>Opens the Undo Check Out dialog, which lets you reverse the check-out of the files. </p>
+                <p>
+                    <MadCap:snippetText src="SourceControlUndoCheckOutSummary.flsnp" />
+                </p>
+                <p MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../Source_Control/More_About_Source_Control/Undoing_a_Check_Out_of_Source_Control_Files.htm">Undoing a Check-Out of Source Control Files</MadCap:xref>.</p>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">Show Differences </span>Opens a window pane that lets you view the content and code differences for files. If you select a single file and choose this option, the differences between the local version of the file and the source control version of the file are shown. If you select two files and choose this option, the differences between those two files are shown.</p>
+                <p MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../Source_Control/More_About_Source_Control/Viewing_Differences_in_Source_Control_Files.htm">Viewing Differences in Source Control Files</MadCap:xref>.</p>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">View History </span>Opens the History dialog, which lets you view the history of a particular source control file, including all of the occasions when the file has been checked in. You can then use the dialog to view the differences between older versions of the file or roll back to a particular version.</p>
+                <p MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../Source_Control/More_About_Source_Control/Viewing_the_History_of_Source_Control_Files.htm">Viewing the History of Source Control Files</MadCap:xref> and <MadCap:xref href="../../../Source_Control/More_About_Source_Control/Rolling_Back_to_an_Earlier_Version_of_a_File.htm">Rolling Back to an Earlier Version of a File</MadCap:xref>.</p>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">Request Check In </span>Opens the Send Request Check-In Message Dialog, which lets you ask another user to check in the selected files so that you can edit them.</p>
+                <p>
+                    <MadCap:snippetText src="SourceControlRequestCheckInSummary.flsnp" />
+                </p>
+                <p MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../Source_Control/Requesting_a_User_to_Check_In_Source_Control_Files.htm">Requesting a User to Check In Source Control Files</MadCap:xref>.</p>
+            </li>
+            <li MadCap:conditions="Snippets.Snippet1">
+                <p><span class="SetOffFirstLevel">Request View File </span>Opens the View File Request dialog, which lets you ask another user to view the selected file.</p>
+                <p>If you have finished working on a file and want another user to review it, you can use the "Request View File" option. You can send an instant message or email to the other user with a message. That individual can then quickly open the specified file and send you comments about it.</p>
+                <p MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../Source_Control/Requesting_a_User_to_View_Files.htm">Requesting a User to View Files</MadCap:xref>.</p>
+            </li>
+            <li><span class="SetOffFirstLevel">Undelete </span>Undeletes a file, allowing you to add it to source control. See <MadCap:xref alt="" href="../../../Source_Control/More_About_Source_Control/Undeleting_Source_Control_Files.htm" target="" title="">Undeleting Source Control Files</MadCap:xref>.</li>
+            <li><span class="SetOffFirstLevel">Refresh </span>
+                <MadCap:snippetText src="../UIElements/RefreshOption.flsnp" />
+            </li>
+            <li value="7"><span class="SetOffFirstLevel">Pending Check-Ins </span>
+                <MadCap:snippetText src="../UIElements/PendingCheckInsOption.flsnp" />
+            </li>
+        </ul>
+    </body>
+</html>

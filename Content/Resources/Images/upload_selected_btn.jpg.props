@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties conditions="Products.Lingo,Products.Align" fileTags="">
+    <ImageOverlay Profile="C:\Users\pstoecklein\Documents\My Profiles\SharedImagesBorder.capro" ProfileHash="6be06f5c00f6369f8c19ef555412aec2" ScreenRectangle="2963,-292,20,20">
+        <OriginalImage FileName="" Folder="C:\Shared\Content\Resources\Images" BackgroundColor="#ffffff" Border="solid" BorderWidth="1" BorderColor="#000000" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" Right="0" Bottom="0" ExportFormat="jpg" JPEGQuality="80" ComputedWidth="22" ComputedHeight="22" Format="tiff">SUkqAJgCAACAPuBP8AQWDQeEQmFQuGQ2HQ2BPuCQ+KRWLReERGJwVSLVagB+vx+yB/PyQP1/SeTP2USeRv6YQxtBQoQhLEsHxiDvqeRsAKVbR8iD4fgCUz6jP+NwSlQWmQhCL+RjgdBiEMhjOgAJknhOMTx9T6gLYAEUf0Wn2mJ0qmU2CAEAH9cvUADkeh4ANlsvSECQSAoAMpjOQAJ0qhmKWCfKZbrcAEYgUV/W6mwfJ22CHhZO8ADsgCIAOdzvcAOx2PMAPd7vgAAoFAQABsNzlrNF0gBRFsPwx872fKhdLnH0QAKdXK6KMR8jWKBELgujZMAPF1vaKKcwiWEb18z5UrtdgAjj4fAC1U5/ymU+i207zAA2KNwAAFh0KySCPhyuwAKw0BYjDuJ8VZeF48TiFGVhVp0hRcnUEyQBQEiSIKAxtG4ABZDgGiMHxDyfFaXxfAAJDyPegjpPMyiCsug0UKaLJGGQABuh8IyQImExhl0ABdj6IMOw+g5XGAYAACSHryk+VRUwYhJVmurxuiIJscIKExelmABfkFG6Lw8fCfFiYJhPEHoexPFT2zVNMWrYAAmkBAyHmGQ4low1R7p8WZiGLI4eh4AAzlsA8nIQRwhnlNJYluXAAC+J4n0Me1KJ8WxjmPEgeB2AAzFrQo3hwhJIxmAFQ1HUpICI1D1gAW5el6AAriOI9J0qg5cGSZLxB1TgylqAtDIOSIjL4ypdmGYYACiIAgUMetoJ8XRlmXEgc04tKDRbFSjRct1usrN5eGMYwACYHdOSdaB6p8XpnGcx4cVFcNvzXN9sxYyiCF2Ys/XPdMGHpgSfF+aBoRc6KjrXfTzOkp73zZe73iWHQdUMeeMKRYWN44guMHnjWO5FBiAgABAA/gAEAAEAAAAAAAAAAAEEAAEAAAAUAAAAAQEEAAEAAAAUAAAAAgEDAAQAAABeAwAAAwEDAAEAAAAFAAAABgEDAAEAAAACAAAAEQEEAAEAAAAIAAAAFQEDAAEAAAAEAAAAFgEEAAEAAAAUAAAAFwEEAAEAAACPAgAAGgEFAAEAAABmAwAAGwEFAAEAAABuAwAAHAEDAAEAAAABAAAAKAEDAAEAAAACAAAAPQEDAAEAAAACAAAAUgEDAAEAAAACAAAAAAAAAAgACAAIAAgAAHcBAOgDAAAAdwEA6AMAAA==</OriginalImage>
+        <Shapes />
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <Variables />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

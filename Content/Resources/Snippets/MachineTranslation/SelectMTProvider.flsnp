@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo">
+    <body>
+        <p>From the <span class="Emphasis">Select Machine Translation Provider</span> drop-down, select a machine translation service. In the<span class="Emphasis"> Settings</span> area, then enter your authentication credentials. Each provider requires different<MadCap:annotation MadCap:comment="What if the user doesn't know how to obtain the credentials?" MadCap:createDate="2014-09-10T15:48:58.2809572-07:00" MadCap:creator="pstoecklein" MadCap:editDate="2014-09-10T15:49:16.2879872-07:00" MadCap:editor="pstoecklein" MadCap:initials="PS"> credentials.</MadCap:annotation></p>
+    </body>
+    <head>
+    </head>
+</html>

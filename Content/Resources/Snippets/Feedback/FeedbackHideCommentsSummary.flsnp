@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:conditions="Products.Analyzer,Products.Flare,Products.FeedbackExplorer" MadCap:lastBlockDepth="2" MadCap:lastHeight="71" MadCap:lastWidth="1118" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>If you do not want a comment to be visible to all users in the community, but you also do not want to delete it from the system, you can change its status to Hidden. That way, you can continue to access the comment in Feedback Explorer, but end users will not see it in the online output. You can assign a different status to it (Accepted, Pending Review) or discard it any time you want. <MadCap:conditionalText MadCap:conditions="Products.Flare">(Use Feedback Explorer if you want to return a comment to the Pending Review status).</MadCap:conditionalText></p>
+    </body>
+</html>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Mimic" MadCap:lastBlockDepth="2" MadCap:lastHeight="69" MadCap:lastWidth="596">
+    <body>
+        <p><span class="SetOffFirstLevel"><MadCap:keyword term="MCMV file" />MCMV </span>
+            <MadCap:expanding>
+                <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                <MadCap:expandingBody> This is an optional output file that lets you view the movie(s) in the MadCap Movie Viewer, rather than in a browser window.</MadCap:expandingBody>
+            </MadCap:expanding>
+        </p>
+    </body>
+</html>

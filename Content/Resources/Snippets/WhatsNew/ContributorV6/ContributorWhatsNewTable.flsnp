@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor" MadCap:lastBlockDepth="8" MadCap:lastHeight="2777" MadCap:lastWidth="849">
+    <head>
+        <link href="../../../TableStyles/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table class="TableStyle-BasicAlternateRows" style="margin-left: 0;margin-right: auto;mc-table-style: url('../../../TableStyles/BasicAlternateRows.css');" cellspacing="0">
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" MadCap:conditions="" />
+            <thead>
+                <tr class="TableStyle-BasicAlternateRows-Head-Header1">
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">Feature</p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">What's New?</p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadD-Regular-Header1">
+                        <p class="TableTextHead">For More Information</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="Reviews;Files:sending for review;Reviews:files" />Snippets in Review Packages</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <ul>
+                            <li>Snippet files can seen in the review package and opened (supported in Review workflows)</li>
+                            <li>Snippets can be opened from a topic (supported in all workflows)</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p MadCap:conditions="General.Print">See <MadCap:xref href="../../../../PrintOnlyTopics/WhatsNewContributorV6/Snippets_Reviews.htm">Snippets in Review Packages</MadCap:xref>.</p>
+                        <p MadCap:conditions="General.OnlineLive">See the following:</p>
+                        <ul MadCap:conditions="General.OnlineLive">
+                            <li>
+                                <MadCap:xref href="../../../../Reviews_and_Contributions/Review_Workflow.htm">Review Workflow</MadCap:xref>
+                            </li>
+                            <li>
+                                <MadCap:xref href="../../../../Snippets/About_Snippets_Contributor.htm">About Snippets</MadCap:xref>
+                            </li>
+                            <li>
+                                <MadCap:xref href="../../../../Snippets/More_About_Snippets/Opening_Snippets_Contributor.htm">Opening Snippets</MadCap:xref>
+                            </li>
+                            <li>
+                                <MadCap:xref href="../../../../Snippets/More_About_Snippets/Editing_Snippets.htm">Editing Snippets</MadCap:xref>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="Conditions" />Condition Tags</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <ul>
+                            <li>Associate while editing</li>
+                            <li>Support for fixing undefined condition tags in the Basic view of the user interface</li>
+                            <li>Designed for use in Review and Contribution workflows</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p MadCap:conditions="General.Print">See <MadCap:xref href="../../../../PrintOnlyTopics/WhatsNewContributorV6/Conditions.htm">Conditions</MadCap:xref>.</p>
+                        <p MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../../Condition_Tags/About_Condition_Tags_Contributor.htm">About Condition Tags</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="Slideshows" />Slideshows</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <ul>
+                            <li>Navigate through content in a slideshow</li>
+                            <li>Can include most kinds of content, including snippets, text, tables, and more</li>
+                            <li>Thumbnails or bullets for navigation</li>
+                            <li>Captions for each slide</li>
+                            <li>Auto play settings</li>
+                            <li>Supported in Review (Full Registered), Contribution, and New Document workflows</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText" MadCap:conditions="General.Print">See <MadCap:xref href="../../../../PrintOnlyTopics/WhatsNewContributorV6/Slideshow.htm">Slideshows</MadCap:xref>.</p>
+                        <p MadCap:conditions="General.OnlineLive">See the following:</p>
+                        <ul MadCap:conditions="General.OnlineLive">
+                            <li>
+                                <MadCap:xref href="../../../../Slideshow/About_Slideshows.htm">About Slideshows</MadCap:xref>
+                            </li>
+                            <li>
+                                <MadCap:xref href="../../../../Slideshow/Inserting_Slideshows.htm">Inserting and Navigating in Slideshows</MadCap:xref>
+                            </li>
+                            <li>
+                                <MadCap:xref href="../../../../Slideshow/Editing_Slideshows.htm">Editing Slideshows</MadCap:xref>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="Find and replace;Finding:files;Files:finding" />Find and Replace</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <ul>
+                            <li>Redesigned interface</li>
+                            <li>Integrated Find and Replace widgets in topics</li>
+                            <li>New Find and Replace in Files window pane</li>
+                            <li>Search in whole review package</li>
+                            <li>Whole word</li>
+                            <li>Save results to CSV file</li>
+                            <li>Support for backreferences with regular expressions</li>
+                            <li>Supported in all workflows</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p MadCap:conditions="General.Print">See <MadCap:xref href="../../../../PrintOnlyTopics/WhatsNewContributorV6/Find_and_Replace.htm">Find and Replace</MadCap:xref>.</p>
+                        <p MadCap:conditions="General.OnlineLive">See the following:</p>
+                        <ul MadCap:conditions="General.OnlineLive">
+                            <li>
+                                <MadCap:xref href="../../../../Find_and_Replace/About_Find_and_Replace.htm">About Find and Replace</MadCap:xref>
+                            </li>
+                            <li>
+                                <MadCap:xref href="../../../../Find_and_Replace/Using_the_Quick_Find_and_Quick_Replace_Widgets.htm">Using the Quick Find and Replace Widgets</MadCap:xref>
+                            </li>
+                            <li>
+                                <MadCap:xref href="../../../../Find_and_Replace/Using_the_Find_and_Replace_in_Files_Feature.htm">Using the Find and Replace in Files Feature</MadCap:xref>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="Accessibility" />Accessibility</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <ul>
+                            <li>Empty alt text set globally</li>
+                            <li>Used when inserting images, QR codes, and equations</li>
+                            <li>Supported in Review (Full Registered), Contribution, and New Document workflows</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText" MadCap:conditions="General.Print">See <MadCap:xref href="../../../../PrintOnlyTopics/WhatsNewContributorV6/Additional_Features2.htm#Accessibility">Accessibility—Empty Alt Text</MadCap:xref>.</p>
+                        <p class="TableText" MadCap:conditions="General.OnlineLive">See the following:</p>
+                        <ul MadCap:conditions="General.OnlineLive">
+                            <li>
+                                <MadCap:xref href="../../../../Accessibility/About_Accessibility_Contributor.htm">About Accessibility</MadCap:xref>
+                            </li>
+                            <li>
+                                <MadCap:xref href="../../../../Accessibility/Applying_Empty_Alt_Text_Contributor.htm">Applying Empty Alt Text</MadCap:xref>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="Reports:crash;Crash reports" />Crash Reporting System</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <ul>
+                            <li>Crash report created when an "unhandled exception" issue occurs</li>
+                            <li>Save crash report</li>
+                            <li>Send crash report to MadCap Software</li>
+                            <li>Supported in all workflows</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p MadCap:conditions="General.Print">See <MadCap:xref href="../../../../PrintOnlyTopics/WhatsNewContributorV6/Additional_Features2.htm#Crash">Crash Reporting System</MadCap:xref>.</p>
+                        <p MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../../Crash_Reporting_System/Sending_a_Crash_Report_to_MadCap_Software.htm">Sending a Crash Report to MadCap Software</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="Paragraphs:formatting;Formatting:paragraphs" />
+                            <MadCap:keyword term="Fonts:editing;Styles:fonts;Formatting:fonts" />Font and Paragraph Properties</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <ul>
+                            <li>Font and paragraph property options can be accessed from context menus in XML Editor</li>
+                            <li>Right-click on content or structure bars</li>
+                            <li>Supported in Review (Full Registered), Contribution, and New Document workflows</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p MadCap:conditions="General.Print">See <MadCap:xref href="../../../../PrintOnlyTopics/WhatsNewContributorV6/Additional_Features2.htm#FontParagraphProperties">Font and Paragraph Properties</MadCap:xref>.</p>
+                        <p MadCap:conditions="General.OnlineLive"> See <MadCap:xref href="../../../../Fonts/Editing_Font_Properties.htm">Editing Font Properties</MadCap:xref> and <MadCap:xref href="../../../../Paragraphs/About_Paragraph_Formatting.htm">About Paragraph Formatting</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="Images" />Images</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <ul>
+                            <li>Condition tags on image maps (supported in Review—Full Registered, Contribution, and New Document workflows)</li>
+                            <li>Left-click in middle of image to select it (supported in all workflows)</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p MadCap:conditions="General.Print">See <MadCap:xref href="../../../../PrintOnlyTopics/WhatsNewContributorV6/Additional_Features2.htm#Image">Images</MadCap:xref>.</p>
+                        <p MadCap:conditions="General.OnlineLive">See the following:</p>
+                        <ul MadCap:conditions="General.OnlineLive">
+                            <li>
+                                <MadCap:xref href="../../../../Images/About_Images.htm">About Images</MadCap:xref>
+                            </li>
+                            <li>
+                                <MadCap:xref href="../../../../Nav_Links/Image_Hyperlinks/Creating_Image_Maps_Contributor.htm">Creating Image Maps</MadCap:xref>
+                            </li>
+                            <li>
+                                <MadCap:xref href="../../../../Condition_Tags/Applying_Condition_Tags_to_Content.htm">Applying Condition Tags to Content</MadCap:xref>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="Lists" />Lists</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <ul>
+                            <li>Custom list formats (supported in New Document workflow)</li>
+                            <li>Continue style of previous list when using the continue sequence feature (supported in Review—Full Registered, Contribution, and New Document workflows)</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p MadCap:conditions="General.Print">See <MadCap:xref href="../../../../PrintOnlyTopics/WhatsNewContributorV6/Additional_Features2.htm#List">Lists</MadCap:xref>.</p>
+                        <p MadCap:conditions="General.OnlineLive">See the following:</p>
+                        <ul MadCap:conditions="General.OnlineLive">
+                            <li>
+                                <MadCap:xref href="../../../../Lists/About_Lists.htm">About Lists</MadCap:xref>
+                            </li>
+                            <li>
+                                <MadCap:xref href="../../../../Lists/Creating_Custom_List_Formats.htm">Creating Custom List Formats</MadCap:xref>
+                            </li>
+                            <li>
+                                <MadCap:xref href="../../../../Lists/Editing_Custom_List_Formats.htm">Editing Custom List Formats</MadCap:xref>
+                            </li>
+                            <li>
+                                <MadCap:xref href="../../../../Lists/More_About_Lists/Continuing_the_Sequence_of_Lists.htm">Continuing the Sequence of Lists</MadCap:xref>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="OpenType fonts;Fonts:OpenType" />OpenType Fonts</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <ul>
+                            <li>Cross-platform support (can be viewed both on a PC and a Mac)</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p MadCap:conditions="General.Print">See <MadCap:xref href="../../../../PrintOnlyTopics/WhatsNewContributorV6/Additional_Features2.htm#OpenTypeFonts">OpenType Fonts</MadCap:xref>.</p>
+                        <p MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../../Fonts/About_Fonts.htm">About Fonts</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Page Layouts and Frames</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <ul>
+                            <li>Frame breaks</li>
+                            <li>Frame rotation (body)</li>
+                            <li>Rounded borders on frames</li>
+                            <li>Page type selection in XML&#160;Editor</li>
+                            <li>Supported in Contribution and New Document workflows</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p MadCap:conditions="General.Print">See <MadCap:xref href="../../../../PrintOnlyTopics/WhatsNewContributorV6/Additional_Features2.htm#Page">Page Layouts and Frames</MadCap:xref>.</p>
+                        <p MadCap:conditions="General.OnlineLive">See the following:</p>
+                        <ul MadCap:conditions="General.OnlineLive">
+                            <li>
+                                <MadCap:xref href="../../../../Page_Layouts/Frames/Setting_Frame_Breaks.htm">Setting Frame Breaks on Paragraphs and Headings</MadCap:xref>
+                            </li>
+                            <li>
+                                <MadCap:xref href="../../../../Tables/More_About_Tables/Setting_Page_Column_and_Frame_Breaks_on_Tables.htm">Setting Page, Column, and Frame Breaks on Tables</MadCap:xref>
+                            </li>
+                            <li>
+                                <MadCap:xref href="../../../../Page_Layouts/Frames/Rotating_Frames.htm">Rotating Frames</MadCap:xref>
+                            </li>
+                            <li>
+                                <MadCap:xref href="../../../../Page_Layouts/Frames/Specifying_Frame_Borders.htm">Specifying Frame Borders</MadCap:xref>
+                            </li>
+                            <li>
+                                <MadCap:xref href="../../../../Page_Layouts/More_About_Page_Layouts/Selecting_a_Page_Layout_to_View_Content_in_the_XML_Editor.htm">Selecting a Page Layout to View Content in the XML Editor</MadCap:xref>
+                            </li>
+                            <li>
+                                <MadCap:xref href="../../../../UI_Elements/XML_Editor_Contributor.htm">XML Editor</MadCap:xref>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="Smart quotes;Quotation marks" />Smart Quotes</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <ul>
+                            <li>Global setting to use smart quotes when editing</li>
+                            <li>Supported in Review (Full Registered), Contribution, and New Document workflows</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p MadCap:conditions="General.Print">See <MadCap:xref href="../../../../PrintOnlyTopics/WhatsNewContributorV6/Additional_Features2.htm#SmartQuotes">Smart Quotes</MadCap:xref>.</p>
+                        <p MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../../Characters_and_Symbols/Using_Smart_Quotes.htm">Using Smart Quotes</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="Styles:stylesheets" />Styles (CSS)</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <ul>
+                            <li>Comments can be added to style classes</li>
+                            <li>Hanging punctuation</li>
+                            <li>Pseudo classes (before, after)</li>
+                            <li>Rounded borders</li>
+                            <li>Supported in Contribution and New Document workflows</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p MadCap:conditions="General.Print">See <MadCap:xref href="../../../../PrintOnlyTopics/WhatsNewContributorV6/Additional_Features2.htm#Style">Styles (CSS)</MadCap:xref>.</p>
+                        <p MadCap:conditions="General.OnlineLive">See the following:</p>
+                        <ul MadCap:conditions="General.OnlineLive">
+                            <li>
+                                <MadCap:xref href="../../../../Styles/About_Styles_and_Style_Sheets.htm">About Styles and Stylesheets</MadCap:xref>
+                            </li>
+                            <li>
+                                <MadCap:xref href="../../../../UI_Elements/Stylesheet_Editor.htm">Stylesheet Editor</MadCap:xref>
+                            </li>
+                            <li>
+                                <MadCap:xref href="../../../../Styles/More_About_Styles_and_Style_Sheets/Adding_Comments_to_Styles.htm">Adding Comments to Styles</MadCap:xref>
+                            </li>
+                            <li>
+                                <MadCap:xref href="../../../../Paragraphs/Hanging_Punctuation/Creating_Hanging_Punctuation.htm">Creating Hanging Punctuation</MadCap:xref>
+                            </li>
+                            <li>
+                                <MadCap:xref href="../../../../Styles/Using_Styles_and_Stylesheets/Pseudo_Classes.htm">Pseudo Classes</MadCap:xref>
+                            </li>
+                            <li>
+                                <MadCap:xref href="../../../../Paragraphs/Borders/Creating_Rounded_Borders.htm">Creating Rounded Borders on Paragraphs and Tables </MadCap:xref>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <MadCap:keyword term="Tables:columns;Tables:rows" />Tables</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <ul>
+                            <li>Insert a specific number of selected rows to a table</li>
+                            <li>Shortcut keys to move table rows</li>
+                            <li>Supported in Review (Full Registered), Contribution, and New Document workflows</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p MadCap:conditions="General.Print">See <MadCap:xref href="../../../../PrintOnlyTopics/WhatsNewContributorV6/Additional_Features2.htm#Tables">Tables</MadCap:xref>.</p>
+                        <p MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../../Tables/More_About_Tables/Inserting_Table_Columns_and_Rows.htm">Inserting Table Columns and Rows</MadCap:xref> and <MadCap:xref href="../../../../Tables/More_About_Tables/Moving_Table_Columns_and_Rows.htm">Moving Table Columns and Rows</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                        <p class="TableTextEmphasis">User Interface</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                        <ul>
+                            <li>Character and line position in upper-right corner of Internal Text Editor</li>
+                            <li>Word count in lower-left corner of XML Editor</li>
+                            <li>XML Editor shortcuts to move blocks of content up or down (ALT+SHIFT+UP, ALT+SHIFT+DOWN)</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyA-Regular-LightRows">
+                        <p MadCap:conditions="General.Print">See <MadCap:xref href="../../../../PrintOnlyTopics/WhatsNewContributorV6/Additional_Features2.htm#UI">User Interface</MadCap:xref>.</p>
+                        <p MadCap:conditions="General.OnlineLive">See the following:</p>
+                        <ul MadCap:conditions="General.OnlineLive">
+                            <li>
+                                <MadCap:xref href="../../../../UI_Elements/Internal_Text_Editor_Contributor.htm">Internal Text Editor</MadCap:xref>
+                            </li>
+                            <li>
+                                <MadCap:xref href="../../../../UI_Elements/XML_Editor_Contributor.htm">XML Editor</MadCap:xref>
+                            </li>
+                            <li>
+                                <MadCap:xref href="../../../../Shortcuts/Keyboard_Shortcuts_Flare.htm">Shortcuts</MadCap:xref>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

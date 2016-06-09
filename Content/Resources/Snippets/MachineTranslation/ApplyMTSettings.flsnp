@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="8" MadCap:lastHeight="544" MadCap:lastWidth="1057">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                <ul class="FirstLevel">
+                    <li>
+                        <p><span class="SetOffFirstLevel">Ribbon</span> Select <span class="Emphasis">File&gt;Options</span>. </p>
+                        <MadCap:snippetBlock src="../UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel">Menu</span> Select <span class="Emphasis">Tools&gt;Options</span>.</li>
+                </ul>
+                <p>The Options dialog opens.</p>
+            </li>
+            <li>Click the <span class="Emphasis">Machine Translation Providers</span> tab.</li>
+            <li>
+                <MadCap:snippetBlock src="SelectMTProvider.flsnp" />
+                <MadCap:snippetBlock src="ProviderCredentials.flsnp" />
+                <p>Click <span class="Emphasis">Test Connection</span> to verify that your credentials are <MadCap:annotation MadCap:createDate="2014-08-27T17:02:55.2909087-07:00" MadCap:creator="KSchneider" MadCap:initials="KS" MadCap:comment="include where to get credentials" MadCap:editor="KSchneider" MadCap:editDate="2014-08-27T17:03:06.9215821-07:00">correct</MadCap:annotation>.</p>
+            </li>
+            <li>
+                <MadCap:snippetBlock src="ConcordanceSearch.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+        </ol>
+    </body>
+    <head>
+    </head>
+</html>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Mimic" MadCap:lastBlockDepth="2" MadCap:lastHeight="169" MadCap:lastWidth="916">
+    <head>
+    </head>
+    <body>
+        <p>Opens the Ignored Words dialog, which lets you create a list of words to be ignored when using the spell checking feature in <MadCap:variable name="Products.Mimic"></MadCap:variable>. See <MadCap:xref href="../../../Spell Check/About_Spell_Check_Mimic.htm">About Spell Check</MadCap:xref> and <MadCap:xref href="../../../Spell Check/Adding_Words_to_the_Ignore Spell_Check_List_Mimic.htm">Adding Words to the Ignore Spell Check List</MadCap:xref>.</p>
+    </body>
+</html>

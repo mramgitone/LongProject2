@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="285" MadCap:lastWidth="910" MadCap:conditions="Products.Capture">
+    <head>
+        <link href="../../../../TableStyles/Simple.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="margin-left: auto;margin-right: auto;width: 100%;mc-table-style: url('../../../../TableStyles/Simple.css');height: 250px;" class="TableStyle-Simple" cellspacing="0">
+            <col class="TableStyle-Simple-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-Simple-Body-Row1">
+                    <td class="TableStyle-Simple-BodyA-Column1-Row1" style="vertical-align: middle;padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;">
+                        <MadCap:snippetBlock src="../../../Welcome/CaptureWelcome1.flsnp" />
+                        <MadCap:snippetBlock src="../../../Welcome/CaptureWelcome2.flsnp" />
+                        <p>The following will help you get started quickly with <MadCap:snippetText src="../../../AllProductVariables.flsnp" />…</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

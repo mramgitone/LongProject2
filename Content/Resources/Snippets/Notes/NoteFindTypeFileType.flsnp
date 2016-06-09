@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer,Products.Contributor,Products.Lingo">
+    <body>
+        <p class="note">In addition to selecting a file type from the list, you can type the file type extension in the field directly. This can be especially useful for file types not included in the drop-down. For example, if you want to look in all target files in the project, you can type <span class="TypedEntry">*.fltar</span> in the field. If you are searching for a file contained in the Project Organizer, also remember to select <span class="Emphasis">Find in source code</span>.</p>
+    </body>
+    <head>
+    </head>
+</html>

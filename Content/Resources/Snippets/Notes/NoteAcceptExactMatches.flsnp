@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="2" MadCap:lastHeight="105" MadCap:lastWidth="1029">
+    <body>
+        <p class="note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">In the Options dialog, you can select a check box labeled "Accept Exact Matches upon applying TM." This option automatically confirms matching segments that are applied at the project or file level. <MadCap:conditionalText MadCap:conditions="LingoGuides.LingoTranslationGuide,General.OnlineLive">See <MadCap:xref href="../../../Translation_Memory/Accepting_Exact_Matches_on_Applying_TM.htm">Accepting Exact Matches on Applying TM</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

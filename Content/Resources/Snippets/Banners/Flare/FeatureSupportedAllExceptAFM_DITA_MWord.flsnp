@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="79" MadCap:lastWidth="961">
+    <body>
+        <p class="OutputsSupported">This feature is supported in all outputs, except <MadCap:variable name="Outputs.Frame" />, <MadCap:variable name="Outputs.DITA" />, and <MadCap:variable name="Outputs.Word" />.</p>
+    </body>
+</html>

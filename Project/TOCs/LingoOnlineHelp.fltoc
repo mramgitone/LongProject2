@@ -1,0 +1,669 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Lingo">
+  <TocEntry
+    Title="Welcome"
+    Link="/Content/Introduction_Topics/WelcomeLingo.htm"></TocEntry>
+  <TocEntry
+    Title="What's New in This Version"
+    Link="/Content/Introduction_Topics/Whats_New_in_This_Version_Lingo.htm" />
+  <TocEntry
+    Title="Key Features"
+    Link="/Content/Introduction_Topics/Key_Features_Lingo.htm" />
+  <TocEntry
+    Title="SQL"
+    Link="/Content/SQL/SQL_Lingo.htm" />
+  <TocEntry
+    Title="PDF Guides"
+    Link="/Content/PDF_Guides/PDF_Guides.htm" />
+  <TocEntry
+    Title="Tour of the Workspace">
+    <TocEntry
+      Title="Workspace—Touring"
+      Link="/Content/Tour_of_the_Workspace/Touring_the_Workspace_Lingo.htm" />
+    <TocEntry
+      Title="Start Page"
+      Link="/Content/UI_Elements/Start_Page_Lingo.htm" />
+    <TocEntry
+      Title="Translation Editor"
+      Link="/Content/UI_Elements/Translation_Editor.htm" />
+    <TocEntry
+      Title="Ribbons"
+      Link="/Content/Tour_of_the_Workspace/Ribbons_Lingo.htm" />
+    <TocEntry
+      Title="Quick Access Toolbar"
+      Link="/Content/Tour_of_the_Workspace/Quick_Access_Toolbar.htm" />
+    <TocEntry
+      Title="Menus"
+      Link="/Content/Tour_of_the_Workspace/Menus_Lingo.htm" />
+    <TocEntry
+      Title="Standard Toolbar"
+      Link="/Content/Tour_of_the_Workspace/Standard_Toolbar_Lingo.htm" />
+    <TocEntry
+      Title="Translate Toolbar"
+      Link="/Content/Tour_of_the_Workspace/Translate_Toolbar_Lingo.htm" />
+    <TocEntry
+      Title="Workspace—Customizing"
+      Link="/Content/Tour_of_the_Workspace/Customizing_the_Workspace.htm" />
+    <TocEntry
+      Title="More About Customizing the Workspace">
+      <TocEntry
+        Title="Color Theme for Interface"
+        Link="/Content/Tour_of_the_Workspace/More_About_Customizing_the_Workspace/Selecting_an_Interface_Color_Theme.htm" />
+      <TocEntry
+        Title="Ribbons—Minimizing"
+        Link="/Content/Tour_of_the_Workspace/More_About_Customizing_the_Workspace/Minimizing_Ribbons.htm" />
+      <TocEntry
+        Title="Ribbons and Menus/Toolbars—Switching"
+        Link="/Content/Tour_of_the_Workspace/More_About_Customizing_the_Workspace/SwitchingRibbonMenu.htm" />
+      <TocEntry
+        Title="Window Layouts"
+        Link="/Content/Tour_of_the_Workspace/More_About_Customizing_the_Workspace/Window_Layouts.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Translators—Using Lingo as a CAT Tool">
+    <TocEntry
+      Title="Basic Steps"
+      Link="/Content/Steps/Basic_Steps_Lingo.htm"></TocEntry>
+    <TocEntry
+      Title="Starting Projects">
+      <TocEntry
+        Title="Starting Projects"
+        Link="/Content/Projects_Starting/Start_a_project_Lingo.htm" />
+      <TocEntry
+        Title="Creating"
+        Link="/Content/Projects_Starting/Creating_New_Lingo_Projects.htm" />
+      <TocEntry
+        Title="Alignment Projects"
+        Link="/Content/Projects_Starting/Creating_Alignment_Projects.htm" />
+      <TocEntry
+        Title="Opening"
+        Link="/Content/Projects_Starting/Opening_Lingo_Projects.htm" />
+      <TocEntry
+        Title="Updating"
+        Link="/Content/Projects_Starting/More_About_Projects/Updating_Projects.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="List of Files Requiring Translation"
+      Link="/Content/Translating_Files/Viewing_a_List_of_Files_Requiring_Translation.htm" />
+    <TocEntry
+      Title="Opening and Translating Files">
+      <TocEntry
+        Title="Translating Files"
+        Link="/Content/Translating_Files/Translating_Files.htm" />
+      <TocEntry
+        Title="Inline Formatting and Tags"
+        Link="/Content/Translating_Files/Inline_Formatting_and_Tags.htm" />
+      <TocEntry
+        Title="Translated Content—Sending for Review"
+        Link="/Content/Reviews_and_Contributions/Sending_Translated_Content_for_Review.htm" />
+      <TocEntry
+        Title="Translated Status of Files"
+        Link="/Content/Translating_Files/Setting_the_Translated_Status_of_Files.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Translation Memory">
+      <TocEntry
+        Title="About Translation Memory"
+        Link="/Content/Translation_Memory/About_Translation_Memory.htm" />
+      <TocEntry
+        Title="Creating a TM"
+        Link="/Content/Translation_Memory/Creating_a_Translation_Memory_Database.htm" />
+      <TocEntry
+        Title="Choosing a TM"
+        Link="/Content/Translation_Memory/Choosing_a_TM_Database.htm" />
+      <TocEntry
+        Title="Editing a TM"
+        Link="/Content/Translation_Memory/Editing_the_Translation_Memory_Database.htm"></TocEntry>
+      <TocEntry
+        Title="Statuses and Matches"
+        Link="/Content/Translation_Memory/Statuses_and_Matches.htm" />
+      <TocEntry
+        Title="Context Matches—Updating"
+        Link="/Content/Translation_Memory/Updating_Segments_With_101_Matches.htm" />
+      <TocEntry
+        Title="Exact Matches—Accepting on Applying TM"
+        Link="/Content/Translation_Memory/Accepting_Exact_Matches_on_Applying_TM.htm" />
+      <TocEntry
+        Title="Status Colors—Changing"
+        Link="/Content/Translation_Memory/Changing_Segment_Status_Colors.htm" />
+      <TocEntry
+        Title="Translation Suggestions—Applying to Segments"
+        Link="/Content/Translation_Memory/Applying_TM_Suggestions_to_Segments.htm" />
+      <TocEntry
+        Title="Translation Suggestions—Setting Match Options"
+        Link="/Content/Translation_Memory/Setting_Match_Options_for_Suggestions.htm"></TocEntry>
+      <TocEntry
+        Title="Translations With an Identical Source—Updating"
+        Link="/Content/Translation_Memory/Updating_Translations_With_Identical_Source.htm" />
+      <TocEntry
+        Title="Translation Memory Exchange">
+        <TocEntry
+          Title="About Translation Memory Exchange"
+          Link="/Content/Translation_Memory/About_Translation_Memory_Exchange.htm" />
+        <TocEntry
+          Title="Exporting"
+          Link="/Content/Translation_Memory/Exporting_TMX_Files.htm" />
+        <TocEntry
+          Title="Importing"
+          Link="/Content/Translation_Memory/Importing_TMX_Files.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Exporting Translated Projects"
+      Link="/Content/Exporting/Exporting_Translated_Projects.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Content Developers—Using Lingo for Translation Workflow Management">
+    <TocEntry
+      Title="Basic Steps"
+      Link="/Content/Steps/Basic_Steps_Third_Party_and_Lingo.htm"></TocEntry>
+    <TocEntry
+      Title="Creating or Opening Projects">
+      <TocEntry
+        Title="Creating"
+        Link="/Content/Projects_Starting/Creating_New_Lingo_Projects.htm" />
+      <TocEntry
+        Title="Opening"
+        Link="/Content/Projects_Starting/Opening_Lingo_Projects.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Translation Memory">
+      <TocEntry
+        Title="About Translation Memory"
+        Link="/Content/Translation_Memory/About_Translation_Memory.htm" />
+      <TocEntry
+        Title="Creating a TM"
+        Link="/Content/Translation_Memory/Creating_a_Translation_Memory_Database.htm" />
+      <TocEntry
+        Title="Choosing a TM"
+        Link="/Content/Translation_Memory/Choosing_a_TM_Database.htm"></TocEntry>
+      <TocEntry
+        Title="Statuses and Matches"
+        Link="/Content/Translation_Memory/Statuses_and_Matches.htm" />
+      <TocEntry
+        Title="Exact Matches—Accepting on Applying TM"
+        Link="/Content/Translation_Memory/Accepting_Exact_Matches_on_Applying_TM.htm" />
+      <TocEntry
+        Title="Translation Memory Exchange">
+        <TocEntry
+          Title="About Translation Memory Exchange"
+          Link="/Content/Translation_Memory/About_Translation_Memory_Exchange.htm" />
+        <TocEntry
+          Title="Exporting"
+          Link="/Content/Translation_Memory/Exporting_TMX_Files.htm" />
+        <TocEntry
+          Title="Importing"
+          Link="/Content/Translation_Memory/Importing_TMX_Files.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Preparing and Merging Bundles">
+      <TocEntry
+        Title="About Bundles"
+        Link="/Content/Bundles/About_Bundles.htm" />
+      <TocEntry
+        Title="Preparing Translation Bundles"
+        Link="/Content/Bundles/Preparing_Translation_Bundles.htm" />
+      <TocEntry
+        Title="Merging Completed Bundles"
+        Link="/Content/Bundles/Merging_Completed_Bundles.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Exporting Translated Projects"
+      Link="/Content/Exporting/Exporting_Translated_Projects.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Features">
+    <TocEntry
+      Title="Key Features"
+      Link="/Content/Introduction_Topics/Key_Features_Lingo.htm" />
+    <TocEntry
+      Title="Alignment"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue">
+      <TocEntry
+        Title="About Alignment"
+        Link="/Content/Alignment/About_Alignment.htm" />
+      <TocEntry
+        Title="Alignment Projects"
+        Link="/Content/Projects_Starting/Creating_Alignment_Projects.htm" />
+      <TocEntry
+        Title="Files"
+        Link="/Content/Alignment/Aligning_Files.htm" />
+      <TocEntry
+        Title="Segments"
+        Link="/Content/Alignment/Aligning_Segments.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Backups">
+      <TocEntry
+        Title="About Backups"
+        Link="/Content/Backups/About_Backups.htm" />
+      <TocEntry
+        Title="Files—Backing Up"
+        Link="/Content/Backups/Backing_Up_Files.htm" />
+      <TocEntry
+        Title="Files—Restoring"
+        Link="/Content/Backups/Restoring_Backup_Files.htm" />
+      <TocEntry
+        Title="Files—Viewing"
+        Link="/Content/Backups/Viewing_Backup_Files.htm" />
+      <TocEntry
+        Title="Folder—Clearing"
+        Link="/Content/Backups/Clearing_the_Backups_Folder.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Bundles">
+      <TocEntry
+        Title="About Bundles"
+        Link="/Content/Bundles/About_Bundles.htm" />
+      <TocEntry
+        Title="Preparing Translation Bundles"
+        Link="/Content/Bundles/Preparing_Translation_Bundles.htm" />
+      <TocEntry
+        Title="Merging Completed Bundles"
+        Link="/Content/Bundles/Merging_Completed_Bundles.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Characters and Symbols">
+      <TocEntry
+        Title="Inserting"
+        Link="/Content/Characters_and_Symbols/Inserting_Special_Characters_and_Symbols.htm" />
+      <TocEntry
+        Title="Quick Characters"
+        Link="/Content/Characters_and_Symbols/Specifying_Quick_Characters.htm" />
+      <TocEntry
+        Title="Using Smart Quotes"
+        Link="/Content/Characters_and_Symbols/Using_Smart_Quotes.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Concordance">
+      <TocEntry
+        Title="About the Concordance"
+        Link="/Content/Concordance/About_the_Concordance.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Dictionaries">
+      <TocEntry
+        Title="Importing"
+        Link="/Content/Dictionaries/Importing_Dictionaries.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Exporting">
+      <TocEntry
+        Title="Projects"
+        Link="/Content/Exporting/Exporting_Translated_Projects.htm" />
+      <TocEntry
+        Title="TBX Files"
+        Link="/Content/Termbase/Exporting_TBX_Files.htm" />
+      <TocEntry
+        Title="TMX Files"
+        Link="/Content/Translation_Memory/Exporting_TMX_Files.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="File Tagging">
+      <TocEntry
+        Title="About File Tagging"
+        Link="/Content/File_Tagging/About_File_Tagging_Lingo.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Find">
+      <TocEntry
+        Title="About Find and Replace"
+        Link="/Content/Find_and_Replace/About_Find_and_Replace.htm" />
+      <TocEntry
+        Title="Find and Replace in Files"
+        Link="/Content/Find_and_Replace/Using_the_Find_and_Replace_in_Files_Feature.htm" />
+      <TocEntry
+        Title="Quick Find and Replace Widgets"
+        Link="/Content/Find_and_Replace/Using_the_Quick_Find_and_Quick_Replace_Widgets.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Importing"
+      StartSection="false"
+      StartChapter="false">
+      <TocEntry
+        Title="TBX Files"
+        Link="/Content/Termbase/Importing_TBX_Files.htm" />
+      <TocEntry
+        Title="TMX Files"
+        Link="/Content/Translation_Memory/Importing_TMX_Files.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Projects">
+      <TocEntry
+        Title="Starting Projects"
+        Link="/Content/Projects_Starting/Start_a_project_Lingo.htm" />
+      <TocEntry
+        Title="Alignment Projects"
+        Link="/Content/Projects_Starting/Creating_Alignment_Projects.htm" />
+      <TocEntry
+        Title="Creating"
+        Link="/Content/Projects_Starting/Creating_New_Lingo_Projects.htm" />
+      <TocEntry
+        Title="Opening"
+        Link="/Content/Projects_Starting/Opening_Lingo_Projects.htm" />
+      <TocEntry
+        Title="Updating"
+        Link="/Content/Projects_Starting/More_About_Projects/Updating_Projects.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Reports">
+      <TocEntry
+        Title="Computing Statistics"
+        Link="/Content/Reports/Computing_Statistics.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Reviews">
+      <TocEntry
+        Title="Sending Translated Content"
+        Link="/Content/Reviews_and_Contributions/Sending_Translated_Content_for_Review.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Segmentation Rules and Split/Join">
+      <TocEntry
+        Title="About Segmentation Rules"
+        Link="/Content/Segmentation_Split_Join/About_Segmentation_Rules.htm" />
+      <TocEntry
+        Title="About Split/Join"
+        Link="/Content/Segmentation_Split_Join/About_Split_Join.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Shortcuts">
+      <TocEntry
+        Title="About Shortcuts"
+        Link="/Content/Shortcuts/About_Shortcuts.htm" />
+      <TocEntry
+        Title="Keyboard Shortcuts"
+        Link="/Content/Shortcuts/Keyboard_Shortcuts_Lingo.htm" />
+      <TocEntry
+        Title="Changing Hot Keys"
+        Link="/Content/Shortcuts/Changing_Hot_Keys_Lingo.htm" />
+      <TocEntry
+        Title="ALT Key Shortcuts"
+        Link="/Content/Shortcuts/ALT_Key_Shortcuts.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="SQL">
+      <TocEntry
+        Title="SQL"
+        Link="/Content/SQL/SQL_Lingo.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Spell Check">
+      <TocEntry
+        Title="Ignore Spell Check List"
+        Link="/Content/Spell Check/Adding_Words_to_the_Ignore Spell_Check_List.htm" />
+      <TocEntry
+        Title="Spell Checking While Typing"
+        Link="/Content/Spell Check/Spell_Checking_While_Typing.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Statistics">
+      <TocEntry
+        Title="Computing Statistics"
+        Link="/Content/Reports/Computing_Statistics.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Termbases"
+      StartSection="false"
+      StartChapter="false">
+      <TocEntry
+        Title="About Termbases"
+        Link="/Content/Termbase/About_Termbase.htm" />
+      <TocEntry
+        Title="Adding"
+        Link="/Content/Termbase/Adding_Termbases.htm" />
+      <TocEntry
+        Title="Concepts and Terms—Adding"
+        Link="/Content/Termbase/Adding_Terms_to_Termbases.htm" />
+      <TocEntry
+        Title="Editing"
+        Link="/Content/Termbase/Editing_Termbases.htm" />
+      <TocEntry
+        Title="Removing"
+        Link="/Content/Termbase/Removing_Termbases.htm" />
+      <TocEntry
+        Title="TBX Files—Exporting"
+        Link="/Content/Termbase/Exporting_TBX_Files.htm" />
+      <TocEntry
+        Title="TBX Files—Importing"
+        Link="/Content/Termbase/Importing_TBX_Files.htm" />
+      <TocEntry
+        Title="Terms—Inserting"
+        Link="/Content/Termbase/Inserting_Terms_from_a_Termbase.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Translating Files">
+      <TocEntry
+        Title="Translating Files"
+        Link="/Content/Translating_Files/Translating_Files.htm" />
+      <TocEntry
+        Title="List of Files Requiring Translation"
+        Link="/Content/Translating_Files/Viewing_a_List_of_Files_Requiring_Translation.htm" />
+      <TocEntry
+        Title="Inline Formatting and Tags"
+        Link="/Content/Translating_Files/Inline_Formatting_and_Tags.htm" />
+      <TocEntry
+        Title="Translated Content—Sending for Review"
+        Link="/Content/Reviews_and_Contributions/Sending_Translated_Content_for_Review.htm" />
+      <TocEntry
+        Title="Translated Status of Files"
+        Link="/Content/Translating_Files/Setting_the_Translated_Status_of_Files.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Translation Memory">
+      <TocEntry
+        Title="About Translation Memory"
+        Link="/Content/Translation_Memory/About_Translation_Memory.htm" />
+      <TocEntry
+        Title="Creating a TM"
+        Link="/Content/Translation_Memory/Creating_a_Translation_Memory_Database.htm" />
+      <TocEntry
+        Title="Choosing a TM"
+        Link="/Content/Translation_Memory/Choosing_a_TM_Database.htm" />
+      <TocEntry
+        Title="Editing a TM"
+        Link="/Content/Translation_Memory/Editing_the_Translation_Memory_Database.htm" />
+      <TocEntry
+        Title="Statuses and Matches"
+        Link="/Content/Translation_Memory/Statuses_and_Matches.htm" />
+      <TocEntry
+        Title="Context Matches—Updating"
+        Link="/Content/Translation_Memory/Updating_Segments_With_101_Matches.htm" />
+      <TocEntry
+        Title="Exact Matches—Accepting on Applying TM"
+        Link="/Content/Translation_Memory/Accepting_Exact_Matches_on_Applying_TM.htm"></TocEntry>
+      <TocEntry
+        Title="Status Colors—Changing"
+        Link="/Content/Translation_Memory/Changing_Segment_Status_Colors.htm" />
+      <TocEntry
+        Title="Translation Suggestions—Applying to Segments"
+        Link="/Content/Translation_Memory/Applying_TM_Suggestions_to_Segments.htm" />
+      <TocEntry
+        Title="Translation Suggestions—Setting Match Options"
+        Link="/Content/Translation_Memory/Setting_Match_Options_for_Suggestions.htm" />
+      <TocEntry
+        Title="Translations With an Identical Source—Updating"
+        Link="/Content/Translation_Memory/Updating_Translations_With_Identical_Source.htm" />
+      <TocEntry
+        Title="Translation Memory Exchange">
+        <TocEntry
+          Title="About Translation Memory Exchange"
+          Link="/Content/Translation_Memory/About_Translation_Memory_Exchange.htm" />
+        <TocEntry
+          Title="Exporting"
+          Link="/Content/Translation_Memory/Exporting_TMX_Files.htm" />
+        <TocEntry
+          Title="Importing"
+          Link="/Content/Translation_Memory/Importing_TMX_Files.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Window Layouts">
+      <TocEntry
+        Title="Window Layouts"
+        Link="/Content/Tour_of_the_Workspace/More_About_Customizing_the_Workspace/Window_Layouts.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="User Interface Elements">
+    <TocEntry
+      Title="Add Term to Termbase Dialog"
+      Link="/Content/UI_Elements/Add_Term_to_Termbase_Dialog.htm" />
+    <TocEntry
+      Title="Alignment Tool"
+      Link="/Content/Alignment/Aligning_Segments.htm" />
+    <TocEntry
+      Title="Backups Window Pane"
+      Link="/Content/Backups/About_Backups.htm" />
+    <TocEntry
+      Title="Character Dialog"
+      Link="/Content/UI_Elements/Character_Dialog.htm" />
+    <TocEntry
+      Title="Color Picker Dialog"
+      Link="/Content/UI_Elements/Color_Picker_Dialog.htm" />
+    <TocEntry
+      Title="Conflict with Translation Memory Dialog"
+      Link="/Content/UI_Elements/Conflict_with_Translation_Memory_Dialog.htm" />
+    <TocEntry
+      Title="Conflicts with Translation Memory Dialog"
+      Link="/Content/UI_Elements/Conflicts_with_Translation_Memory_Dialog.htm" />
+    <TocEntry
+      Title="Connect to SQL Server Dialog"
+      Link="/Content/Translation_Memory/Creating_a_Translation_Memory_Database.htm" />
+    <TocEntry
+      Title="Current Translation Memory Provider Dialog"
+      Link="/Content/Translation_Memory/Choosing_a_TM_Database.htm" />
+    <TocEntry
+      Title="Database Version Conflict Dialog"
+      Link="/Content/UI_Elements/Database_Version_Conflict_Dialog.htm" />
+    <TocEntry
+      Title="Dynamic Help Window Pane"
+      Link="/Content/UI_Elements/Dynamic_Help_Window.htm" />
+    <TocEntry
+      Title="Enter New Termbase Name Dialog"
+      Link="/Content/UI_Elements/Enter_New_Termbase_Name_Dialog.htm" />
+    <TocEntry
+      Title="Export Finished Translation Dialog"
+      Link="/Content/Exporting/Exporting_Translated_Projects.htm" />
+    <TocEntry
+      Title="Export to TBX Dialog"
+      Link="/Content/Termbase/Exporting_TBX_Files.htm" />
+    <TocEntry
+      Title="Export to TMX Dialog"
+      Link="/Content/Translation_Memory/Exporting_TMX_Files.htm" />
+    <TocEntry
+      Title="File List Window Pane"
+      Link="/Content/UI_Elements/File_List_Window.htm" />
+    <TocEntry
+      Title="File Map Window Pane"
+      Link="/Content/Alignment/Aligning_Files.htm" />
+    <TocEntry
+      Title="Find and Replace Window Pane"
+      Link="/Content/Find_and_Replace/Using_the_Quick_Find_and_Quick_Replace_Widgets.htm"></TocEntry>
+    <TocEntry
+      Title="Find in Files Window Pane"
+      Link="/Content/Find_and_Replace/Using_the_Find_and_Replace_in_Files_Feature.htm"></TocEntry>
+    <TocEntry
+      Title="Find Results 1 Window Pane"
+      Link="/Content/Find_and_Replace/Using_the_Find_and_Replace_in_Files_Feature.htm"></TocEntry>
+    <TocEntry
+      Title="Find Results 2 Window Pane"
+      Link="/Content/Find_and_Replace/Using_the_Find_and_Replace_in_Files_Feature.htm" />
+    <TocEntry
+      Title="Getting Started Wizard"
+      Link="/Content/UI_Elements/Getting_Started_Wizard_Lingo.htm" />
+    <TocEntry
+      Title="Help Favorites Window Pane"
+      Link="/Content/UI_Elements/Help_Favorites_Window.htm" />
+    <TocEntry
+      Title="Help Glossary Window Pane"
+      Link="/Content/UI_Elements/Help_Glossary_Window.htm" />
+    <TocEntry
+      Title="Help Index Window Pane"
+      Link="/Content/UI_Elements/Help_Index_Window.htm" />
+    <TocEntry
+      Title="Help Search Window Pane"
+      Link="/Content/UI_Elements/Help_Search_Window.htm" />
+    <TocEntry
+      Title="Help TOC Window Pane"
+      Link="/Content/UI_Elements/Help_TOC_Window.htm" />
+    <TocEntry
+      Title="Ignored Words Dialog"
+      Link="/Content/Spell Check/Adding_Words_to_the_Ignore Spell_Check_List.htm" />
+    <TocEntry
+      Title="Import TBX File Dialog"
+      Link="/Content/Termbase/Importing_TBX_Files.htm" />
+    <TocEntry
+      Title="Import TMX File Dialog"
+      Link="/Content/Translation_Memory/Importing_TMX_Files.htm" />
+    <TocEntry
+      Title="Index Results Window Pane"
+      Link="/Content/UI_Elements/Index_Results_Window.htm" />
+    <TocEntry
+      Title="Log File Viewer"
+      Link="/Content/UI_Elements/Log_File_Viewer_Lingo.htm" />
+    <TocEntry
+      Title="Manage Termbases Dialog"
+      Link="/Content/UI_Elements/Manage_Termbases_Dialog.htm" />
+    <TocEntry
+      Title="Manage Window Layouts Dialog"
+      Link="/Content/UI_Elements/Manage_Window_Layouts_Dialog.htm" />
+    <TocEntry
+      Title="Manage Windows Dialog"
+      Link="/Content/UI_Elements/Manage_Windows_Dialog.htm" />
+    <TocEntry
+      Title="Messages Window Pane"
+      Link="/Content/UI_Elements/Messages_Window.htm" />
+    <TocEntry
+      Title="New Database Dialog"
+      Link="/Content/Translation_Memory/Creating_a_Translation_Memory_Database.htm" />
+    <TocEntry
+      Title="New Updates Available Dialog"
+      Link="/Content/UI_Elements/New_Updates_Available_Dialog.htm"></TocEntry>
+    <TocEntry
+      Title="Options Dialog"
+      Link="/Content/UI_Elements/Options_Dialog_Lingo.htm" />
+    <TocEntry
+      Title="Project Editor"
+      Link="/Content/UI_Elements/Project_Editor.htm" />
+    <TocEntry
+      Title="Properties Dialog"
+      Link="/Content/UI_Elements/Properties_Dialog_Generic.htm"></TocEntry>
+    <TocEntry
+      Title="Recent Files Dialog"
+      Link="/Content/UI_Elements/Recent_Files_Dialog.htm" />
+    <TocEntry
+      Title="Recent Projects Dialog"
+      Link="/Content/UI_Elements/Recent_Projects_Dialog.htm" />
+    <TocEntry
+      Title="Start Alignment Wizard"
+      Link="/Content/Projects_Starting/Creating_Alignment_Projects.htm" />
+    <TocEntry
+      Title="Start New Project Wizard"
+      Link="/Content/Projects_Starting/Creating_New_Lingo_Projects.htm" />
+    <TocEntry
+      Title="Start Page"
+      Link="/Content/UI_Elements/Start_Page_Lingo.htm" />
+    <TocEntry
+      Title="Statistics Browser"
+      Link="/Content/Reports/Computing_Statistics.htm" />
+    <TocEntry
+      Title="Termbase Editor"
+      Link="/Content/Termbase/Editing_Termbases.htm" />
+    <TocEntry
+      Title="Termbase Window Pane"
+      Link="/Content/Termbase/About_Termbase.htm" />
+    <TocEntry
+      Title="Translation Editor"
+      Link="/Content/UI_Elements/Translation_Editor.htm" />
+    <TocEntry
+      Title="Translation Memory Editor"
+      Link="/Content/Translation_Memory/Editing_the_Translation_Memory_Database.htm" />
+  </TocEntry>
+</CatapultToc>

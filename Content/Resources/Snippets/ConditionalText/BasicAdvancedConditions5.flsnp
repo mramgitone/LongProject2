@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="278" MadCap:lastWidth="1167">
+    <body>
+        <p>When you select Advanced for the first time, the Basic section becomes disabled (i.e., the check boxes are hidden), and the Advanced section is enabled but empty (even if you've previously selected conditions in the Basic section). However, you can copy the expression from the Basic section to the Advanced section. This is a quick and easy way to create an initial expression and then tweak it with "and" statements.</p>
+        <p class="ExampleHead" MadCap:conditions="Products.Flare">example</p>
+        <p class="ExampleMiddleSection" MadCap:conditions="Products.Flare">
+            <img src="../../Images/conditions4.png" class="MaxWidth90Percent" />
+        </p>
+        <p class="Example" MadCap:conditions="Products.Flare">
+            <img src="../../Images/conditions5.png" class="MaxWidth90Percent" />
+        </p>
+    </body>
+</html>

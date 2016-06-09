@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="251" MadCap:lastWidth="1122" MadCap:conditions="Products.AllProducts">
+    <head>
+        <link href="../../../../TableStyles/Simple.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>&#160;</p>
+        <table style="mc-table-style: url('../../../../TableStyles/Simple.css');margin-left: auto;margin-right: auto;caption-side: top;" class="TableStyle-Simple" cellspacing="0">
+            <col class="TableStyle-Simple-Column-Column1" />
+            <col class="TableStyle-Simple-Column-Column1" />
+            <col class="TableStyle-Simple-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-Simple-Body-Row1">
+                    <td class="TableStyle-Simple-BodyB-Column1-Row1"><a href="http://docs.madcapsoftware.com/FlareV11/FlareShortcutsGuide.pdf" target="_blank"><img src="../../../../Images/pdf_cover_shortcuts_guide.png" alt="" title="This guide lists keyboard shortcuts that you can use for various tasks in Flare." class="Hyperlinked" /></a>
+                    </td>
+                    <td class="TableStyle-Simple-BodyB-Column1-Row1"><a href="http://docs.madcapsoftware.com/FlareV11/FlareSkinsGuide.pdf" target="_blank"><img src="../../../../Images/pdf_cover_skins_guide.png" alt="" title="A skin is a pre-designed look and feel for your final output. Think of it as a suit or a dress in your closet. You can alter your entire look just by changing your clothes. A skin is simply a change of clothes for your output." class="Hyperlinked" /></a>
+                    </td>
+                    <td class="TableStyle-Simple-BodyA-Column1-Row1"><a href="http://docs.madcapsoftware.com/FlareV11/FlareSnippetsGuide.pdf" target="_blank"><img src="../../../../Images/pdf_cover_snippets_guide.png" alt="" title="A snippet is a pre-set chunk of content that you can use in your project over and over. Snippets are similar to variables, but snippets are used for longer chunks of content that you can format just as you would any other content in your topic." class="Hyperlinked" /></a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&#160;</p>
+    </body>
+</html>

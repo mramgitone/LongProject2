@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer,Products.Contributor" MadCap:lastBlockDepth="10" MadCap:lastHeight="323" MadCap:lastWidth="919">
+    <head>
+        <link href="../../TableStyles/Simple.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>This option lets you search for a topic within your project. After you select this option, use the area below to navigate to the file that you want to link to and select it. By using the buttons in the local toolbar, you can view all files in a list, view files in their folder structure, and use other options.</p>
+        <MadCap:snippetBlock src="../UIElements/MultiViewTable2.flsnp" />
+        <p>You can also click <img src="../../Images/insert_bookmark_btn.png" class="ReduceButtonSize" /> to display and select any bookmarks within the destination topic.</p>
+    </body>
+</html>

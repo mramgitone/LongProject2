@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags"
+  conditions="Products.AllProducts">
+  <ConditionTag
+    Comment=""
+    Name="FeedbackExplorerGettingStartedGuide"
+    BackgroundColor="Red" />
+  <ConditionTag
+    BackgroundColor="LightBlue"
+    Name="FeedbackExplorerKeyFeaturesGuide"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="LightCoral"
+    Name="FeedbackExplorerShortcuts"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="LightCyan"
+    Name="FeedbackExplorerWhatsNewGuide"
+    Comment="" />
+</CatapultConditionTagSet>

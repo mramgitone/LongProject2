@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare">
+    <body>
+        <p class="TableText">Opens the Language Skins dialog, which lets you localize (associate a language with) skins for some outputs (e.g., the WebHelp outputs and in some cases, HTML Help).</p>
+    </body>
+</html>

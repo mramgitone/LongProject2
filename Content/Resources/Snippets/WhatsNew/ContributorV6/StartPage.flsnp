@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor" MadCap:lastBlockDepth="8" MadCap:lastHeight="310" MadCap:lastWidth="836">
+    <body>
+        <p>The Start Page has undergone a major redesign. This includes the following:</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Getting Started/Recent Projects </span>These sections now run along the left edge of the Start Page. This allows for more room to list the most recent projects.</li>
+            <li><span class="SetOffFirstLevel">Templates Tab </span>This tab lets you browse project templates and click to start a new project based on any of them.</li>
+            <li><span class="SetOffFirstLevel">Tutorials Tab </span>This tab lets you browse and open several video tutorials.</li>
+            <li><span class="SetOffFirstLevel">Help Resources Tab </span>This tab contains links to additional resources, such as the Help system, PDFs, webinars, the online community, and the MadCap blog.</li>
+            <li><span class="SetOffFirstLevel">News and Updates </span>This section is at the bottom of the Start Page. It contains images and links to events and other information.</li>
+        </ul>
+        <p>
+            <img src="../../../Images/start_page.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+    </body>
+</html>

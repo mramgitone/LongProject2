@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="83" MadCap:lastWidth="571">
+    <body>
+        <p>This feature can be used to create a list of just about any type of element that you can think of. It does so based on the list-of proxy and whatever styles that you tell it to use. When you generate the output, the list-of proxy is replaced with a list of all paragraphs using the style that you specified.</p>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="127" MadCap:lastWidth="1220">
+    <body>
+        <p class="OutputsSupported">All of the "How Did You Do That?" topics are based on the Web Print Mobile template, which can be selected when you create a new Flare project. If you have not done so already, you should first read the main topic in this series, which explains this template (see <MadCap:xref href="../../../How_Did_You_Do_That/How_Did_You_Do_That.htm">How Did You Do That? Start Here</MadCap:xref>). Also, all of the settings discussed here  are already completed in the Web Print Mobile template, so if you want to try to reproduce any features discussed, you may want to do so in a different project that is not based on this template.</p>
+    </body>
+</html>

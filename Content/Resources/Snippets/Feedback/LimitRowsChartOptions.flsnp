@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="258" MadCap:lastWidth="1151" MadCap:conditions="Products.FeedbackExplorer">
+    <body>
+        <p>The following are the options you can choose.</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Selected Rows</span> Only the selected rows of data are included in the chart. If you want to use this option, you can select multiple rows in the grid by holding down the <span class="Emphasis">SHIFT</span> or <span class="Emphasis">CTRL</span> key and clicking a range of rows or individual rows.</li>
+            <li><span class="SetOffFirstLevel">Top 10</span> Only the first 10 rows of data are included in the chart.</li>
+            <li><span class="SetOffFirstLevel">Top 25</span> Only the first 25 rows of data are included in the chart.</li>
+            <li><span class="SetOffFirstLevel">Top 50</span> Only the first 50 rows of data are included in the chart.</li>
+            <li><span class="SetOffFirstLevel">Custom</span> Only the first number of rows that you specify are included in the chart. When you select this option, the Custom Data Filter dialog opens. Enter the number of rows to be shown and click <span class="Emphasis">OK</span>.</li>
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:conditions="Products.Mimic,Products.Capture" MadCap:lastBlockDepth="2" MadCap:lastHeight="93" MadCap:lastWidth="817" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>You can easily add a border around<MadCap:conditionalText MadCap:conditions="Products.Capture"> an image </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic"> a frame</MadCap:conditionalText> or object (e.g., bubble, circle, rectangle). For <MadCap:conditionalText MadCap:conditions="Products.Capture">an image,</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic">a frame,</MadCap:conditionalText> you can specify the type, width, and color of the border. <MadCap:conditionalText MadCap:conditions="Products.Capture">For an object, you can specify the width and color of the border. </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic">You can add borders to a single frame, or you can add them to a movie, which then applies the border to all frames.</MadCap:conditionalText></p>
+    </body>
+</html>

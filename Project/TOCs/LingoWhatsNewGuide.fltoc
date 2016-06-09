@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Lingo">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/PrintOnlyTopics/ComingSoonTitlePage.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/TitleLingo.flpgl"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/PrintOnlyTopics/TitlePage.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TitleLingo.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue"
+    conditions="General.Future" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/PrintOnlyTopics/Copyright.htm"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    conditions="General.Future" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/PrintOnlyTopics/PrintTOC.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="1"
+    StartSection="false"
+    conditions="General.Future" />
+  <TocEntry
+    Title="CH 1 Introduction"
+    Link="/Content/PrintOnlyTopics/WhatsNewLingoV9/Introduction_Lingo.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumberFormat="decimal"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="CH 2 Multlingual Projects"
+    Link="/Content/PrintOnlyTopics/WhatsNewLingoV9/Introduction_Lingo.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumberFormat="decimal"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    conditions="General.Future" />
+  <TocEntry
+    Title="CH 8 Additional Features"
+    Link="/Content/PrintOnlyTopics/WhatsNewLingoV9/Additional_Features.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    StartSection="false"
+    conditions="General.Future">
+    <TocEntry
+      Title="Additional Features"
+      Link="/Content/PrintOnlyTopics/WhatsNewLingoV9/Additional_Features2.htm"
+      conditions="General.Future" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/PDF_Guides/PDF_Guides.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    conditions="General.Future" />
+</CatapultToc>

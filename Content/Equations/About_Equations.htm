@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="1683" MadCap:lastWidth="559" MadCap:conditions="Products.Flare,Products.Contributor">
+    <head>
+        <meta name="description" content="Learn how to perform different tasks when working with and embedding equations." />
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Equations;MathML" />
+            <MadCap:concept term="Equations" />About Equations</h1>
+        <MadCap:snippetBlock src="../Resources/Snippets/Banners/Flare/FeatureSupportedAll.flsnp" MadCap:conditions="Products.Flare" />
+        <p>
+            <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" /> supports Mathematical Markup Language (MathML), which is a way to describe mathematical notations in XML. Recommended by the World Wide Web Consortium <MadCap:keyword term="W3C" />(W3C), MathML in <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" /> allows you to embed virtually any kind of mathematical equation in the XML Editor. </p>
+        <p MadCap:conditions="Products.Flare">
+            <img src="../Resources/Images/equation_example.jpg" class="MaxWidth100Percent" />
+        </p>
+        <p MadCap:conditions="Products.Contributor">
+            <img src="../Resources/Images/equation_example_contributor.jpg" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">tasks for using equations</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p MadCap:conditions="General.OnlineLive">Following are the primary tasks when working with equations.</p>
+                <ul MadCap:conditions="General.OnlineLive" class="Square">
+                    <li>
+                        <MadCap:keyword term="Equations:creating;Equations:inserting" /><span class="SetOffFirstLevel">Create and Insert </span>From any location in a<MadCap:conditionalText MadCap:conditions="Products.Flare"> topic or snippet</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor"> document</MadCap:conditionalText> you can create an equation (using the Equation Editor) and insert it into your content. In the markup the equation is contained in the &lt;math&gt; tag, which is the MathML root of the equation. Although an equation may be composed of many different parts, in the XML Editor it renders as a single block of content. In that way, it behaves much like an image. See <MadCap:xref href="Creating_and_Inserting_Equations.htm">Creating and Inserting Equations</MadCap:xref>.</li>
+                    <li>
+                        <MadCap:keyword term="Equations:editing" /><span class="SetOffFirstLevel">Edit </span>You can edit an existing equation. This includes the ability to change the equation itself, as well as modify its appearance through the use of the &lt;MadCap|equation&gt; style tag. See <MadCap:xref href="Editing_Equations.htm">Editing Equations</MadCap:xref>.</li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="../Resources/Snippets/Notes/NoteEquationHelpMenu.flsnp" />
+                <p class="note" MadCap:conditions="Products.Flare" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">When you generate output, your equations are converted to images in the appropriate format. If you build PDF output, the equations are converted to vector images. If you build any other type of output, the equations are converted to raster images <MadCap:keyword term="PNG file" />(PNG files). <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../Output/Build_the_Final_Output.htm">Building Output</MadCap:xref>.</MadCap:conditionalText></p>
+                <p class="note" MadCap:conditions="Products.FlareOnlineOnly" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">You can add alternate text and screen tips for an equation so that it becomes accessible for disabled individuals in the output. You can also create a report that shows accessibility suggestions, which includes equations in your project that are missing alternate text. See <MadCap:xref href="../Accessibility/About_Accessibility.htm">About Accessibility</MadCap:xref> and <MadCap:xref href="../Reports/About_Reports.htm">About Reports</MadCap:xref>.</p>
+                <p class="note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">When an equation is used in a heading and that heading is referenced in any way (e.g., cross-reference<MadCap:conditionalText MadCap:conditions="Products.Flare">, table of contents entry</MadCap:conditionalText>), the equation is stripped from the reference.</p>
+                <p class="note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">In order to use the Equation Editor, you need to have Ghostscript installed on your machine. If you do not have Ghostscript, visit www.ghostscript.com to download the latest version.</p>
+                <MadCap:snippetBlock src="../Resources/Snippets/Notes/NoteEquationsJRE.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:conceptLink term="Equations" />
+        </p>
+    </body>
+</html>

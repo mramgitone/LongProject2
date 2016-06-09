@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="69" MadCap:lastWidth="1218" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <body>
+        <p>You can apply a superscript effect to text, where some text appears above the regular text (e.g., X<sup>2</sup>). Perhaps the easiest way to do this is to highlight the text, select the Home ribbon or Text Format toolbar, and click <img src="../../Images/superscript_btn1.png" class="ReduceButtonSize" />. <MadCap:conditionalText MadCap:conditions="Products.Flare,Products.Analyzer,Products.Contributor">However, you can also change the properties of a different tag so that it appears as superscript text.</MadCap:conditionalText></p>
+    </body>
+</html>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditionTagExpression="exclude[Snippets.Snippet1 or Snippets.Snippet2 or Snippets.Snippet3 or Snippets.Snippet4 or Snippets.Snippet5 or Snippets.Snippet6 or Snippets.Snippet7 or Snippets.Snippet8]" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="14" MadCap:lastHeight="3002" MadCap:lastWidth="788" MadCap:fileTags="FlareTopicStatusNeeds.8 Needs to be Tested in Print Output">
+    <head><title></title>
+        <link href="../Resources/Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="Source Control" />
+            <MadCap:keyword term="Source control:bind;Projects:source control" />
+            <MadCap:concept term="FilterSourceControl" />Binding a Project to Source Control</h1>
+        <p class="FirstPageOfChapter">Use the following steps if you have already created a <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" /> project and want to bind ("connect") it to a source control application (<MadCap:keyword term="Source control:Microsoft Visual SourceSafe;Microsoft Visual SourceSafe" />Microsoft Visual SourceSafe, <MadCap:keyword term="Source control:Microsoft Team Foundation Server;Microsoft Team Foundation Server" />Microsoft Team Foundation Server, <MadCap:keyword term="Perforce;Source control:Perforce" />Perforce, <MadCap:keyword term="Apache Subversion;Source control:Subversion" />Apache Subversion, or another program via an API).</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot class="FirstPageOfChapter">how to bind a project to source control</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol class="FirstPageOfChapter">
+                    <li>Open the project.</li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                        <ul class="FirstPageOfChapter">
+                            <li>
+                                <p><span class="SetOffFirstLevelDarkBackground">Ribbon </span>
+                                    <MadCap:snippetText src="../Resources/Snippets/UIElements/SelectProjectRibbon.flsnp" /> In the <span class="Emphasis">Properties</span> section select <span class="Emphasis">Project Properties</span>. </p>
+                                <p MadCap:conditions="General.OnlineLive">
+                                    <MadCap:snippetBlock src="../Resources/Snippets/UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" />
+                                </p>
+                            </li>
+                            <li><span class="SetOffFirstLevelDarkBackground">Menu</span> Select <span class="Emphasis">Project&gt;Project Properties</span>.</li>
+                            <li>
+                                <p><span class="SetOffFirstLevelDarkBackground">Project Toolbar</span> Click <img src="../Resources/Images/project_properties_btn1.png" class="ReduceButtonSize" />.</p>
+                                <MadCap:snippetBlock src="../Resources/Snippets/UIElements/ToOpenProjectToolbar.flsnp" />
+                            </li>
+                        </ul>
+                        <p>The Project Properties dialog opens.</p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/SourceControl/SourceControlSelectSCTab.flsnp" />
+                    </li>
+                    <li>Click <span class="Emphasis">Bind Project</span>. The Bind Project dialog opens. </li>
+                </ol>
+                <MadCap:snippetBlock src="../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareSourceControlGuide" />
+                <ol start="5">
+                    <li>Follow one of these sets of steps, depending on the source control application being used.<MadCap:dropDown class="SecondLevel"><MadCap:dropDownHead><MadCap:dropDownHotspot>if using team foundation server</MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody><MadCap:snippetBlock src="../Resources/Snippets/SourceControl/SourceControlTeamFoundationSteps.flsnp" /></MadCap:dropDownBody></MadCap:dropDown><MadCap:dropDown class="SecondLevel"><MadCap:dropDownHead><MadCap:dropDownHotspot>if using visual sourcesafe</MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody><MadCap:snippetBlock src="../Resources/Snippets/SourceControl/SourceControlVSSSteps.flsnp" /></MadCap:dropDownBody></MadCap:dropDown><MadCap:dropDown class="SecondLevel"><MadCap:dropDownHead><MadCap:dropDownHotspot>if using subversion</MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody><MadCap:snippetBlock src="../Resources/Snippets/SourceControl/SourceControlSubversionSteps.flsnp" /></MadCap:dropDownBody></MadCap:dropDown><MadCap:dropDown class="SecondLevel"><MadCap:dropDownHead><MadCap:dropDownHotspot>if using perforce</MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody><MadCap:snippetBlock src="../Resources/Snippets/SourceControl/PerforceSteps.flsnp" /></MadCap:dropDownBody></MadCap:dropDown><MadCap:dropDown class="SecondLevel"><MadCap:dropDownHead><MadCap:dropDownHotspot>if using another source control application</MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody class="Final"><MadCap:snippetBlock src="../Resources/Snippets/SourceControl/SourceControlPlugInSteps.flsnp" /><p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;"><span class="Emphasis"><MadCap:keyword term="Source control:API;API:source control;SCC API" /></span>In order to use this option, you must first employ the Microsoft SCC API. <MadCap:conditionalText MadCap:conditions="General.OnlineLive,FlareGuides.FlareSourceControlGuide">See <MadCap:xref href="More_About_Source_Control/Using_an_API_to_Integrate_Source_Control.htm" class="FirstPageOfChapter">Using an API to Integrate Source Control</MadCap:xref>.</MadCap:conditionalText></p></MadCap:dropDownBody></MadCap:dropDown></li>
+                    <li>In the Bind Project dialog, click <span class="Emphasis">OK</span>. </li>
+                    <li>If the Log In dialog opens, complete the <span class="Emphasis">User name</span> and <span class="Emphasis">Password</span> fields and click <span class="Emphasis">OK</span>.Copies of the <MadCap:variable name="Products.Flare" /> files are created and added to the folder you specified.</li>
+                    <li>In the Project Properties dialog, click <span class="Emphasis">OK</span>. The project is connected to the source control application, and you can now check files in and out as necessary.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can also bind a new <MadCap:variable name="Products.Flare" /> project to source control while creating it. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../Projects_Starting/Creating_a_Project.htm">Creating a New Project</MadCap:xref>.</MadCap:conditionalText></p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:conceptLink term="Source Control" />
+        </p>
+    </body>
+</html>

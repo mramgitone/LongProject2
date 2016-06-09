@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="5" MadCap:lastHeight="107" MadCap:lastWidth="1321">
+    <body>
+        <ol style="list-style-type: lower-alpha;">
+            <li>
+                <p>In the <span class="Emphasis">Candidate Attributes</span> area of the File Filters dialog, select the attribute with a restriction.</p>
+                <li>
+                    <p>
+                        <MadCap:snippetText src="AttributeRestriction1.flsnp" />
+                    </p>
+                </li>
+                <li>Click <span class="Emphasis">Clear Restriction</span>.</li>
+            </li>
+        </ol>
+    </body>
+    <head>
+    </head>
+</html>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="10" MadCap:lastHeight="676" MadCap:lastWidth="830">
+    <head>
+    </head>
+    <body>
+        <p class="Subheading2"><MadCap:variable name="Products.Flare" /> takes too long to open a project.</p>
+        <p class="Subheading2">Cause</p>
+        <p>This may be the result of <MadCap:variable name="Products.Flare" /> attempting to reload everything that was open in your last session. </p>
+        <p class="Subheading2">Solution</p>
+        <p>You can prevent <MadCap:variable name="Products.Flare" /> from opening everything from you last session by doing either of the following. </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>solution <span style="font-size: 0.85em;">1</span></MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Close all open topics, window panes, and other user interfaces before closing <MadCap:variable name="Products.Flare" />. This will minimize the amount of time required to start the next session of <MadCap:variable name="Products.Flare" /> because <MadCap:variable name="Products.Flare" /> will not have to open everything on startup. You can use the Window ribbon or menu to select the <span class="Emphasis">Close All Documents</span> option to make this process go more quickly. </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>solution <span style="font-size: 0.85em;">2</span></MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <ol>
+                    <li>
+                        <p> <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" /></p>
+                        <ul class="FirstLevel">
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon </span>Select <span class="Emphasis">File&gt;Options</span>.</p>
+                                <MadCap:snippetBlock src="../UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">Menu </span>Select <span class="Emphasis">Tools&gt;Ribbons</span>.</li>
+                        </ul>
+                        <p>The Options dialog opens.</p>
+                    </li>
+                    <li>Click the <span class="Emphasis">General</span> tab.</li>
+                    <li>Click the <span class="Emphasis">Auto-Reload Documents</span> check box so that it is empty. This disables the Auto-Reload Documents function, causing <MadCap:variable name="Products.Flare" />to start up without opening any documents.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

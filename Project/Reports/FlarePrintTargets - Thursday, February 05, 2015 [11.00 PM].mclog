@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadBuild Generate FlarePrintTargets" Date="2015-02-05T23:00:01.7100573-08:00">
+    <Messages>Compiling target FlareWebHelp...
+Removing previously generated content...
+Build failed: The directory is not empty.
+Compiled 0 target(s)
+Published 0 target(s)
+Saving log to "C:\TestProject\Flare_091714_v11\Project\Reports\FlarePrintTargets - Thursday, February 05, 2015 [11.00 PM].mclog"
+</Messages>
+    <Warnings />
+    <Errors>
+        <LogEntry File="../Targets/Flare/FlareWebHelp.fltar" Message="Build failed: The directory is not empty.&#xD;&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="FlareWebHelp" ErrorID="10086" />
+    </Errors>
+</MadCapLog>

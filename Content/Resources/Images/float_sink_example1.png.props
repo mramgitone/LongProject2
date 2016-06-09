@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties conditions="Products.Capture,Products.Mimic" fileTags="">
+    <ImageOverlay Profile="C:\Users\pstoecklein\Documents\My Profiles\NoBorder.capro" ProfileHash="608a0ba25ab9149d40d3c99c3ec83bb3" HasImage="false">
+        <OriginalImage Folder="C:\Trunk\Shared\Content\Resources\Images" ExportFormat="png" medium_print_EnableFormat="False" medium_print_ColorDepth="32" medium_print_DPI="300" FileName="" BackgroundColor="transparent" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" medium_print_EnableGrayScaleFormat="False" Border="none" BorderWidth="1" BorderColor="#000000" JPEGQuality="80" MinWidth="100" MinHeight="100" ComputedWidth="125" ComputedHeight="121" />
+        <Shapes>
+            <Shape Type="Oval" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" X="41" Y="68" Width="46" Height="43" Right="38" Bottom="10" Left="41" Top="68" FontSize="12pt" FontFamily="Arial" FontWeight="bold" FontStyle="normal" Underline="false" Color="White" BackgroundType="Solid" BackgroundColor="#010088">C</Shape>
+            <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" BackgroundColor="#ffffff" X="61" Y="44" Width="54" Height="33" Right="10" Bottom="44" Left="61" Top="44" FontSize="12pt" FontFamily="Arial" FontWeight="bold" FontStyle="normal" Underline="false" Color="Black" LineColor="#000000">B</Shape>
+            <Shape Type="Bubble" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" X="27" Y="17" Width="47" Height="48" TipX="5" TipY="11" BackgroundColor="#ffff00" BackgroundColorAlt="#eeeeee" BackgroundType="Solid" Color="Black" FontSize="11pt" LineColor="#000000" LineWidth="1" EnableShadow="True" ShadowDX="4" ShadowDY="4" ShadowColor="#696969" ShadowTransparency="0.7" Right="51" Bottom="56" Left="27" Top="17" FontFamily="Arial" FontWeight="bold" FontStyle="normal" Underline="false">A</Shape>
+        </Shapes>
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <Variables />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

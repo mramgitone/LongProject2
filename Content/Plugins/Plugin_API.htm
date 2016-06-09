@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="11" MadCap:lastHeight="2570" MadCap:lastWidth="827" MadCap:ignoredWords="english">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Plug-in API;API:plug-in" />Plug-In API</h1>
+        <MadCap:snippetBlock src="../Resources/Snippets/Banners/Contributor/SupportedInReviewContributionNewDocWorkflows.flsnp" MadCap:conditions="Products.Contributor" />
+        <p>A plug-in API for controlled language lets you integrate <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" /> with DLLs that you produce. For example, you might want to add customized ribbons, menus, or toolbar buttons to <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" />.</p>
+        <p>For details on creating DLLs for integration with <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" />, see <a href="http://www.madcapsoftware.com/downloads/redistributables.aspx" target="_blank">http://www.madcapsoftware.com/downloads/redistributables.aspx</a>. <span class="BoldWarning">The information provided is intended for developers or those who are very familiar with APIs and DLLs.</span></p>
+        <p>Once you have a DLL, you can follow the steps below to integrate it with <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" />.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to integrate your dll</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Make sure <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" /> is not open.</li>
+                    <li>In Windows paste your DLL file in the <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" />.app\Plugins folder where you have installed <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" />. Place the file within a subfolder under Plugins. For example, it might be C:\Program Files (x86)\<MadCap:variable name="Other.CompanyName" />\MadCap <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" /> V<MadCap:variable name="VersionNumbers.FlareVersionNumber" MadCap:conditions="Products.Flare" /><MadCap:variable name="VersionNumbers.CaptureVersionNumber" MadCap:conditions="Products.Contributor" />\<MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" />.app\Plugins\NavigationPlugin. <span class="BoldWarning">Please note that this is just an example. Your files might be in different folder than C:\Program Files (x86).</span></li>
+                    <li>Launch <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" />.</li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                        </p>
+                        <ul class="FirstLevel">
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon</span> Select <span class="Emphasis">File&gt;Options</span>.</p>
+                                <p>
+                                    <MadCap:snippetBlock src="../Resources/Snippets/UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" />
+                                </p>
+                            </li>
+                            <li><span class="SetOffFirstLevel">Menu</span> Select <span class="Emphasis">Tools&gt;Options</span>.</li>
+                        </ul>
+                        <p>The Options dialog opens.</p>
+                    </li>
+                    <li>Select the <span class="Emphasis">Plugins </span>tab. You should see a row that represents your DLL.</li>
+                    <li>
+                        <p>Click <span class="Emphasis">Enable</span>.</p>
+                        <p MadCap:conditions="Products.Flare">
+                            <img src="../Resources/Images/plugin_example.png" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/ClickOK.flsnp" />
+                    </li>
+                    <li>Restart <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" />.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="Products.Flare">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>flare plug-in api and <MadCap:keyword term="Simplified Technical English;Controlled language" />controlled language with simplified technical english</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>One of the most common uses for the Flare plug-in API is to implement controlled language with Simplified Technical English (STE). This lets you validate the language and terminology used in your Flare content, ensuring the use of standardized vocabulary and style, while improving consistency, eliminating ambiguity, and reducing complexity. This also means you can ensure compliance with corporate terminology and style guide rules.</p>
+                <p>Two STE solutions that can be integrated with Flare come from Acrolinx  (<a href="http://acrolinx.com/" target="_blank">acrolinx.com</a>) and Tedopres  (<a href="http://tedopres.com/" target="_blank">tedopres.com</a>).</p>
+                <p class="ExampleHead">example</p>
+                <p class="ExampleMiddleSection">Let's say you use Tedopres HyperSTE, which is one of the leading software solutions for STE. You want to integrate HyperSTE with your Flare project so that you can take advantage of controlled language when you write topics and snippets. You might do the following to set it all up and use it.</p>
+                <Div class="ExampleIndent">
+                    <p class="ExampleHowToHead">register hyperste and enable the plug-in</p>
+                    <ol class="Example2">
+                        <li>Install HyperSTE and launch it.<ol class="LowerAlpha"><li><p>Select <span class="Emphasis">HyperSTE for MadCap Flare</span>.</p><p><img src="../Resources/Images/hyper_ste_flare.png" alt="" title="" class="MaxWidth90Percent" /></p></li><li>Don't launch the license server.</li><li>Click <span class="Emphasis">Finish</span>.</li></ol></li>
+                        <li>Open a Flare project and select <span class="Emphasis">File&gt;Options</span>. The Options dialog opens.</li>
+                        <li>Select the <span class="Emphasis">Plugins</span> tab.</li>
+                        <li>Click <span class="Emphasis">Enable</span>.</li>
+                        <li>
+                            <p>Select the <span class="Emphasis">HyperSTE</span> ribbon and click <span class="Emphasis">Check Document</span>.</p>
+                            <p>
+                                <img src="../Resources/Images/hyper_ste_ribbon.png" alt="" title="" class="MaxWidth90Percent" />
+                            </p>
+                        </li>
+                        <li>When you check a document for the first time, the HyperSTE plugin looks for your associated license.  If you don’t have a license already, you’ll need to request one from Tedopres. To request a trial license of HyperSTE, contact <a href="mailto:STE@tedopres.com" target="_blank">STE@tedopres.com</a>.</li>
+                        <li>When a license file is returned, save it on your machine.</li>
+                        <li>From the <span class="Emphasis">HyperSTE</span> ribbon, click <span class="Emphasis">Check Document</span>.</li>
+                        <li>When the licensing UI launches, select <span class="Emphasis">I have a license</span>.  This launches the HyperSTE configuration wizard.</li>
+                        <li>Click <span class="Emphasis">Next</span> and set up HyperSTE, filling out the information as needed.</li>
+                        <li>Browse for the <span class="Emphasis">V2C</span> file and click <span class="Emphasis">Next</span>.</li>
+                        <li>Select a dictionary file (acquired from Tedopres).</li>
+                    </ol>
+                    <p class="ExampleHowToHead">use hyperste to check a content file in flare</p>
+                    <ol class="Example2">
+                        <li>Open a project in Flare.</li>
+                        <li>Open the topic you want to validate.</li>
+                        <li>From the <span class="Emphasis">HyperSTE</span> ribbon, click <span class="Emphasis">Check Document</span>.</li>
+                        <li>
+                            <p>Click on highlighted words throughout the topic. Notice the HyperSTE window explaining the terms and usage.</p>
+                            <p>
+                                <img src="../Resources/Images/hyper_ste_flare2.png" alt="" title="" class="MaxWidth90Percent" />
+                            </p>
+                        </li>
+                    </ol>
+                    <p>You can also use the other features shown in the HyperSTE ribbon in Flare.</p>
+                </Div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can also use the Plugins tab in the Options dialog to disable the plugin.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

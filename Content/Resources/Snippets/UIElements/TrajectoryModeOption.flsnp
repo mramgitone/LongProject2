@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Mimic,Products.MovieSync" MadCap:lastBlockDepth="2" MadCap:lastHeight="169" MadCap:lastWidth="1079">
+    <head>
+    </head>
+    <body>
+        <p class="TableText">Lets you determine the trajectory (path) of an object. For example, if you have added a cursor to the frame, you can select this option and then drag a path from the cursor to its destination on the frame. When you view the final movie, the object will move along the path that you created. <MadCap:conditionalText MadCap:conditions="Products.Mimic">See <MadCap:xref href="../../../Trajectories/About_Trajectories.htm" target="" title="" alt="">About Trajectories</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

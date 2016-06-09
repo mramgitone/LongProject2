@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.FeedbackExplorer" MadCap:lastBlockDepth="2" MadCap:lastHeight="153" MadCap:lastWidth="1221">
+    <body>
+        <p class="note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">If comments are not showing up in the output or Feedback Explorer after they are submitted, this could be caused by a combination of old browser cookies and the Feedback database being cleared (see <MadCap:xref href="../../../Getting_Set_Up/Clearing_the_Feedback_Database.htm">Clearing the Feedback Database</MadCap:xref>). For example, let's say that you submitted comments while testing your output. You then cleared the database and published the output. If you then try to submit a new comment in the output, it is not processed. In order to be able to submit new comments, delete the cookies in your Internet browser and try again. You will be asked to re-register (if necessary) before submitting a comment.</p>
+    </body>
+</html>

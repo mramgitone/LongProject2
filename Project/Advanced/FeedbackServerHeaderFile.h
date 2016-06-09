@@ -1,0 +1,15 @@
+#define Feedback_Server_Admin 1
+#define Feedback_Server_Setup_Dialog 2
+#define Messages_Window 3
+#define Importing_Data 5
+#define Required_Windows_Components_Dialog 6
+#define Select_SQL_Server_and_Database_Dialog 7
+#define Help_Favorites_Window 12
+#define Help_Glossary_Window 13
+#define Help_Index_Window 14
+#define Help_Search_Window 15
+#define Help_TOC_Window 16
+#define Index_Results_Window 17
+#define Manage_Windows_Dialog 18
+#define Manage_Window_Layouts_Dialog 19
+#define New_Updates_Available_Dialog 20

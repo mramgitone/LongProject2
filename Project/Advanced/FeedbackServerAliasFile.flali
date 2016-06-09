@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultAliasFile conditions="Products.FeedbackServerAdmin">
+    <Map Name="Feedback_Server_Admin" Link="/Content/Getting_Set_Up/Configuring_and_Maintaining_the_MadCap_Feedback_Server_Admin.htm" />
+    <Map Name="Feedback_Server_Setup_Dialog" Link="/Content/Getting_Set_Up/Installing_MadCap_Feedback_Server_Admin_and_Other_Components.htm" />
+    <Map Name="Importing_Data" Link="/Content/Getting_Set_Up/Importing_Data.htm" />
+    <Map Name="Messages_Window" Link="/Content/UI_Elements/Messages_Window.htm" />
+    <Map Name="Required_Windows_Components_Dialog" Link="/Content/UI_Elements/Required_Windows_Components_Dialog.htm" />
+    <Map Name="Select_SQL_Server_and_Database_Dialog" Link="/Content/Getting_Set_Up/Importing_Data.htm" />
+    <Map Name="Help_Favorites_Window" Link="/Content/UI_Elements/Help_Favorites_Window.htm" />
+    <Map Name="Help_Glossary_Window" Link="/Content/UI_Elements/Help_Glossary_Window.htm" />
+    <Map Name="Help_Index_Window" Link="/Content/UI_Elements/Help_Index_Window.htm" />
+    <Map Name="Help_Search_Window" Link="/Content/UI_Elements/Help_Search_Window.htm" />
+    <Map Name="Help_TOC_Window" Link="/Content/UI_Elements/Help_TOC_Window.htm" />
+    <Map Name="Index_Results_Window" Link="/Content/UI_Elements/Index_Results_Window.htm" />
+    <Map Name="Manage_Windows_Dialog" Link="/Content/UI_Elements/Manage_Windows_Dialog.htm" />
+    <Map Name="Manage_Window_Layouts_Dialog" Link="/Content/UI_Elements/Manage_Window_Layouts_Dialog.htm" />
+    <Map Name="New_Updates_Available_Dialog" Link="/Content/UI_Elements/New_Updates_Available_Dialog.htm" />
+</CatapultAliasFile>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultIndexLinkSet conditions="Products.FeedbackExplorer">
+    <IndexLink Term="Localization" LinkedTerm="Language support" LinkType="see" />
+    <IndexLink Term="CSH" LinkType="see" LinkedTerm="Context-sensitive Help">
+    </IndexLink>
+</CatapultIndexLinkSet>

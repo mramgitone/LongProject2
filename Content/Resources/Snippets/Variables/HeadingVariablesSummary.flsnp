@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="163" MadCap:lastWidth="704" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <body>
+        <p>You can insert Heading variables into page layouts<MadCap:conditionalText MadCap:conditions="Products.Flare"> or master pages</MadCap:conditionalText> in order to automatically display text based on the mc-heading-level style property, which by default is applied to the &lt;h1&gt; through &lt;h6&gt; heading styles that you use<MadCap:conditionalText MadCap:conditions="Products.Flare"> in your project</MadCap:conditionalText>. <MadCap:conditionalText MadCap:conditions="Products.Flare">Like Running Head variables, they are useful when creating print-based output. </MadCap:conditionalText> It's an easy way, for example, to automatically display a chapter title in the header of a chapter.<MadCap:conditionalText MadCap:conditions="Snippets.Snippet1"> For <MadCap:variable name="Outputs.PDF" />, <MadCap:variable name="Outputs.XPS" />, and <MadCap:variable name="Outputs.XHTML" /> output, you can also use Heading variables to automatically display glossary headings/terms and index headings/terms in a page layout frame.</MadCap:conditionalText></p>
+    </body>
+</html>

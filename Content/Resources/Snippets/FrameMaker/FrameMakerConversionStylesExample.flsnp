@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="252" MadCap:lastWidth="1518" MadCap:conditions="Products.Flare">
+    <body>
+        <p class="ExampleHead">example</p>
+        <p class="Example">You might use this button, for example, if you need to change a cross-reference format coming from FrameMaker into something more meaningful in <MadCap:snippetText src="../AllProductVariables.flsnp" />. There are some cross-reference building blocks in FrameMaker that do not have an equivalent in <MadCap:snippetText src="../AllProductVariables.flsnp" />. In cases such as these, the formats are preserved after conversion to <MadCap:snippetText src="../AllProductVariables.flsnp" />. However, the formats may therefore appear to be broken, but they are preserved to let you know that there was some formatting in a cross-reference style that <MadCap:snippetText src="../AllProductVariables.flsnp" /> did not understand; you can then make changes to the cross-reference style in the stylesheet. Therefore, if you already know ahead of time that you have a cross-reference style that will need to be modified for use in <MadCap:snippetText src="../AllProductVariables.flsnp" />, you can use the Conversion Styles button and change the cross-reference format to something that <MadCap:snippetText src="../AllProductVariables.flsnp" /> understands. </p>
+    </body>
+</html>

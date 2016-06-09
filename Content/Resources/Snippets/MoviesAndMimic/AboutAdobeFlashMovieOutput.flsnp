@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Mimic" MadCap:lastBlockDepth="7" MadCap:lastHeight="595" MadCap:lastWidth="1111">
+    <body>
+        <p>The Adobe Flash format is a common method for adding animation and interactivity to web pages.</p>
+        <p>Following are some important characteristics of the <MadCap:variable name="Outputs.Flash" /> format.</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Output File Types </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>The output consists of files that use the <MadCap:keyword term="SWF file" />.swf extension and XML-based <MadCap:keyword term="HTM" />files using the .htm extension. In addition, various ancillary files are created to help display the navigation. If you do not use an embedded skin, you can use the HTM files as the main entry points to view the movie output. The HTM files are used to display the Flash video (SWF), as well as the navigation for it. However, if you use an embedded skin, you can just distribute the SWF file.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Skins </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> You can edit the interface of the movie output (e.g., the navigation features) through the use of skins, including language skins. With Flash output, you can use a regular skin or an embedded skin, which integrates the navigation into the SWF file. <MadCap:conditionalText MadCap:conditions="Products.MimicOnlineOnly">See <MadCap:xref href="../../../Skins/About_Skins_Mimic.htm">About Skins</MadCap:xref> and <MadCap:xref href="../../../Language_Support/Editing_Language_Skins_Mimic.htm">Editing Language Skins</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">Embedded Integration With MadCap Flare&#160;</span>
+                    <MadCap:expanding>
+                        <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                        <MadCap:expandingBody>  If you use MadCap Flare V7 (and higher) and insert Mimic movies into your content, you can embed movies that are generating <MadCap:variable name="Outputs.Flash" /> output. When you insert the Mimic movie into Flare (<MadCap:conditionalText MadCap:conditions="Products.Mimic">in Flare, </MadCap:conditionalText>select <span class="Emphasis">Insert&gt;Multimedia&gt;Mimic Movie</span>), your version of Mimic is detected. If you have Mimic V6 (and higher), there is an option in the Edit Mimic Movie dialog in Flare for embedding a SWF file.</MadCap:expandingBody>
+                    </MadCap:expanding>
+                </p>
+                <p MadCap:conditions="Products.Mimic">For more information about inserting movies in Flare content, see the online Help provided with Flare.</p>
+            </li>
+        </ul>
+        <p>In addition to generating the output, what other actions are required?</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Java 5.0 Update 13 or Later </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> In order to take advantage of the Flash output format, you need to install the Java Runtime Environment (JRE) before generating output. You can download the JRE from <a href="http://java.sun.com/javase/downloads/index.jsp" target="_blank" MadCap:excludeAction="remove">http://java.sun.com/javase/downloads/index.jsp</a>.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Flash Player 10 </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Flash output from Mimic must be viewed on a browser with Flash Player 10 (minimum).</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+        </ul>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Users might experience issues with skin buttons (i.e., buttons used for navigation) in Flash output under certain circumstances. If you distribute Flash movie output from a web server, end users should not experience any problems with the buttons in the skin. However, if you distribute Flash movie output, for example, on a CD so that end users can access the movie locally, buttons in the skin may not function correctly when users open the movie in the HTM file. If you create movie output that you intend to be opened locally—rather than via the Web—it is recommended that you use one of the other movie formats.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

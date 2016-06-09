@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="144" MadCap:lastWidth="1105" MadCap:conditions="Products.FeedbackExplorer">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>Click the down arrow to open a submenu and select a status for a comment.</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Accepted </span>Makes the comment visible to all users in the online output.</li>
+            <li><span class="SetOffFirstLevel">Pending Review </span>Keeps the comment in a status where it is awaiting review and action.</li>
+            <li><span class="SetOffFirstLevel">Hidden </span>The comment will not be visible to any end users, but you can continue to view it in Feedback Explorer.</li>
+        </ul>
+    </body>
+</html>

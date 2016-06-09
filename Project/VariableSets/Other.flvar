@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="Products.AllProductsPlusDocBible">
+  <Variable
+    Comment=""
+    Name="CompanyName">MadCap Software</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber1"
+    OriginalName="PhoneNumber1">888-623-2271</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber2"
+    OriginalName="PhoneNumber2">858-320-0387</Variable>
+  <Variable
+    Name="FaxNumber"
+    Comment=""
+    Definition="Some text"
+    OriginalName="FaxNumber">858-320-0338</Variable>
+  <Variable
+    Name="Year"
+    Comment=""
+    Definition="Some text"
+    OriginalName="Year">2014</Variable>
+  <Variable
+    Name="Address1"
+    Comment=""
+    Definition="Some text"
+    OriginalName="Address1">7777 Fay Avenue</Variable>
+  <Variable
+    Name="Address2"
+    Comment=""
+    Definition="Some text">La Jolla, California 92037</Variable>
+  <Variable
+    Name="Website"
+    Comment=""
+    Definition="Some text">www.madcapsoftware.com</Variable>
+  <Variable
+    Name="UserGuideTitle"
+    Comment="">Getting Started Guide</Variable>
+</CatapultVariableSet>

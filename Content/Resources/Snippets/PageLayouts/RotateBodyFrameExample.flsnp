@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer" MadCap:lastBlockDepth="4" MadCap:lastHeight="374" MadCap:lastWidth="841">
+    <body>
+        <p class="ExampleHead">example</p>
+        <p class="ExampleMiddleSection">You might design a page layout so that the first frame is rotated and holds the chapter heading. With a frame break on that heading, the text that follows it (the main body) displays in the second frame, which is not rotated. In the Page Layout Editor, it might look something like this:</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/rotate_body_frame2.png" alt="" title="" class="MaxWidth75Percent" />
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide" />
+        <p class="ExampleMiddleSection">In the output, it might look something like this:</p>
+        <p class="Example">
+            <img src="../../Images/rotate_body_frame3.png" class="MaxWidth70Percent" />
+        </p>
+    </body>
+</html>

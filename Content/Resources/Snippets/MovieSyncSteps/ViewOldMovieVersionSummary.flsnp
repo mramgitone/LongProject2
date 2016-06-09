@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.MovieSync">
+    <body>
+        <p>When you make a selection in the Frames window pane, the current frame for the new movie is shown to the right in the Frame Editor. If you want to see frames for the old movie, you can do so by clicking the appropriate button <img src="../../Images/view_old_version_btn.jpg" class="ReduceButtonSize" /> in the local toolbar of the Frames window pane or the Frame Editor.</p>
+    </body>
+</html>

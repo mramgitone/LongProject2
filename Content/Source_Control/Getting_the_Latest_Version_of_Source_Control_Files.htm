@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditionTagExpression="include[Snippets.Snippet4 or Snippets.Snippet5]exclude[Snippets.Snippet1 or Snippets.Snippet2 or Snippets.Snippet3 or Snippets.Snippet6]" MadCap:conditions="Products.Flare,Products.Analyzer" MadCap:lastBlockDepth="14" MadCap:lastHeight="2053" MadCap:lastWidth="804">
+    <head><title></title>
+        <link href="../Resources/Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="Source Control" />
+            <MadCap:keyword term="Source control:get latest version;Projects:source control" />
+            <MadCap:concept term="FilterSourceControl" />Getting the Latest Version<MadCap:conditionalText MadCap:conditions="General.OnlineLive"> of Source Control Files</MadCap:conditionalText></h1>
+        <p MadCap:conditions="FlareGuides.FlareTargetsGuide,General.OnlineLive">
+            <MadCap:snippetText src="../Resources/Snippets/SourceControl/SourceControlGetLatestVersionSummary.flsnp" />
+        </p>
+        <p class="FirstPageOfChapter" MadCap:conditions="FlareGuides.FlareSourceControlGuide">
+            <MadCap:snippetText src="../Resources/Snippets/SourceControl/SourceControlGetLatestVersionSummary.flsnp" />
+        </p>
+        <p MadCap:conditions="FlareGuides.FlareTargetsGuide,General.OnlineLive">Following are steps for getting the latest version of all files in a project automatically, as well as steps for getting the latest version of files manually.</p>
+        <p MadCap:conditions="FlareGuides.FlareSourceControlGuide" class="FirstPageOfChapter">Following are steps for getting the latest version of all files in a project automatically, as well as steps for getting the latest version of files manually.</p>
+        <MadCap:snippetBlock src="../Resources/Snippets/ForMoreInfo/SeeFlareOnlineHelp.flsnp" MadCap:conditions="Products.Analyzer" />
+        <MadCap:snippetBlock src="../Resources/Snippets/ThisChapterDiscussesFollowing.flsnp" MadCap:conditions="FlareGuides.FlareSourceControlGuide" />
+        <h2 MadCap:conditions="Products.FlarePrintOnly">Automatic Get</h2>
+        <MadCap:dropDown MadCap:conditions="Products.Flare">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="Products.FlareOnlineOnly">automatic get</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../Resources/Snippets/SourceControl/GetFilesAutomatically1.flsnp" MadCap:conditions="Products.Flare" />
+                <p MadCap:conditions="Products.Flare">With this option:</p>
+                <ul class="FirstLevel" MadCap:conditions="Products.Flare">
+                    <li>You will not be prompted before the "get" is performed.</li>
+                    <li><MadCap:variable name="Products.Flare" /> will not get the latest copy of the files in the Targets folder, because that would conflict with the generation of the output.</li>
+                    <li>Conflicts with files will not cause local files to be overwritten. Therefore, if your local files are writable or already checked out, those files will be kept, rather than overwritten with the source control files.</li>
+                </ul>
+                <p class="Subheading" MadCap:conditions="Products.Flare">how to get the latest version of source control files automatically</p>
+                <ol MadCap:conditions="Products.Flare">
+                    <li>Open the target.</li>
+                    <li>In the Target Editor, select the <span class="Emphasis">General</span> tab. </li>
+                    <li>Select the check box labeled <span class="Emphasis">Automatically get latest version of all files before generating the target</span>.</li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                    <li>Build the target.</li>
+                </ol>
+                <MadCap:dropDown>
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="Products.FlareOnlineOnly">note</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p class="note" MadCap:conditions="Products.Flare" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">The "automatic get" feature is not supported if you are building output using the command line, as opposed to the <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" /> interface.</p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTargetsGuide" />
+        <h2 MadCap:conditions="Products.FlarePrintOnly">Manual Get</h2>
+        <MadCap:dropDown MadCap:conditions="Products.Flare">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="Products.FlareOnlineOnly">manual get</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p MadCap:conditions="Products.Flare">You can manually get the latest version of all of the files in the <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" /> project or specific files only.</p>
+                <p class="Subheading" MadCap:conditions="Products.Flare">how to get the latest version of source control files manually</p>
+                <ol MadCap:conditions="Products.Flare">
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                        <ul class="FirstLevel">
+                            <li><span class="SetOffFirstLevel">Pending Check-Ins Window Pane</span> From the <span class="Emphasis">Source Control</span> ribbon or <span class="Emphasis">View</span> menu, open the Pending Check-Ins window pane. Select the files in the window pane that you want to check out, right-click, and select <span class="Emphasis">Source Control&gt;Get Latest Version</span>  (for selected files) or <span class="Emphasis">Source Control&gt;Project&gt;Get Latest Version All</span>  (for all files in the project).</li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon</span> <MadCap:snippetText src="../Resources/Snippets/UIElements/SelectSourceControlRibbon.flsnp" /> In the <span class="Emphasis">File</span> section select <span class="Emphasis">Get Latest Version</span> (for selected files). Alternatively, in the <span class="Emphasis">Project</span> section you can click <span class="Emphasis">Get Latest Version All</span> (for all files in the project). </p>
+                                <p MadCap:conditions="General.OnlineLive">
+                                    <MadCap:snippetBlock src="../Resources/Snippets/UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" />
+                                </p>
+                            </li>
+                            <li><span class="SetOffFirstLevel">Menu</span> Select <span class="Emphasis">File&gt;Source Control&gt;Get Latest Version</span>  (for selected files) or <span class="Emphasis">File&gt;Source Control&gt;Project&gt;Get Latest Version All</span>  (for all files in the project).</li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Standard Toolbar</span> Click the down arrow next to the <span class="Emphasis">Source Control</span> button <img src="../Resources/Images/source_control_btn.png" class="ReduceButtonSize" /> and select <span class="Emphasis">Get Latest Version</span>  (for selected files) or <span class="Emphasis">Project&gt;Get Latest Version All</span>  (for all files in the project). </p>
+                                <MadCap:snippetBlock src="../Resources/Snippets/UIElements/ToOpenStandardToolbar.flsnp" />
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <p>If the local and server files are the same, a message tells you so. Click <span class="Emphasis">OK</span>.</p>
+                        <p>If the local file is different form the file on the server, the Resolve Conflicts dialog opens. If you want to accept all of the differences between the local and server files, thus merging them, click <span class="Emphasis">Auto Merge All</span>. If you want to review the differences in the files side by side and resolve each conflict, click <span class="Emphasis">Resolve</span>. <MadCap:conditionalText MadCap:conditions="General.OnlineLive,FlareGuides.FlareSourceControlGuide">For more information about merging files and resolving conflicts, see <MadCap:xref href="More_About_Source_Control/Merging_Source_Control_Files.htm">Merging Source Control Files</MadCap:xref>.</MadCap:conditionalText></p>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">By default, when you open a project that is bound to source control, a message automatically asks if you wanted to get the latest version of files. However, you can disable this prompt in the Options dialog. <MadCap:conditionalText MadCap:conditions="FlareGuides.FlareSourceControlGuide,General.OnlineLive">See <MadCap:xref href="More_About_Source_Control/Disabling_Get_Latest_Prompt.htm" class="FirstPageOfChapter">Disabling the Get Latest Prompt for Source Control</MadCap:xref>.</MadCap:conditionalText></p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:conceptLink term="Source Control" />
+        </p>
+    </body>
+</html>

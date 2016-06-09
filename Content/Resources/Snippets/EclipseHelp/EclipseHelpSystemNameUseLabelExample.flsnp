@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="287" MadCap:lastWidth="999" MadCap:conditions="Products.Flare">
+    <body>
+        <p class="ExampleHead">example</p>
+        <p class="ExampleMiddleSection">If you choose the <span class="Emphasis">Use Label</span> option…</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/eclipse-target-use-label.png" class="MaxWidth90Percent" />
+        </p>
+        <p class="ExampleMiddleSection">…your Help system name appears as the label:</p>
+        <p class="Example">
+            <img src="../../Images/eclipse-help-plugin-created-with-flare.png" class="MaxWidth90Percent" />
+        </p>
+    </body>
+</html>

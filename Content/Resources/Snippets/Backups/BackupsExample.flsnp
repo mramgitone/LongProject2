@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="165" MadCap:lastWidth="1124" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Lingo">
+    <body>
+        <p class="ExampleHead">example</p>
+        <p class="Example">You might use this feature, for example, if you want to make some changes to a file but are not certain if you will want to keep them when you are finished. Therefore, you can make a backup of the file in question. When you are finished making your changes, you might decide that you prefer the file the way it was. If so, you can quickly roll back to the backup file, which overwrites the changes that you made.</p>
+    </body>
+</html>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="4" MadCap:lastHeight="1043" MadCap:lastWidth="1238">
+    <body>
+        <p class="ExampleHead">example</p>
+        <p class="ExampleMiddleSection">Let's say you want to add Next and Previous buttons, as well as the Home button, at the bottom of each topic in your WebHelp output. Therefore, you open your skin and select the <span class="Emphasis">Topic Toolbar</span> tab. The default settings already include the Next Topic, Current Topic Index, and Previous Topic items.</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/topic_toolbar_example1.png" class="MaxWidth80Percent">
+            </img>
+        </p>
+        <p class="ExampleMiddleSection">In the <span class="Emphasis">Selected</span> section, you select <span class="Emphasis">Current Topic Index</span>  and click <img src="../../Images/delete_btn.png" class="ReduceButtonSize" /> at the bottom of the tab. This moves that item back to the Available section on the left.</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/topic_toolbar_example1a.png" class="MaxWidth90Percent">
+            </img>
+        </p>
+        <p class="ExampleMiddleSection">Next, in the <span class="Emphasis">Available</span> section, you select the <span class="Emphasis">Home</span> item and click <img src="../../Images/move_item_to_right_btn.png" class="ReduceButtonSize" /> to move it to the Selected section.</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/topic_toolbar_example1b.png" class="MaxWidth90Percent">
+            </img>
+        </p>
+        <p class="ExampleMiddleSection">Now that the settings in the Skin Editor are completed, you can save your changes and insert the topic toolbar proxy (alternatively, you could have inserted the proxy before editing the skin). If you had wanted the custom toolbar to display in only a few topics, you would probably insert the proxy directly into those topics. However, because you want the toolbar to display at the bottom of every topic, the best way to accomplish this is to insert the proxy into a master page.</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/topic_toolbar_example2.png" class="MaxWidth90Percent">
+            </img>
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareSkinsGuide" />
+        <p class="ExampleMiddleSection">After making sure both the skin and the master page are associated with the WebHelp target, you can generate the output.</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/topic_toolbar_example3.png" class="MaxWidth90Percent">
+            </img>
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareSkinsGuide" />
+        <p class="ExampleMiddleSection">Suppose you have created your own arrow images and want to use them instead of the images provided by <MadCap:snippetText src="../AllProductVariables.flsnp"></MadCap:snippetText>. You can simply select your image files in the Styles tab of the Skin Editor.</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/topic_toolbar_example4.png" class="MaxWidth90Percent" />
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareSkinsGuide" />
+        <p class="ExampleMiddleSection">Afterwards, the output might look something like this:</p>
+        <p class="Example">
+            <img src="../../Images/topic_toolbar_example5.png" class="MaxWidth90Percent" />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="8" MadCap:lastHeight="1483" MadCap:lastWidth="381">
+    <head><title></title>
+        <link href="../../Resources/Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+        <meta name="description" content="Configure a MadCap&#160;Flare target to ignore certain glossary terms in a topic, so the program will not automatically convert those entries into term links." />
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="FilterGlossaries" />
+            <MadCap:keyword term="Glossaries:converting terms;Converting:glossary terms to links;Styles:glossaries" />Ignoring Glossary Terms in Styles</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Banners/Flare/FeatureSupportedAll.flsnp" MadCap:conditions="General.OnlineLive" />
+        <p>You can configure a target to convert glossary terms to links automatically when they are found in topics. In addition, there is a way to purposely ignore some terms so that they are not converted to links. This can be done by setting the mc-disable-glossary-terms property on a style. By default, this feature is turned on for &lt;h1&gt; through &lt;h6&gt; styles, as well as hyperlinks (i.e., content with the &lt;a&gt; tag). This means that if a glossary term is found in a heading or text hyperlink, it will not be converted to a link. However, if the same term is found in, say, a regular paragraph, the term will be converted to a link (as long as you do not turn this feature on for that paragraph style). <MadCap:conditionalText MadCap:conditions="General.OnlineLive">For information about configuring a target to create glossary term links automatically, see <MadCap:xref href="../Associating_Glossaries_with_Targets.htm">Associating Glossaries with Targets</MadCap:xref>.</MadCap:conditionalText></p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to set a style to ignore conversion of glossary terms to links</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/Styles/EditStyleStep1.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/Styles/StylesMakeSureSimplifiedViewButtonShown.flsnp">
+                        </MadCap:snippetText>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/Styles/FilterAllStylesStep.flsnp" />
+                    </li>
+                    <li>
+                        <p>In the <span class="Emphasis">Styles</span> section on the left side of the editor, find and select the appropriate style class.</p>
+                        <MadCap:dropDown>
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p class="ExampleHead">example</p>
+                                <p class="Example">Let's say you want terms to be converted to glossary links automatically, unless those terms are found in a paragraph with the p.Tip style. In this case, you would select the p.Tip style class so that you can apply this feature to it.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/Styles/SelectShowPropertyGroupsStep.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/Styles/ExpandUnclassifiedGroupStep.flsnp" />
+                    </li>
+                    <li>Click in the column to the right of <span class="Emphasis">mc-disable-glossary-terms</span>, and select <span class="Emphasis">true</span>.</li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:conceptLink term="Glossaries" />
+        </p>
+        <MadCap:snippetBlock src="../../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide">
+        </MadCap:snippetBlock>
+    </body>
+</html>

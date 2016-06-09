@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare">
+    <body>
+        <p>When you look at the output from the Web Print Mobile template, you will see a few cross-reference links. In the online outputs the cross-references look and act like hyperlinks that you see all over the Internet. However, they are smarter than regular hyperlinks because the text in the link is dynamic (e.g., if you change the heading in a topic where a cross-reference is pointing, the link will get updated automatically with the new text). Also, cross-references in print-based output can be configured so that they are appropriate for that format (e.g., with page numbers). But you only need one cross-reference to do the work in both kinds of outputs. In our project, we created a simple cross-reference format, and used it when inserting links in various places.</p>
+    </body>
+</html>

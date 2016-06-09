@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare">
+    <body>
+        <p>When you export project files, you have the option of saving your settings in the form of an export project file. This file is stored in the Exports folder in the Project Organizer. When you open this export file, the Export Project File Editor opens. This editor lets you change any of your settings (if necessary) and export the project again.</p>
+    </body>
+</html>

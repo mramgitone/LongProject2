@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo">
+    <body>
+        <p class="note">If you return to the basic editor, the rules you created in the advanced editor remain active but are hidden. If you create new rules in the basic editor, they are added to the user-defined rule set the next time you open the advanced editor.</p>
+    </body>
+    <head>
+    </head>
+</html>

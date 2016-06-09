@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="47" MadCap:lastWidth="1245">
+    <body>
+        <p>determine which topic headings will be displayed at which level in the generated TOC. For example, even though all of your topics may use a heading style of &lt;h1&gt;, you might want some of those topic headings to display at the first level in the print TOC (acting as an &lt;h1&gt;), others at the second level (acting as an &lt;h2&gt;), and still others at the third level (acting as an &lt;h3&gt;).</p>
+    </body>
+</html>

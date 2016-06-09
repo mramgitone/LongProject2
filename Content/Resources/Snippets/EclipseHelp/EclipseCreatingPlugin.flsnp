@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="204" MadCap:lastWidth="861">
+    <body>
+        <p>The <MadCap:variable name="Outputs.EclipseHelp"></MadCap:variable> output type gives you the ability to create a plug-in for the <MadCap:variable name="Outputs.EclipseHelp"></MadCap:variable> system. A plug-in lets you extend the existing Help contents of the Eclipse IDE by including your own documentation.</p>
+        <p>
+            <img src="../../Images/eclipse-plugin-defined.png" class="MaxWidth100Percent">
+            </img>
+        </p>
+        <p>If you plan to create an Eclipse plug-in with <MadCap:variable name="Products.Flare" />, you must install some additional Eclipse components before getting started. Once the components are in place, you must also set up the <MadCap:variable name="Outputs.EclipseHelp" /> options in the Target Editor in Flare.<MadCap:conditionalText MadCap:conditions="General.OnlineLive"> See <MadCap:xref href="../../../Output/Eclipse_Output/Creating_an_Eclipse_Help_Plug-in.htm">Creating an Eclipse Help Plug-In</MadCap:xref> and <MadCap:xref href="../../../Targets/More_About_Targets/Specifying_Eclipse_Options.htm">Specifying Eclipse Options</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

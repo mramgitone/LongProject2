@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="129" MadCap:lastWidth="1221">
+    <body>
+        <p class="note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">If you apply a master stylesheet at either the target or project level, you will no longer be able to associate stylesheets at the topic level (unless you remove the master stylesheet associations at the project and/or target level). If you have previously applied multiple stylesheets to a single topic and then switch to using a master stylesheet, you should make sure that all of the styles you need from the various stylesheets are all included in your master stylesheet. </p>
+    </body>
+</html>

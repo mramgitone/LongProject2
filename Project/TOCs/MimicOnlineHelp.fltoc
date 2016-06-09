@@ -1,0 +1,2269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Mimic">
+  <TocEntry
+    Title="Welcome"
+    Link="/Content/Introduction_Topics/WelcomeMimic.htm"
+    conditions=""></TocEntry>
+  <TocEntry
+    Title="What's New in this Version"
+    Link="/Content/Introduction_Topics/Whats_New_in_This_Version_Mimic.htm"></TocEntry>
+  <TocEntry
+    Title="Key Features"
+    Link="/Content/Introduction_Topics/Key_Features_Mimic.htm" />
+  <TocEntry
+    Title="PDF Guides"
+    Link="/Content/PDF_Guides/PDF_Guides.htm" />
+  <TocEntry
+    Title="Tour of the Workspace">
+    <TocEntry
+      Title="Workspace—Touring"
+      Link="/Content/Tour_of_the_Workspace/Touring_the_Workspace_Mimic.htm" />
+    <TocEntry
+      Title="Ribbons"
+      Link="/Content/Tour_of_the_Workspace/Ribbons_Mimic.htm" />
+    <TocEntry
+      Title="Quick Access Toolbar"
+      Link="/Content/Tour_of_the_Workspace/Quick_Access_Toolbar.htm" />
+    <TocEntry
+      Title="Menus"
+      Link="/Content/Tour_of_the_Workspace/Menus_Mimic.htm" />
+    <TocEntry
+      Title="Global Toolbars"
+      Link="/Content/Tour_of_the_Workspace/Global_Toolbars_Mimic.htm" />
+    <TocEntry
+      Title="Workspace—Customizing"
+      Link="/Content/Tour_of_the_Workspace/Customizing_the_Workspace.htm"></TocEntry>
+    <TocEntry
+      Title="More About Customizing the Workspace">
+      <TocEntry
+        Title="Color Theme for Interface"
+        Link="/Content/Tour_of_the_Workspace/More_About_Customizing_the_Workspace/Selecting_an_Interface_Color_Theme.htm" />
+      <TocEntry
+        Title="Ribbons and Menus/Toolbars—Switching"
+        Link="/Content/Tour_of_the_Workspace/More_About_Customizing_the_Workspace/SwitchingRibbonMenu.htm" />
+      <TocEntry
+        Title="Ribbons—Minimizing"
+        Link="/Content/Tour_of_the_Workspace/More_About_Customizing_the_Workspace/Minimizing_Ribbons.htm" />
+      <TocEntry
+        Title="Window Layouts"
+        Link="/Content/Tour_of_the_Workspace/More_About_Customizing_the_Workspace/Window_Layouts.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="How to Create Movies">
+    <TocEntry
+      Title="Basic Steps"
+      Link="/Content/Steps/Basic_Steps_for_Creating_Movies.htm"
+      MarkAsNew="False" />
+    <TocEntry
+      Title="(Optional) Create a Collection">
+      <TocEntry
+        Title="About Movie Collections"
+        Link="/Content/Movie_Collections/About_Movie_Collections.htm" />
+      <TocEntry
+        Title="Creating"
+        Link="/Content/Movie_Collections/Creating_a_Movie_Collection.htm" />
+      <TocEntry
+        Title="Opening"
+        Link="/Content/Movie_Collections/Opening_Collections.htm" />
+      <TocEntry
+        Title="More About Collections">
+        <TocEntry
+          Title="Comments—Adding to Collections"
+          Link="/Content/Movie_Collections/Adding_Comments_to_Collections.htm" />
+        <TocEntry
+          Title="Mimic Files"
+          Link="/Content/Files/Mimic_Files.htm" />
+        <TocEntry
+          Title="Templates"
+          Link="/Content/Templates/About_Templates_Mimic.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Create a Movie"
+      ReplaceMergeNode="false">
+      <TocEntry
+        Title="About Movies"
+        Link="/Content/Movies_Creating/About_Movies.htm" />
+      <TocEntry
+        Title="Blank"
+        Link="/Content/Movies_Creating/Creating_Blank_Movies.htm" />
+      <TocEntry
+        Title="Creating"
+        Link="/Content/Movies_Creating/Creating_a_Movie.htm" />
+      <TocEntry
+        Title="Importing"
+        Link="/Content/Movies_Creating/Importing_Movies.htm" />
+      <TocEntry
+        Title="PowerPoint Presentations"
+        Link="/Content/Movies_Creating/Creating_Movies_from_PowerPoint_Presentations.htm" />
+      <TocEntry
+        Title="Recording"
+        Link="/Content/Movies_Creating/Recording_Movies.htm" />
+      <TocEntry
+        Title="Screen Captures"
+        Link="/Content/Movies_Creating/Creating_Movies_from_Screen_Captures.htm" />
+      <TocEntry
+        Title="Single Images"
+        Link="/Content/Movies_Creating/Creating_Movies_from_Single_Images.htm" />
+      <TocEntry
+        Title="More About Movies">
+        <TocEntry
+          Title="Audio Input Source"
+          Link="/Content/Movies_Creating/More_About_Creating_Movies/Selecting_the_Audio_Input_Source.htm" />
+        <TocEntry
+          Title="Background"
+          Link="/Content/Appearance/Color/Setting_the_Color_for_a_Movie_Background.htm" />
+        <TocEntry
+          Title="Callouts—Excluding"
+          Link="/Content/Objects/Callouts/Excluding_Callouts_from_Recorded_Movies.htm" />
+        <TocEntry
+          Title="Callouts—Style"
+          Link="/Content/Objects/Callouts/Selecting_the_Callout_Style_for Recording.htm" />
+        <TocEntry
+          Title="Cursors—Excluding"
+          Link="/Content/Objects/Cursors/Excluding_Cursors_from_Recorded_Movies.htm" />
+        <TocEntry
+          Title="Cursors—Style"
+          Link="/Content/Objects/Cursors/Selecting_the_Cursor_Style_for Recording.htm" />
+        <TocEntry
+          Title="Deleting"
+          Link="/Content/Movies_Creating/More_About_Creating_Movies/Deleting_Movies.htm" />
+        <TocEntry
+          Title="End Action"
+          Link="/Content/Actions/Selecting_an_End_Action_for_a_Movie.htm" />
+        <TocEntry
+          Title="Frames—About"
+          Link="/Content/Frames/About_Frames.htm" />
+        <TocEntry
+          Title="Frames—Capturing"
+          Link="/Content/Movies_Creating/More_About_Creating_Movies/Capturing_New_Frames.htm" />
+        <TocEntry
+          Title="Frames—Recording"
+          Link="/Content/Movies_Creating/More_About_Creating_Movies/Recording_New_Frames.htm" />
+        <TocEntry
+          Title="Looping"
+          Link="/Content/Movies_Creating/More_About_Creating_Movies/Looping_Movies.htm" />
+        <TocEntry
+          Title="Magnifier"
+          Link="/Content/Movies_Creating/More_About_Creating_Movies/Enabling_and_Disabling_the_Magnifier.htm" />
+        <TocEntry
+          Title="Mimic Files"
+          Link="/Content/Files/Mimic_Files.htm" />
+        <TocEntry
+          Title="Movies"
+          Link="/Content/Movies_Creating/More_About_Creating_Movies/Opening_Movies.htm" />
+        <TocEntry
+          Title="Organizing"
+          Link="/Content/Movies_Creating/More_About_Creating_Movies/Organizing_Movies_in_a_Collection.htm" />
+        <TocEntry
+          Title="Output Format—Default"
+          Link="/Content/Output/Selecting_the_Movie_Format.htm" />
+        <TocEntry
+          Title="Previewing"
+          Link="/Content/Movies_Creating/More_About_Creating_Movies/Previewing_Movies.htm" />
+        <TocEntry
+          Title="Recording Mode"
+          Link="/Content/Movies_Creating/More_About_Creating_Movies/Selecting_the_Recording_Mode.htm" />
+        <TocEntry
+          Title="Renaming"
+          Link="/Content/Movies_Creating/More_About_Creating_Movies/Renaming_Movies.htm" />
+        <TocEntry
+          Title="Resizing"
+          Link="/Content/Appearance/Resizing/Resizing_Movies.htm" />
+        <TocEntry
+          Title="Sound for Recording"
+          Link="/Content/Movies_Creating/More_About_Creating_Movies/Enabling_and_Disabling_Sound_for_Recording.htm" />
+        <TocEntry
+          Title="Titles"
+          Link="/Content/Movies_Creating/More_About_Creating_Movies/Adding_Titles_to_Movies.htm" />
+        <TocEntry
+          Title="Typing Box Shapes"
+          Link="/Content/Movies_Creating/More_About_Creating_Movies/Adding_Typing_Box_Shapes_for_Recording.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Edit a Movie">
+      <TocEntry
+        Title="Editing a Movie"
+        Link="/Content/Steps/Editing_a_Movie.htm" />
+      <TocEntry
+        Title="Actions">
+        <TocEntry
+          Title="About Actions"
+          Link="/Content/Actions/About_Actions.htm" />
+        <TocEntry
+          Title="End Action—Cursor"
+          Link="/Content/Objects/Cursors/Selecting_an_End_Action_for_a_Cursor.htm" />
+        <TocEntry
+          Title="End Action—Movie"
+          Link="/Content/Actions/Selecting_an_End_Action_for_a_Movie.htm" />
+        <TocEntry
+          Title="Selecting for Objects"
+          Link="/Content/Actions/Selecting_Actions_for_Objects.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Appearance of Frames and Objects">
+        <TocEntry
+          Title="About the Appearance of Frames and Objects"
+          Link="/Content/Appearance/About_the_Appearance_of_Frames_and_Objects.htm" />
+        <TocEntry
+          Title="Arrows">
+          <TocEntry
+            Title="Arrows for a Line"
+            Link="/Content/Appearance/Arrows/Setting_the_Arrows_for_a_Line_Mimic.htm" />
+          <TocEntry
+            Title="Shape"
+            Link="/Content/Appearance/Arrows/Setting_the_Shape_of_an_Arrow_Mimic.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Borders and Padding">
+          <TocEntry
+            Title="Borders"
+            Link="/Content/Appearance/Borders/Adding_Borders_Mimic.htm" />
+          <TocEntry
+            Title="Padding"
+            Link="/Content/Appearance/Padding/Adding_Padding_Mimic.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Color">
+          <TocEntry
+            Title="Frame Background"
+            Link="/Content/Appearance/Color/Setting_the_Color_for_a_Frame_Background.htm" />
+          <TocEntry
+            Title="Movie Background"
+            Link="/Content/Appearance/Color/Setting_the_Color_for_a_Movie_Background.htm" />
+          <TocEntry
+            Title="Object"
+            Link="/Content/Appearance/Color/Setting_the_Color_for_an_Object_Mimic.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Effects">
+          <TocEntry
+            Title="About Effects"
+            Link="/Content/Appearance/Effects/About_Effects_Mimic.htm"></TocEntry>
+          <TocEntry
+            Title="Animation">
+            <TocEntry
+              Title="Adding"
+              Link="/Content/Appearance/Effects/Animation_Effects/Adding_Animation_Effects.htm" />
+            <TocEntry
+              Title="Editing"
+              Link="/Content/Appearance/Effects/Animation_Effects/Editing_Animation_Effects.htm" />
+          </TocEntry>
+          <TocEntry
+            Title="Blur">
+            <TocEntry
+              Title="Adding"
+              Link="/Content/Appearance/Effects/Blur_Effects/Adding_Blur_Effects_Mimic.htm" />
+            <TocEntry
+              Title="Blur-Inside Effects—Adding"
+              Link="/Content/Appearance/Effects/Blur_Effects/Adding_Blur_Inside_Effects_Mimic.htm" />
+            <TocEntry
+              Title="Blur-Inside Effects—Editing"
+              Link="/Content/Appearance/Effects/Blur_Effects/Editing_Blur_Inside_Effects_Mimic.htm" />
+            <TocEntry
+              Title="Editing"
+              Link="/Content/Appearance/Effects/Blur_Effects/Editing_Blur_Effects_Mimic.htm" />
+          </TocEntry>
+          <TocEntry
+            Title="Gray Scale">
+            <TocEntry
+              Title="Adding"
+              Link="/Content/Appearance/Effects/Gray_Scale_Effects/Adding_Gray_Scale_Effects_Mimic.htm" />
+          </TocEntry>
+          <TocEntry
+            Title="Shading">
+            <TocEntry
+              Title="Adding"
+              Link="/Content/Appearance/Effects/Shading_Effects/Adding_Shading_Effects_Mimic.htm"></TocEntry>
+            <TocEntry
+              Title="Editing"
+              Link="/Content/Appearance/Effects/Shading_Effects/Editing_Shading_Effects_Mimic.htm" />
+          </TocEntry>
+          <TocEntry
+            Title="Shadow">
+            <TocEntry
+              Title="Adding"
+              Link="/Content/Appearance/Effects/Shadow_Effects/Adding_Shadow_Effects_Mimic.htm" />
+            <TocEntry
+              Title="Editing"
+              Link="/Content/Appearance/Effects/Shadow_Effects/Editing_Shadow_Effects_Mimic.htm" />
+            <TocEntry
+              Title="Line"
+              Link="/Content/Appearance/Effects/Shadow_Effects/Adding_a_Shadow_to_a_Line_Mimic.htm" />
+          </TocEntry>
+          <TocEntry
+            Title="Torn Edge">
+            <TocEntry
+              Title="Adding"
+              Link="/Content/Appearance/Effects/Torn_Edge_Effects/Adding_Torn_Edge_Effects_Mimic.htm" />
+          </TocEntry>
+          <TocEntry
+            Title="Zoom">
+            <TocEntry
+              Title="Adding"
+              Link="/Content/Appearance/Effects/Zoom_Effects/Adding_Zoom_Effects_Mimic.htm" />
+            <TocEntry
+              Title="Editing"
+              Link="/Content/Appearance/Effects/Zoom_Effects/Editing_Zoom_Effects_Mimic.htm" />
+          </TocEntry>
+        </TocEntry>
+        <TocEntry
+          Title="Look of Objects">
+          <TocEntry
+            Title="Default Look—Setting"
+            Link="/Content/Appearance/Look_of_Objects/Setting_the_Default_Look_for_Objects_Mimic.htm" />
+          <TocEntry
+            Title="Default Look—Using"
+            Link="/Content/Appearance/Look_of_Objects/Using_the_Default_Look_for_Objects_Mimic.htm" />
+          <TocEntry
+            Title="Making All Objects Look the Same"
+            Link="/Content/Appearance/Look_of_Objects/Making_All_Objects_Look_the_Same_Mimic.htm" />
+          <TocEntry
+            Title="Styles"
+            Link="/Content/Appearance/Look_of_Objects/Selecting_Styles_for_Objects_Mimic.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Loops">
+          <TocEntry
+            Title="Coordinates"
+            Link="/Content/Appearance/Coordinates/Setting_the_Coordinates_for_a_Loop_Mimic.htm" />
+          <TocEntry
+            Title="Thickness"
+            Link="/Content/Appearance/Thickness/Setting_the_Thickness_for_a_Loop.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Pointer">
+          <TocEntry
+            Title="Adjusting on a Bubble Shape"
+            Link="/Content/Appearance/Pointer/Adjusting_the_Pointer_on_a_Bubble_Shape_Mimic.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Points">
+          <TocEntry
+            Title="Deleting"
+            Link="/Content/Appearance/Points/Deleting_Points_Mimic.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Positioning Objects">
+          <TocEntry
+            Title="Aligning"
+            Link="/Content/Appearance/Positioning_Objects/Aligning_Objects_Mimic.htm" />
+          <TocEntry
+            Title="Anchors"
+            Link="/Content/Appearance/Positioning_Objects/Setting_Object_Anchors.htm" />
+          <TocEntry
+            Title="Floating and Sinking"
+            Link="/Content/Appearance/Positioning_Objects/Floating_and_Sinking_Objects_Mimic.htm" />
+          <TocEntry
+            Title="Moving"
+            Link="/Content/Appearance/Positioning_Objects/Moving_Objects_Around.htm" />
+          <TocEntry
+            Title="Rotating"
+            Link="/Content/Appearance/Positioning_Objects/Rotating_Objects.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Resizing Movies and Objects">
+          <TocEntry
+            Title="Movies"
+            Link="/Content/Appearance/Resizing/Resizing_Movies.htm" />
+          <TocEntry
+            Title="Objects"
+            Link="/Content/Appearance/Resizing/Resizing_Objects.htm" />
+        </TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="Audio">
+        <TocEntry
+          Title="About Audio"
+          Link="/Content/Audio/About_Audio_Mimic.htm" />
+        <TocEntry
+          Title="Editing"
+          Link="/Content/Audio/Editing_Audio_Files.htm" />
+        <TocEntry
+          Title="Enabling and Disabling"
+          Link="/Content/Movies_Creating/More_About_Creating_Movies/Enabling_and_Disabling_Sound_for_Recording.htm" />
+        <TocEntry
+          Title="Frames"
+          Link="/Content/Audio/Adding_Audio_to_Frames.htm" />
+        <TocEntry
+          Title="Looping"
+          Link="/Content/Audio/Looping_Audio.htm" />
+        <TocEntry
+          Title="Movies"
+          Link="/Content/Audio/Adding_Audio_to_Movies.htm" />
+        <TocEntry
+          Title="Objects—Adding Audio as"
+          Link="/Content/Objects/Audio/Adding_Audio_as_Objects.htm" />
+        <TocEntry
+          Title="Objects—Adding Audio to"
+          Link="/Content/Audio/Adding_Audio_to_Objects.htm" />
+        <TocEntry
+          Title="Recording"
+          Link="/Content/Audio/Recording_Audio.htm" />
+        <TocEntry
+          Title="More About Editing Audio">
+          <TocEntry
+            Title="Copying Sections"
+            Link="/Content/Audio/Editing_Audio/Copying_Sections_of_an_Audio_File.htm" />
+          <TocEntry
+            Title="Deleting Sections"
+            Link="/Content/Audio/Editing_Audio/Deleting_Sections_of_an_Audio_File.htm" />
+          <TocEntry
+            Title="Moving Sections"
+            Link="/Content/Audio/Editing_Audio/Moving_Sections_of_an_Audio_File.htm" />
+          <TocEntry
+            Title="Recording New Sound"
+            Link="/Content/Audio/Editing_Audio/Recording_New_Sound_for_an_Audio_File.htm" />
+          <TocEntry
+            Title="Renaming"
+            Link="/Content/Audio/Editing_Audio/Renaming_Audio_Files.htm" />
+          <TocEntry
+            Title="Silent Areas"
+            Link="/Content/Audio/Editing_Audio/Inserting_Silent_Areas_into_an_Audio_File.htm" />
+          <TocEntry
+            Title="Volume"
+            Link="/Content/Audio/Editing_Audio/Adjusting_the_Volume_of_an_Audio_File.htm" />
+        </TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="Conditions">
+        <TocEntry
+          Title="About Conditions"
+          Link="/Content/Condition_Tags/About_Conditions_Mimic.htm" />
+        <TocEntry
+          Title="Applying"
+          Link="/Content/Condition_Tags/Applying_Conditions_Mimic.htm" />
+        <TocEntry
+          Title="Associating"
+          Link="/Content/Condition_Tags/Associating_Condition_Tags_Mimic.htm" />
+        <TocEntry
+          Title="Creating"
+          Link="/Content/Condition_Tags/Creating_Condition_Tags_Mimic.htm" />
+        <TocEntry
+          Title="Linking to Flare Projects"
+          Link="/Content/Project_Links/Linking_to_Flare_Projects.htm" />
+        <TocEntry
+          Title="Previewing"
+          Link="/Content/Condition_Tags/Previewing_Conditions.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Frames">
+        <TocEntry
+          Title="About Frames"
+          Link="/Content/Frames/About_Frames.htm" />
+        <TocEntry
+          Title="Background Color"
+          Link="/Content/Appearance/Color/Setting_the_Color_for_a_Frame_Background.htm" />
+        <TocEntry
+          Title="Capturing"
+          Link="/Content/Movies_Creating/More_About_Creating_Movies/Capturing_New_Frames.htm" />
+        <TocEntry
+          Title="Copying"
+          Link="/Content/Frames/Copying_Frames.htm" />
+        <TocEntry
+          Title="Copying Backgrounds"
+          Link="/Content/Frames/Copying_Frame_Backgrounds.htm" />
+        <TocEntry
+          Title="Duplicating"
+          Link="/Content/Frames/Duplicating_Frames.htm" />
+        <TocEntry
+          Title="Grids"
+          Link="/Content/Movies_Creating/More_About_Creating_Movies/Working_with_Grids.htm" />
+        <TocEntry
+          Title="Images"
+          Link="/Content/Frames/Setting_Images_for_Frames.htm" />
+        <TocEntry
+          Title="Inserting"
+          Link="/Content/Frames/Inserting_Frames_into_a_Movie.htm" />
+        <TocEntry
+          Title="Links"
+          Link="/Content/Frames/Viewing_Frame_Links.htm" />
+        <TocEntry
+          Title="Moving"
+          Link="/Content/Frames/Moving_Frames_in_a_Movie.htm" />
+        <TocEntry
+          Title="Opening"
+          Link="/Content/Frames/Opening_Frames.htm" />
+        <TocEntry
+          Title="Pausing"
+          Link="/Content/Frames/Pausing_Frames.htm" />
+        <TocEntry
+          Title="Printing"
+          Link="/Content/Printing/Printing_Frames.htm" />
+        <TocEntry
+          Title="PowerPoint Slides"
+          Link="/Content/Frames/Inserting_PowerPoint_Slides_into_a_Movie.htm" />
+        <TocEntry
+          Title="Recording"
+          Link="/Content/Movies_Creating/More_About_Creating_Movies/Recording_New_Frames.htm" />
+        <TocEntry
+          Title="Removing"
+          Link="/Content/Frames/Removing_Frames_from_a_Movie.htm" />
+        <TocEntry
+          Title="Removing Images"
+          Link="/Content/Frames/Removing_Images_from_Frames.htm" />
+        <TocEntry
+          Title="Frame Libraries">
+          <TocEntry
+            Title="About Frame Libraries"
+            Link="/Content/Frames/Frame_Libraries/About_Frame_Libraries.htm" />
+          <TocEntry
+            Title="Creating"
+            Link="/Content/Frames/Frame_Libraries/Creating_Frame_Libraries.htm" />
+          <TocEntry
+            Title="Deleting"
+            Link="/Content/Frames/Frame_Libraries/Deleting_Frame_Libraries.htm" />
+          <TocEntry
+            Title="Frames—Adding"
+            Link="/Content/Frames/Frame_Libraries/Adding_Frames_to_a_Library.htm" />
+          <TocEntry
+            Title="Frames—Deleting"
+            Link="/Content/Frames/Frame_Libraries/Deleting_Frames_from_a_Library.htm" />
+          <TocEntry
+            Title="Frames—Using"
+            Link="/Content/Frames/Frame_Libraries/Using_Frames_from_a_Library.htm" />
+          <TocEntry
+            Title="Opening"
+            Link="/Content/Frames/Frame_Libraries/Opening_Frame_Libraries.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Master Frames">
+          <TocEntry
+            Title="About Master Frames"
+            Link="/Content/Frames/Master_Frames/About_Master_Frames.htm" />
+          <TocEntry
+            Title="Applying"
+            Link="/Content/Frames/Master_Frames/Applying_Master_Frames.htm" />
+          <TocEntry
+            Title="Creating"
+            Link="/Content/Frames/Master_Frames/Creating_Master_Frames.htm" />
+          <TocEntry
+            Title="Editing"
+            Link="/Content/Frames/Master_Frames/Editing_Master_Frames.htm" />
+          <TocEntry
+            Title="Removing"
+            Link="/Content/Frames/Master_Frames/Removing_Master_Frames.htm" />
+          <TocEntry
+            Title="Showing and Hiding"
+            Link="/Content/Frames/Master_Frames/Showing_and_Hiding_Master_Frames.htm" />
+        </TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="Objects">
+        <TocEntry
+          Title="About Objects"
+          Link="/Content/Objects/About_Objects.htm" />
+        <TocEntry
+          Title="Audio">
+          <TocEntry
+            Title="Adding"
+            Link="/Content/Objects/Audio/Adding_Audio_as_Objects.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Buttons">
+          <TocEntry
+            Title="Adding"
+            Link="/Content/Objects/Buttons/Adding_Buttons.htm" />
+          <TocEntry
+            Title="Mouse Hover"
+            Link="/Content/Objects/Buttons/Setting_Mouse_Hover_Properties.htm" />
+          <TocEntry
+            Title="Mouse Pressed"
+            Link="/Content/Objects/Buttons/Setting_Mouse_Pressed_Properties.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Callouts">
+          <TocEntry
+            Title="Adding"
+            Link="/Content/Objects/Callouts/Adding_Callouts.htm" />
+          <TocEntry
+            Title="Callouts—Excluding"
+            Link="/Content/Objects/Callouts/Excluding_Callouts_from_Recorded_Movies.htm" />
+          <TocEntry
+            Title="Callouts—Style"
+            Link="/Content/Objects/Callouts/Selecting_the_Callout_Style_for Recording.htm" />
+          <TocEntry
+            Title="Pointer"
+            Link="/Content/Appearance/Pointer/Adjusting_the_Pointer_on_a_Bubble_Shape_Mimic.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Cursors">
+          <TocEntry
+            Title="Adding"
+            Link="/Content/Objects/Cursors/Adding_Cursors.htm" />
+          <TocEntry
+            Title="Excluding"
+            Link="/Content/Objects/Cursors/Excluding_Cursors_from_Recorded_Movies.htm" />
+          <TocEntry
+            Title="End Action"
+            Link="/Content/Objects/Cursors/Selecting_an_End_Action_for_a_Cursor.htm" />
+          <TocEntry
+            Title="Style"
+            Link="/Content/Objects/Cursors/Selecting_the_Cursor_Style_for Recording.htm" />
+          <TocEntry
+            Title="Types"
+            Link="/Content/Appearance/Cursor_Types/Selecting_Cursor_Types_Mimic.htm" />
+          <TocEntry
+            Title="Trajectories">
+            <TocEntry
+              Title="About Trajectories"
+              Link="/Content/Trajectories/About_Trajectories.htm" />
+            <TocEntry
+              Title="Adding"
+              Link="/Content/Trajectories/Adding_Trajectories_to_Objects.htm" />
+            <TocEntry
+              Title="Continuity"
+              Link="/Content/Trajectories/Maintaining_Cursor_Continuity.htm" />
+            <TocEntry
+              Title="Customizing"
+              Link="/Content/Trajectories/Customizing_Trajectory_Drawings.htm" />
+            <TocEntry
+              Title="Moving"
+              Link="/Content/Trajectories/Moving_Trajectories.htm" />
+            <TocEntry
+              Title="Removing"
+              Link="/Content/Trajectories/Removing_Trajectories.htm" />
+          </TocEntry>
+        </TocEntry>
+        <TocEntry
+          Title="Groups">
+          <TocEntry
+            Title="Grouping Objects"
+            Link="/Content/Objects/Groups/Grouping_Objects.htm" />
+          <TocEntry
+            Title="Ungrouping Objects"
+            Link="/Content/Objects/Groups/Ungrouping_Objects.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Image Objects">
+          <TocEntry
+            Title="Captured Regions"
+            Link="/Content/Objects/Image_Objects/Inserting_Captured_Regions_as_Objects.htm" />
+          <TocEntry
+            Title="Captured UI Elements"
+            Link="/Content/Objects/Image_Objects/Inserting_Captured_UI_Elements_as_Objects.htm" />
+          <TocEntry
+            Title="Editing"
+            Link="/Content/Appearance/Image_Objects/Editing_Image_Objects_Mimic.htm" />
+          <TocEntry
+            Title="Images—Adding as Objects"
+            Link="/Content/Objects/Image_Objects/Adding_Images_as_Objects.htm" />
+          <TocEntry
+            Title="Torn Edge Effects"
+            Link="/Content/Appearance/Effects/Torn_Edge_Effects/Adding_Torn_Edge_Effects_Mimic.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Lines">
+          <TocEntry
+            Title="Adding"
+            Link="/Content/Objects/Lines/Adding_Lines.htm" />
+          <TocEntry
+            Title="Arrows"
+            Link="/Content/Appearance/Arrows/Setting_the_Arrows_for_a_Line_Mimic.htm" />
+          <TocEntry
+            Title="Color and Width"
+            Link="/Content/Appearance/Lines/Setting_the_Color_and_Width_for_a_Line_Mimic.htm" />
+          <TocEntry
+            Title="Points—Deleting"
+            Link="/Content/Appearance/Points/Deleting_Points_Mimic.htm" />
+          <TocEntry
+            Title="Shadow"
+            Link="/Content/Appearance/Effects/Shadow_Effects/Adding_a_Shadow_to_a_Line_Mimic.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Rollover Captions">
+          <TocEntry
+            Title="Adding"
+            Link="/Content/Objects/Rollover_Captions/Adding_Rollover_Captions.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Shapes">
+          <TocEntry
+            Title="Adding to Frames"
+            Link="/Content/Objects/Shapes/Adding_Shapes_to_Frames.htm" />
+          <TocEntry
+            Title="Palette Shapes"
+            Link="/Content/Palettes/Using_Objects_from_Palettes.htm" />
+          <TocEntry
+            Title="Rectangle Properties"
+            Link="/Content/Appearance/Rectangle_Properties/Setting_the_Rectangle_Properties_for_an_Object.htm" />
+        </TocEntry>
+        <TocEntry
+          Title="Typing Objects">
+          <TocEntry
+            Title="About Typing Objects"
+            Link="/Content/Objects/Typing_Objects/About_Typing_Objects.htm" />
+          <TocEntry
+            Title="Animated Typing Boxes"
+            Link="/Content/Objects/Typing_Objects/Adding_Animated_Typing_Boxes.htm" />
+          <TocEntry
+            Title="Input Boxes"
+            Link="/Content/Objects/Typing_Objects/Adding_Input_Boxes.htm" />
+          <TocEntry
+            Title="Input Failure Captions"
+            Link="/Content/Objects/Typing_Objects/Adding_Input_Failure_Captions.htm" />
+          <TocEntry
+            Title="Input Hint Captions"
+            Link="/Content/Objects/Typing_Objects/Adding_Input_Hint_Captions.htm" />
+          <TocEntry
+            Title="Input Success Captions"
+            Link="/Content/Objects/Typing_Objects/Adding_Input_Success_Captions.htm" />
+          <TocEntry
+            Title="Typing Box Shapes"
+            Link="/Content/Movies_Creating/More_About_Creating_Movies/Adding_Typing_Box_Shapes_for_Recording.htm" />
+        </TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="Palettes">
+        <TocEntry
+          Title="About Palettes"
+          Link="/Content/Palettes/About_Palettes_Mimic.htm" />
+        <TocEntry
+          Title="Creating"
+          Link="/Content/Palettes/Creating_Palettes.htm" />
+        <TocEntry
+          Title="Deleting"
+          Link="/Content/Palettes/Deleting_Palettes.htm" />
+        <TocEntry
+          Title="Objects—Adding"
+          Link="/Content/Palettes/Adding_Objects_to_Palettes.htm" />
+        <TocEntry
+          Title="Objects—Deleting"
+          Link="/Content/Palettes/Deleting_Objects_from_Palettes.htm" />
+        <TocEntry
+          Title="Objects—Using"
+          Link="/Content/Palettes/Using_Objects_from_Palettes.htm" />
+        <TocEntry
+          Title="Opening"
+          Link="/Content/Palettes/Opening_Palettes.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Previewing Movies">
+        <TocEntry
+          Title="Previewing Movies"
+          Link="/Content/Movies_Creating/More_About_Creating_Movies/Previewing_Movies.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Text"
+        PageNumber="1"
+        PageNumberReset="reset">
+        <TocEntry
+          Title="About Text"
+          Link="/Content/Text/About_Text.htm" />
+        <TocEntry
+          Title="Adding"
+          Link="/Content/Text/Adding_Text_Mimic.htm" />
+        <TocEntry
+          Title="Aligning"
+          Link="/Content/Text/Aligning_Text.htm" />
+        <TocEntry
+          Title="Editing"
+          Link="/Content/Text/Editing_Text.htm" />
+        <TocEntry
+          Title="Font Properties"
+          Link="/Content/Text/Setting_Font_Properties_for_Text_Mimic.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Timing">
+        <TocEntry
+          Title="About Timing"
+          Link="/Content/Timing/About_Timing.htm" />
+        <TocEntry
+          Title="Frames"
+          Link="/Content/Timing/Setting_Timing_for_Frames.htm" />
+        <TocEntry
+          Title="Objects"
+          Link="/Content/Timing/Setting_Timing_for_Objects.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Trajectories">
+        <TocEntry
+          Title="About Trajectories"
+          Link="/Content/Trajectories/About_Trajectories.htm" />
+        <TocEntry
+          Title="Adding"
+          Link="/Content/Trajectories/Adding_Trajectories_to_Objects.htm" />
+        <TocEntry
+          Title="Continuity"
+          Link="/Content/Trajectories/Maintaining_Cursor_Continuity.htm" />
+        <TocEntry
+          Title="Customizing"
+          Link="/Content/Trajectories/Customizing_Trajectory_Drawings.htm" />
+        <TocEntry
+          Title="Moving"
+          Link="/Content/Trajectories/Moving_Trajectories.htm" />
+        <TocEntry
+          Title="Removing"
+          Link="/Content/Trajectories/Removing_Trajectories.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Transitions">
+        <TocEntry
+          Title="About Transitions"
+          Link="/Content/Transitions/About_Transitions.htm" />
+        <TocEntry
+          Title="Frames"
+          Link="/Content/Transitions/Setting_Transitions_for_Frames.htm" />
+        <TocEntry
+          Title="Movies"
+          Link="/Content/Transitions/Setting_Transitions_for_Movies.htm" />
+        <TocEntry
+          Title="Objects"
+          Link="/Content/Transitions/Setting_Transitions_for_Objects.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Variables">
+        <TocEntry
+          Title="About Variables"
+          Link="/Content/Variables/About_Variables_Mimic.htm" />
+        <TocEntry
+          Title="Creating"
+          Link="/Content/Variables/Creating_Variables_Mimic.htm" />
+        <TocEntry
+          Title="Editing"
+          Link="/Content/Variables/Editing_Variables_Mimic.htm" />
+        <TocEntry
+          Title="Inserting into Objects"
+          Link="/Content/Variables/Inserting_Variables_into_Objects_Mimic.htm" />
+        <TocEntry
+          Title="Linking to Project Variables"
+          Link="/Content/Project_Links/Linking_to_Flare_Projects.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="More About Editing Movies">
+        <TocEntry
+          Title="Hand Mode"
+          Link="/Content/Steps/More/Using_the_Hand_Mode_Feature.htm" />
+        <TocEntry
+          Title="Zoom/Scale"
+          Link="/Content/Steps/More/Using_the_Zoom_Scale_Feature_Mimic.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Build Movie Output">
+      <TocEntry
+        Title="Building"
+        Link="/Content/Output/Building_Movie_Output.htm" />
+      <TocEntry
+        Title="Building—Command Line"
+        Link="/Content/Output/Building_Movie_Output_Using_the_Command_Line.htm" />
+      <TocEntry
+        Title="Formats—About"
+        Link="/Content/Output/About_Movie_Output_Formats.htm" />
+      <TocEntry
+        Title="Formats—Default"
+        Link="/Content/Output/Selecting_the_Movie_Format.htm" />
+      <TocEntry
+        Title="Options—Adobe AIR"
+        Link="/Content/Output/More_About_Building_Movie_Output/Specifying_Adobe_AIR_Options.htm" />
+      <TocEntry
+        Title="Options—Flash"
+        Link="/Content/Output/More_About_Building_Movie_Output/Specifying_Flash_Options.htm" />
+      <TocEntry
+        Title="Options—HTML5"
+        Link="/Content/Output/More_About_Building_Movie_Output/Specifying_HTML5_Options.htm" />
+      <TocEntry
+        Title="Options—Silverlight"
+        Link="/Content/Output/More_About_Building_Movie_Output/Specifying_Silverlight_Options.htm" />
+      <TocEntry
+        Title="Single Files for Output"
+        Link="/Content/Output/Selecting_Single_Files_for_the_Output_Mimic.htm" />
+      <TocEntry
+        Title="More About Movie Output">
+        <TocEntry
+          Title="Mark of the Web"
+          Link="/Content/Output/More_About_Building_Movie_Output/Adding_Mark_of_the_Web.htm" />
+        <TocEntry
+          Title="Cleaning"
+          Link="/Content/Output/More_About_Building_Movie_Output/Clearning_Output_Files.htm" />
+        <TocEntry
+          Title="Home Page for Browser-based Output"
+          Link="/Content/Output/More_About_Skins_Mimic/Setting_the_Home_Page_for_Browser_Based_Output.htm" />
+        <TocEntry
+          Title="Viewing"
+          Link="/Content/Output/More_About_Building_Movie_Output/Viewing_Movie_Output.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Skins">
+        <TocEntry
+          Title="About Skins"
+          Link="/Content/Skins/About_Skins_Mimic.htm" />
+        <TocEntry
+          Title="About Box Image"
+          Link="/Content/Output/More_About_Skins_Mimic/Selecting_a_Picture_for_the_About_Box.htm" />
+        <TocEntry
+          Title="Editing"
+          Link="/Content/Output/Editing_Skins_Mimic.htm" />
+        <TocEntry
+          Title="Exporting"
+          Link="/Content/Output/More_About_Skins_Mimic/Exporting_Skins.htm"></TocEntry>
+        <TocEntry
+          Title="Flash—Selecting a Language"
+          Link="/Content/Language_Support/Selecting_a_Language_Mimic.htm" />
+        <TocEntry
+          Title="Home Page"
+          Link="/Content/Output/More_About_Skins_Mimic/Setting_the_Home_Page_for_Browser_Based_Output.htm" />
+        <TocEntry
+          Title="Importing"
+          Link="/Content/Output/More_About_Skins_Mimic/Importing_Skins.htm" />
+        <TocEntry
+          Title="JavaScript"
+          Link="/Content/Output/More_About_Skins_Mimic/Adding_Custom_JavaScript.htm"></TocEntry>
+        <TocEntry
+          Title="Language Skins—Editing"
+          Link="/Content/Language_Support/Editing_Language_Skins_Mimic.htm"></TocEntry>
+        <TocEntry
+          Title="Language Skins—User-defined"
+          Link="/Content/Language_Support/Creating_User_Defined_Language_Skins.htm" />
+        <TocEntry
+          Title="Navigation Toolbar—Background Color"
+          Link="/Content/Output/More_About_Skins_Mimic/Selecting_the_Background_Color_for_the_Navigation_Toolbar.htm" />
+        <TocEntry
+          Title="Navigation Toolbar—Creating Buttons"
+          Link="/Content/Output/More_About_Skins_Mimic/Creating_Custom_Buttons_for_Navigation_Toolbars.htm" />
+        <TocEntry
+          Title="Navigation Toolbar—Fit to Movie"
+          Link="/Content/Output/More_About_Skins_Mimic/Setting_the_Navigation_Toolbar_to_Fit_to_Movie.htm" />
+        <TocEntry
+          Title="Navigation Toolbar—Selecting Buttons"
+          Link="/Content/Output/More_About_Skins_Mimic/Selecting_Buttons_for_the_Navigation_Toolbar.htm" />
+        <TocEntry
+          Title="Navigation Toolbar—Styles"
+          Link="/Content/Output/More_About_Skins_Mimic/Setting_Styles_for_Navigation_Toolbars_and_Buttons.htm" />
+        <TocEntry
+          Title="Progress Bar"
+          Link="/Content/Output/More_About_Skins_Mimic/Centering_the_Progress_Bar.htm"></TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="Language Skins">
+        <TocEntry
+          Title="About Language Support"
+          Link="/Content/Language_Support/About_Language_Support_Mimic.htm" />
+        <TocEntry
+          Title="Editing"
+          Link="/Content/Language_Support/Editing_Language_Skins_Mimic.htm" />
+        <TocEntry
+          Title="Flash—Selecting a Language"
+          Link="/Content/Language_Support/Selecting_a_Language_Mimic.htm" />
+        <TocEntry
+          Title="User-defined Language Skins"
+          Link="/Content/Language_Support/Creating_User_Defined_Language_Skins.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Targets">
+        <TocEntry
+          Title="About Targets"
+          Link="/Content/Targets/About_Targets_Mimic.htm" />
+        <TocEntry
+          Title="Creating"
+          Link="/Content/Targets/Creating_Targets_Mimic.htm" />
+        <TocEntry
+          Title="Editing"
+          Link="/Content/Targets/Editing_Targets_Mimic.htm" />
+        <TocEntry
+          Title="Removing"
+          Link="/Content/Targets/Removing_Targets_Mimic.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Distribute Output">
+      <TocEntry
+        Title="Distributing Output"
+        Link="/Content/Output/Distributing_Output_Mimic.htm" />
+      <TocEntry
+        Title="Publishing Output"
+        Link="/Content/Output/Publishing_Output_Mimic.htm" />
+      <TocEntry
+        Title="More About Publishing Movies">
+        <TocEntry
+          Title="MIME Type—HTML5"
+          Link="/Content/Output/More_About_Publishing_Output/Setting_the_MIME_Type_on_a_Server_for_HTML5.htm" />
+        <TocEntry
+          Title="MIME Type—Silverlight"
+          Link="/Content/Output/More_About_Publishing_Output/Setting_the_MIME_Type_on_a_Server_for_Silverlight.htm" />
+        <TocEntry
+          Title="Publishing Logs—Saving"
+          Link="/Content/Output/More_About_Publishing_Output/Saving_Publishing_Logs_Mimic.htm" />
+        <TocEntry
+          Title="Publishing Logs—Viewing"
+          Link="/Content/Output/More_About_Publishing_Output/Viewing_Publishing_Logs_Mimic.htm" />
+      </TocEntry>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Features"
+    conditions=""
+    StartSection="False"
+    StartChapter="False">
+    <TocEntry
+      Title="Actions">
+      <TocEntry
+        Title="About Actions"
+        Link="/Content/Actions/About_Actions.htm" />
+      <TocEntry
+        Title="End Action—Cursor"
+        Link="/Content/Objects/Cursors/Selecting_an_End_Action_for_a_Cursor.htm" />
+      <TocEntry
+        Title="End Action—Movie"
+        Link="/Content/Actions/Selecting_an_End_Action_for_a_Movie.htm" />
+      <TocEntry
+        Title="Selecting for Objects"
+        Link="/Content/Actions/Selecting_Actions_for_Objects.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Animation Effects">
+      <TocEntry
+        Title="Adding"
+        Link="/Content/Appearance/Effects/Animation_Effects/Adding_Animation_Effects.htm" />
+      <TocEntry
+        Title="Editing"
+        Link="/Content/Appearance/Effects/Animation_Effects/Editing_Animation_Effects.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Arrows">
+      <TocEntry
+        Title="Line"
+        Link="/Content/Appearance/Arrows/Setting_the_Arrows_for_a_Line_Mimic.htm" />
+      <TocEntry
+        Title="Shape of an Arrow"
+        Link="/Content/Appearance/Arrows/Setting_the_Shape_of_an_Arrow_Mimic.htm" />
+      <TocEntry
+        Title="Shapes—Adding to Frames"
+        Link="/Content/Objects/Shapes/Adding_Shapes_to_Frames.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Audio">
+      <TocEntry
+        Title="About Audio"
+        Link="/Content/Audio/About_Audio_Mimic.htm" />
+      <TocEntry
+        Title="Editing"
+        Link="/Content/Audio/Editing_Audio_Files.htm" />
+      <TocEntry
+        Title="Enabling and Disabling"
+        Link="/Content/Movies_Creating/More_About_Creating_Movies/Enabling_and_Disabling_Sound_for_Recording.htm" />
+      <TocEntry
+        Title="Frames"
+        Link="/Content/Audio/Adding_Audio_to_Frames.htm" />
+      <TocEntry
+        Title="Looping"
+        Link="/Content/Audio/Looping_Audio.htm" />
+      <TocEntry
+        Title="Movies"
+        Link="/Content/Audio/Adding_Audio_to_Movies.htm" />
+      <TocEntry
+        Title="Objects—Adding Audio as"
+        Link="/Content/Objects/Audio/Adding_Audio_as_Objects.htm" />
+      <TocEntry
+        Title="Objects—Adding Audio to"
+        Link="/Content/Audio/Adding_Audio_to_Objects.htm" />
+      <TocEntry
+        Title="Recording"
+        Link="/Content/Audio/Recording_Audio.htm" />
+      <TocEntry
+        Title="More About Editing Audio">
+        <TocEntry
+          Title="Copying Sections"
+          Link="/Content/Audio/Editing_Audio/Copying_Sections_of_an_Audio_File.htm" />
+        <TocEntry
+          Title="Deleting Sections"
+          Link="/Content/Audio/Editing_Audio/Deleting_Sections_of_an_Audio_File.htm" />
+        <TocEntry
+          Title="Moving Sections"
+          Link="/Content/Audio/Editing_Audio/Moving_Sections_of_an_Audio_File.htm" />
+        <TocEntry
+          Title="Recording New Sound"
+          Link="/Content/Audio/Editing_Audio/Recording_New_Sound_for_an_Audio_File.htm" />
+        <TocEntry
+          Title="Renaming"
+          Link="/Content/Audio/Editing_Audio/Renaming_Audio_Files.htm" />
+        <TocEntry
+          Title="Silent Areas"
+          Link="/Content/Audio/Editing_Audio/Inserting_Silent_Areas_into_an_Audio_File.htm" />
+        <TocEntry
+          Title="Volume"
+          Link="/Content/Audio/Editing_Audio/Adjusting_the_Volume_of_an_Audio_File.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Blur Effects">
+      <TocEntry
+        Title="Adding"
+        Link="/Content/Appearance/Effects/Blur_Effects/Adding_Blur_Effects_Mimic.htm" />
+      <TocEntry
+        Title="Blur-Inside Effects—Adding"
+        Link="/Content/Appearance/Effects/Blur_Effects/Adding_Blur_Inside_Effects_Mimic.htm" />
+      <TocEntry
+        Title="Blur-Inside Effects—Editing"
+        Link="/Content/Appearance/Effects/Blur_Effects/Editing_Blur_Inside_Effects_Mimic.htm" />
+      <TocEntry
+        Title="Editing"
+        Link="/Content/Appearance/Effects/Blur_Effects/Editing_Blur_Effects_Mimic.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Borders and Padding">
+      <TocEntry
+        Title="Borders"
+        Link="/Content/Appearance/Borders/Adding_Borders_Mimic.htm" />
+      <TocEntry
+        Title="Padding"
+        Link="/Content/Appearance/Padding/Adding_Padding_Mimic.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Buttons">
+      <TocEntry
+        Title="Adding"
+        Link="/Content/Objects/Buttons/Adding_Buttons.htm" />
+      <TocEntry
+        Title="Mouse Hover"
+        Link="/Content/Objects/Buttons/Setting_Mouse_Hover_Properties.htm" />
+      <TocEntry
+        Title="Mouse Pressed"
+        Link="/Content/Objects/Buttons/Setting_Mouse_Pressed_Properties.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Callouts (Bubble Shapes)">
+      <TocEntry
+        Title="Adding"
+        Link="/Content/Objects/Callouts/Adding_Callouts.htm" />
+      <TocEntry
+        Title="Callouts—Excluding"
+        Link="/Content/Objects/Callouts/Excluding_Callouts_from_Recorded_Movies.htm" />
+      <TocEntry
+        Title="Callouts—Style"
+        Link="/Content/Objects/Callouts/Selecting_the_Callout_Style_for Recording.htm" />
+      <TocEntry
+        Title="Pointer"
+        Link="/Content/Appearance/Pointer/Adjusting_the_Pointer_on_a_Bubble_Shape_Mimic.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Collections">
+      <TocEntry
+        Title="About Movie Collections"
+        Link="/Content/Movie_Collections/About_Movie_Collections.htm" />
+      <TocEntry
+        Title="Creating"
+        Link="/Content/Movie_Collections/Creating_a_Movie_Collection.htm" />
+      <TocEntry
+        Title="Opening"
+        Link="/Content/Movie_Collections/Opening_Collections.htm" />
+      <TocEntry
+        Title="More About Collections">
+        <TocEntry
+          Title="Comments—Adding to Collections"
+          Link="/Content/Movie_Collections/Adding_Comments_to_Collections.htm" />
+        <TocEntry
+          Title="Mimic Files"
+          Link="/Content/Files/Mimic_Files.htm" />
+        <TocEntry
+          Title="Templates"
+          Link="/Content/Templates/About_Templates_Mimic.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Conditions">
+      <TocEntry
+        Title="About Conditions"
+        Link="/Content/Condition_Tags/About_Conditions_Mimic.htm" />
+      <TocEntry
+        Title="Applying"
+        Link="/Content/Condition_Tags/Applying_Conditions_Mimic.htm" />
+      <TocEntry
+        Title="Associating"
+        Link="/Content/Condition_Tags/Associating_Condition_Tags_Mimic.htm" />
+      <TocEntry
+        Title="Creating"
+        Link="/Content/Condition_Tags/Creating_Condition_Tags_Mimic.htm" />
+      <TocEntry
+        Title="Linking to Flare Projects"
+        Link="/Content/Project_Links/Linking_to_Flare_Projects.htm" />
+      <TocEntry
+        Title="Previewing"
+        Link="/Content/Condition_Tags/Previewing_Conditions.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Color">
+      <TocEntry
+        Title="Frame Background"
+        Link="/Content/Appearance/Color/Setting_the_Color_for_a_Frame_Background.htm" />
+      <TocEntry
+        Title="Movie Background"
+        Link="/Content/Appearance/Color/Setting_the_Color_for_a_Movie_Background.htm" />
+      <TocEntry
+        Title="Object"
+        Link="/Content/Appearance/Color/Setting_the_Color_for_an_Object_Mimic.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Cursors">
+      <TocEntry
+        Title="Adding"
+        Link="/Content/Objects/Cursors/Adding_Cursors.htm" />
+      <TocEntry
+        Title="Excluding"
+        Link="/Content/Objects/Cursors/Excluding_Cursors_from_Recorded_Movies.htm" />
+      <TocEntry
+        Title="End Action"
+        Link="/Content/Objects/Cursors/Selecting_an_End_Action_for_a_Cursor.htm" />
+      <TocEntry
+        Title="Style"
+        Link="/Content/Objects/Cursors/Selecting_the_Cursor_Style_for Recording.htm" />
+      <TocEntry
+        Title="Types"
+        Link="/Content/Appearance/Cursor_Types/Selecting_Cursor_Types_Mimic.htm" />
+      <TocEntry
+        Title="Trajectories">
+        <TocEntry
+          Title="About Trajectories"
+          Link="/Content/Trajectories/About_Trajectories.htm" />
+        <TocEntry
+          Title="Adding"
+          Link="/Content/Trajectories/Adding_Trajectories_to_Objects.htm" />
+        <TocEntry
+          Title="Continuity"
+          Link="/Content/Trajectories/Maintaining_Cursor_Continuity.htm" />
+        <TocEntry
+          Title="Customizing"
+          Link="/Content/Trajectories/Customizing_Trajectory_Drawings.htm" />
+        <TocEntry
+          Title="Moving"
+          Link="/Content/Trajectories/Moving_Trajectories.htm" />
+        <TocEntry
+          Title="Removing"
+          Link="/Content/Trajectories/Removing_Trajectories.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Files">
+      <TocEntry
+        Title="Mimic Files"
+        Link="/Content/Files/Mimic_Files.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Frames">
+      <TocEntry
+        Title="About Frames"
+        Link="/Content/Frames/About_Frames.htm" />
+      <TocEntry
+        Title="Background Color"
+        Link="/Content/Appearance/Color/Setting_the_Color_for_a_Frame_Background.htm" />
+      <TocEntry
+        Title="Capturing"
+        Link="/Content/Movies_Creating/More_About_Creating_Movies/Capturing_New_Frames.htm" />
+      <TocEntry
+        Title="Copying"
+        Link="/Content/Frames/Copying_Frames.htm" />
+      <TocEntry
+        Title="Copying Backgrounds"
+        Link="/Content/Frames/Copying_Frame_Backgrounds.htm" />
+      <TocEntry
+        Title="Duplicating"
+        Link="/Content/Frames/Duplicating_Frames.htm" />
+      <TocEntry
+        Title="Grids"
+        Link="/Content/Movies_Creating/More_About_Creating_Movies/Working_with_Grids.htm" />
+      <TocEntry
+        Title="Images"
+        Link="/Content/Frames/Setting_Images_for_Frames.htm" />
+      <TocEntry
+        Title="Inserting"
+        Link="/Content/Frames/Inserting_Frames_into_a_Movie.htm" />
+      <TocEntry
+        Title="Links"
+        Link="/Content/Frames/Viewing_Frame_Links.htm" />
+      <TocEntry
+        Title="Moving"
+        Link="/Content/Frames/Moving_Frames_in_a_Movie.htm" />
+      <TocEntry
+        Title="Opening"
+        Link="/Content/Frames/Opening_Frames.htm" />
+      <TocEntry
+        Title="Pausing"
+        Link="/Content/Frames/Pausing_Frames.htm" />
+      <TocEntry
+        Title="Printing"
+        Link="/Content/Printing/Printing_Frames.htm" />
+      <TocEntry
+        Title="PowerPoint Slides"
+        Link="/Content/Frames/Inserting_PowerPoint_Slides_into_a_Movie.htm" />
+      <TocEntry
+        Title="Recording"
+        Link="/Content/Movies_Creating/More_About_Creating_Movies/Recording_New_Frames.htm" />
+      <TocEntry
+        Title="Removing"
+        Link="/Content/Frames/Removing_Frames_from_a_Movie.htm" />
+      <TocEntry
+        Title="Removing Images"
+        Link="/Content/Frames/Removing_Images_from_Frames.htm" />
+      <TocEntry
+        Title="Frame Libraries">
+        <TocEntry
+          Title="About Frame Libraries"
+          Link="/Content/Frames/Frame_Libraries/About_Frame_Libraries.htm" />
+        <TocEntry
+          Title="Creating"
+          Link="/Content/Frames/Frame_Libraries/Creating_Frame_Libraries.htm" />
+        <TocEntry
+          Title="Deleting"
+          Link="/Content/Frames/Frame_Libraries/Deleting_Frame_Libraries.htm" />
+        <TocEntry
+          Title="Frames—Adding"
+          Link="/Content/Frames/Frame_Libraries/Adding_Frames_to_a_Library.htm" />
+        <TocEntry
+          Title="Frames—Deleting"
+          Link="/Content/Frames/Frame_Libraries/Deleting_Frames_from_a_Library.htm" />
+        <TocEntry
+          Title="Frames—Using"
+          Link="/Content/Frames/Frame_Libraries/Using_Frames_from_a_Library.htm" />
+        <TocEntry
+          Title="Opening"
+          Link="/Content/Frames/Frame_Libraries/Opening_Frame_Libraries.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Master Frames">
+        <TocEntry
+          Title="About Master Frames"
+          Link="/Content/Frames/Master_Frames/About_Master_Frames.htm" />
+        <TocEntry
+          Title="Applying"
+          Link="/Content/Frames/Master_Frames/Applying_Master_Frames.htm" />
+        <TocEntry
+          Title="Creating"
+          Link="/Content/Frames/Master_Frames/Creating_Master_Frames.htm" />
+        <TocEntry
+          Title="Editing"
+          Link="/Content/Frames/Master_Frames/Editing_Master_Frames.htm" />
+        <TocEntry
+          Title="Removing"
+          Link="/Content/Frames/Master_Frames/Removing_Master_Frames.htm" />
+        <TocEntry
+          Title="Showing and Hiding"
+          Link="/Content/Frames/Master_Frames/Showing_and_Hiding_Master_Frames.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Gray Scale">
+      <TocEntry
+        Title="Adding"
+        Link="/Content/Appearance/Effects/Gray_Scale_Effects/Adding_Gray_Scale_Effects_Mimic.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Image Objects">
+      <TocEntry
+        Title="Captured Regions"
+        Link="/Content/Objects/Image_Objects/Inserting_Captured_Regions_as_Objects.htm" />
+      <TocEntry
+        Title="Captured UI Elements"
+        Link="/Content/Objects/Image_Objects/Inserting_Captured_UI_Elements_as_Objects.htm" />
+      <TocEntry
+        Title="Editing"
+        Link="/Content/Appearance/Image_Objects/Editing_Image_Objects_Mimic.htm" />
+      <TocEntry
+        Title="Images—Adding as Objects"
+        Link="/Content/Objects/Image_Objects/Adding_Images_as_Objects.htm" />
+      <TocEntry
+        Title="Torn Edge Effects"
+        Link="/Content/Appearance/Effects/Torn_Edge_Effects/Adding_Torn_Edge_Effects_Mimic.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Images">
+      <TocEntry
+        Title="Removing"
+        Link="/Content/Frames/Removing_Images_from_Frames.htm" />
+      <TocEntry
+        Title="Setting"
+        Link="/Content/Frames/Setting_Images_for_Frames.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Importing"
+      FrameName="">
+      <TocEntry
+        Title="Movies"
+        Link="/Content/Movies_Creating/Importing_Movies.htm" />
+      <TocEntry
+        Title="PowerPoint Presentations"
+        Link="/Content/Movies_Creating/Creating_Movies_from_PowerPoint_Presentations.htm" />
+      <TocEntry
+        Title="Skins"
+        Link="/Content/Output/More_About_Skins_Mimic/Importing_Skins.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Language Support">
+      <TocEntry
+        Title="About Language Support"
+        Link="/Content/Language_Support/About_Language_Support_Mimic.htm" />
+      <TocEntry
+        Title="Language Skins"
+        Link="/Content/Language_Support/Editing_Language_Skins_Mimic.htm" />
+      <TocEntry
+        Title="Language—Selecting"
+        Link="/Content/Language_Support/Selecting_a_Language_Mimic.htm" />
+      <TocEntry
+        Title="User-defined Language Skins"
+        Link="/Content/Language_Support/Creating_User_Defined_Language_Skins.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Lines">
+      <TocEntry
+        Title="Adding"
+        Link="/Content/Objects/Lines/Adding_Lines.htm" />
+      <TocEntry
+        Title="Arrows"
+        Link="/Content/Appearance/Arrows/Setting_the_Arrows_for_a_Line_Mimic.htm" />
+      <TocEntry
+        Title="Color and Width"
+        Link="/Content/Appearance/Lines/Setting_the_Color_and_Width_for_a_Line_Mimic.htm" />
+      <TocEntry
+        Title="Points—Deleting"
+        Link="/Content/Appearance/Points/Deleting_Points_Mimic.htm" />
+      <TocEntry
+        Title="Shadow"
+        Link="/Content/Appearance/Effects/Shadow_Effects/Adding_a_Shadow_to_a_Line_Mimic.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Look of Objects">
+      <TocEntry
+        Title="Default Look—Setting"
+        Link="/Content/Appearance/Look_of_Objects/Setting_the_Default_Look_for_Objects_Mimic.htm" />
+      <TocEntry
+        Title="Default Look—Using"
+        Link="/Content/Appearance/Look_of_Objects/Using_the_Default_Look_for_Objects_Mimic.htm" />
+      <TocEntry
+        Title="Making All Objects Look the Same"
+        Link="/Content/Appearance/Look_of_Objects/Making_All_Objects_Look_the_Same_Mimic.htm" />
+      <TocEntry
+        Title="Styles"
+        Link="/Content/Appearance/Look_of_Objects/Selecting_Styles_for_Objects_Mimic.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Loops">
+      <TocEntry
+        Title="Coordinates"
+        Link="/Content/Appearance/Coordinates/Setting_the_Coordinates_for_a_Loop_Mimic.htm" />
+      <TocEntry
+        Title="Shapes—Adding to Frames"
+        Link="/Content/Objects/Shapes/Adding_Shapes_to_Frames.htm" />
+      <TocEntry
+        Title="Thickness"
+        Link="/Content/Appearance/Thickness/Setting_the_Thickness_for_a_Loop.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Movies">
+      <TocEntry
+        Title="About Movies"
+        Link="/Content/Movies_Creating/About_Movies.htm" />
+      <TocEntry
+        Title="Audio Input Source"
+        Link="/Content/Movies_Creating/More_About_Creating_Movies/Selecting_the_Audio_Input_Source.htm" />
+      <TocEntry
+        Title="Background Color"
+        Link="/Content/Appearance/Color/Setting_the_Color_for_a_Movie_Background.htm" />
+      <TocEntry
+        Title="Basic Steps"
+        Link="/Content/Steps/Basic_Steps_for_Creating_Movies.htm" />
+      <TocEntry
+        Title="Blank"
+        Link="/Content/Movies_Creating/Creating_Blank_Movies.htm"></TocEntry>
+      <TocEntry
+        Title="Building"
+        Link="/Content/Output/Building_Movie_Output.htm" />
+      <TocEntry
+        Title="Callouts—Excluding"
+        Link="/Content/Objects/Callouts/Excluding_Callouts_from_Recorded_Movies.htm" />
+      <TocEntry
+        Title="Callouts—Style"
+        Link="/Content/Objects/Callouts/Selecting_the_Callout_Style_for Recording.htm" />
+      <TocEntry
+        Title="Creating"
+        Link="/Content/Movies_Creating/Creating_a_Movie.htm"></TocEntry>
+      <TocEntry
+        Title="Cursors—Excluding"
+        Link="/Content/Objects/Cursors/Excluding_Cursors_from_Recorded_Movies.htm" />
+      <TocEntry
+        Title="Cursors—Style"
+        Link="/Content/Objects/Cursors/Selecting_the_Cursor_Style_for Recording.htm" />
+      <TocEntry
+        Title="Deleting"
+        Link="/Content/Movies_Creating/More_About_Creating_Movies/Deleting_Movies.htm" />
+      <TocEntry
+        Title="Editing"
+        Link="/Content/Steps/Editing_a_Movie.htm" />
+      <TocEntry
+        Title="End Action"
+        Link="/Content/Actions/Selecting_an_End_Action_for_a_Movie.htm" />
+      <TocEntry
+        Title="Format—Default"
+        Link="/Content/Output/Selecting_the_Movie_Format.htm" />
+      <TocEntry
+        Title="Importing"
+        Link="/Content/Movies_Creating/Importing_Movies.htm" />
+      <TocEntry
+        Title="Looping"
+        Link="/Content/Movies_Creating/More_About_Creating_Movies/Looping_Movies.htm" />
+      <TocEntry
+        Title="Magnifier"
+        Link="/Content/Movies_Creating/More_About_Creating_Movies/Enabling_and_Disabling_the_Magnifier.htm" />
+      <TocEntry
+        Title="Opening"
+        Link="/Content/Movies_Creating/More_About_Creating_Movies/Opening_Movies.htm"></TocEntry>
+      <TocEntry
+        Title="Organizing"
+        Link="/Content/Movies_Creating/More_About_Creating_Movies/Organizing_Movies_in_a_Collection.htm" />
+      <TocEntry
+        Title="PowerPoint Presentations"
+        Link="/Content/Movies_Creating/Creating_Movies_from_PowerPoint_Presentations.htm" />
+      <TocEntry
+        Title="Previewing"
+        Link="/Content/Movies_Creating/More_About_Creating_Movies/Previewing_Movies.htm" />
+      <TocEntry
+        Title="Publishing"
+        Link="/Content/Output/Publishing_Output_Mimic.htm" />
+      <TocEntry
+        Title="Recording"
+        Link="/Content/Movies_Creating/Recording_Movies.htm"></TocEntry>
+      <TocEntry
+        Title="Recording Mode"
+        Link="/Content/Movies_Creating/More_About_Creating_Movies/Selecting_the_Recording_Mode.htm" />
+      <TocEntry
+        Title="Renaming"
+        Link="/Content/Movies_Creating/More_About_Creating_Movies/Renaming_Movies.htm" />
+      <TocEntry
+        Title="Resizing"
+        Link="/Content/Appearance/Resizing/Resizing_Movies.htm" />
+      <TocEntry
+        Title="Screen Captures"
+        Link="/Content/Movies_Creating/Creating_Movies_from_Screen_Captures.htm" />
+      <TocEntry
+        Title="Single Images"
+        Link="/Content/Movies_Creating/Creating_Movies_from_Single_Images.htm"></TocEntry>
+      <TocEntry
+        Title="Sound for Recording"
+        Link="/Content/Movies_Creating/More_About_Creating_Movies/Enabling_and_Disabling_Sound_for_Recording.htm" />
+      <TocEntry
+        Title="Titles"
+        Link="/Content/Movies_Creating/More_About_Creating_Movies/Adding_Titles_to_Movies.htm" />
+      <TocEntry
+        Title="Typing Box Shapes"
+        Link="/Content/Movies_Creating/More_About_Creating_Movies/Adding_Typing_Box_Shapes_for_Recording.htm" />
+      <TocEntry
+        Title="Viewing Output"
+        Link="/Content/Output/More_About_Building_Movie_Output/Viewing_Movie_Output.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Object Groups">
+      <TocEntry
+        Title="Grouping Objects"
+        Link="/Content/Objects/Groups/Grouping_Objects.htm" />
+      <TocEntry
+        Title="Ungrouping Objects"
+        Link="/Content/Objects/Groups/Ungrouping_Objects.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Output">
+      <TocEntry
+        Title="Building"
+        Link="/Content/Output/Building_Movie_Output.htm" />
+      <TocEntry
+        Title="Building—Command Line"
+        Link="/Content/Output/Building_Movie_Output_Using_the_Command_Line.htm" />
+      <TocEntry
+        Title="Formats—About"
+        Link="/Content/Output/About_Movie_Output_Formats.htm" />
+      <TocEntry
+        Title="Formats—Default"
+        Link="/Content/Output/Selecting_the_Movie_Format.htm" />
+      <TocEntry
+        Title="Options—Adobe AIR"
+        Link="/Content/Output/More_About_Building_Movie_Output/Specifying_Adobe_AIR_Options.htm" />
+      <TocEntry
+        Title="Options—Flash"
+        Link="/Content/Output/More_About_Building_Movie_Output/Specifying_Flash_Options.htm" />
+      <TocEntry
+        Title="Options—HTML5"
+        Link="/Content/Output/More_About_Building_Movie_Output/Specifying_HTML5_Options.htm" />
+      <TocEntry
+        Title="Options—Silverlight"
+        Link="/Content/Output/More_About_Building_Movie_Output/Specifying_Silverlight_Options.htm" />
+      <TocEntry
+        Title="Single Files for Output"
+        Link="/Content/Output/Selecting_Single_Files_for_the_Output_Mimic.htm" />
+      <TocEntry
+        Title="More About Movie Output">
+        <TocEntry
+          Title="Mark of the Web"
+          Link="/Content/Output/More_About_Building_Movie_Output/Adding_Mark_of_the_Web.htm" />
+        <TocEntry
+          Title="Cleaning"
+          Link="/Content/Output/More_About_Building_Movie_Output/Clearning_Output_Files.htm" />
+        <TocEntry
+          Title="Home Page for Browser-based Output"
+          Link="/Content/Output/More_About_Skins_Mimic/Setting_the_Home_Page_for_Browser_Based_Output.htm" />
+        <TocEntry
+          Title="Viewing"
+          Link="/Content/Output/More_About_Building_Movie_Output/Viewing_Movie_Output.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Skins">
+        <TocEntry
+          Title="About Box Image"
+          Link="/Content/Output/More_About_Skins_Mimic/Selecting_a_Picture_for_the_About_Box.htm" />
+        <TocEntry
+          Title="About Skins"
+          Link="/Content/Skins/About_Skins_Mimic.htm" />
+        <TocEntry
+          Title="Editing"
+          Link="/Content/Output/Editing_Skins_Mimic.htm" />
+        <TocEntry
+          Title="Exporting"
+          Link="/Content/Output/More_About_Skins_Mimic/Exporting_Skins.htm" />
+        <TocEntry
+          Title="Home Page"
+          Link="/Content/Output/More_About_Skins_Mimic/Setting_the_Home_Page_for_Browser_Based_Output.htm" />
+        <TocEntry
+          Title="Importing"
+          Link="/Content/Output/More_About_Skins_Mimic/Importing_Skins.htm" />
+        <TocEntry
+          Title="JavaScript"
+          Link="/Content/Output/More_About_Skins_Mimic/Adding_Custom_JavaScript.htm" />
+        <TocEntry
+          Title="Navigation Toolbar—Background Color"
+          Link="/Content/Output/More_About_Skins_Mimic/Selecting_the_Background_Color_for_the_Navigation_Toolbar.htm" />
+        <TocEntry
+          Title="Navigation Toolbar—Creating Buttons"
+          Link="/Content/Output/More_About_Skins_Mimic/Creating_Custom_Buttons_for_Navigation_Toolbars.htm" />
+        <TocEntry
+          Title="Navigation Toolbar—Fit to Movie"
+          Link="/Content/Output/More_About_Skins_Mimic/Setting_the_Navigation_Toolbar_to_Fit_to_Movie.htm" />
+        <TocEntry
+          Title="Navigation Toolbar—Selecting Buttons"
+          Link="/Content/Output/More_About_Skins_Mimic/Selecting_Buttons_for_the_Navigation_Toolbar.htm" />
+        <TocEntry
+          Title="Navigation Toolbar—Styles"
+          Link="/Content/Output/More_About_Skins_Mimic/Setting_Styles_for_Navigation_Toolbars_and_Buttons.htm" />
+        <TocEntry
+          Title="Progress Bar"
+          Link="/Content/Output/More_About_Skins_Mimic/Centering_the_Progress_Bar.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Language Skins">
+        <TocEntry
+          Title="About Language Support"
+          Link="/Content/Language_Support/About_Language_Support_Mimic.htm" />
+        <TocEntry
+          Title="Editing"
+          Link="/Content/Language_Support/Editing_Language_Skins_Mimic.htm" />
+        <TocEntry
+          Title="Flash—Selecting a Language"
+          Link="/Content/Language_Support/Selecting_a_Language_Mimic.htm" />
+        <TocEntry
+          Title="User-Defined Language Skins"
+          Link="/Content/Language_Support/Creating_User_Defined_Language_Skins.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Targets">
+        <TocEntry
+          Title="About Targets"
+          Link="/Content/Targets/About_Targets_Mimic.htm" />
+        <TocEntry
+          Title="Creating"
+          Link="/Content/Targets/Creating_Targets_Mimic.htm" />
+        <TocEntry
+          Title="Editing"
+          Link="/Content/Targets/Editing_Targets_Mimic.htm" />
+        <TocEntry
+          Title="Removing"
+          Link="/Content/Targets/Removing_Targets_Mimic.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Palettes">
+      <TocEntry
+        Title="About Palettes"
+        Link="/Content/Palettes/About_Palettes_Mimic.htm" />
+      <TocEntry
+        Title="Creating"
+        Link="/Content/Palettes/Creating_Palettes.htm" />
+      <TocEntry
+        Title="Deleting"
+        Link="/Content/Palettes/Deleting_Palettes.htm" />
+      <TocEntry
+        Title="Objects—Adding"
+        Link="/Content/Palettes/Adding_Objects_to_Palettes.htm" />
+      <TocEntry
+        Title="Objects—Deleting"
+        Link="/Content/Palettes/Deleting_Objects_from_Palettes.htm" />
+      <TocEntry
+        Title="Objects—Using"
+        Link="/Content/Palettes/Using_Objects_from_Palettes.htm" />
+      <TocEntry
+        Title="Opening"
+        Link="/Content/Palettes/Opening_Palettes.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Positioning Objects">
+      <TocEntry
+        Title="Aligning"
+        Link="/Content/Appearance/Positioning_Objects/Aligning_Objects_Mimic.htm" />
+      <TocEntry
+        Title="Anchors"
+        Link="/Content/Appearance/Positioning_Objects/Setting_Object_Anchors.htm" />
+      <TocEntry
+        Title="Floating and Sinking"
+        Link="/Content/Appearance/Positioning_Objects/Floating_and_Sinking_Objects_Mimic.htm" />
+      <TocEntry
+        Title="Moving"
+        Link="/Content/Appearance/Positioning_Objects/Moving_Objects_Around.htm" />
+      <TocEntry
+        Title="Rotating"
+        Link="/Content/Appearance/Positioning_Objects/Rotating_Objects.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Previewing Movies">
+      <TocEntry
+        Title="Previewing Movies"
+        Link="/Content/Movies_Creating/More_About_Creating_Movies/Previewing_Movies.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Printing">
+      <TocEntry
+        Title="Frames"
+        Link="/Content/Printing/Printing_Frames.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Resizing">
+      <TocEntry
+        Title="Movies"
+        Link="/Content/Appearance/Resizing/Resizing_Movies.htm" />
+      <TocEntry
+        Title="Objects"
+        Link="/Content/Appearance/Resizing/Resizing_Objects.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Rollover Captions">
+      <TocEntry
+        Title="Adding"
+        Link="/Content/Objects/Rollover_Captions/Adding_Rollover_Captions.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Shading Effects">
+      <TocEntry
+        Title="Adding"
+        Link="/Content/Appearance/Effects/Shading_Effects/Adding_Shading_Effects_Mimic.htm"></TocEntry>
+      <TocEntry
+        Title="Editing"
+        Link="/Content/Appearance/Effects/Shading_Effects/Editing_Shading_Effects_Mimic.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Shadow Effects">
+      <TocEntry
+        Title="Adding"
+        Link="/Content/Appearance/Effects/Shadow_Effects/Adding_Shadow_Effects_Mimic.htm" />
+      <TocEntry
+        Title="Editing"
+        Link="/Content/Appearance/Effects/Shadow_Effects/Editing_Shadow_Effects_Mimic.htm" />
+      <TocEntry
+        Title="Line"
+        Link="/Content/Appearance/Effects/Shadow_Effects/Adding_a_Shadow_to_a_Line_Mimic.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Shapes">
+      <TocEntry
+        Title="Adding to Frames"
+        Link="/Content/Objects/Shapes/Adding_Shapes_to_Frames.htm" />
+      <TocEntry
+        Title="Palette Shapes"
+        Link="/Content/Palettes/Using_Objects_from_Palettes.htm" />
+      <TocEntry
+        Title="Rectangle Properties"
+        Link="/Content/Appearance/Rectangle_Properties/Setting_the_Rectangle_Properties_for_an_Object.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Shortcuts">
+      <TocEntry
+        Title="Keyboard Shortcuts"
+        Link="/Content/Shortcuts/Keyboard_Shortcuts_Mimic.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Skins">
+      <TocEntry
+        Title="About Box Image"
+        Link="/Content/Output/More_About_Skins_Mimic/Selecting_a_Picture_for_the_About_Box.htm" />
+      <TocEntry
+        Title="About Skins"
+        Link="/Content/Skins/About_Skins_Mimic.htm" />
+      <TocEntry
+        Title="Editing"
+        Link="/Content/Output/Editing_Skins_Mimic.htm" />
+      <TocEntry
+        Title="Exporting"
+        Link="/Content/Output/More_About_Skins_Mimic/Exporting_Skins.htm"></TocEntry>
+      <TocEntry
+        Title="Flash—Selecting a Language"
+        Link="/Content/Language_Support/Selecting_a_Language_Mimic.htm" />
+      <TocEntry
+        Title="Home Page"
+        Link="/Content/Output/More_About_Skins_Mimic/Setting_the_Home_Page_for_Browser_Based_Output.htm" />
+      <TocEntry
+        Title="Importing"
+        Link="/Content/Output/More_About_Skins_Mimic/Importing_Skins.htm" />
+      <TocEntry
+        Title="JavaScript"
+        Link="/Content/Output/More_About_Skins_Mimic/Adding_Custom_JavaScript.htm" />
+      <TocEntry
+        Title="Language Skins—Editing"
+        Link="/Content/Language_Support/Editing_Language_Skins_Mimic.htm" />
+      <TocEntry
+        Title="Language Skins—User-defined"
+        Link="/Content/Language_Support/Creating_User_Defined_Language_Skins.htm" />
+      <TocEntry
+        Title="Navigation Toolbar—Background Color"
+        Link="/Content/Output/More_About_Skins_Mimic/Selecting_the_Background_Color_for_the_Navigation_Toolbar.htm" />
+      <TocEntry
+        Title="Navigation Toolbar—Creating Buttons"
+        Link="/Content/Output/More_About_Skins_Mimic/Creating_Custom_Buttons_for_Navigation_Toolbars.htm" />
+      <TocEntry
+        Title="Navigation Toolbar—Fit to Movie"
+        Link="/Content/Output/More_About_Skins_Mimic/Setting_the_Navigation_Toolbar_to_Fit_to_Movie.htm" />
+      <TocEntry
+        Title="Navigation Toolbar—Selecting Buttons"
+        Link="/Content/Output/More_About_Skins_Mimic/Selecting_Buttons_for_the_Navigation_Toolbar.htm" />
+      <TocEntry
+        Title="Navigation Toolbar—Styles"
+        Link="/Content/Output/More_About_Skins_Mimic/Setting_Styles_for_Navigation_Toolbars_and_Buttons.htm" />
+      <TocEntry
+        Title="Progress Bar"
+        Link="/Content/Output/More_About_Skins_Mimic/Centering_the_Progress_Bar.htm"></TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Spell Check">
+      <TocEntry
+        Title="About Spell Check"
+        Link="/Content/Spell Check/About_Spell_Check_Mimic.htm" />
+      <TocEntry
+        Title="Dictionaries—Editing"
+        Link="/Content/Spell Check/Editing_Dictionaries_Mimic.htm" />
+      <TocEntry
+        Title="Dictionaries—Opening"
+        Link="/Content/Spell Check/Opening_Dictionaries_Mimic.htm" />
+      <TocEntry
+        Title="Ignore Spell Check List"
+        Link="/Content/Spell Check/Adding_Words_to_the_Ignore Spell_Check_List_Mimic.htm" />
+      <TocEntry
+        Title="Language—Selecting"
+        Link="/Content/Language_Support/Selecting_a_Language_Mimic.htm" />
+      <TocEntry
+        Title="Spell Checking Movies"
+        Link="/Content/Spell Check/Spell_Checking_Movies.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Targets">
+      <TocEntry
+        Title="About Targets"
+        Link="/Content/Targets/About_Targets_Mimic.htm" />
+      <TocEntry
+        Title="Creating"
+        Link="/Content/Targets/Creating_Targets_Mimic.htm" />
+      <TocEntry
+        Title="Editing"
+        Link="/Content/Targets/Editing_Targets_Mimic.htm" />
+      <TocEntry
+        Title="Removing"
+        Link="/Content/Targets/Removing_Targets_Mimic.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Templates">
+      <TocEntry
+        Title="About Templates"
+        Link="/Content/Templates/About_Templates_Mimic.htm" />
+      <TocEntry
+        Title="Creating"
+        Link="/Content/Templates/Creating_Templates_Mimic.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Text">
+      <TocEntry
+        Title="About Text"
+        Link="/Content/Text/About_Text.htm" />
+      <TocEntry
+        Title="Adding"
+        Link="/Content/Text/Adding_Text_Mimic.htm" />
+      <TocEntry
+        Title="Aligning"
+        Link="/Content/Text/Aligning_Text.htm" />
+      <TocEntry
+        Title="Editing"
+        Link="/Content/Text/Editing_Text.htm" />
+      <TocEntry
+        Title="Font Properties"
+        Link="/Content/Text/Setting_Font_Properties_for_Text_Mimic.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Timing">
+      <TocEntry
+        Title="About Timing"
+        Link="/Content/Timing/About_Timing.htm" />
+      <TocEntry
+        Title="Frames"
+        Link="/Content/Timing/Setting_Timing_for_Frames.htm" />
+      <TocEntry
+        Title="Objects"
+        Link="/Content/Timing/Setting_Timing_for_Objects.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Torn Edge Effects">
+      <TocEntry
+        Title="Adding"
+        Link="/Content/Appearance/Effects/Torn_Edge_Effects/Adding_Torn_Edge_Effects_Mimic.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Trajectories">
+      <TocEntry
+        Title="About Trajectories"
+        Link="/Content/Trajectories/About_Trajectories.htm" />
+      <TocEntry
+        Title="Adding"
+        Link="/Content/Trajectories/Adding_Trajectories_to_Objects.htm" />
+      <TocEntry
+        Title="Continuity"
+        Link="/Content/Trajectories/Maintaining_Cursor_Continuity.htm" />
+      <TocEntry
+        Title="Customizing"
+        Link="/Content/Trajectories/Customizing_Trajectory_Drawings.htm" />
+      <TocEntry
+        Title="Moving"
+        Link="/Content/Trajectories/Moving_Trajectories.htm" />
+      <TocEntry
+        Title="Removing"
+        Link="/Content/Trajectories/Removing_Trajectories.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Transitions">
+      <TocEntry
+        Title="About Transitions"
+        Link="/Content/Transitions/About_Transitions.htm" />
+      <TocEntry
+        Title="Frames"
+        Link="/Content/Transitions/Setting_Transitions_for_Frames.htm" />
+      <TocEntry
+        Title="Movies"
+        Link="/Content/Transitions/Setting_Transitions_for_Movies.htm" />
+      <TocEntry
+        Title="Objects"
+        Link="/Content/Transitions/Setting_Transitions_for_Objects.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Typing">
+      <TocEntry
+        Title="Animated Typing Boxes"
+        Link="/Content/Objects/Typing_Objects/Adding_Animated_Typing_Boxes.htm" />
+      <TocEntry
+        Title="Input Boxes"
+        Link="/Content/Objects/Typing_Objects/Adding_Input_Boxes.htm" />
+      <TocEntry
+        Title="Input Failure Captions"
+        Link="/Content/Objects/Typing_Objects/Adding_Input_Failure_Captions.htm" />
+      <TocEntry
+        Title="Input Hint Captions"
+        Link="/Content/Objects/Typing_Objects/Adding_Input_Hint_Captions.htm" />
+      <TocEntry
+        Title="Input Success Captions"
+        Link="/Content/Objects/Typing_Objects/Adding_Input_Success_Captions.htm" />
+      <TocEntry
+        Title="Typing Box Shapes"
+        Link="/Content/Movies_Creating/More_About_Creating_Movies/Adding_Typing_Box_Shapes_for_Recording.htm" />
+      <TocEntry
+        Title="Typing Objects"
+        Link="/Content/Objects/Typing_Objects/About_Typing_Objects.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Units of Measurement">
+      <TocEntry
+        Title="About Units of Measurement"
+        Link="/Content/Styles/More_About_Styles_and_Style_Sheets/About_Units_of_Measurement.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Variables">
+      <TocEntry
+        Title="About Variables"
+        Link="/Content/Variables/About_Variables_Mimic.htm" />
+      <TocEntry
+        Title="Creating"
+        Link="/Content/Variables/Creating_Variables_Mimic.htm" />
+      <TocEntry
+        Title="Editing"
+        Link="/Content/Variables/Editing_Variables_Mimic.htm" />
+      <TocEntry
+        Title="Inserting into Objects"
+        Link="/Content/Variables/Inserting_Variables_into_Objects_Mimic.htm" />
+      <TocEntry
+        Title="Linking to Project Variables"
+        Link="/Content/Project_Links/Linking_to_Flare_Projects.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Zoom Effects">
+      <TocEntry
+        Title="Adding"
+        Link="/Content/Appearance/Effects/Zoom_Effects/Adding_Zoom_Effects_Mimic.htm" />
+      <TocEntry
+        Title="Editing"
+        Link="/Content/Appearance/Effects/Zoom_Effects/Editing_Zoom_Effects_Mimic.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="User Interface Elements"
+    conditions=""
+    StartChapter="False">
+    <TocEntry
+      Title="Accept Recorded Movie Dialog"
+      Link="/Content/Movies_Creating/Recording_Movies.htm" />
+    <TocEntry
+      Title="Add New Movie Dialog"
+      Link="/Content/Movies_Creating/Creating_Blank_Movies.htm" />
+    <TocEntry
+      Title="Adjust Volume Dialog"
+      Link="/Content/Audio/Editing_Audio/Adjusting_the_Volume_of_an_Audio_File.htm" />
+    <TocEntry
+      Title="Arrow Properties Dialog"
+      Link="/Content/UI_Elements/Arrow_Properties_Dialog.htm" />
+    <TocEntry
+      Title="Bubble Properties Dialog"
+      Link="/Content/UI_Elements/Bubble_Properties_Dialog.htm" />
+    <TocEntry
+      Title="Button Properties Dialog"
+      Link="/Content/UI_Elements/Button_Properties_Dialog.htm" />
+    <TocEntry
+      Title="Collection Editor"
+      Link="/Content/UI_Elements/Collection_Editor.htm" />
+    <TocEntry
+      Title="Color Picker Dialog"
+      Link="/Content/UI_Elements/Color_Picker_Dialog.htm" />
+    <TocEntry
+      Title="Cursor Properties Dialog"
+      Link="/Content/UI_Elements/Cursor_Properties_Dialog.htm" />
+    <TocEntry
+      Title="Define Font Set Dialog"
+      Link="/Content/UI_Elements/Define_Font_Set_Dialog.htm" />
+    <TocEntry
+      Title="Dictionary Editor"
+      Link="/Content/Spell Check/Editing_Dictionaries_Mimic.htm" />
+    <TocEntry
+      Title="Dynamic Help Window Pane"
+      Link="/Content/UI_Elements/Dynamic_Help_Window.htm" />
+    <TocEntry
+      Title="Effect Properties Dialog"
+      Link="/Content/UI_Elements/Effect_Properties_Dialog.htm" />
+    <TocEntry
+      Title="Failure Caption Properties Dialog"
+      Link="/Content/UI_Elements/Failure_Caption_Properties_Dialog.htm" />
+    <TocEntry
+      Title="Font Family Picker Dialog"
+      Link="/Content/UI_Elements/Font_Family_Picker_Dialog.htm" />
+    <TocEntry
+      Title="Frame Editor"
+      Link="/Content/UI_Elements/Frame_Editor.htm" />
+    <TocEntry
+      Title="Frame Properties Dialog"
+      Link="/Content/UI_Elements/Frame_Properties_Dialog_Mimic.htm" />
+    <TocEntry
+      Title="Frames Window Pane"
+      Link="/Content/UI_Elements/Frames_Window.htm" />
+    <TocEntry
+      Title="Getting Started Wizard"
+      Link="/Content/UI_Elements/Getting_Started_Wizard_Mimic.htm" />
+    <TocEntry
+      Title="Grid Options Dialog"
+      Link="/Content/Movies_Creating/More_About_Creating_Movies/Working_with_Grids.htm" />
+    <TocEntry
+      Title="Help Favorites Window Pane"
+      Link="/Content/UI_Elements/Help_Favorites_Window.htm" />
+    <TocEntry
+      Title="Help Glossary Window Pane"
+      Link="/Content/UI_Elements/Help_Glossary_Window.htm" />
+    <TocEntry
+      Title="Help Index Window Pane"
+      Link="/Content/UI_Elements/Help_Index_Window.htm" />
+    <TocEntry
+      Title="Help Search Window Pane"
+      Link="/Content/UI_Elements/Help_Search_Window.htm" />
+    <TocEntry
+      Title="Help TOC Window Pane"
+      Link="/Content/UI_Elements/Help_TOC_Window.htm" />
+    <TocEntry
+      Title="Hint Caption Properties Dialog"
+      Link="/Content/UI_Elements/Hint_Caption_Properties_Dialog.htm" />
+    <TocEntry
+      Title="Ignored Words Dialog"
+      Link="/Content/Spell Check/Adding_Words_to_the_Ignore Spell_Check_List_Mimic.htm" />
+    <TocEntry
+      Title="Image Properties Dialog"
+      Link="/Content/UI_Elements/Image_Properties_Dialog.htm" />
+    <TocEntry
+      Title="Import Movie Dialog"
+      Link="/Content/Movies_Creating/Importing_Movies.htm" />
+    <TocEntry
+      Title="Import PowerPoint Wizard"
+      Link="/Content/Movies_Creating/Creating_Movies_from_PowerPoint_Presentations.htm" />
+    <TocEntry
+      Title="Index Results Window Pane"
+      Link="/Content/UI_Elements/Index_Results_Window.htm" />
+    <TocEntry
+      Title="Input Box Properties Dialog"
+      Link="/Content/UI_Elements/Input_Box_Properties_Dialog.htm" />
+    <TocEntry
+      Title="Insert Silence Dialog"
+      Link="/Content/Audio/Editing_Audio/Inserting_Silent_Areas_into_an_Audio_File.htm" />
+    <TocEntry
+      Title="Language Skin Editor"
+      Link="/Content/UI_Elements/Language_Skin_Editor_Mimic.htm" />
+    <TocEntry
+      Title="Language Skins Dialog"
+      Link="/Content/UI_Elements/Language_Skins_Dialog_Mimic.htm" />
+    <TocEntry
+      Title="Link Browser Window Pane"
+      Link="/Content/Frames/Viewing_Frame_Links.htm" />
+    <TocEntry
+      Title="Log On As Dialog"
+      Link="/Content/UI_Elements/Log_On_As_Dialog_Mimic.htm" />
+    <TocEntry
+      Title="Loop Properties Dialog"
+      Link="/Content/UI_Elements/Loop_Properties_Dialog.htm" />
+    <TocEntry
+      Title="MadCap Movie Viewer"
+      Link="/Content/UI_Elements/MadCap_Movie_Viewer.htm" />
+    <TocEntry
+      Title="Manage Movie Sound Library Dialog"
+      Link="/Content/UI_Elements/Manage_Movie_Sound_Library_Dialog.htm" />
+    <TocEntry
+      Title="Manage Window Layouts Dialog"
+      Link="/Content/UI_Elements/Manage_Window_Layouts_Dialog.htm" />
+    <TocEntry
+      Title="Manage Windows Dialog"
+      Link="/Content/UI_Elements/Manage_Windows_Dialog.htm" />
+    <TocEntry
+      Title="Messages Window Pane"
+      Link="/Content/UI_Elements/Messages_Window.htm" />
+    <TocEntry
+      Title="Movie Properties Dialog"
+      Link="/Content/UI_Elements/Movie_Properties_Dialog.htm" />
+    <TocEntry
+      Title="Movies Window Pane"
+      Link="/Content/UI_Elements/Movies_Window.htm" />
+    <TocEntry
+      Title="New Dialog"
+      Link="/Content/UI_Elements/New_Dialog.htm" />
+    <TocEntry
+      Title="New Palette Dialog"
+      Link="/Content/Palettes/Creating_Palettes.htm" />
+    <TocEntry
+      Title="New Updates Available Dialog"
+      Link="/Content/UI_Elements/New_Updates_Available_Dialog.htm" />
+    <TocEntry
+      Title="Object Properties Dialog"
+      Link="/Content/UI_Elements/Object_Properties_Dialog.htm" />
+    <TocEntry
+      Title="Open Dictionary Dialog"
+      Link="/Content/Spell Check/Opening_Dictionaries_Mimic.htm" />
+    <TocEntry
+      Title="Options Dialog"
+      Link="/Content/UI_Elements/Options_Dialog_Mimic.htm" />
+    <TocEntry
+      Title="Oval Properties Dialog"
+      Link="/Content/UI_Elements/Oval_Properties_Dialog.htm" />
+    <TocEntry
+      Title="Palettes Window Pane"
+      Link="/Content/Palettes/About_Palettes_Mimic.htm" />
+    <TocEntry
+      Title="Pick Font List Dialog"
+      Link="/Content/UI_Elements/Pick_Font_List_Dialog.htm" />
+    <TocEntry
+      Title="Pick Skin Dialog"
+      Link="/Content/Output/More_About_Skins_Mimic/Importing_Skins.htm" />
+    <TocEntry
+      Title="Pick System Sound Dialog"
+      Link="/Content/UI_Elements/Pick_System_Sound_Dialog.htm" />
+    <TocEntry
+      Title="Polygon Properties Dialog"
+      Link="/Content/UI_Elements/Polygon_Properties_Dialog.htm" />
+    <TocEntry
+      Title="Polyline Properties Dialog"
+      Link="/Content/UI_Elements/Polyline_Properties_Dialog.htm" />
+    <TocEntry
+      Title="Publish Movie Dialog"
+      Link="/Content/Output/Publishing_Output_Mimic.htm" />
+    <TocEntry
+      Title="Publishing Log Dialog"
+      Link="/Content/Output/Publishing_Output_Mimic.htm" />
+    <TocEntry
+      Title="Recent Collections Dialog"
+      Link="/Content/UI_Elements/Recent_Collections_Dialog.htm" />
+    <TocEntry
+      Title="Recent Files Dialog"
+      Link="/Content/UI_Elements/Recent_Files_Dialog.htm" />
+    <TocEntry
+      Title="Record Dialog"
+      Link="/Content/Audio/Recording_Audio.htm" />
+    <TocEntry
+      Title="Recording Options Dialog"
+      Link="/Content/UI_Elements/Recording_Options_Dialog.htm" />
+    <TocEntry
+      Title="Rectangle Properties Dialog"
+      Link="/Content/UI_Elements/Rectangle_Properties_Dialog.htm" />
+    <TocEntry
+      Title="Rename Movie Dialog"
+      Link="/Content/Movies_Creating/More_About_Creating_Movies/Renaming_Movies.htm" />
+    <TocEntry
+      Title="Rollover Caption Properties Dialog"
+      Link="/Content/UI_Elements/Rollover_Caption_Properties_Dialog.htm" />
+    <TocEntry
+      Title="Save Skin Dialog"
+      Link="/Content/Output/More_About_Skins_Mimic/Exporting_Skins.htm" />
+    <TocEntry
+      Title="Section Title Dialog"
+      Link="/Content/Movies_Creating/More_About_Creating_Movies/Adding_Titles_to_Movies.htm" />
+    <TocEntry
+      Title="Select Shape Style Dialog"
+      Link="/Content/UI_Elements/Select_Shape_Style_Dialog.htm" />
+    <TocEntry
+      Title="Select Template Language Skin Dialog"
+      Link="/Content/Language_Support/Creating_User_Defined_Language_Skins.htm" />
+    <TocEntry
+      Title="Select Window"
+      Link="/Content/UI_Elements/Select_Window.htm" />
+    <TocEntry
+      Title="Skin Editor"
+      Link="/Content/Output/Editing_Skins_Mimic.htm" />
+    <TocEntry
+      Title="Sound Editor"
+      Link="/Content/UI_Elements/Sound_Editor.htm" />
+    <TocEntry
+      Title="Spell Check Window Pane"
+      Link="/Content/Spell Check/Spell_Checking_Movies.htm" />
+    <TocEntry
+      Title="Start New Collection Wizard"
+      Link="/Content/Movie_Collections/Creating_a_Movie_Collection.htm" />
+    <TocEntry
+      Title="Start Page"
+      Link="/Content/UI_Elements/Start_Page_Mimic.htm" />
+    <TocEntry
+      Title="Success Caption Properties Dialog"
+      Link="/Content/UI_Elements/Success_Caption_Properties_Dialog.htm" />
+    <TocEntry
+      Title="Timeline Window Pane"
+      Link="/Content/UI_Elements/Timeline_Window.htm" />
+    <TocEntry
+      Title="Toolbar JavaScript Dialog"
+      Link="/Content/Output/More_About_Skins_Mimic/Adding_Custom_JavaScript.htm" />
+    <TocEntry
+      Title="Trajectory Drawing Dialog"
+      Link="/Content/Trajectories/Customizing_Trajectory_Drawings.htm" />
+    <TocEntry
+      Title="Typing Box Properties Dialog"
+      Link="/Content/UI_Elements/Typing_Box_Properties_Dialog.htm" />
+    <TocEntry
+      Title="Variables Dialog"
+      Link="/Content/Variables/Inserting_Variables_into_Objects_Mimic.htm" />
+  </TocEntry>
+</CatapultToc>

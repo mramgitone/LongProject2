@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="228" MadCap:lastWidth="743">
+    <body>
+        <p class="ExampleHead">example</p>
+        <p class="Example">Let's say that you have been working on a particular topic for a few days. Each day you check out the latest version of that topic file from source control, make your changes, and check the file back in to source control at the end of the day. At a certain point, you determine that you need to "roll back" to an earlier version of the file, using it to replace the latest version. Therefore, you use this feature to view the highlighted differences between the current version and an older version of the file. Once you have identified the older version that you want to use, you can perform a "get" of that version.</p>
+    </body>
+</html>

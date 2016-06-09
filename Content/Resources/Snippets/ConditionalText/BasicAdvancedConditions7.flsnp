@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="14" MadCap:lastHeight="379" MadCap:lastWidth="1011" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>When you type in the Advanced section, a yellow warning icon displays with relevant text if you have typed an error.</p>
+        <p class="ExampleHead" MadCap:conditions="Products.Flare">example</p>
+        <p class="Example" MadCap:conditions="Products.Flare">
+            <img src="../../Images/conditions8.png" class="MaxWidth90Percent" />
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareConditionTagsGuide,FlareGuides.FlareTargetsGuide" />
+        <p>You can expect to see this icon quickly appear and then disappear as you type. However, if the icon remains after you finish, you can click it. The error will then be highlighted in the text below.</p>
+        <p class="ExampleHead" MadCap:conditions="Products.Flare">example</p>
+        <p class="Example" MadCap:conditions="Products.Flare">
+            <img src="../../Images/conditions9.png" class="MaxWidth90Percent" />
+        </p>
+    </body>
+</html>

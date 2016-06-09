@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="379" MadCap:lastWidth="933">
+    <body>
+        <p>If a TOC, index, or glossary is auto-generated, how does Flare know which page layout to use for them in the output? It uses the same page layout that is being used for the topic(s) just before it.</p>
+        <p class="ExampleHead">example</p>
+        <p class="ExampleMiddleSection">Let's say you have an outline TOC set up like this:</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/auto_generate_proxies15.png" alt="" title="" class="MaxWidth60Percent">
+            </img>
+        </p>
+        <p class="ExampleMiddleSection">In this case, the generated TOC is going to be placed directly after the title page. It will use the "Title" page layout which is set on the first "Title Page" entry. That page layout has a Title page type in it. That's how Flare knows it should place the TOC directly after it and to use the same page layout to display the TOC.</p>
+        <p class="Example">The generated glossary is going to be placed after the final entry, called "Topic 17,"&#160;and the generated index will be placed after the glossary. Both of these will use the "Chapters" page layout, because it's the last one that was set.</p>
+    </body>
+</html>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="280" MadCap:lastWidth="905">
+    <body>
+        <p>In other authoring tools, you’re probably used to everything being a part of a single file—the content, the table of contents, the glossary, the styles, and so on. It’s not like that in Flare. Instead, most of the pieces are separate. This is one of the things that helps make Flare so powerful and give you so much flexibility in how to create your output.</p>
+        <p>Your content is stored in topic files and in smaller snippet files. And images exist separately as image files and are included in topics and snippets by reference. Your table of contents is a different file. The glossary is yet another file. The styles are stored in a separate cascading stylesheet file. In fact, you might even have a project with multiple TOCs, multiple glossaries, and multiple stylesheets. It all depends on how you want to work.</p>
+        <p>As far as indexes are concerned, they're created in part by inserting index keywords into topics and snippets. There is no separate index file in the Flare project. However, for the most part, you’re dealing with separate files as building blocks.</p>
+        <p>Then you use another file called a "target"<MadCap:conditionalText MadCap:conditions="General.OnlineLive"> (see <MadCap:xref href="../../../Targets/About_Targets.htm">About Targets</MadCap:xref>)</MadCap:conditionalText> to take all of these pieces, merge them together, and generate the output you want. It’s kind of like putting a bunch of ingredients into a food processor and ending up with a smoothie.</p>
+    </body>
+</html>

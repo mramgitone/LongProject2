@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor" MadCap:lastBlockDepth="8" MadCap:lastHeight="377" MadCap:lastWidth="782">
+    <body>
+        <p>There is a global setting in the Options dialog that lets you use single and double curly smart quotes (”) instead of straight quotes (") when you type in the XML Editor. This option is disabled by default.</p>
+        <p class="Subheading">how to use smart quotes</p>
+        <ol>
+            <li> Select <span class="Emphasis">File&gt;Options</span> (if working in ribbon view) or <span class="Emphasis">Tools&gt;Options</span> (if working in toolstrip view). The Options dialog opens.</li>
+            <li>Select the <span class="Emphasis">XML Editor</span> tab.</li>
+            <li>Click <span class="Emphasis">Replace straight quotes with smart quotes</span>.</li>
+            <li>
+                <MadCap:snippetText src="../../StepsGeneral/ClickOK.flsnp" />
+            </li>
+        </ol>
+        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Selecting this option does not automatically replace all of the straight quotes that you already have throughout your project. In order to do that, you should use the Find and Replace in Files window pane to find all of the files in the project containing straight quotes and then enter smart quotes in their place. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../../Find_and_Replace/Using_the_Find_and_Replace_in_Files_Feature.htm">Using the Find and Replace in Files Feature</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

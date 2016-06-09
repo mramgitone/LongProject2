@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="1246" MadCap:lastWidth="1166" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Page numbers:aligning" />Alignment of Page Number (Print Output) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> To change the alignment (left, right, center) of the page number, expand the <span class="Emphasis">Unclassified</span> property group. Then click in the right column next to <span class="Emphasis">mc-leader-align</span> and select the type of alignment.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Fonts:font family" />Font Family </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> To change the font family (e.g., Arial, Verdana), expand the <span class="Emphasis">Font</span> property group. Click in the right column next to <span class="Emphasis">font-family</span>, set the font family in the Font Family Picker dialog, and click <span class="Emphasis">OK</span>.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Fonts:size" />Font Size </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> To change the font size (e.g., 10 pt, 11 pt), expand the <span class="Emphasis">Font</span> property group. Then click in the right column next to <span class="Emphasis">font-size</span>, set the font size in the small drop-down window, and click <span class="Emphasis">OK</span>.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel"><MadCap:keyword term="Leaders;Styles:leaders" />Leader Format  (Print Output) </span>
+                    <MadCap:expanding>
+                        <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                        <MadCap:expandingBody> To change the format of the area between the <MadCap:conditionalText MadCap:conditions="Snippets.Snippet1">TOC heading</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2">item in the list</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">mini-TOC heading</MadCap:conditionalText> and the page number, expand the <span class="Emphasis">Unclassified</span> property group. Then click in the right column next to <span class="Emphasis">mc-leader-format</span> and type the character to use. For example, if you want a series of dots, type a period. If you do not want to use a leader format, leave this field blank. </MadCap:expandingBody>
+                    </MadCap:expanding>
+                </p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">For Word output, you can enter one character only (period, hyphen, or underscore). For FrameMaker, you can specify a combination of characters and spaces, which repeat between the text and page number.</p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Print-based output:leaders;Leaders;Indent:leaders" />Leader Space Before/After  (Print Output) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Expand the <span class="Emphasis">Unclassified</span> property group. To change the <span class="EmphasisItalic">distance  from the end of the list entry to the start of the leader</span>, click in the right column next to <span class="Emphasis">mc-leader-indent</span>, set the margin value in the small drop-down window, and click <span class="Emphasis">OK</span>. To change the <span class="EmphasisItalic">distance between the end of the leader and the page number</span>,  click in the right column next to <span class="Emphasis">mc-leader-offset</span>, set the margin value in the small drop-down window, and click <span class="Emphasis">OK</span>.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Snippets.Snippet1">
+                <p class="PageBreakBefore"><span class="SetOffFirstLevel">Page Break (Avoid Heading Orphans—Print Output) </span>
+                    <MadCap:expanding>
+                        <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                        <MadCap:expandingBody> To avoid orphan TOC headings (e.g., a first-level heading in the TOC that is stuck by itself at the bottom of the page, with its second-level headings continuing at the top of the next page), you can set that style (e.g., p.TOC1) to avoid a page break after it. To do this, expand the <span class="Emphasis">PrintSupport</span> property group. Then click in the right column next to <span class="Emphasis">page-break-after</span> and select <span class="Emphasis">avoid</span>.</MadCap:expandingBody>
+                    </MadCap:expanding>
+                </p>
+                <MadCap:dropDown MadCap:conditions="Snippets.Snippet1" class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p class="ExampleHead" MadCap:conditions="Snippets.Snippet1">example</p>
+                        <p MadCap:conditions="Snippets.Snippet1" class="ExampleMiddleSection">Instead of this<span style="font-family: 'Calibri'">…</span></p>
+                        <p class="ExampleMiddleSection">
+                            <img src="../../Images/tocheadingorphan1.png" alt="" title="" class="MaxWidth90Percent" />
+                        </p>
+                        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide,FlareGuides.FlareTablesOfContentsGuide" />
+                        <p MadCap:conditions="Snippets.Snippet1" class="ExampleMiddleSection">You can have this<span style="font-family: 'Calibri'">…</span></p>
+                        <p MadCap:conditions="Snippets.Snippet1" class="Example">
+                            <img src="../../Images/tocheadingorphan2.png" class="MaxWidth90Percent" />
+                        </p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li><span class="SetOffFirstLevel">Padding Above </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>To change the amount of empty space (padding) above the <MadCap:conditionalText MadCap:conditions="Snippets.Snippet1">TOC heading</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2">item in the list</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">mini-TOC heading</MadCap:conditionalText>, expand the <span class="Emphasis">Box</span> property group. Then click in the right column next to <span class="Emphasis">padding-top</span>, set the padding value in the small drop-down window, and click <span class="Emphasis">OK</span>. You can also use the other cells in this property group to add padding below, to the left, or to the right.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel"><MadCap:keyword term="Margins:styles" />Space in Front (Indentation) </span>
+                    <MadCap:expanding>
+                        <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                        <MadCap:expandingBody> To change the distance from the left page margin to the beginning of the <MadCap:conditionalText MadCap:conditions="Snippets.Snippet1">TOC heading</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2">item in the list</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">mini-TOC heading</MadCap:conditionalText>, expand the <span class="Emphasis">Box</span> property group. Then click in the right column next to <span class="Emphasis">margin-left</span>, set the margin value in the small drop-down window, and click <span class="Emphasis">OK</span>. You can specify additional indentation for headings that wrap to more than one line. To do this, expand the <span class="Emphasis">Unclassified</span> property group. Then click in the right column next to <span class="Emphasis">mc-multiline-indent</span>, set the margin value in the small drop-down window, and click <span class="Emphasis">OK</span>. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Paragraphs/Indentation/Creating_Multiline_Indentation.htm" target="" title="" alt="">Creating Multiline Indentation</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                    </MadCap:expanding>
+                </p>
+                <MadCap:dropDown MadCap:conditions="Snippets.Snippet1" class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p class="ExampleHead" MadCap:conditions="Snippets.Snippet1">example</p>
+                        <p MadCap:conditions="Snippets.Snippet1" class="ExampleMiddleSection">The following image shows how the <span class="Emphasis">mc-multiline-indent</span> property works alongside the <span class="Emphasis">margin-left</span> property in a print TOC.</p>
+                        <p MadCap:conditions="Snippets.Snippet1" class="Example">
+                            <img src="../../Images/mc_multiline_indent_toc.png" class="MaxWidth90Percent" />
+                        </p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+        </ul>
+    </body>
+</html>

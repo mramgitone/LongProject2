@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="69" MadCap:lastWidth="1385" MadCap:conditions="Products.Mimic">
+    <body>
+        <p>You can select an image to be used for the "About box" in the output window. You can use this About box for any purpose you like. When users click the logo that you add to the interface (via the Toolbar Top or Toolbar Bottom tab of the Skin Editor), your image is displayed. When users click the image, it disappears. This can be done only in regular skins, not in embedded skins.</p>
+    </body>
+</html>

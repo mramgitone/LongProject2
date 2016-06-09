@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Mimic" MadCap:lastBlockDepth="4" MadCap:lastHeight="306" MadCap:lastWidth="1202">
+    <head>
+    </head>
+    <body>
+        <p class="TableText">Opens the Getting Started Wizard, which is the first window that you see when you launch <MadCap:variable name="Products.Mimic"></MadCap:variable> for the first time. It is designed to help you become familiar with <MadCap:variable name="Products.Mimic"></MadCap:variable> quickly and begin using the product right away.</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Record New Movie</span> You can quickly begin recording a new movie, whether it is a standalone movie or part of a collection. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Movies_Creating/Recording_Movies.htm" target="" title="" alt="">Recording Movies</MadCap:xref>.</MadCap:conditionalText></li>
+            <li MadCap:conditions=""><span class="SetOffFirstLevel">New Movie Collection</span>&#160;You can open a wizard to create a new movie collection. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Movie_Collections/Creating_a_Movie_Collection.htm" target="" title="" alt="">Creating a Movie Collection</MadCap:xref>.</MadCap:conditionalText></li>
+            <li><span class="SetOffFirstLevel">Open</span> Opens a dialog, which lets you search for and select a movie or collection to open.</li>
+            <li><span class="SetOffFirstLevel">Tutorials</span> Opens a topic containing videos that you can watch to learn more about <MadCap:snippetText src="../AllProductVariables.flsnp" />.</li>
+            <li><span class="SetOffFirstLevel">Recent Files</span>  Lists <MadCap:snippetText src="../AllProductVariables.flsnp" /> movies or collections that you have already created in <MadCap:snippetText src="../AllProductVariables.flsnp" />. They are listed in order of how recently they were opened. The maximum number of recent files saved in the registry is 30. Click on a movie or collection link to open it.</li>
+        </ul>
+    </body>
+</html>

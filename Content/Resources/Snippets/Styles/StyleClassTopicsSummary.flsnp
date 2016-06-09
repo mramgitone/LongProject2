@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer" MadCap:lastBlockDepth="2" MadCap:lastHeight="165" MadCap:lastWidth="743">
+    <body>
+        <p>You can select a topic style class (i.e., based on the &lt;html&gt; tag) to associate with any topic in your project. The properties for this style class will be applied to the entire topic. The following style classes are provided in the drop-down list: task, concept, reference, topic. These options are typically used if you are generating DITA output from the project. If you do not select any of these, the "topic" class is applied to the topic by default. If you want to use a custom style class instead, you can open the stylesheet, select the <span class="Emphasis">html</span> style, and create your own topic style class. In order for you to use this feature, the appropriate stylesheet must be selected in the Stylesheet field in the Properties dialog (not enabled if you are using a master stylesheet).</p>
+    </body>
+</html>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo">
+    <body>
+        <p class="TableText">You can click in this drop-down and select the appropriate gender for the term in each row.</p>
+        <p class="ExampleHead">example</p>
+        <p class="Example">Feminine, masculine, neuter.</p>
+    </body>
+    <head>
+    </head>
+</html>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="6" MadCap:lastHeight="1165" MadCap:lastWidth="882">
+    <head>
+    </head>
+    <body>
+        <p class="Subheading2">Autonumbers on headings are not incrementing correctly in PDF output</p>
+        <p>When an autonumber figure is inserted in between a series of autonumber headings in PDF output, the heading following the figure that has been inserted is reset to the previous autonumber value.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p class="ExampleHead">example</p>
+                <p class="ExampleMiddleSection">The autonumbering in the figure below is reset to the previous autonumber value after the figure has been inserted. If the figure is removed, the autonumber functions normally.</p>
+                <p class="ExampleMiddleSection">1 Topic Title </p>
+                <p class="ExampleMiddleSection">1.1 Sub-Topic Title </p>
+                <p class="ExampleMiddleSection">1.1.1 Sub-sub-Topic Title </p>
+                <p class="ExampleMiddleSection">1.1.2 Sub-sub-Topic Title</p>
+                <p class="ExampleMiddleSection">Figure 1: Image</p>
+                <p class="Example">1.1.1 Sub-sub-Topic Title </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p class="Subheading2">Cause</p>
+        <p>The autonumber format that is applied to the headings needs a series label to keep the continuity of the numbering across added figures. Series labels take the form of a capital letter followed by a colon placed in front of the autonumber command (for example A:{n+1}).</p>
+        <p class="Subheading2">Solution</p>
+        <p>Perform the following steps.</p>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../Styles/EditStyleStep1.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetBlock src="../Styles/StylesMakeSureSimplifiedViewButtonShown.flsnp" />
+            </li>
+            <li>In the upper-left corner of the editor, click in the <span class="Emphasis">Show Styles</span> field <img src="../../Images/show_styles_field.png" class="ReduceButtonSize" /> and select <span class="Emphasis">Show Heading Styles</span>.</li>
+            <li>Open the heading style on which you have set the <span class="Emphasis">mc-auto-number-format</span> property.</li>
+            <li>
+                <MadCap:snippetBlock src="../Styles/SelectShowPropertyGroupsStep.flsnp" />
+            </li>
+            <li>
+                <p>In the <span class="Emphasis">Properties</span> section, expand the <span class="Emphasis">AutoNumber</span> group.</p>
+            </li>
+            <li>
+                <p>Click in the field to the right of <span class="Emphasis">mc-auto-number format</span> to open the Auto-Number Format dialog.</p>
+                <p>
+                    <img src="../../Images/TS_pdf_output_ex1.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>
+                <p>In the Auto-Number format dialog's  <span class="Emphasis">Enter format</span> field, type any capital letter, followed by a colon (for example   <span class="Emphasis">A:</span> or <span class="Emphasis">H:</span>)  in front of the existing autonumber format command.</p>
+                <p>
+                    <img src="../../Images/TS_pdf_output_ex2.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+            <li>Regenerate the PDF output. The numbers will increment correctly. </li>
+        </ol>
+        <p>For more information, see <MadCap:xref href="../../../Autonumbers/About_Autonumbers.htm">About Autonumbers</MadCap:xref>.</p>
+    </body>
+</html>

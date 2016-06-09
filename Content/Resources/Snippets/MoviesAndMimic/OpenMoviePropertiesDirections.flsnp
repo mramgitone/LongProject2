@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="331" MadCap:lastWidth="897" MadCap:conditions="Products.Mimic">
+    <head>
+    </head>
+    <body>
+        <p>
+            <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp">
+            </MadCap:snippetText>
+        </p>
+        <ul class="FirstLevel">
+            <li>
+                <p><span class="SetOffFirstLevel">Ribbon </span> <MadCap:snippetText src="../UIElements/SelectMovieRibbon.flsnp"></MadCap:snippetText> In the <span class="Emphasis">Properties</span> section, select <span class="Emphasis">Properties</span>.</p>
+                <MadCap:snippetBlock src="../UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" MadCap:conditions="General.OnlineLive">
+                </MadCap:snippetBlock>
+            </li>
+            <li><span class="SetOffFirstLevel">Menu </span> Select <span class="Emphasis">Movie&gt;Properties</span>.</li>
+            <li><span class="SetOffFirstLevel">Local Toolbar </span> In the local toolbar of the Frame Editor, click <img src="../../Images/movie_properties_btn1.png" alt="" title="" class="ReduceButtonSize" />.</li>
+        </ul>
+        <p>The Movie Properties dialog opens.</p>
+    </body>
+</html>

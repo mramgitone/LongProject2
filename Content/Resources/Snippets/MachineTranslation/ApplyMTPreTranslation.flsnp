@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="7" MadCap:lastHeight="656" MadCap:lastWidth="1070">
+    <body>
+        <ol>
+            <li>Begin the process of creating a project. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Projects_Starting/Creating_New_Lingo_Projects.htm">Creating New Projects</MadCap:xref>.</MadCap:conditionalText></li>
+            <li>On the third page of the wizard, select the translation memory.</li>
+            <li>
+                <p>From the <span class="Emphasis">Pre-translate options</span> drop-down, select the option to use for pre-translation:</p>
+                <ul>
+                    <li><span class="SetOffFirstLevel">Pre-translate with TM then MT</span> Apply 100% or 101% matches from the translation memory to segments in the project, then apply machine translation to any segments that are not translated</li>
+                </ul>
+                <MadCap:snippetBlock src="../Translating/PretranslateMTExample.flsnp" />
+            </li>
+            <li>Finish the steps for creating the project.</li>
+        </ol>
+    </body>
+    <head>
+    </head>
+</html>

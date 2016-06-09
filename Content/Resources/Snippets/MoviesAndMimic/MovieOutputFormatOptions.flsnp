@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer" MadCap:lastBlockDepth="4" MadCap:lastHeight="267" MadCap:lastWidth="1257">
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">(default) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>The most appropriate movie format is used, based on the Flare output type that you generate. If you build a <MadCap:variable name="Outputs.DotNetHelp" /> target, the movie uses the Mimic Movie Format<MadCap:keyword term="Mimic Movie Format" /> (MMF). If you build a <MadCap:variable name="Outputs.HTMLHelp" />, <MadCap:variable name="Outputs.WebHelp" />, <MadCap:variable name="Outputs.HTML5" />, or <MadCap:variable name="Outputs.WebHelp Plus" /> target, the movie uses the <MadCap:variable name="Outputs.HTML5" /> movie format. If you build a <MadCap:variable name="Outputs.WebHelpAIR" /> target, the movie uses the Adobe Flash format. If you want to override these settings, select one of the specific movie types below.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">MadCap Movie Player </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>The movie is generated in MMF and displays in the MadCap Movie Viewer or MadCap Help Viewer. </MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Adobe Flash" />Adobe Flash </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>The movie is generated in a Flash SWF file.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Snippets.Snippet20"><span class="SetOffFirstLevel">Adobe Flash (Embed) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>The movie is generated in a Flash SWF file and is embedded in your output.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Microsoft Silverlight" />Microsoft Silverlight </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>The movie is generated in the Microsoft Silverlight format.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="HTML5:movie format;Movies:HTML5" />HTML5 </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>The movie is generated in the HTML5 movie format.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Snippets.Snippet20"><span class="SetOffFirstLevel">HTML5 (Embed) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>The movie is generated in the HTML5 movie format and is embedded in your output.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+        </ul>
+    </body>
+</html>

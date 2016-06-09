@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor" MadCap:lastBlockDepth="8" MadCap:lastHeight="2992" MadCap:lastWidth="751">
+    <body>
+        <MadCap:snippetBlock src="UIEnhancements.flsnp" MadCap:conditions="Products.Flare" />
+        <MadCap:snippetBlock src="UIEnhancements_Contributor.flsnp" MadCap:conditions="Products.Contributor" />
+        <h3 MadCap:conditions="General.Print">Character and Line Position in Internal Text Editor</h3>
+        <MadCap:dropDown class="ThirdLevel">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">character and line position in internal text editor</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>The Internal Text Editor now shows the character and line position of your cursor. This is shown in the upper-right corner of the editor. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../../UI_Elements/Internal_Text_Editor.htm">Internal Text Editor</MadCap:xref>.</MadCap:conditionalText></p>
+                <p>
+                    <img src="../../../Images/character_line_position.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+        <h3 MadCap:conditions="Products.FlarePrintOnly">Preview Bars</h3>
+        <MadCap:dropDown class="ThirdLevel" MadCap:conditions="Products.Flare">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">preview bars</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="PreviewBars.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+        <h3 MadCap:conditions="Products.FlarePrintOnly">Primary File—Green Arrow</h3>
+        <MadCap:dropDown class="ThirdLevel" MadCap:conditions="Products.Flare">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">primary file—green arrow</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>In previous versions, a master table of contents or a primary target was indicated by bold text. Starting with this version, a small green arrow is used instead. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../../TOCs/About_Tables_of_Contents.htm">About Tables of Contents</MadCap:xref> and <MadCap:xref href="../../../../Targets/Setting_a_Primary_Target.htm">Setting a Primary Target</MadCap:xref>.</MadCap:conditionalText></p>
+                <p>
+                    <img src="../../../Images/primary_target_master_toc.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+        <h3 MadCap:conditions="Products.FlarePrintOnly">Some Window Panes Open in Middle of Workspace</h3>
+        <MadCap:dropDown class="ThirdLevel" MadCap:conditions="Products.Flare">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">some window panes open in middle of workspace</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="SomeWindowPanesInMiddle2.flsnp" />
+                <p>
+                    <img src="../../../Images/some_window_panes_middle.png" alt="" title="" class="MaxWidth75Percent" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+        <h3 MadCap:conditions="Products.FlarePrintOnly">Tree View Redesigned</h3>
+        <MadCap:dropDown class="ThirdLevel" MadCap:conditions="Products.Flare">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">tree view redesigned</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../../AllProductVariables.flsnp" />’s tree views now have an updated theme. This can be seen in many window panes, editors, dialogs, and wizards in <MadCap:snippetText src="../../AllProductVariables.flsnp" />, including the Content Explorer, Project Organizer, TOC Editor, Add File dialog, Save Project as Template Wizard, and more.</p>
+                <p>The updated theme shows new triangles instead of the older expand and collapse controls.</p>
+                <p>
+                    <img src="../../../Images/tree_view_redesign.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide" />
+        <h3 MadCap:conditions="General.Print">Word Count</h3>
+        <MadCap:dropDown class="ThirdLevel">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">word count</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>When you open a file in the XML Editor, you will see the word count for that file in the bottom toolbar. If you highlight words in the file, this area shows you how many words are selected out of the total count. If a file contains snippets, the words from those snippets are not included in this word count, because those are separate files. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../../UI_Elements/XML_Editor.htm">XML Editor</MadCap:xref>.</MadCap:conditionalText></p>
+                <p>
+                    <img src="../../../Images/word_count.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide" />
+        <h3 MadCap:conditions="General.Print">XML Editor Shortcuts</h3>
+        <MadCap:dropDown class="ThirdLevel">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">xml editor shortcuts</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="ShortcutCommands.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="70" MadCap:lastWidth="868" MadCap:conditions="Products.AllProducts">
+    <body><MadCap:variable name="VersionNumbers.AnalyzerVersionNumber" MadCap:conditions="Products.Analyzer" /><MadCap:variable name="VersionNumbers.CaptureVersionNumber" MadCap:conditions="Products.Capture" /><MadCap:variable name="VersionNumbers.FeedbackExplorerVersionNumber" MadCap:conditions="Products.FeedbackExplorer" /><MadCap:variable name="VersionNumbers.FeedbackServerAdminVersionNumber" MadCap:conditions="Products.FeedbackServerAdmin" /><MadCap:variable name="VersionNumbers.FlareVersionNumber" MadCap:conditions="Products.Flare" /><MadCap:variable name="VersionNumbers.HelpViewerVersionNumber" MadCap:conditions="Products.HelpViewer" /><MadCap:variable name="VersionNumbers.LingoVersionNumber" MadCap:conditions="Products.Lingo" /><MadCap:variable name="VersionNumbers.MimicVersionNumber" MadCap:conditions="Products.Mimic" /><MadCap:variable name="VersionNumbers.MovieSyncVersionNumber" MadCap:conditions="Products.MovieSync" /><MadCap:variable name="VersionNumbers.MovieViewerVersionNumber" MadCap:conditions="Products.MovieViewer" /><MadCap:variable name="VersionNumbers.ContributorVersionNumber" MadCap:conditions="Products.Contributor" />
+    </body>
+    <head>
+    </head>
+</html>

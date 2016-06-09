@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="93" MadCap:lastWidth="1123">
+    <body>
+        <p>We added captions below our images, but we only wanted them to display in the PDFs. Therefore we applied condition tags to them and excluded them from the web and mobile outputs. We also added chapter autonumbers so that the numbers increment each time an image appears in a chapter. And we designed the autonumbers so that they appear in a green font, whereas the figure description is gray.</p>
+    </body>
+</html>

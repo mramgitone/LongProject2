@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare">
+    <body>
+        <ul style="list-style-type: square;">
+            <li><span class="SetOffFirstLevel">Glossary </span>This proxy is added before the index proxy page.</li>
+            <li><span class="SetOffFirstLevel">Index </span>This proxy is added at the end of the output if any index keywords are present in the project.</li>
+            <li><span class="SetOffFirstLevel">TOC </span>This proxy is added at the beginning of the output. If your page layout includes a Title page type<MadCap:conditionalText MadCap:conditions="General.OnlineLive"> (see <MadCap:xref href="../../../Page_Layouts/Pages/Inserting_Pages_in_Page_Layouts.htm">Inserting Pages in Page Layouts</MadCap:xref>)</MadCap:conditionalText>, the TOC proxy is added after the title page in the output.</li>
+        </ul>
+    </body>
+</html>

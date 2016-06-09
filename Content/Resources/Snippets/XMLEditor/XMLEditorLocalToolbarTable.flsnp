@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="12" MadCap:lastHeight="6453" MadCap:lastWidth="830" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <head>
+        <link href="../../TableStyles/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <table style="caption-side: top;width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../TableStyles/BasicAlternateRows.css');" cellspacing="0" class="TableStyle-BasicAlternateRows">
+            <col style="width: 197px;" class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-BasicAlternateRows-Head-Header1">
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">&#160;</p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadD-Regular-Header1">
+                        <p class="TableTextHead">Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr MadCap:conditions="Products.Flare" class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../Images/preview_topic_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">
+                            <MadCap:snippetText src="../Preview/PreviewTopicsSummary.flsnp" /> This button lets you preview the topic. It also lets you see how the topic will look with condition tags associated with it. If you click the face of the button, the topic preview is shown based on the format specified in the primary target. If you click the down arrow, you can select any of the targets in your project from a menu. The topic preview is then displayed using the output format specified in that target. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">For more information see <MadCap:xref href="../../../Topics/More_About_Topics/Previewing_Topics.htm" target="" title="" alt="">Previewing Topics</MadCap:xref>.</MadCap:conditionalText></p>
+                        <MadCap:dropDown MadCap:conditions="Products.Flare">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="Products.FlareOnlineOnly">note</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">The topic preview feature is not available for Microsoft Word or Adobe FrameMaker formats.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </td>
+                </tr>
+                <tr MadCap:conditions="Products.Flare,Products.Contributor" class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../Images/conditions_btn3.png" alt="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Opens the Conditional Text dialog, which lets you associate condition tags with a file while you edit it.<MadCap:conditionalText MadCap:conditions="Products.Flare"> This is similar to the feature that you can use to preview a document with certain conditions set. The difference is that this associates the conditions to the document as you edit it in the XML Editor.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly"> See <MadCap:xref href="../../../Condition_Tags/Associating_Condition_Tags_to_a_File_While_Editing.htm">Associating Condition Tags to a File While Editing</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor"> See <MadCap:xref href="../../../Condition_Tags/About_Condition_Tags_Contributor.htm">About Condition Tags</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+                <tr MadCap:conditions="Products.Contributor" class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../Images/send_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Opens a new email message with the file attached so that you can send it to an author. This button is enabled if you are working in an MCCO file (i.e., a contribution topic designed to be sent to a Flare author). See <MadCap:xref href="../../../Reviews_and_Contributions/Sending_New_Documents_To_Authors.htm">Sending New Contribution Documents To Authors</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr MadCap:conditions="Products.Contributor" class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../Images/send_to_folder_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Sends an MCCO file to a folder that you select.</p>
+                    </td>
+                </tr>
+                <tr MadCap:conditions="Products.Flare,Products.Contributor" class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../Images/layout_mode_web_btn.png" />
+                        </p>
+                        <p class="TableText">
+                            <img src="../../Images/layout_mode_print_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Clicking this button lets you toggle between the Web Layout mode and the Print Layout mode. If you select the down arrow, a submenu lets you choose between the following options.</p>
+                        <ul>
+                            <li><span class="SetOffFirstLevel">Web Layout </span>
+                                <MadCap:expanding>
+                                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                                    <MadCap:expandingBody>This <MadCap:snippetText src="WebLayoutModeDescription.flsnp" />&#160;<MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly"> See <MadCap:xref href="../../../Topics/About_Layout_Modes.htm">About Layout Modes</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                                </MadCap:expanding>
+                            </li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Print Layout </span>
+                                    <MadCap:expanding>
+                                        <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                                        <MadCap:expandingBody>This <MadCap:snippetText src="PrintLayoutModeDescription.flsnp" />&#160;<MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly">See <MadCap:xref href="../../../Page_Layouts/About_Page_Layouts.htm">About Page Layouts</MadCap:xref> and <MadCap:xref href="../../../Topics/About_Layout_Modes.htm">About Layout Modes</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                                    </MadCap:expanding>
+                                </p>
+                                <MadCap:dropDown MadCap:conditions="Products.Analyzer,Products.Flare">
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody class="Final">
+                                        <MadCap:snippetBlock src="NoteWYSIWYGInPrintLayoutMode.flsnp" MadCap:conditions="Products.Flare,Products.Analyzer" />
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </li>
+                            <li MadCap:conditions="Products.Flare,Products.Analyzer,Products.Contributor"><span class="SetOffFirstLevel">Edit Page Layout Document </span>
+                                <MadCap:expanding>
+                                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                                    <MadCap:expandingBody>This opens the page layout associated with the topic so that you can edit it in the Page Layout Editor. <MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly">See <MadCap:xref href="../../../Page_Layouts/Adding_Pages.htm">Adding Pages</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                                </MadCap:expanding>
+                            </li>
+                            <li MadCap:conditions="Products.Flare,Products.Analyzer,Products.Contributor">
+                                <p><span class="SetOffFirstLevel">Edit Master Stylesheet </span>
+                                    <MadCap:expanding>
+                                        <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                                        <MadCap:expandingBody>This opens the stylesheet associated with the topic so that you can edit it in the Stylesheet Editor. <MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly">See <MadCap:xref href="../../../Styles/Editing_Styles.htm">Editing Styles</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                                    </MadCap:expanding>
+                                </p>
+                                <MadCap:dropDown MadCap:conditions="Products.Flare,Products.Analyzer">
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive,Products.AnalyzerOnlineOnly,Products.FlareOnlineOnly">note</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody class="Final">
+                                        <p class="note" MadCap:conditions="Products.Flare,Products.Analyzer" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">This option is available only if you have applied a master stylesheet to the project or target.</p>
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr MadCap:conditions="Products.Flare,Products.Contributor" class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../Images/medium_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">
+                            <MadCap:snippetText src="../Styles/MediumTypeSummary.flsnp" /> Clicking the down arrow on this button lets you select a medium so that you can view the topic with the styles from a specific medium. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">For more information about mediums, see <MadCap:xref href="../../../Styles/Mediums/Selecting_Style_Sheet_Mediums.htm" target="" title="" alt="">Selecting Stylesheet Mediums</MadCap:xref>.</MadCap:conditionalText></p>
+                        <p class="TableText" MadCap:conditions="Products.Flare,Products.Contributor">When you switch from Web Layout mode to Print Layout mode, the medium automatically changes with it ("default" medium for Web Layout mode and "print" medium for Print Layout mode). This means that the editor will show the content in the style associated with that medium. Therefore, if you want to see a different medium (e.g., default, non-print) for that topic, you must select it from the Medium drop-down in the XML Editor toolbar. <MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly">See <MadCap:xref href="../../../Styles/Mediums/About_Stylesheet_Mediums.htm">About Stylesheet Mediums</MadCap:xref>.</MadCap:conditionalText></p>
+                        <p class="TableText" MadCap:conditions="Products.FlareOnlineOnly">
+                            <img src="../../Images/medium_example_in_xml_editor.png" class="MaxWidth90Percent" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows" MadCap:conditions="Products.Flare,Products.Contributor">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../Images/page_layout_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">If you are viewing content using the Print Layout in the XML&#160;Editor, you can use another drop-down in the local toolbar to choose a specific page layout. <MadCap:snippetText src="PageTypeSelectionXMLEditor.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Page_Layouts/More_About_Page_Layouts/Selecting_a_Page_Layout_to_View_Content_in_the_XML_Editor.htm">Selecting a Page Layout to View Content in the XML Editor</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../Images/insert_a_hyperlink_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Opens the Insert Hyperlink dialog, which lets you insert a text hyperlink on the selected text in the topic. </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../Images/insert_new_cross_reference_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Opens the Insert Cross-Reference dialog, which lets you insert a cross-reference into the topic at the location of the cursor.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../Images/insert_image_btn2.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Opens a dialog that lets you insert an image at the location of the cursor.</p>
+                        <MadCap:dropDown MadCap:conditions="Products.Contributor">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="Products.ContributorOnlineOnly">note</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p class="note" MadCap:conditions="Products.Contributor" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can insert and edit images only if you have created a new document, not if you are reviewing a document received from someone else.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </td>
+                </tr>
+                <tr MadCap:conditions="Products.Flare,Products.Contributor" class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../Images/snippet_btn1.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableText">Opens the Insert Snippet Link dialog, which lets you insert a snippet.</p>
+                    </td>
+                </tr>
+                <tr MadCap:conditions="Products.Flare,Products.Contributor" class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../Images/insert_variable_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Opens the Variables dialog, which lets you insert a variable.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows" MadCap:conditions="Products.Flare">
+                        <p class="TableText">
+                            <img src="../../Images/quick_character_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <MadCap:snippetBlock src="InsertSpecialCharactersDescription1.flsnp" class="TableText" />
+                    </td>
+                </tr>
+                <tr MadCap:conditions="" class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../Images/index_entry_mode_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">Activates Index Entry Mode. Use this method to accomplish the same thing as the Index window pane method. The difference is that, with this method, you do not need to move your cursor from the topic or snippet to the Index window pane. You simply click at the spot in the text where you want to insert the keyword and start typing. The words you type are added directly into the Index window pane. This is a good method to use if you plan to do a lot of indexing all at once, without performing any other tasks in the topic or snippet. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Indexes/Inserting_Index_Keywords.htm" target="" title="" alt="">Inserting Index Keywords</MadCap:xref>.</MadCap:conditionalText></td>
+                </tr>
+                <tr MadCap:conditions="" class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../Images/concept_entry_mode_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">Activates Concept Entry Mode. Use this method to accomplish the same thing as the Concept window pane method. The difference is that, with this method, you do not need to move your cursor from the topic to the Concept window pane. You simply click at the spot in the text where you want to insert the keyword and start typing. The words you type are added directly into the Concept window pane. This is a good method to use if you plan to create concepts in a lot of topics all at once, without performing any other tasks in the topic. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Concepts/Inserting_Concept_Keywords_into_Topics.htm" target="" title="" alt="">Inserting Concepts</MadCap:xref>.</MadCap:conditionalText></td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../Images/space_markers_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Turns paragraph and space markers on and off. When you turn this feature on, you can see markers that show where paragraphs end and where space exists before and after content.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../Images/show_tags_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <MadCap:snippetBlock src="ShowTagsDescription.flsnp" class="TableText" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows" MadCap:conditions="Products.Analyzer,Products.Flare">
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../Images/send_to_text_editor_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyA-Regular-DarkerRows">
+                        <p class="TableText">Opens the file in the Internal Text Editor (for review packages only).</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

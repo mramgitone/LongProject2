@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.AllProducts">
+    <body>
+        <p class="TableText">This selects the next cell in a table. When you press TAB in the last row of a table, a new row is added.</p>
+    </body>
+</html>

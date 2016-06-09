@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Mimic,Products.Capture">
+    <body>
+        <p>Not only can you control the timing of frames, but you can also do the same for individual objects within frames by using the properties dialog or the Timeline window pane. You can specify the start time of the object as well as how long it plays. In the Timeline window pane, you can visually arrange the timing and order of frame objects.</p>
+    </body>
+</html>

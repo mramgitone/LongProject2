@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor" MadCap:lastBlockDepth="6" MadCap:lastHeight="1272" MadCap:lastWidth="777">
+    <body>
+        <p>You can use styles to create hanging punctuation in <MadCap:snippetText src="../../AllProductVariables.flsnp" />. Hanging punctuation lets you "hang" certain punctuation characters outside the block element, allowing the text to align. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../../Paragraphs/Hanging_Punctuation/Creating_Hanging_Punctuation.htm">Creating Hanging Punctuation</MadCap:xref>.</MadCap:conditionalText></p>
+        <p>
+            <img src="../../../Images/hanging_punctuation.png" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide" />
+        <p>Following are available values for the hanging-punctuation property:</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">none </span>No character hangs.</li>
+            <li>
+                <p><span class="SetOffFirstLevel">first </span>An opening bracket or quote at the start of the first formatted line of an element hangs. This applies to all characters in the Unicode categories Ps, Pf, Pi (e.g., brackets, parentheses, and quotation marks).</p>
+                <p>
+                    <img src="../../../Images/hanging_punctuation_first.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">last </span>A closing bracket or quote at the end of the last formatted line of an element hangs. This applies to all characters in the Unicode categories Pe, Pf, Pi  (e.g., brackets, parentheses, and quotation marks).</p>
+                <p>
+                    <img src="../../../Images/hanging_punctuation_last.png" alt="" title="" class="MaxWidth90Percent" />
+                </p>
+                <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">force-end </span>A stop (e.g., period) or comma at the end of a line hangs.</p>
+                <p>
+                    <img src="../../../Images/hanging_punctuation_force_end.png" alt="" title="" class="MaxWidth60Percent" />
+                </p>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">allow-end </span>A stop (e.g., period) or comma at the end of a line hangs if it does not otherwise fit prior to justification. This value works in conjunction with text that is justified.</p>
+                <p>
+                    <img src="../../../Images/hanging_punctuation_allow_end.png" alt="" title="" class="MaxWidth60Percent" />
+                </p>
+            </li>
+            <li><span class="SetOffFirstLevel">inherit </span>The parent element's property is inherited.</li>
+        </ul>
+        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide" />
+        <p>It is significant to note that the "first" and "last" property values apply to one specific set of punctuation symbols, while "force-end" and "allow-end" apply to a separate set. Therefore, combinations of these properties are also allowed. Valid combinations would be: "first last," "first force-end," "first allow-end," "first force-end last," "first allow-end last," "force-end last," and "allow-end last." These combinations are not available from the drop-down list in the Advanced or Simplified View of the Stylesheet Editor, but you can type the value directly into the field.</p>
+        <p>
+            <img src="../../../Images/hanging_punctuation_first_last1.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p>
+            <img src="../../../Images/hanging_punctuation_first_last2.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+        <MadCap:dropDown class="FourthLevel">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">For more information about the hanging punctuation CSS property, see <a href="http://www.w3.org/TR/css3-text#hanging-punctuation" target="_blank">http://www.w3.org/TR/css3-text/#hanging-punctuation</a>.</p>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">The hanging punctuation property is available only in the Advanced View of the Stylesheet Editor.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

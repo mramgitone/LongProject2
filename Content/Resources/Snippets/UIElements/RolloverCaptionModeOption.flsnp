@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="169" MadCap:lastWidth="1199" MadCap:conditions="Products.Mimic,Products.MovieSync">
+    <head>
+    </head>
+    <body>
+        <p> Lets you create a rollover caption. This is an effect where you designate an area on the frame for the user to hover the mouse over. When the user does this, a caption with text that you provide appears on the frame. <MadCap:conditionalText MadCap:conditions="Products.Mimic">See <MadCap:xref href="../../../Objects/Rollover_Captions/Adding_Rollover_Captions.htm">Adding Rollover Captions</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="194" MadCap:lastWidth="941">
+    <body>
+        <p class="ExampleHead">example</p>
+        <p class="ExampleMiddleSection">Let's say the first paragraph in each topic that you create uses the &lt;h1&gt; style (except your title page and print TOC topic), and you structure the outline TOC like this:</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/online_toc_structure_example1.png" class="MaxWidth60Percent" />
+        </p>
+    </body>
+</html>

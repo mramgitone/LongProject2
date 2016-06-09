@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="11" MadCap:lastHeight="1208" MadCap:lastWidth="719" MadCap:conditions="Products.Lingo" MadCap:fileTags="LingoTopicStatusNeeds.5 Needs to be Finished with Edits,LingoTopicStatusNeeds.6 Needs to be Sent for Review,LingoTopicStatusNeeds.7 Needs to be Tested in Online Output,LingoTopicStatusNeeds.8 Needs to be Tested in Print Output">
+    <head><title></title>
+        <meta name="description" content="How to install and create a TM&#160;(Translation Memory)&#160;database in MadCap&#160;Lingo. " />
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="TranslationMemory" />
+            <MadCap:keyword term="Translation memory:creating" />
+            <MadCap:concept term="FilterTM" />
+            <MadCap:keyword term="Translation memory:databases;Databases:translation memory" />Creating a Translation Memory Database</h1>
+        <MadCap:snippetBlock src="../Resources/Snippets/NOTyetUPDATED.flsnp" />
+        <p>
+            <MadCap:snippetText src="../Resources/Snippets/TranslationMemory/InstallTMSummary.flsnp" /> You can create a local TM database (using SQLite), which is stored locally on your computer. Alternatively, you can create a server TM database (using SQL Express), which can be stored locally or on an external server.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to create a tm database</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                        <ul style="list-style-type: square;">
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon</span>
+                                    <MadCap:snippetText src="../Resources/Snippets/UIElements/ResourcesRibbon.flsnp" /> In the <span class="Emphasis">Translation Memory</span> section select <span class="Emphasis">Create TM</span>. </p>
+                                <p MadCap:conditions="General.OnlineLive">
+                                    <MadCap:snippetBlock src="../Resources/Snippets/UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" />
+                                </p>
+                            </li>
+                            <li><span class="SetOffFirstLevel">Menu</span> Select <span class="Emphasis">Translate&gt;Create Translation Memory</span>.</li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Translate Toolbar</span> Click <img src="../Resources/Images/create_tm_small_btn.png" alt="" title="" class="ReduceButtonSize" />.</p>
+                                <MadCap:snippetBlock src="../Resources/Snippets/UIElements/ToOpenTranslateToolbar.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">Start New Project Wizard</span> On the second page of the wizard, select <span class="Emphasis">Create TM</span>.</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <p>From the submenu, select one of the following:</p>
+                        <MadCap:snippetBlock src="../Resources/Snippets/TranslationMemory/LocalServerTMOptionsList.flsnp" />
+                        <p>For a server TM, in the <span class="Emphasis">Translation memory name</span> field, type a name for the TM database. Next to the <span class="Emphasis">Translation memory server</span> field, click <img src="../Resources/Images/browse_ellipses.png" class="ReduceButtonSize" />. The Connect to SQL Server dialog opens, displaying a list of usable servers after <MadCap:variable name="Products.Lingo" /> scans your network. In the <span class="Emphasis">Connection timeout</span> field, you can adjust the number of seconds to allow a connection to the server to be successful. In the <span class="Emphasis">Authentication</span> section, you can use Windows Integrated Security (the default), or you can enter a specific user name and password for the server (if necessary). If you elect to use <MadCap:keyword term="Windows Integrated Security" />Windows Integrated Security, leave the user name and password fields blank. Otherwise, if your server requires specific credentials, enter them in the fields provided. </p>
+                    </li>
+                    <li>After completing the fields in the appropriate dialog, click <span class="Emphasis">OK</span>.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:conceptLink term="TranslationMemory" />
+        </p>
+    </body>
+</html>

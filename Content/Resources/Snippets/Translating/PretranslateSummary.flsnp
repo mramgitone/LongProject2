@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="2" MadCap:lastHeight="114" MadCap:lastWidth="879">
+    <body>
+        <p>You can automatically apply matching translations from a TM database or a machine translation provider to segments in a project. You can automatically apply  100% or 101% matches from the TM&#160;database, and if there are spots where you do not have 100%&#160;or 101% matches, you can choose to have <MadCap:snippetText src="../AllProductVariables.flsnp" /> fill in those segments with matches from a machine translation provider.</p>
+    </body>
+</html>

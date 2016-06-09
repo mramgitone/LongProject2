@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="1" MadCap:lastHeight="70" MadCap:lastWidth="973">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>When you need to work on any of the <MadCap:variable name="Products.Flare" /> project files, you can check them out. Checking out files means to copy the latest source control files to your local <MadCap:variable name="Products.Flare" /> project and remove the "Read Only" designation from them so that you can edit the files. A red check mark  is displayed next to each file that is checked out.</body>
+</html>

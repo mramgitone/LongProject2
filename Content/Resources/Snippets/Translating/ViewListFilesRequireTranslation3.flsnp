@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="93" MadCap:lastWidth="1098" MadCap:conditions="Products.Lingo">
+    <body>
+        <p>A filter feature in the File List window pane allows you to list files by type (e.g., topics, snippets, images, master pages, movies, movie project data) when you are using the grid view. Even better, the Translation Candidates filter option shows only the files that may need to be translated (as opposed to files that do not require translation, such as condition tag set files). <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../UI_Elements/File_List_Window.htm">File List Window Pane</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

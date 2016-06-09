@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="91" MadCap:lastWidth="894">
+    <body>
+        <p>Responsive output is essentially "smart" output. When you generate HTML5 targets using a skin enabled with responsive output, the output display changes depending on the size of your browser or device you are using. So instead of seeing the entire HTML5 output on a tablet or smart phone, you will see a condensed look that is more appropriate for that device. You get the same effect if you shrink your browser to a smaller size.</p>
+    </body>
+</html>

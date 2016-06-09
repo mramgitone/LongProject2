@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="2" MadCap:lastHeight="126" MadCap:lastWidth="1100">
+    <body>
+        <p MadCap:conditions="">When you translate text, the segments are shown in a grid format (i.e., Translation mode). If you want to see the content in its original context (in paragraphs), click the toggle button <img src="../../Images/toggle_translation_preview_mode_btn.jpg" class="ReduceButtonSize" /> in the local toolbar. This button lets you switch from Translation to Preview mode for certain file types (e.g., Microsoft Word, PowerPoint, MadCap Flare).</p>
+        <p MadCap:conditions="">For PowerPoint files, you can navigate between pages using previous and next buttons on the left and right sides of the window. To ensure you can see these navigation buttons, hover over the content or click it. Also, you may need to use the horizontal scroll bar at the bottom of the editor to see the edges of the page where the arrows are displayed.</p>
+    </body>
+</html>

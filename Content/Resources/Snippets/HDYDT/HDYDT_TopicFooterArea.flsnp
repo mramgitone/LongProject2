@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="117" MadCap:lastWidth="1123" MadCap:conditions="Products.Flare">
+    <body>
+        <p>You will probably notice the same content at the bottom of every topic in the web and mobile outputs from the Web Print Mobile template. In the web output, this footer content appears on a dark background, and in the mobile output it displays on a gray background. Both are used to show company information, but this area in the web output shows even more, including links to PDFs and videos. In both cases, this area is the result of content added to a master page, which can be used in online output to repeat the same content on multiple, or even all, topics. We used a combination of tables, drop-down effects, variables, styles, images, and links to create these footer areas.</p>
+    </body>
+</html>

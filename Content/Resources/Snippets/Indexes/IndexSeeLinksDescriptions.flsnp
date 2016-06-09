@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="231" MadCap:lastWidth="770">
+    <body>
+        <p>Use a "See" link if the term in question does not exist in the project as an index marker. The idea is that, if a user looks for that term in the index, you want to point the person to a different term <i>instead of</i> the one originally sought. You can enter one "See" link per term.</p>
+        <p>Use a "See Also" link if the term in question does exist as an index marker somewhere in the project. The idea is that, if a user looks for that term in the index, you want to point the person to a different term <i>in addition to</i> the one originally sought. You can create as many "See Also" links for a term as you like.</p>
+        <p>Use a "Sort As" link if you want to sort an index keyword as something else.  This can be useful when a keyword begins with a symbol or an accented variety of a letter (e.g., place &lt;html&gt; in the "h" section, instead of at the top of the index).</p>
+    </body>
+</html>

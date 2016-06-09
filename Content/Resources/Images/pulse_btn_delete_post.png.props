@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties fileTags="PulseTopicAuthor.Kate" conditions="Products.Pulse,Products.Flare">
+    <ImageOverlay ScreenRectangle="1292,379,18,18" Profile="C:\Users\pstoecklein\Documents\My Profiles\150dpi.capro" ProfileHash="458a4c33c31007e9215ef1c416713856">
+        <OriginalImage Folder="C:\Trunk\Shared\Content\Resources\Images" ExportFormat="png" medium_print_EnableFormat="true" medium_print_ColorDepth="32" medium_print_DPI="150" FileName="" BackgroundColor="transparent" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" medium_print_EnableGrayScaleFormat="False" Border="solid" BorderWidth="1" BorderColor="#000000" JPEGQuality="80" ComputedWidth="20" ComputedHeight="20" Format="tiff">SUkqACwBAACAPB8P9/gCDQeEQmFQuGQ2HQ+DQKCRCKRWLRWJQWLxuOReMx2QSGGR+RSWRSSOMpkMYAJ5NJYAGIzGoADYcDoASqWS6YTKaTacR6BxqOGcwlsAEYiEMALpeL0ADwfEEAMRhL+k0um08AJlPqWNyiNsljsUAJxMJQADscjgAMVjsi12233EAHQ8H0ACcUiqw0OTKFOpoAMNgr4ACgTCUANhtNsAEUjkoAFctl6Q2KL2VhgCXpIABcKhQAOl1uzQ6PS6cATM3AAcjse3+Jx0vlkpgAEgcDAB7vl9AAkEomgBcLZZ7reb7gABQqdW7SiRti4YAJNHosAH9BogACkViy39bsdo2nE62sej/pSb3R3Ne/5Q74/P7Qn6/f9fn9fb+P6+SAgAEAD+AAQAAQAAAAAAAAAAAQQAAQAAABIAAAABAQQAAQAAABIAAAACAQMABAAAAPIBAAADAQMAAQAAAAUAAAAGAQMAAQAAAAIAAAARAQQAAQAAAAgAAAAVAQMAAQAAAAQAAAAWAQQAAQAAABIAAAAXAQQAAQAAACMBAAAaAQUAAQAAAPoBAAAbAQUAAQAAAAICAAAcAQMAAQAAAAEAAAAoAQMAAQAAAAIAAAA9AQMAAQAAAAIAAABSAQMAAQAAAAIAAAAAAAAACAAIAAgACAAAdwEA6AMAAAB3AQDoAwAA</OriginalImage>
+        <Shapes />
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <Variables />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

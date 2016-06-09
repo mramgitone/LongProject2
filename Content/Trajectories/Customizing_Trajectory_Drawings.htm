@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="12" MadCap:lastHeight="1666" MadCap:lastWidth="1386" MadCap:conditions="Products.Mimic">
+    <head><title></title>
+        <link href="../Resources/Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="FilterTrajectories" />
+            <MadCap:concept term="Trajectories" />
+            <MadCap:keyword term="Trajectories:objects;Objects:trajectories;Cursors:path;Path of cursor;Trajectories:customizing" />Customizing Trajectory Drawings</h1>
+        <p>After you add a trajectory to an object (either automatically by recording a movie or manually), you may want to customize the trajectory drawings for a particular object. You can change the look of the trajectory drawing in the <MadCap:variable name="Products.Mimic" /> interface, as well as the way it behaves. </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to customize a trajectory drawing</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <ol>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                        </p>
+                        <ul class="FirstLevel">
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon</span> <MadCap:snippetText src="../Resources/Snippets/UIElements/SelectEditRibbon.flsnp" /> In the <span class="Emphasis">Object</span> section, select <span class="Emphasis">Trajectory Drawing</span>.</p>
+                                <MadCap:snippetBlock src="../Resources/Snippets/UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" MadCap:conditions="General.OnlineLive">
+                                </MadCap:snippetBlock>
+                            </li>
+                            <li><span class="SetOffFirstLevel">Menu</span> Select <span class="Emphasis">Tools&gt;Customize Trajectory Drawing</span>. </li>
+                        </ul>
+                        <p>The Trajectory Drawing dialog opens.</p>
+                    </li>
+                    <li>In the <span class="Emphasis">Object Type</span> section, select the object. The current drawing codes for that object type are shown to the right.</li>
+                    <li>In the <span class="Emphasis">Code</span> section, enter or adjust the codes to be used for the trajectory drawing. Following are some of the changes that you can make to a trajectory drawing.<MadCap:dropDown class="SecondLevel"><MadCap:dropDownHead><MadCap:dropDownHotspot>color </MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody><p>Set the color for the trajectory by entering <span class="Emphasis">SetColor</span>, followed by the color value in parentheses (either the name or the hex number). </p><p class="ExampleHead">examples</p><p class="ExampleMiddleSection"><span class="Emphasis">SetColor(red)</span> This sets the color for the trajectory to red. You can replace the color name within the parentheses to change it. </p><p class="Example"><span class="Emphasis">SetColor(#7fff00)</span> This sets the color for the trajectory to chartreuse.</p><p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you use the color function, it must be the first command entered in the Code section of the dialog.</p></MadCap:dropDownBody></MadCap:dropDown><MadCap:snippetBlock src="../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="MimicGuides.MimicMovieEnhancementGuide" /><MadCap:dropDown class="SecondLevel"><MadCap:dropDownHead><MadCap:dropDownHotspot>line width</MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody><p>Set the width of the trajectory line (in pixels) by entering <span class="Emphasis">Draw</span>, followed by the number of pixels in parentheses.</p><p class="ExampleHead">example</p><p class="Example"><span class="Emphasis">Draw(2)</span> This sets the line width for the trajectory to 2 pixels. </p></MadCap:dropDownBody></MadCap:dropDown><MadCap:dropDown class="SecondLevel"><MadCap:dropDownHead><MadCap:dropDownHotspot>shadow</MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody><p>Add a shadow to the end of the trajectory, replicating the object to which the trajectory is applied. The command is <span class="Emphasis">DrawShadow</span>, followed by empty parentheses.</p><p class="ExampleHead">example</p><p class="Example"><span class="Emphasis">DrawShadow()</span> If you apply this to the bubble object type, a shadow copy of the bubble is displayed at the end of the trajectory. </p></MadCap:dropDownBody></MadCap:dropDown><MadCap:dropDown class="SecondLevel"><MadCap:dropDownHead><MadCap:dropDownHotspot>head<span class="EightyFiveEM">/</span>end arrow </MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody><p>Add an arrow at the head (or end point) of the trajectory, signifying where the object will stop moving in the output. The command is <span class="Emphasis">DrawHead</span>, followed by empty parentheses. </p><p class="ExampleHead">example</p><p class="Example"><span class="Emphasis">DrawHead()</span> If you apply this to the oval object type, an arrow will be displayed at the end of the trajectory applied to any oval. </p></MadCap:dropDownBody></MadCap:dropDown><MadCap:snippetBlock src="../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="MimicGuides.MimicMovieEnhancementGuide" /><MadCap:dropDown class="SecondLevel"><MadCap:dropDownHead><MadCap:dropDownHotspot>start of trajectory <span style="font-size: 0.85em;">(</span>width<span class="EightyFiveEM">/</span>distance<span style="font-size: 0.85em;">)</span></MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody><p> Set the line width and distance of the beginning portion of the trajectory. The command is <span class="Emphasis">DrawStart</span>, followed by parentheses containing the line width (in pixels), a comma, and the distance (in percentage).</p><p class="ExampleHead">example</p><p class="Example"><span class="Emphasis">DrawStart(2, 0.4)</span> This sets the line width of the start of the trajectory to 2 pixels. The trajectory line will be displayed for 40% (0.4) of the total distance of the trajectory.</p></MadCap:dropDownBody></MadCap:dropDown><MadCap:dropDown class="SecondLevel"><MadCap:dropDownHead><MadCap:dropDownHotspot>start of trajectory <span style="font-size: 0.85em;">(</span>head arrow<span style="font-size: 0.85em;">)</span></MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody class="Final"><p> If you are designating the start of the trajectory only (see previous example), use this function to add an arrow at the head (or end point) of that portion of the trajectory. The command is <span class="Emphasis">DrawStartHead</span>, followed by parentheses containing the distance (in percentage) where the arrow will be placed.</p><p class="ExampleHead">example</p><p class="Example"><span class="Emphasis">DrawStartHead(0.4)</span> If you have designated a start portion of the trajectory (see previous example) and set the distance to 0.4, this function will add an arrow at the head (or end) of the line.</p></MadCap:dropDownBody></MadCap:dropDown></li>
+                    <li>Click <span class="Emphasis">OK</span>.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:conceptLink term="Trajectories" />
+        </p>
+    </body>
+</html>

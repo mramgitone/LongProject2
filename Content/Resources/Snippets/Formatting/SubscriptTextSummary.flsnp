@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="71" MadCap:lastWidth="1187">
+    <body>
+        <p>You can apply a subscript effect to topic text, where some text appears below the level of the other characters (e.g., H<sub>2</sub>O). Perhaps the easiest way to do this is to highlight the text, select the Home ribbon or Text Format toolbar, and then click <img src="../../Images/superscript_btn1.png" class="ReduceButtonSize" />. <MadCap:conditionalText MadCap:conditions="Products.Flare,Products.Analyzer,Products.Contributor">However, you can also change the properties of a different tag so that it appears as subscript text.</MadCap:conditionalText></p>
+    </body>
+</html>

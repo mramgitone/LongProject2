@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="183" MadCap:lastWidth="939">
+    <body>
+        <p class="noteTop" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you would like to access the same stylesheet that is used for the <MadCap:snippetText src="../AllProductVariables.flsnp" /> documentation, you can download it from this location:</p>
+        <p class="noteMiddle"><a href="http://docs.madcapsoftware.com/FlareV9/styles.css" target="_blank">http://docs.madcapsoftware.com/FlareV<MadCap:variable name="VersionNumbers.FlareVersionNumber" />/styles.css</a>
+        </p>
+        <p class="noteBottom"> After downloading this file, you can save it to any location you want. For example, if you already have a project where you want to use it, you can navigate to the folder where that project is stored in Windows and save the stylesheet in the Content\Resources\Stylesheets subfolder.</p>
+    </body>
+</html>

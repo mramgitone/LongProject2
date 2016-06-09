@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultAliasFile conditions="Products.MovieSync">
+    <Map Name="Manage_Window_Layouts_Dialog" Link="/Content/UI_Elements/Manage_Window_Layouts_Dialog.htm" />
+    <Map Name="Messages_Window" Link="/Content/UI_Elements/Messages_Window.htm" />
+    <Map Name="Help_Favorites_Window" Link="/Content/UI_Elements/Help_Favorites_Window.htm" />
+    <Map Name="Help_Glossary_Window" Link="/Content/UI_Elements/Help_Glossary_Window.htm" />
+    <Map Name="Help_Index_Window" Link="/Content/UI_Elements/Help_Index_Window.htm" />
+    <Map Name="Help_Search_Window" Link="/Content/UI_Elements/Help_Search_Window.htm" />
+    <Map Name="Help_TOC_Window" Link="/Content/UI_Elements/Help_TOC_Window.htm" />
+    <Map Name="Index_Results_Window" Link="/Content/UI_Elements/Index_Results_Window.htm" />
+    <Map Name="Manage_Windows_Dialog" Link="/Content/UI_Elements/Manage_Windows_Dialog.htm" />
+    <Map Name="New_Updates_Available_Dialog" Link="/Content/UI_Elements/New_Updates_Available_Dialog.htm" />
+    <Map Name="Start_Page" Link="/Content/UI_Elements/Start_Page_MovieSync.htm" />
+    <Map Name="Frames_Window_Pane_MovieSync" Link="/Content/UI_Elements/Frames_Window_Pane_MovieSync.htm" />
+    <Map Name="Properties_Window_Pane_MovieSync" Link="/Content/MovieSync_Steps/Viewing_and_Selecting_Properties_for_Transfer.htm" />
+    <Map Name="Select_Old_Movie_Dialog" Link="/Content/MovieSync_Steps/More/Changing_the_Old_Movie_Version.htm" />
+    <Map Name="Open_Mimic_Projects_Dialog" Link="/Content/MovieSync_Steps/Opening_Mimic_Movies.htm" />
+    <Map Name="Old_Movie_Version_Window" Link="/Content/MovieSync_Steps/More/Viewing_the_Old_Movie_Version.htm" />
+    <Map Name="Current_Frame_Editor" Link="/Content/UI_Elements/Frame_Editor_MovieSync.htm" />
+    <Map Name="Recent_Files_Dialog" Link="/Content/UI_Elements/Recent_Files_Dialog.htm" />
+    <Map Name="Options_Dialog" Link="/Content/UI_Elements/Options_Dialog_MovieSync.htm" />
+    <Map Name="Grid_Options_Dialog" Link="/Content/Movies_Creating/More_About_Creating_Movies/Working_with_Grids.htm" />
+    <Map Name="Crash" Link="/Content/Crash_Reporting_System/Sending_a_Crash_Report_to_MadCap_Software.htm" />
+</CatapultAliasFile>

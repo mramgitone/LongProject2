@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties conditions="Products.Lingo,Products.Align" fileTags="">
+    <ImageOverlay Profile="C:\Users\pstoecklein\Documents\My Profiles\SharedImagesBorder.capro" ProfileHash="6be06f5c00f6369f8c19ef555412aec2" ScreenRectangle="670,216,17,20">
+        <OriginalImage FileName="" Folder="C:\Shared\Content\Resources\Images" BackgroundColor="#ffffff" Border="solid" BorderWidth="1" BorderColor="#000000" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" Right="0" Bottom="0" ExportFormat="jpg" JPEGQuality="80" ComputedWidth="19" ComputedHeight="22" Format="tiff">SUkqAB4BAACAPuBP8AQWDQeEQmFQuGQ2GQJ9wSHROKRWKRCJQ1CIRIRaPQk+Hw4Qx9SWMwxCoVIgBAIA6QiWoyWS6YICZS2XweYgA9ns3ySTROUyucTWbzSdTaZzmDTuez+FyV9SeF0OP1eC0+GPmuVSsQsVnQDABqox9V+EVx8160ACw2OF2Wz1+1WyP2+P3KPvi+Xa2wUWHUDgBqIt83+C3x8X6/4HB4XD4jFYyK46P5CPvfNZSPi07AiGNNFPi0PbTZyvi47gkANJEvfEADTPbOIlEpXYxM7nc1wx67/OIpFJal0bi0mj0yCzs7HY1b7gRPhcSi8jj02ldXsTLm8+FvTwZxFotL7mHHU6mmGPP2ajzYj2PP3e+2wEABAA/gAEAAEAAAAAAAAAAAEEAAEAAAARAAAAAQEEAAEAAAAUAAAAAgEDAAQAAADkAQAAAwEDAAEAAAAFAAAABgEDAAEAAAACAAAAEQEEAAEAAAAIAAAAFQEDAAEAAAAEAAAAFgEEAAEAAAAUAAAAFwEEAAEAAAAVAQAAGgEFAAEAAADsAQAAGwEFAAEAAAD0AQAAHAEDAAEAAAABAAAAKAEDAAEAAAACAAAAPQEDAAEAAAACAAAAUgEDAAEAAAACAAAAAAAAAAgACAAIAAgAAHcBAOgDAAAAdwEA6AMAAA==</OriginalImage>
+        <Shapes />
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <Variables />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

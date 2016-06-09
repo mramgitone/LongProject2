@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Mimic" MadCap:lastBlockDepth="2" MadCap:lastHeight="129" MadCap:lastWidth="1221">
+    <body>
+        <p class="note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">If you are linking to a movie that has a name with a number only, <MadCap:variable name="Products.Mimic" /> considers that number to be the movie's position in the collection sequence. For example, if you enter 2 when specifying the destination movie, <MadCap:variable name="Products.Mimic" /> will link to the second movie in the collection, not necessarily to a movie that you have named "2." Therefore, when you create movies, it is recommended that you include at least one character in the movie name.</p>
+    </body>
+</html>

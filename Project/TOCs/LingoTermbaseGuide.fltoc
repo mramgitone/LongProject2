@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Lingo">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/PrintOnlyTopics/ComingSoonTitlePage.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/TitleLingo.flpgl"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/PrintOnlyTopics/TitlePage.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TitleLingo.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue"
+    conditions="General.Future" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/PrintOnlyTopics/Copyright.htm"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    PageNumber="(multiple)"
+    conditions="General.Future" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/PrintOnlyTopics/PrintTOC.htm"
+    StartChapter="true"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/TOC.flpgl"
+    conditions="General.Future" />
+  <TocEntry
+    Title="CH 1 Introduction"
+    Link="/Content/Termbase/About_Termbase.htm"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="CH 2 Adding Termbases"
+    Link="/Content/Termbase/Adding_Termbases.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    conditions="General.Future" />
+  <TocEntry
+    Title="CH 3 Adding Terms to Termbases"
+    Link="/Content/Termbase/Adding_Terms_to_Termbases.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    conditions="General.Future" />
+  <TocEntry
+    Title="CH 4 Editing Termbases"
+    Link="/Content/Termbase/Editing_Termbases.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    conditions="General.Future" />
+  <TocEntry
+    Title="CH 5 Inserting Terms from a Termbase"
+    Link="/Content/Termbase/Inserting_Terms_from_a_Termbase.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    conditions="General.Future" />
+  <TocEntry
+    Title="CH 6 Importing TBX Files"
+    Link="/Content/Termbase/Importing_TBX_Files.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    conditions="General.Future" />
+  <TocEntry
+    Title="CH 7 Exporting TBX Files"
+    Link="/Content/Termbase/Exporting_TBX_Files.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    conditions="General.Future" />
+  <TocEntry
+    Title="CH 8 Removing Termbases"
+    Link="/Content/Termbase/Removing_Termbases.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageNumberReset="continue"
+    conditions="General.Future" />
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/PDF_Guides/PDF_Guides.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    conditions="General.Future" />
+</CatapultToc>

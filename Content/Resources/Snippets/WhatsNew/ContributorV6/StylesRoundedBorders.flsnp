@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="3056" MadCap:lastWidth="751" MadCap:conditions="Products.Contributor">
+    <body>
+        <p>For<MadCap:conditionalText MadCap:conditions="Products.Flare"> most output formats</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor"> Contribution and New Document workflows</MadCap:conditionalText>, you can use CSS3 border-radius  style properties to create rounded borders on block elements, such as paragraphs and blockquotes. This has been possible previously, but you were required to add the properties and values manually in a text editor.<MadCap:conditionalText MadCap:conditions="Products.Flare">  You can also use set rounded borders on tables.</MadCap:conditionalText></p>
+        <p>
+            <img src="../../../Images/tip_rounded_corners.png" class="MaxWidth75Percent" />
+        </p>
+        <p MadCap:conditions="Products.Flare">
+            <img src="../../../Images/rounded_borders3.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:snippetBlock src="../../Borders/RoundedBordersBlockElements.flsnp" MadCap:conditions="Products.Contributor" />
+        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+        <MadCap:dropDown class="FourthLevel" MadCap:conditions="Products.Flare">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>block elements</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Borders/RoundedBordersBlockElements.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+        <MadCap:dropDown class="FourthLevel" MadCap:conditions="Products.Flare">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>tables</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Borders/RoundedBordersTables1.flsnp" />
+                <MadCap:snippetBlock src="../../Borders/RoundedBordersTables2.flsnp" />
+                <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+                <MadCap:snippetBlock src="../../Borders/RoundedBordersTables3.flsnp" />
+                <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+                <MadCap:snippetBlock src="../../Borders/RoundedBordersTables4.flsnp" />
+                <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+                <MadCap:snippetBlock src="../../Borders/RoundedBordersTables5.flsnp" />
+                <MadCap:snippetBlock src="../../Borders/RoundedBordersTablesExample1.flsnp" />
+                <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+                <MadCap:snippetBlock src="../../Borders/RoundedBordersTables6.flsnp" />
+                <MadCap:snippetBlock src="../../Borders/RoundedBordersTablesExample2.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown class="FourthLevel" MadCap:conditions="Products.Flare">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="../../Notes/NoteRoundedBordersBrowsers.flsnp" />
+                <MadCap:snippetBlock src="../../Notes/NoteRoundedTableBordersCaptions.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="4" MadCap:lastHeight="254" MadCap:lastWidth="670">
+    <body>
+        <p>This tab allows you to select the languages for which you need to create segmentation rules. </p>
+        <p>
+            <img src="../../Images/segmentation_rules_adv4.png" alt="" title="" class="MaxWidth100Percent" />
+            <MadCap:conditionalText MadCap:conditions="General.Future">xxx</MadCap:conditionalText>
+        </p>
+        <ul>
+            <li>To add a language, select it in the <span MadCap:changes="1" class="Emphasis">Available Languages</span> list. Click <span class="Emphasis">Add</span> to add it to the Current Languages list.</li>
+            <li>To remove a language, select it in the <span MadCap:changes="1" class="Emphasis">Current Languages</span> list. Click <span class="Emphasis">Remove</span>to remove it from the Current Languages list.</li>
+        </ul>
+        <p>Languages in the Current Languages list appear in a drop-down on the Rules tab.</p>
+    </body>
+    <head>
+        <MadCap:changeData>
+            <MadCap:BindChange MadCap:userName="pstoecklein" MadCap:initials="PS" MadCap:id="1" MadCap:timestamp="2014-09-12T13:39:11.0715785-07:00" />
+        </MadCap:changeData>
+    </head>
+</html>

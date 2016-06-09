@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Mimic,Products.Capture">
+    <body>
+        <p>You can apply audio to some objects within a frame (such as cursors and buttons). This includes the ability to select built-in system sounds, recorded audio, or imported files (such as <MadCap:keyword term="MP3 file" />MP3 and <MadCap:keyword term="WAV file" />WAV files). For example, you might use this feature to apply a double-click sound to a cursor object.</p>
+    </body>
+</html>

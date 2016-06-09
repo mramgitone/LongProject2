@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="208" MadCap:lastWidth="838" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <p class="Subheading">to open the file in flare</p>
+        <ol class="LowerAlpha">
+            <li>In the window pane, click on the file.</li>
+            <li>
+                <MadCap:snippetText src="DoOneOfTheFollowing.flsnp" />
+                <ul class="FirstLevel">
+                    <li><span class="SetOffFirstLevel">Ribbon or Menu </span>Select <span class="Emphasis">File&gt;Send to Flare</span>.</li>
+                    <li><span class="SetOffFirstLevel">Standard Toolbar </span>Click <img src="../../Images/send_to_flare_btn.png" alt="" title="" class="ReduceButtonSize" />.</li>
+                </ul>
+            </li>
+        </ol>
+        <p>The benefit of using this method is that you have access to all of the features in the application, not just those available from the editor.</p>
+    </body>
+</html>

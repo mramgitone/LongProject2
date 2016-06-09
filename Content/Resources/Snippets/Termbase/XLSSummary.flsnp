@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo">
+    <body>XLS is a spreadsheet file supported by Microsoft Excel. While a TermBase eXchange (TBX) file is the standard for compiling termbases, you can use a program like Excel to build and maintain your termbase, and then import it to <MadCap:variable name="Products.Lingo" /> using XLS.</body>
+    <head>
+    </head>
+</html>

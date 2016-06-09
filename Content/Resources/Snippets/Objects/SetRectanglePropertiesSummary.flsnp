@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Capture,Products.Mimic" MadCap:lastBlockDepth="2" MadCap:lastHeight="53" MadCap:lastWidth="1382">
+    <body>
+        <p>After you add a shape to<MadCap:conditionalText MadCap:conditions="Products.Capture"> an image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic"> a frame</MadCap:conditionalText>, you can adjust the rectangle settings to meet your needs. In other words, certain shapes and effects (bubble, oval, cursor, rectangle, shade effect, blur effect, zoom effect) are created by drawing a rectangle on the<MadCap:conditionalText MadCap:conditions="Products.Capture"> image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic"> frame</MadCap:conditionalText>. You can determine the position and size of that rectangle, as well as how much of a curve is applied to its corners.</p>
+    </body>
+</html>

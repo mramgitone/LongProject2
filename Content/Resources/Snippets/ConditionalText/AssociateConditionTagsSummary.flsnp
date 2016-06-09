@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="54" MadCap:lastWidth="1131">
+    <body>
+        <p>After creating and applying condition tags, you need to tell <MadCap:variable name="Products.Flare" /> what your target should do with the condition tags that you have created and applied. Should content with a particular condition tag be included in or excluded from that target?</p>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="104" MadCap:lastWidth="1029" MadCap:conditions="Products.Lingo">
+    <body>
+        <p class="note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">In the Options dialog (<span class="Emphasis">File&gt;Options</span> or <span class="Emphasis">Tools&gt;Options</span>), you can use reduce the percentage for fuzzy matches to be filled in so that it is below 100%. <MadCap:conditionalText MadCap:conditions="General.OnlineLive,LingoGuides.LingoTranslationGuide">See <MadCap:xref href="../../../Translation_Memory/Setting_Match_Options_for_Suggestions.htm">Setting Match Options for Suggestions</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

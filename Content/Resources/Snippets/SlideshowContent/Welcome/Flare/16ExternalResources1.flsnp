@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="8" MadCap:lastHeight="451" MadCap:lastWidth="827">
+    <head>
+        <link href="../../../../TableStyles/Simple.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="width: 100%;margin-left: auto;margin-right: auto;mc-table-style: url('../../../../TableStyles/Simple.css');height: 400px;" class="TableStyle-Simple" cellspacing="0">
+            <col class="TableStyle-Simple-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-Simple-Body-Row1">
+                    <td class="TableStyle-Simple-BodyA-Column1-Row1" style="vertical-align: middle;padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;">
+                        <h2>External Resources</h2>
+                        <MadCap:snippetBlock src="../../../Welcome/WelcomeToFlareExternalResources.flsnp" />
+                        <h3>General Technical Writing</h3>
+                        <ul>
+                            <li>
+                                <p class="SetOffFirstLevel"><i>Technical Writing 101: A Real-World Guide to Planning and Writing Technical Documentation</i>
+                                </p>
+                                <p>by Alan S. Pringle and Sarah O'Keefe</p>
+                                <p><a href="http://tinyurl.com/3a8yma" target="_blank" MadCap:conditions="General.OnlineLive" MadCap:excludeAction="unbind">http://tinyurl.com/3a8yma</a>
+                                </p>
+                            </li>
+                            <li>
+                                <p class="SetOffFirstLevel"><i>Is the Help Helpful? How to Create Online Help That Meets Your Users' Needs</i>
+                                </p>
+                                <p>by Jean Weber and Tamar Granor</p>
+                                <p><a href="http://tinyurl.com/3co3pj" target="_blank" MadCap:conditions="General.OnlineLive" MadCap:excludeAction="unbind">http://tinyurl.com/3co3pj</a>
+                                </p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

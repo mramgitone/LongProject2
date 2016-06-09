@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare">
+    <body>This shows warnings reported by the compiler. Warnings do not prevent the output from being generated. Instead they might be issues that you need to fix (e.g., missing files) or suggestions for improving your output (e.g., accessibility settings). You can right-click on a warning and tell Flare to ignore it in future builds.</body>
+</html>

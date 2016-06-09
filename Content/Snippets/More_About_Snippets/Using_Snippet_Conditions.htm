@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:conditionTagExpression="include[Snippets.Snippet2]exclude[Snippets.Snippet1 or Snippets.Snippet3 or Snippets.Snippet4 or Snippets.Snippet5 or Snippets.Snippet6 or Snippets.Snippet8]" MadCap:lastBlockDepth="10" MadCap:lastHeight="2986" MadCap:lastWidth="830" MadCap:conditions="Products.Flare,Products.Analyzer" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+        <link href="../../Resources/Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="FilterConditionTags" />
+            <MadCap:keyword term="Topics:snippet conditions;Snippet conditions;Conditions:snippets" MadCap:conditions="Products.Flare" />
+            <MadCap:concept term="FilterSingleSourcePublishing" />
+            <MadCap:concept term="FilterSnippets" />Using Snippet Conditions</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Snippets/SnippetsSnipConditionsSummary.flsnp" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/ForMoreInfo/SeeFlareOnlineHelp.flsnp" MadCap:conditions="Products.Analyzer" />
+        <MadCap:dropDown MadCap:conditions="Products.Flare">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="Products.FlareOnlineOnly">example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="ExampleHead" MadCap:conditions="Products.Flare">example</p>
+                <p class="ExampleMiddleSection" MadCap:conditions="Products.Flare">Let's say that you have a table with 15 rows and four columns. Suppose that the table needs to be included in 40 topics. Rather than copying and pasting the table 40 times, you create one snippet containing the table and insert it into those 40 topics. However, suppose that in 30 of those topics, you need to add three more rows to the table to explain something. In the remaining 10 topics, the three additional rows are not necessary. Otherwise, the table content is the same in all 40 topics. What do you do? You have a few options. </p>
+                <p class="ExampleMiddleSection" MadCap:conditions="Products.Flare">The first option is to add a note to the table explaining that the three additional rows are intended only for some of the topics but not others. However, this might be confusing to your readers.</p>
+                <p class="ExampleMiddleSection" MadCap:conditions="Products.Flare">The second option is to create two separate snippets—one for the 30 topics and another for the 10 topics. However, this means that you need to maintain identical information in two different places. And that is no way to single-source your content.</p>
+                <p class="ExampleMiddleSection" MadCap:conditions="Products.Flare">The third option is to create snippet conditions. Here is how you might do it in this example.</p>
+                <ol class="Example" MadCap:conditions="Products.Flare">
+                    <li class="Example1">Create a condition tag called "Additional Rows." <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../Condition_Tags/Creating_Condition_Tags.htm">Creating Condition Tags</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li class="Example1">Open the snippet and add the necessary three rows to the table. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="Opening_Snippets.htm">Opening Snippets</MadCap:xref> and <MadCap:xref href="../../Tables/More_About_Tables/Inserting_Table_Columns_and_Rows.htm">Inserting Table Columns and Rows</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li class="Example1">Using the table row structure bars, apply the new condition tag to the additional three rows. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../Structure_Bars/About_Structure_Bars.htm">About Structure Bars</MadCap:xref> and <MadCap:xref href="../../Condition_Tags/Applying_Condition_Tags_to_Content.htm">Applying Condition Tags to Content</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li class="Example1">Use the File List window pane <span class="Emphasis">(View&gt;File List</span>) to select the 30 topics requiring the additional rows, and open the Properties dialog. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../UI_Elements/File_List_Window.htm">File List Window Pane</MadCap:xref> and <MadCap:xref href="../../UI_Elements/Properties_Dialog_(Topics).htm">Properties Dialog (Topics)</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li class="Example1">Select the <span class="Emphasis">Snippet Conditions</span> tab.</li>
+                    <li class="Example1">Next to the new condition tag, click the <span class="Emphasis">Include</span> check box.</li>
+                    <li class="Example1">Use the File List window pane to select the 10 topics not requiring the additional rows, and open the Properties dialog.</li>
+                    <li class="Example1">Select the <span class="Emphasis">Snippet Conditions</span> tab.</li>
+                    <li class="Example1">Next to the new condition tag, click the <span class="Emphasis">Exclude</span> check box.</li>
+                    <li class="Example1">After you save all of your changes and generate the target, you will notice that the three additional rows are displayed only in the 30 topics where they were included. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../Output/Build_the_Final_Output.htm">Building Output</MadCap:xref>.</MadCap:conditionalText></li>
+                </ol>
+                <p MadCap:conditions="Products.FlareOnlineOnly">For more information see <MadCap:xref href="../About_Snippets.htm">About Snippets</MadCap:xref>, <MadCap:xref href="../../Condition_Tags/Creating_Condition_Tags.htm">Creating Condition Tags</MadCap:xref>, and <MadCap:xref href="../../Condition_Tags/Applying_Condition_Tags_to_Content.htm">Applying Condition Tags to Content</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="Products.Flare">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to use snippet conditions</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol MadCap:conditions="Products.Flare">
+                    <li>
+                        <p>Create all of the condition tags that you plan to use for separating your snippet content.</p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="Products.FlareOnlineOnly">note </MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">The more variations that you will have in your snippet content, the more condition tags you will need to create. An average number is four to eight condition tags, but you may find that you require fewer or more tags than this for snippet content. It is always preferable to create more condition tags than you may need, rather than to realize later that you have too few. You can even create a separate condition tag set to be used specifically for holding your snippet condition tags (while keeping your regular condition tags in other tag sets). </p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="Products.FlareOnlineOnly">tip</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p class="tip" MadCap:autonum="&lt;b&gt;Tip: &lt;/b&gt;">It is also a good idea to include the word "Snippet" somewhere in the name of a new snippet condition tag. This way, you can easily identify it, rather than confusing it with the regular condition tags that you use for other purposes <MadCap:conditionalText MadCap:conditions="Products.Flare"> (e.g., online output or printed output condition tags)</MadCap:conditionalText>.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <p MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../Condition_Tags/Creating_Condition_Tags.htm">Creating Condition Tags</MadCap:xref> and <MadCap:xref href="../../Condition_Tags/More_About_Condition_Tags/Adding_Condition_Tag_Sets.htm">Adding Condition Tag Set Files</MadCap:xref>.</p>
+                    </li>
+                    <li>
+                        <p>Create and open the snippet. </p>
+                        <p MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../Creating_New_Snippets_from_Existing_Content.htm">Creating New Snippets from Existing Content</MadCap:xref> and <MadCap:xref href="Opening_Snippets.htm">Opening Snippets</MadCap:xref>.</p>
+                    </li>
+                    <li>
+                        <p>Apply the necessary condition tags to the text or other content in the snippet. </p>
+                        <p MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../Condition_Tags/Applying_Condition_Tags_to_Content.htm">Applying Condition Tags to Content</MadCap:xref>.</p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="Products.FlareOnlineOnly">tip</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p class="tip" MadCap:autonum="&lt;b&gt;Tip: &lt;/b&gt;">It is a good idea to click the <span class="Emphasis">Hide/Show Conditional Indicators</span> button <img src="../../Resources/Images/hide_show_conditional_indicators_btn.png" class="ReduceButtonSize" /> at the bottom of the editor so that you can clearly see where the different tags have been applied in the snippet.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <p>Insert the snippet into the necessary topics, or determine which topics already contain the snippet. </p>
+                        <p MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../Inserting_Snippets.htm">Inserting Snippets into Topics</MadCap:xref> and <MadCap:xref href="../../Files/Viewing_File_Links.htm">Viewing File Links</MadCap:xref>.</p>
+                    </li>
+                    <MadCap:snippetBlock src="../../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareConditionTagsGuide,FlareGuides.FlareSnippetsGuide" />
+                    <li>
+                        <p>After you determine that a particular topic should display only certain tagged content from the inserted snippet, open the Content Explorer and select the topic file.</p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="Products.FlareOnlineOnly">note</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If there are several topics that you know in advance will include a particular snippet condition tag, you can open the File List window pane (<span class="Emphasis">View&gt;File List</span>) instead and select all of those files at the same time.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>In the local toolbar, click <img src="../../Resources/Images/run_properties2_btn.png" class="ReduceButtonSize" />. The Properties dialog for the topic opens.</li>
+                    <li>Select the <span class="Emphasis">Snippet Conditions</span> tab.</li>
+                    <li>
+                        <p>If you want to exclude a condition tag from the topic, click the <span class="Emphasis">Exclude</span> check box next to it. If you want to make sure a condition tag is included in the topic, click the <span class="Emphasis">Include</span> check box next to it. The primary reason for having Include check boxes is to account for possible conflicts.</p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="Products.FlareOnlineOnly">example</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../../Resources/Snippets/ConditionalText/ConditionalTextIncludeExample.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">warning</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../../Resources/Snippets/ConditionalText/WarningIncludeExclude.flsnp" MadCap:conditions="Products.Flare" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">tip</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p class="tip" MadCap:autonum="&lt;b&gt;Tip: &lt;/b&gt;">It is a good idea to create enough snippet condition tags in advance. If sometime later you realize you need to create additional snippet condition tags, you may find that you need to revisit all of the topics where you have already inserted snippets with conditions. Why? Because by default the snippets containing the new tags may be displayed in all topics unless you specify otherwise.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/ClickOK.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="Products.Flare">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="Products.FlareOnlineOnly">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can generate a report to see topics in your project that contain snippet conditions.    <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../Reports/About_Reports.htm" target="" title="" alt="">About Reports</MadCap:xref> and <MadCap:xref href="../../Reports/Generating_Reports.htm" target="" title="" alt="">Generating Reports</MadCap:xref>.</MadCap:conditionalText></p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="Products.FlareOnlineOnly">
+            <MadCap:conceptLink term="Snippets" xmlns:MadCap="http://www.madcapsoftware.com/schemas/MadCap.xsd" />
+        </p>
+    </body>
+</html>

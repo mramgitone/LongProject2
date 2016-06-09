@@ -1,0 +1,546 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.FlareWebHelp" MadCap:lastBlockDepth="15" MadCap:lastHeight="9573" MadCap:lastWidth="837">
+    <head>
+    </head>
+    <body>
+        <h1>
+            <img src="../../Resources/Images/How.png" MadCap:conditions="General.OnlineLive" /><span class="HDYDT">How Did You Do That?</span> Lists</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Banners/Flare/HDYDT/OnlinePrint.flsnp" />
+        <p>This template contains a topic named "Lists" that contains many different kinds of lists that you can use or re-create in your own topics.</p>
+        <p>Creating these lists involved the following:</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">CSS Styles </span>We created and modified styles to give each list a particular look. For bulleted lists, this included associating the style with a custom bullet image.</li>
+            <li><span class="SetOffFirstLevel">Creating Lists and Applying Styles </span>Once the styles were created, inserted the lists and applied styles to them where necessary.</li>
+        </ul>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>types of lists</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Here are the kinds of lists found in our template:</p>
+                <ul>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Simple Numbered List</span>
+                        </p>
+                        <p>
+                            <img src="../../Resources/Images/hdydt_lists1.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Simple Bulleted List</span>
+                        </p>
+                        <p>
+                            <img src="../../Resources/Images/hdydt_lists2.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Lists With Paragraphs Between Items</span>
+                        </p>
+                        <p>
+                            <img src="../../Resources/Images/hdydt_lists3.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                        <p>
+                            <img src="../../Resources/Images/hdydt_lists4.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Multi-level Numbered List</span>
+                        </p>
+                        <p>
+                            <img src="../../Resources/Images/hdydt_lists5.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Multi-level Bulleted List</span>
+                        </p>
+                        <p>
+                            <img src="../../Resources/Images/hdydt_lists6.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Multi-level List (Mixed)</span>
+                        </p>
+                        <p>
+                            <img src="../../Resources/Images/hdydt_lists7.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>css styles</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/DoOneOfTheFollowing.flsnp" />
+                        </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>use the stylesheet editor <span class="EightyFiveEM">(</span>beginners<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol class="LowerAlpha">
+                                    <li>Open a stylesheet. <MadCap:snippetText src="../../Resources/Snippets/Styles/StylesMakeSureSimplifiedViewButtonShown.flsnp" /></li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/FilterListStylesStep.flsnp" />
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/SelectShowAlphabeticalListStep.flsnp" />
+                                    </li>
+                                    <li>
+                                        <p>At the top of the Stylesheet Editor, click in the <span class="Emphasis">Medium</span> drop-down and select <span class="Emphasis">default</span>. The default style settings are used for the online output and inherited by the print medium, which is used for our PDF output. After adjusting the styles in the default medium, we'll overwrite some settings in the print medium.</p>
+                                        <p>Do the following in this medium:</p>
+                                        <ol class="LowerRoman">
+                                            <li>Create the following style classes (see <MadCap:xref href="../../Styles/Creating_New_Styles.htm">Creating New Style Classes</MadCap:xref>):<ul class="FirstLevel"><li><span class="SetOffFirstLevel">ol.LowerAlpha </span>This is a special heading style class that we used for a second-level numbered list.</li><li><span class="SetOffFirstLevel">ol.LowerRoman </span>This is a special style class that we used for a third-level numbered list.</li><li><span class="SetOffFirstLevel">ul.FirstLevelLessIndentation </span>This is a second special style class that we used for a first-level bulleted list within a numbered list. This style contains less indentation than the parent ul style.</li><li><span class="SetOffFirstLevel">ul.SecondLevel </span>This is a second special style class that we used for a second-level bulleted list.</li></ul></li>
+                                            <li>On the left side of the Stylesheet Editor, select <span class="Emphasis">ol</span>.</li>
+                                            <li>
+                                                <p>On the right side of the Stylesheet Editor, set <span class="Emphasis">list-style-image</span> to <span class="Emphasis">none</span>.</p>
+                                                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">We did this because it helps to prevent bullets from being shown mistakenly as numbers in mixed lists.</p>
+                                            </li>
+                                            <li>On the left side of the Stylesheet Editor, expand <span class="Emphasis">ol</span> and select the <span class="Emphasis">LowerAlpha</span> style class.</li>
+                                            <li>On the right side of the Stylesheet Editor, set the <span class="Emphasis">list-style-type</span> property to <span class="Emphasis">lower-alpha</span>. Then set the <span class="Emphasis">margin-left</span> property to <span class="Emphasis">-10px</span>.</li>
+                                            <li>On the left side of the Stylesheet Editor, under <span class="Emphasis">ol</span>, select the <span class="Emphasis">LowerRoman</span> style class.</li>
+                                            <li>On the right side of the Stylesheet Editor, set the <span class="Emphasis">list-style-type</span> property to <span class="Emphasis">lower-roman</span>. Then set the <span class="Emphasis">margin-left</span> property to <span class="Emphasis">-10px</span>.</li>
+                                            <li>On the left side of the Stylesheet Editor, select <span class="Emphasis">ul</span>.</li>
+                                            <li>Click in the column to the right of <span class="Emphasis">list-style-image</span>. Select <span class="Emphasis">Browse for Image</span>, then find and select the image you want to use as a bullet for that style. In our template, we have an image in the Content Explorer named "Bullet1Online.png" that we selected.</li>
+                                            <li>On the left side of the Stylesheet Editor, expand <span class="Emphasis">ul</span> and select the <span class="Emphasis">FirstLevelLessIndentation</span> style class.</li>
+                                            <li>Click in the column to the right of <span class="Emphasis">list-style-image</span>. Select <span class="Emphasis">Browse for Image</span>, then find and select the image you want to use as a bullet for that style. In our template, we have an image in the Content Explorer named "Bullet1Online.png" that we selected.</li>
+                                            <li>Set the <span class="Emphasis">margin-left</span> property to <span class="Emphasis">-10px</span>.</li>
+                                            <li>On the left side of the Stylesheet Editor, under <span class="Emphasis">ul</span>, select the <span class="Emphasis">SecondLevel</span> style class.</li>
+                                            <li>Click in the column to the right of <span class="Emphasis">list-style-image</span>. Select <span class="Emphasis">Browse for Image</span>, then find and select the image you want to use as a bullet for that style. In our template, we have an image in the Content Explorer named "Bullet2Online.png" that we selected.</li>
+                                            <li>Set the <span class="Emphasis">margin-left</span> property to <span class="Emphasis">-10px</span>.</li>
+                                        </ol>
+                                    </li>
+                                    <li>
+                                        <p>At the top of the Stylesheet Editor, click in the <span class="Emphasis">Medium</span> drop-down and select <span class="Emphasis">print</span>. We want to adjust the indentation (i.e., left margin) for some of these styles. In addition, we want to point the bullet list styles to images using the EPS format, which is preferred when possible for print-based outputs.</p>
+                                        <p>Do the following in this medium:</p>
+                                        <ol class="LowerRoman">
+                                            <li>On the left side of the Stylesheet Editor, under <span class="Emphasis">ol</span>, select the <span class="Emphasis">LowerAlpha</span> style class.</li>
+                                            <li>On the right side of the Stylesheet Editor, set the <span class="Emphasis">margin-left</span> property to <span class="Emphasis">30px</span>.</li>
+                                            <li>On the left side of the Stylesheet Editor, under <span class="Emphasis">ol</span>, select the <span class="Emphasis">LowerRoman</span> style class.</li>
+                                            <li>On the right side of the Stylesheet Editor, set the <span class="Emphasis">margin-left</span> property to <span class="Emphasis">30px</span>.</li>
+                                            <li>On the left side of the Stylesheet Editor, select <span class="Emphasis">ul</span>.</li>
+                                            <li>Click in the column to the right of <span class="Emphasis">list-style-image</span>. Select <span class="Emphasis">Browse for Image</span>, then find and select the image you want to use as a bullet for that style. In our template, we have an image in the Content Explorer named "Bullet1Print.eps" that we selected.</li>
+                                            <li>On the left side of the Stylesheet Editor, under <span class="Emphasis">ul</span>, select the <span class="Emphasis">FirstLevelLessIndentation</span> style class.</li>
+                                            <li>Click in the column to the right of <span class="Emphasis">list-style-image</span>. Select <span class="Emphasis">Browse for Image</span>, then find and select the image you want to use as a bullet for that style. In our template, we have an image in the Content Explorer named "Bullet1Print.eps" that we selected.</li>
+                                            <li>Set the <span class="Emphasis">margin-left</span> property to <span class="Emphasis">30px</span>.</li>
+                                            <li>On the left side of the Stylesheet Editor, under <span class="Emphasis">ul</span>, select the <span class="Emphasis">SecondLevel</span> style class.</li>
+                                            <li>Click in the column to the right of <span class="Emphasis">list-style-image</span>. Select <span class="Emphasis">Browse for Image</span>, then find and select the image you want to use as a bullet for that style. In our template, we have an image in the Content Explorer named "Bullet2Print.eps" that we selected.</li>
+                                            <li>Set the <span class="Emphasis">margin-left</span> property to <span class="Emphasis">30px</span>.</li>
+                                        </ol>
+                                    </li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>get the css <span class="EightyFiveEM">(</span>advanced users<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p>Enter the following in the default medium in the stylesheet. (The referenced images are ones we have already added to the Resources folder in the Content Explorer. You can replace these with your own images.)</p>
+                                <div class="Indent5Percent">
+                                    <p class="Style">ol</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">list-style-image: </span><span class="StyleValue">none;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                    <p class="Style">ol.LowerAlpha</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">list-style-type: </span><span class="StyleValue">lower-alpha;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-left: </span><span class="StyleValue">-10px;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                    <p class="Style">ol.LowerRoman</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">list-style-type: </span><span class="StyleValue">lower-roman;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-left: </span><span class="StyleValue">-10px;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                    <p class="Style">ul</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">list-style-image: </span><span class="StyleValue">url('../Images/Bullet1Online.png');</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                    <p class="Style">ul.FirstLevelLessIndentation</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">list-style-image: </span><span class="StyleValue">url('../Images/Bullet1Online.png');</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-left: </span><span class="StyleValue">-10px;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                    <p class="Style">ul.SecondLevel</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">list-style-image: </span><span class="StyleValue">url('../Images/Bullet2Online.png');</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-left: </span><span class="StyleValue">-10px;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                                <p>Enter this in the print medium in the stylesheet:</p>
+                                <div class="Indent5Percent">
+                                    <p class="Style">ol.LowerAlpha</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-left: </span><span class="StyleValue">30px;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                    <p class="Style">ol.LowerRoman</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-left: </span><span class="StyleValue">30px;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                    <p class="Style">ul</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">list-style-image: </span><span class="StyleValue">url('../Images/Bullet1Print.eps');</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                    <p class="Style">ul.FirstLevelLessIndentation</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">list-style-image: </span><span class="StyleValue">url('../Images/Bullet1Print.eps');</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-left: </span><span class="StyleValue">30px;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                    <p class="Style">ul.SecondLevel</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">list-style-image: </span><span class="StyleValue">url('../Images/Bullet2Print.eps');</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-left: </span><span class="StyleValue">30px;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>create lists and apply styles</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <ol class="FirstPageOfChapter">
+                    <li>
+                        <p>Place your cursor in the document where you want to insert a list. Then do the following, depending on the type of list:</p>
+                        <MadCap:dropDown>
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>simple numbered list</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol class="LowerAlpha">
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/UIElements/SelectHomeRibbon.flsnp" /> In the <span class="Emphasis">Paragraph</span> section click the down arrow next to the list button <img src="../../Resources/Images/lists_btn_bullet_list.png" class="ReduceButtonSize" /> and select <span class="Emphasis">Numbered List</span>.</li>
+                                    <li>After providing the content for a list item, press <span class="Emphasis">Enter</span>. Then enter the next list item text, and so on. To exist the list format, press <span class="Emphasis">Enter</span> again on a blank list item.</li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown>
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>simple bulleted list</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol class="LowerAlpha">
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/UIElements/SelectHomeRibbon.flsnp" /> In the <span class="Emphasis">Paragraph</span> section click the face of the list button <img src="../../Resources/Images/lists_btn_bullet_list.png" class="ReduceButtonSize" />. Alternatively, you can select the down arrow next to it and select <span class="Emphasis">Bullet List</span>.</li>
+                                    <li>After providing the content for a list item, press <span class="Emphasis">Enter</span>. Then enter the next list item text, and so on. To exist the list format, press <span class="Emphasis">Enter</span> again on a blank list item.</li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown>
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>list with paragraphs between items</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol class="LowerAlpha">
+                                    <li>Follow any of the steps in this topic for creating a particular kind of list.</li>
+                                    <li>Click in the list where you want to add a paragraph item. For example, if you want to add a comment between steps 2 and 3, place your cursor at the very end of step 2.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/UIElements/SelectHomeRibbon.flsnp" /> In the <span class="Emphasis">Paragraph</span> section click the down arrow next to the <span class="Emphasis">List Actions</span> button <img src="../../Resources/Images/list_actions_btn.jpg" class="ReduceButtonSize" />. </li>
+                                    <li>Select <span class="Emphasis">Make Paragraph Item(s)</span>. A &lt;p&gt; tag is added after the &lt;li&gt; tag.</li>
+                                    <li>To add lines without a number or bullet, simply press <span class="Emphasis">Enter</span> on your keyboard and type your content. </li>
+                                    <li>To continue the numbering or the bullets, click the paragraph item icon <img src="../../Resources/Images/paragraph_item_icon.jpg" class="ReduceButtonSize" MadCap:conditions="FlareGuides.FlareNotPrintedManual" />. Doing this simply starts another &lt;li&gt; tag.</li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown>
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>multi-level numbered list</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>To replicate the same multi-level numbered list that you see in the template, do the following:</p>
+                                <ol class="LowerAlpha">
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/UIElements/SelectHomeRibbon.flsnp" /> In the <span class="Emphasis">Paragraph</span> section click the down arrow next to the list button <img src="../../Resources/Images/lists_btn_bullet_list.png" class="ReduceButtonSize" /> and select <span class="Emphasis">Numbered List</span>.</li>
+                                    <li>Provide text for the first list item and press <span class="Emphasis">Enter</span>. Then enter text for the second list item and press <span class="Emphasis">Enter</span>.</li>
+                                    <li>
+                                        <p>Press <span class="Emphasis">Tab</span> on your keyboard. It should look something like this now:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists8.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>Provide text for the first list item and press <span class="Emphasis">Enter</span>. Then enter text for the second list item and press <span class="Emphasis">Enter</span>.</li>
+                                    <li>
+                                        <p>Press <span class="Emphasis">Tab</span> on your keyboard. It should look something like this now:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists9.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>Provide text for the first list item and press <span class="Emphasis">Enter</span>. Then enter text for the second list item and press <span class="Emphasis">Enter</span>.</li>
+                                    <li>
+                                        <p>In the <span class="Emphasis">Home</span> ribbon, click <img src="../../Resources/Images/outdent_items_btn.png" class="ReduceButtonSize" />. It should look something like this now:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists10.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>Click the yellow arrow button. It should look something like this now:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists11.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>In the <span class="Emphasis">Home</span> ribbon, click <img src="../../Resources/Images/outdent_items_btn.png" class="ReduceButtonSize" />.</li>
+                                    <li>
+                                        <p>Click the yellow arrow button.  It should look something like this now:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists12.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>Provide text for the final list item.</li>
+                                    <li>
+                                        <p>Make sure the structure bars are turned on (see <MadCap:xref href="../../Structure_Bars/About_Structure_Bars.htm">About Structure Bars</MadCap:xref>). Right-click the <span class="Emphasis">ol</span> structure bar that represents the second-level list.</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists13.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>From the context menu, select <span class="Emphasis">Style Class&gt;ol.LowerAlpha</span>.</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists14.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                        <p>After the style is applied, the list should look something like this:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists15.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>Right-click the <span class="Emphasis">ol</span> structure bar that represents the third-level list.</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists16.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>From the context menu, select <span class="Emphasis">Style Class&gt;ol.LowerRoman</span>.</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists17.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                        <p>After the style is applied, the list should look something like this:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists18.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown>
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>multi-level bulleted list</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>To replicate the same multi-level bulleted list that you see in the template, do the following:</p>
+                                <ol class="LowerAlpha">
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/UIElements/SelectHomeRibbon.flsnp" /> In the <span class="Emphasis">Paragraph</span> section click the face of the list button <img src="../../Resources/Images/lists_btn_bullet_list.png" class="ReduceButtonSize" />. Alternatively, you can select the down arrow next to it and select <span class="Emphasis">Bullet List</span>.</li>
+                                    <li>Provide text for the first list item and press <span class="Emphasis">Enter</span>.</li>
+                                    <li>
+                                        <p>Repeat the first two steps two more times so that you have three bullet items and a blank bullet item at the end.</p>
+                                        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">In our template, we also selected some text at the beginning of each list item and applied a span style class to display the text in a green font matching the bullet image.</p>
+                                    </li>
+                                    <li>
+                                        <p>Press <span class="Emphasis">Tab</span> on your keyboard. It should look something like this now:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists19.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>Provide text for the first list item and press <span class="Emphasis">Enter</span>. Then enter text for the second list item and press <span class="Emphasis">Enter</span>.</li>
+                                    <li>
+                                        <p>In the <span class="Emphasis">Home</span> ribbon, click <img src="../../Resources/Images/outdent_items_btn.png" class="ReduceButtonSize" />. It should look something like this now:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists20.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>Click the yellow arrow button. It should look something like this now:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists21.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>Repeat the steps above to add two more first-level items, followed by two more second-level items, and finally two more first-level items. It should look something like this now:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists22.png" alt="" title="" class="MaxWidth100Percent" /> </p>
+                                    </li>
+                                    <li>
+                                        <p>Make sure the structure bars are turned on (see <MadCap:xref href="../../Structure_Bars/About_Structure_Bars.htm">About Structure Bars</MadCap:xref>). Right-click the <span class="Emphasis">ul</span> structure bar that represents the initial second-level list.</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists23.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>From the context menu, select <span class="Emphasis">Style Class&gt;ul.SecondLevel</span>.</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists24.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                        <p>After the style is applied, the list should look something like this:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists25.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>Repeat the previous two steps for the other second-level list. When you are finished, it should look something like this:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists26.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown>
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>multi-level list <span class="EightyFiveEM">(</span>mixed<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p>To replicate the same multi-level list (mixed) that you see in the template, do the following:</p>
+                                <ol class="LowerAlpha">
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/UIElements/SelectHomeRibbon.flsnp" /> In the <span class="Emphasis">Paragraph</span> section click the down arrow next to the list button <img src="../../Resources/Images/lists_btn_bullet_list.png" class="ReduceButtonSize" /> and select <span class="Emphasis">Numbered List</span>.</li>
+                                    <li>Provide text for the list item and press <span class="Emphasis">Enter</span>.</li>
+                                    <li>
+                                        <p>Press <span class="Emphasis">Tab</span> on your keyboard. It should look something like this now:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists27.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>Provide text for the list item and press <span class="Emphasis">Enter</span>. Then enter text for the next list item and press <span class="Emphasis">Enter</span>.</li>
+                                    <li>
+                                        <p>In the <span class="Emphasis">Home</span> ribbon, click <img src="../../Resources/Images/outdent_items_btn.png" class="ReduceButtonSize" />. It should look something like this now:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists28.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>Click the yellow arrow button. It should look something like this now:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists29.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>Provide text for the list item and press <span class="Emphasis">Enter</span>.</li>
+                                    <li>Press <span class="Emphasis">Tab</span> on your keyboard.</li>
+                                    <li>Provide text for the list item and press <span class="Emphasis">Enter</span>. Then enter text for the next list item and press <span class="Emphasis">Enter</span>.</li>
+                                    <li>
+                                        <p>Press <span class="Emphasis">Tab</span> on your keyboard. It should look something like this now:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists30.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>Provide text for the list item and press <span class="Emphasis">Enter</span>. Then enter text for the next list item and press <span class="Emphasis">Enter</span>.</li>
+                                    <li>In the <span class="Emphasis">Home</span> ribbon, click <img src="../../Resources/Images/outdent_items_btn.png" class="ReduceButtonSize" />.</li>
+                                    <li>Click the yellow arrow button.</li>
+                                    <li>Provide text for the list item and press <span class="Emphasis">Enter</span>.</li>
+                                    <li>In the <span class="Emphasis">Home</span> ribbon, click <img src="../../Resources/Images/outdent_items_btn.png" class="ReduceButtonSize" />.</li>
+                                    <li>Click the yellow arrow button.</li>
+                                    <li>
+                                        <p>Provide text for the final list item. It should look something like this now:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists31.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>Make sure the structure bars are turned on (see <MadCap:xref href="../../Structure_Bars/About_Structure_Bars.htm">About Structure Bars</MadCap:xref>). Right-click the <span class="Emphasis">ol</span> structure bar that represents the initial second-level list.</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists32.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>From the context menu, select <span class="Emphasis">Style Class&gt;ol.LowerAlpha</span>.</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists33.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                        <p>After the style is applied, the list should look something like this:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists34.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>Right-click the <span class="Emphasis">ol</span> structure bar that represents the other second-level list.</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists35.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>From the context menu, select <span class="Emphasis">Style Class&gt;ol.LowerAlpha</span>.</p>
+                                        <p>After the style is applied, the list should look something like this:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists36.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>Right-click the <span class="Emphasis">ol</span> structure bar that represents the third-level list.</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists37.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>From the context menu, select <span class="Emphasis">Type&gt;Bullet List</span>.</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists38.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <p>Even though that list is now bulleted, we still want to apply a style to change its indentation. So right-click the <span class="Emphasis">ul</span> structure bar that represents the new bulleted list. And from the context menu, select <span class="Emphasis">Style Class&gt;ul.FirstLevelLess Indentation</span>.</p>
+                                        <p>After the style is applied, the list should look something like this:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_lists39.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

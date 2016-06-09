@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Capture,Products.Mimic,Products.MovieSync" MadCap:lastBlockDepth="2" MadCap:lastHeight="169" MadCap:lastWidth="1079">
+    <head>
+    </head>
+    <body>
+        <p>Converts the cursor to Rectangle mode, which lets you create a square or rectangle shape by clicking in the <MadCap:conditionalText MadCap:conditions="Products.Capture">image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic,Products.MovieSync">frame</MadCap:conditionalText> and dragging in any direction. When you release the cursor, the shape is created.<MadCap:conditionalText MadCap:conditions="Products.Mimic,Products.Capture"> See <MadCap:xref href="../../../UI_Elements/Rectangle_Properties_Dialog.htm" target="" title="" alt="">Rectangle Properties Dialog</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

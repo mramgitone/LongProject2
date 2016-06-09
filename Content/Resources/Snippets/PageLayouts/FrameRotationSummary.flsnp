@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="67" MadCap:lastWidth="1167">
+    <body>
+        <p>For<MadCap:conditionalText MadCap:conditions="Products.Flare"> PDF, XPS, and XHTML outputs</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor"> Contribution and New Document workflows</MadCap:conditionalText>, you can rotate body frames in the page layout editor, just as you can rotate decoration, header, footer, and image frames. This allows you to have layouts, for example, where content flows from a vertical content frame to a horizontal content frame.</p>
+    </body>
+</html>

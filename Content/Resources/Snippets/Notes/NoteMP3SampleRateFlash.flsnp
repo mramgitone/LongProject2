@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Mimic" MadCap:lastBlockDepth="2" MadCap:lastHeight="105" MadCap:lastWidth="1221">
+    <body>
+        <p class="note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">If you import an MP3 file with a sample rate below 44 kHz, you might experience issues when generating <MadCap:variable name="Outputs.Flash" /> output. For best results, it is recommended that you use MP3 files that have a sample rate of at least 44 kHz. There are numerous third-party tools that let you convert the sample rate for an MP3 file.</p>
+    </body>
+</html>

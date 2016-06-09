@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/PrintOnlyTopics/ComingSoonTitlePage.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/TitleFlare.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/PrintOnlyTopics/TitlePage.htm"
+    StartSection="false"
+    PageNumber="1"
+    StartChapter="true"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageLayout="/Content/Resources/PageLayouts/TitleFlare.flpgl"
+    StartPageLayout="false"
+    ComputeToc="false"></TocEntry>
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/PrintOnlyTopics/Copyright.htm"
+    StartSection="false"
+    PageNumberReset="reset"
+    PageNumber="1"
+    PageType="normal"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/PrintOnlyTopics/PrintTOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="1"
+    StartPageLayout="false"></TocEntry>
+  <TocEntry
+    Title="CH 1 About DotNet Help Output"
+    Link="/Content/Output/DotNet_Help_Output/About_DotNet_Help_Output.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="1"
+    StartSection="false"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    StartPageLayout="false"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"></TocEntry>
+  <TocEntry
+    Title="CH 2 Merging Output from DotNet Help Projects"
+    Link="/Content/TOCs/More_About_Tables_of_Contents/Merging_output_from_DotNet_Help_projects.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="CH 3 CSH Calls for DotNet Help"
+    Link="/Content/CSH/DotNet_Help_CSH_Calls/CSH_Calls_DNH.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="CSH Calls for DotNet Help—Developers"
+      Link="/Content/CSH/DotNet_Help_CSH_Calls/CSH_Calls_DNH_Developers.htm" />
+    <TocEntry
+      Title="HelpViewerClient API"
+      Link="/Content/CSH/DotNet_Help_CSH_Calls/HelpViewerClient_API.htm" />
+    <TocEntry
+      Title="HelpViewerEmbeddedClient API"
+      Link="/Content/CSH/DotNet_Help_CSH_Calls/HelpViewerEmbeddedClient_API.htm" />
+    <TocEntry
+      Title="IEmbeddedHelpSystem API"
+      Link="/Content/CSH/DotNet_Help_CSH_Calls/IEmbeddedHelpSystem.htm" />
+    <TocEntry
+      Title="ICSHIDProvider API"
+      Link="/Content/CSH/DotNet_Help_CSH_Calls/ICSHIDProvider.htm" />
+    <TocEntry
+      Title="Command Line"
+      Link="/Content/CSH/DotNet_Help_CSH_Calls/Command_Line.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/PDF_Guides/PDF_Guides.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"></TocEntry>
+  <TocEntry
+    Title="APPENDIX Output_Type_Tables"
+    Link="/Content/PrintOnlyTopics/Output_Type_Tables.htm"
+    StartPageLayout="false"
+    BreakPageLayout="/Content/Resources/PageLayouts/ChaptersLandscapeGreen.flpgl"
+    StartSection="false"
+    StartChapter="true"
+    BreakPageType="normal"
+    PageLayout="/Content/Resources/PageLayouts/AppendixLandscape.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    AutoEndOnLeftPage="disabled"
+    PageType="firstright" />
+</CatapultToc>

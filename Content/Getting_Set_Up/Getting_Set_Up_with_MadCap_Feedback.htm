@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:conditions="Products.FeedbackExplorer" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:ignoredWords="MadCap" MadCap:lastBlockDepth="8" MadCap:lastHeight="2581" MadCap:lastWidth="621">
+    <head><title></title>
+        <link href="../Resources/Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+        <meta name="description" content="Summary of all the basic steps required to get MadCap Feedback up and running in your environment." />
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Comments:MadCap Feedback" />
+            <MadCap:concept term="GettingSetUp" />Getting Set Up<MadCap:conditionalText MadCap:conditions="General.OnlineLive"> with MadCap Feedback</MadCap:conditionalText></h1>
+        <p MadCap:conditions="FeedbackExplorerGuides.FeedbackExplorerGettingStartedGuide">Before you start taking advantage of the features provided with MadCap Feedback, there are some setup tasks that need to be completed.</p>
+        <MadCap:snippetBlock src="../Resources/Snippets/ThisChapterDiscussesFollowing.flsnp" MadCap:conditions="FeedbackExplorerGuides.FeedbackExplorerGettingStartedGuide" />
+        <h2 MadCap:conditions="FeedbackExplorerGuides.FeedbackExplorerGettingStartedGuide">Basic Steps for Getting Set Up</h2>
+        <p>Getting set up to use MadCap Feedback involves the following basic steps. </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">basic setup steps</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li><span class="SetOffFirstLevel">Install MadCap Feedback Server </span>This step needs to be completed only if you have purchased the MadCap Feedback Server (as opposed to the MadCap Feedback Hosting Service). Provide your system administrator with the instructions that are necessary for installing the software and other components. <MadCap:conditionalText MadCap:conditions="FeedbackExplorerGuides.FeedbackExplorerGettingStartedGuide,General.OnlineLive">See <MadCap:xref href="Installing_MadCap_Feedback_Server_Admin_and_Other_Components.htm">Installing MadCap Feedback Server Admin and Other Components</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li><span class="SetOffFirstLevel">Configure Feedback Server Admin </span>This step needs to be completed only if you have purchased the MadCap Feedback Server (as opposed to the MadCap Feedback Hosting Service). Provide your system administrator with the instructions that are necessary for configuring the MadCap Feedback Server Admin. This includes the ability to require a password for Feedback Explorer access, test settings, set up an SMTP server for email notifications, specify redirection web pages for end users who register, and schedule automatic backups of the database and transaction log. <MadCap:conditionalText MadCap:conditions="FeedbackExplorerGuides.FeedbackExplorerGettingStartedGuide,General.OnlineLive">See <MadCap:xref href="Configuring_and_Maintaining_the_MadCap_Feedback_Server_Admin.htm">Configuring and Maintaining the MadCap Feedback Server Admin</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Feedback Explorer" />Install Feedback Explorer </span>Each user on your team who plans to use Feedback Explorer to view user comments and statistics should install this software locally. This includes managers who do not use Flare but want to be kept informed about user activity on the published output. </li>
+                    <li>
+                        <p><span class="SetOffFirstLevel"><MadCap:keyword term="Licenses" />Obtain Feedback License(s) </span>You need a separate Feedback license for each Flare target that you want to track. After you purchase the MadCap Feedback Server or Service, you will be issued the appropriate Feedback license(s) from <MadCap:variable name="Other.CompanyName" />. </p>
+                        <MadCap:dropDown>
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p class="ExampleHead">example</p>
+                                <p class="Example">Let's say you have three authors and a manager on your team. You have a total of five different Flare projects, and from each of those projects, you and the other authors are generating two online targets. So as a team, you are producing a total of ten online outputs (two targets each from five projects). How many Feedback licenses are needed so that the authors and manager can track the user activity for all of those targets? In this case, you would need ten licenses (one for each output that you want to track).</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown>
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p class="note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">It is possible to use the same Feedback license for different Flare targets. However, you must keep in mind that the statistics for the various targets will then become merged when you view them in Feedback Explorer. You will not be able to determine which statistics resulted from which targets.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="MadCap Flare:enabling Feedback" />Enable Feedback in Flare Targets </span>
+                        <MadCap:snippetText src="../Resources/Snippets/Feedback/FeedbackEnableSummary.flsnp" /> For more information see the Flare online Help.</li>
+                    <li>
+                        <p><span class="SetOffFirstLevel"><MadCap:keyword term="Files:Feedback" />Configure Flare target with Feedback Explorer </span>
+                            <MadCap:snippetText src="../Resources/Snippets/Feedback/FeedbackCreateOpenFilesSummary.flsnp" />
+                            <MadCap:conditionalText MadCap:conditions="FeedbackExplorerGuides.FeedbackExplorerGettingStartedGuide">See <MadCap:xref href="Creating_a_Configured_Feedback_File.htm">Creating a Configured Feedback File</MadCap:xref>.</MadCap:conditionalText>
+                        </p>
+                        <p MadCap:conditions="General.OnlineLive">
+                            <MadCap:snippetText src="../Resources/Snippets/Feedback/FeedbackCreateOpenFilesSummary1a.flsnp" /> See <MadCap:xref href="Creating_a_Configured_Feedback_File.htm" MadCap:conditions="General.OnlineLive">Creating a Configured Feedback File</MadCap:xref>.</p>
+                        <MadCap:dropDown MadCap:conditions="General.OnlineLive">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p class="ExampleHead" MadCap:conditions="General.OnlineLive">example</p>
+                                <p class="ExampleMiddleSection" MadCap:conditions="General.OnlineLive">As the author, let's say you want to track user activity for a particular Flare target. Therefore, you would enter that license in that Flare target. You can then click the button in the Target Editor labeled <span class="Emphasis">Configure with Feedback Explorer Application</span>. The Feedback Explorer will then launch and open a file that is configured with the Flare target. This file is used to display the user activity for that target.</p>
+                                <p class="Example" MadCap:conditions="General.OnlineLive">However, because the manager on your team will not be using Flare, he can create a Feedback file in Feedback Explorer, entering the same license that you entered in Flare. For each target that the manager wants to track, he would create a new Feedback file in Feedback Explorer and enter the appropriate license.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="MadCap Flare:enabling comments;Skins:comments;Comments:skins" /><MadCap:keyword term="Topics:comments" />Enable Comments in the Skin </span>&#160;<MadCap:snippetText src="../Resources/Snippets/Comments/EnablingCommunityWideComments.flsnp" /></li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">tip</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="tip" MadCap:autonum="&lt;b&gt;Tip: &lt;/b&gt;">If you want to test the Feedback Server or Service against your output, you can easily do so by first using a Feedback license in an unpublished target. After testing Feedback for that output, you can clear the Feedback database and remove the license from your test target. All Feedback data (including all comments, topic ratings, and search queries) will be removed from the database. Then you can add the license to the target that you intend to publish and distribute the output to end users. (It is also a good idea to clear the cookies from your Internet browser.) <MadCap:conditionalText MadCap:conditions="FeedbackExplorerGuides.FeedbackExplorerGettingStartedGuide,General.OnlineLive">See <MadCap:xref href="Clearing_the_Feedback_Database.htm">Clearing the Feedback Database</MadCap:xref>.</MadCap:conditionalText></p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">&#160;If you are having trouble registering MadCap Feedback, you may want to contact Customer Service at customerservice@madcapsoftware.com and do a manual activation. </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.OnlineLive">After you are set up, you can publish Flare output and begin taking advantage of the many features in Feedback Explorer. See <MadCap:xref href="../Introduction_Topics/Key_Features_Feedback_Explorer.htm" MadCap:conditions="General.OnlineLive">Key Features</MadCap:xref>.</p>
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:conceptLink term="GettingSetUp" />
+        </p>
+    </body>
+</html>

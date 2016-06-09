@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Capture,Products.Mimic" MadCap:lastBlockDepth="8" MadCap:lastHeight="2410" MadCap:lastWidth="884">
+    <body>
+        <ul>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Objects:arrows;Arrows:arrow settings;Shapes:arrows" />Arrows </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>You can change many aspects of an arrow to change its shape.&#160;<MadCap:conditionalText MadCap:conditions="Products.Mimic">See&#160;<MadCap:xref href="../../../Appearance/Arrows/Setting_the_Shape_of_an_Arrow_Mimic.htm">Setting the Shape of an Arrow</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Capture"> See&#160;<MadCap:xref alt="" href="../../../Appearance/Arrows/Setting_the_Shape_of_an_Arrow_Capture.htm" target="" title="">Setting the Shape of an Arrow</MadCap:xref>.</MadCap:conditionalText> <MadCap:keyword term="Lines:arrows;Objects:lines;Arrows:lines;Shapes:lines" />In addition, when you add a line to<MadCap:conditionalText MadCap:conditions="Products.Capture"> an image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic"> a frame</MadCap:conditionalText>, an arrow is automatically added at its head. You can change the position, size, or color of the arrow. You can also remove all arrows from the line so that it is a simple line.&#160;<MadCap:conditionalText MadCap:conditions="Products.Mimic"> See&#160;<MadCap:xref href="../../../Appearance/Arrows/Setting_the_Arrows_for_a_Line_Mimic.htm">Setting the Arrows for a Line</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Capture"> See&#160;<MadCap:xref alt="" href="../../../Appearance/Arrows/Setting_the_Arrows_for_a_Line_Capture.htm" target="" title="">Setting the Arrows for a Line</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li>
+                <MadCap:keyword term="Borders;Objects:borders" /><span class="SetOffFirstLevel">Borders&#160;</span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>You can easily add a border around<MadCap:conditionalText MadCap:conditions="Products.Capture"> an image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic"> a frame</MadCap:conditionalText> or object (e.g., bubble callout, circle, rectangle). For<MadCap:conditionalText MadCap:conditions="Products.Capture"> an image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic"> a frame</MadCap:conditionalText>, you can specify the type, width, and color of the border. For an object, you can specify the width and color of the border.&#160;<MadCap:conditionalText MadCap:conditions="Products.Mimic">See <MadCap:xref href="../../../Appearance/Borders/Adding_Borders_Mimic.htm">Adding Borders</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Capture">See&#160;<MadCap:xref alt="" href="../../../Appearance/Borders/Adding_Borders_Capture.htm" target="" title="">Adding Borders</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Capture"><span class="SetOffFirstLevel"><MadCap:keyword term="Objects:color;Color:object" /><MadCap:keyword term="Color:gray scale;Gray scale" /><MadCap:keyword term="File format:color depth;Color:color depth" /><MadCap:keyword term="Background:image;Color:image background" />Color&#160;</span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>You can adjust the color for objects, as well as for the background of images. You can also set the color depth for an image or apply gray scale to it. See <MadCap:xref alt="" href="../../../Appearance/Color/Setting_the_Color_for_an_Object_Capture.htm" target="" title="">Setting the Color for an Object</MadCap:xref>, <MadCap:xref href="../../../Appearance/Color/Setting_the_Color_for_an_Image_Background.htm">Setting the Color for an Image Background</MadCap:xref>, <MadCap:xref href="../../../Appearance/Color/Setting_the_Color_Depth_for_an_Image.htm">Setting the Color Depth for an Image</MadCap:xref>, or <MadCap:xref href="../../../Appearance/Color/Applying_Gray_Scale_to_Images.htm">Applying Gray Scale to Images</MadCap:xref>.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Mimic"><span class="SetOffFirstLevel"><MadCap:keyword term="Objects:color;Color:object" /><MadCap:keyword term="Frames:background color;Background:color;Color:frame background" /><MadCap:keyword term="Movies:background color;Color:movie background" />Color&#160;</span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>You can adjust the color for objects, as well as for the background of frames in a movie. See <MadCap:xref href="../../../Appearance/Color/Setting_the_Color_for_an_Object_Mimic.htm">Setting the Color for an Object</MadCap:xref>, <MadCap:xref href="../../../Appearance/Color/Setting_the_Color_for_a_Frame_Background.htm">Setting the Color for a Frame Background</MadCap:xref>, or <MadCap:xref href="../../../Appearance/Color/Setting_the_Color_for_a_Movie_Background.htm">Setting the Color for a Movie Background</MadCap:xref>.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Capture"><span class="SetOffFirstLevel"><MadCap:keyword term="Cropping images;Resizing:images" />Cropping</span>&#160;<MadCap:expanding><MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead><MadCap:expandingBody>You can crop (cut a portion of) an image to keep the part you want and discard the part that you don't want. See <MadCap:xref href="../../../Appearance/Cropping/Cropping_Images.htm">Cropping Images</MadCap:xref>.</MadCap:expandingBody></MadCap:expanding></li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Cursors:types;Objects:cursors;Shapes:cursors" />Cursor Type </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>
+                        <MadCap:snippetText src="../Objects/SelectCursorTypeSummary.flsnp" />  &#160;<MadCap:conditionalText MadCap:conditions="Products.Mimic">See&#160;<MadCap:xref href="../../../Appearance/Cursor_Types/Selecting_Cursor_Types_Mimic.htm">Selecting Cursor Types</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Capture">See&#160;<MadCap:xref alt="" href="../../../Appearance/Cursor_Types/Selecting_Cursor_Types_Capture.htm" target="" title="">Selecting Cursor Types</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Effects:about" />Effects&#160;</span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>An effect is a special element or characteristic that you apply to<MadCap:conditionalText MadCap:conditions="Products.Capture"> an image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic"> a frame</MadCap:conditionalText>or object to enhance it. This includes effects such as blur, gray scale, shading, shadow, torn edge, and zoom.&#160;&#160;<MadCap:conditionalText MadCap:conditions="Products.Mimic">See <MadCap:xref href="../../../Appearance/Effects/About_Effects_Mimic.htm">About Effects</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Capture">See&#160;<MadCap:xref alt="" href="../../../Appearance/Effects/About_Effects_Capture.htm" target="" title="">About Effects</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Image objects:editing;Objects:image objects" />Image Objects&#160;</span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>After you add an image as an object, you can edit the object in several ways.&#160;<MadCap:conditionalText MadCap:conditions="Products.Mimic">See&#160;<MadCap:xref href="../../../Appearance/Image_Objects/Editing_Image_Objects_Mimic.htm">Editing Image Objects</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Capture">See&#160;<MadCap:xref alt="" href="../../../Appearance/Image_Objects/Editing_Image_Objects_Capture.htm" target="" title="">Editing Image Objects</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li>
+                <MadCap:keyword term="Lines:color;Objects:lines;Color:line;Lines:width" /><span class="SetOffFirstLevel">Lines&#160;</span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>After you add a line to<MadCap:conditionalText MadCap:conditions="Products.Capture"> an image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic"> a frame</MadCap:conditionalText>, you can adjust the color and width settings for the line to meet your needs.&#160;<MadCap:conditionalText MadCap:conditions="Products.Mimic">See&#160;<MadCap:xref href="../../../Appearance/Lines/Setting_the_Color_and_Width_for_a_Line_Mimic.htm">Setting the Color and Width for a Line</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Capture">See&#160;<MadCap:xref alt="" href="../../../Appearance/Lines/Setting_the_Color_and_Width_for_a_Line_Capture.htm" target="" title="">Setting the Color and Width for a Line</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel"><MadCap:keyword term="Objects:loops;Loops:coordinates;Shapes:loops" />Loops </span>
+                    <MadCap:expanding>
+                        <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                        <MadCap:expandingBody>You can modify loops in a couple of ways.</MadCap:expandingBody>
+                    </MadCap:expanding>
+                </p>
+                <ul class="SecondLevel">
+                    <li><span class="SetOffSecondLevel">Coordinates </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>You can specify the coordinates of a loop to change how the loop looks.&#160;<MadCap:conditionalText MadCap:conditions="Products.Mimic">See&#160;<MadCap:xref href="../../../Appearance/Coordinates/Setting_the_Coordinates_for_a_Loop_Mimic.htm">Setting the Coordinates for a Loop</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Capture">See&#160;<MadCap:xref alt="" href="../../../Appearance/Coordinates/Setting_the_Coordinates_for_a_Loop_Capture.htm" target="" title="">Setting the Coordinates for a Loop</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffSecondLevel">Thickness </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>You can specify the thickness of a loop that you add to<MadCap:conditionalText MadCap:conditions="Products.Capture"> an image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic"> a frame</MadCap:conditionalText>. See <MadCap:xref href="../../../Appearance/Thickness/Setting_the_Thickness_for_a_Loop.htm">Setting the Thickness for a Loop</MadCap:xref>.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">Look of Objects&#160;</span>
+                    <MadCap:expanding>
+                        <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                        <MadCap:expandingBody>You can quickly alter the look of multiple objects by using various features in <MadCap:snippetText src="../AllProductVariables.flsnp" />.&#160;</MadCap:expandingBody>
+                    </MadCap:expanding>
+                </p>
+                <ul class="SecondLevel">
+                    <li>
+                        <p><span class="SetOffSecondLevel"><MadCap:keyword term="Look:setting default;Objects:default look" />Set the Default Look for Objects </span>
+                            <MadCap:expanding>
+                                <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                                <MadCap:expandingBody>After objects are added, you can format them in any way you want. And if necessary, you can remove the formatting from the selected object(s) and apply the default formatting for that particular type of object (e.g., oval, rectangle, bubble, polyline). Normally, the default settings for each object type are based on the basic formatting provided by <MadCap:snippetText src="../AllProductVariables.flsnp" />. However, you can change the default settings for a particular object type so that the next time you draw that shape, the settings that you specified are automatically used. <MadCap:conditionalText MadCap:conditions="Products.Mimic">See&#160;<MadCap:xref href="../../../Appearance/Look_of_Objects/Setting_the_Default_Look_for_Objects_Mimic.htm">Setting the Default Look for Objects</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Capture">See&#160;<MadCap:xref alt="" href="../../../Appearance/Look_of_Objects/Setting_the_Default_Look_for_Objects_Capture.htm" target="" title="">Setting the Default Look for Objects</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                            </MadCap:expanding>
+                        </p>
+                    </li>
+                    <li>
+                        <p><span class="SetOffSecondLevel"><MadCap:keyword term="Look:using default;Objects:default look" />Use the Default Look for Objects </span>
+                            <MadCap:expanding>
+                                <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">&#160;Read more… </MadCap:expandingHead>
+                                <MadCap:expandingBody>You can remove the formatting from the selected object(s) and apply the default formatting for that particular type of object (e.g., oval, rectangle, bubble, polyline). <MadCap:conditionalText MadCap:conditions="Products.Mimic">See&#160;<MadCap:xref href="../../../Appearance/Look_of_Objects/Using_the_Default_Look_for_Objects_Mimic.htm">Using the Default Look for Objects</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Capture">See&#160;<MadCap:xref alt="" href="../../../Appearance/Look_of_Objects/Using_the_Default_Look_for_Objects_Capture.htm" target="" title="">Using the Default Look for Objects</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                            </MadCap:expanding>
+                        </p>
+                    </li>
+                    <li><span class="SetOffSecondLevel"><MadCap:keyword term="Objects:styles;Styles:objects" />Select Styles for Objects </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>You can quickly change the look of an object by associating it with a style that already exists. You can apply a factory style (i.e., one provided by <MadCap:snippetText src="../AllProductVariables.flsnp" />) or you can apply a style from any of your palettes. <MadCap:conditionalText MadCap:conditions="Products.Mimic">See&#160;<MadCap:xref href="../../../Appearance/Look_of_Objects/Selecting_Styles_for_Objects_Mimic.htm">Selecting Styles for Objects</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Capture">See&#160;<MadCap:xref alt="" href="../../../Appearance/Look_of_Objects/Selecting_Styles_for_Objects_Capture.htm" target="" title="">Selecting Styles for Objects</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li>
+                        <p><span class="SetOffSecondLevel"><MadCap:keyword term="Look:making all objects the same;Objects:making all look the same" />Make All Objects Look the Same </span>
+                            <MadCap:expanding>
+                                <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                                <MadCap:expandingBody>Different objects can contain different formatting settings. However, you can quickly make several objects look the same, taking on the formatting settings of whichever object that you select. <MadCap:conditionalText MadCap:conditions="Products.Mimic">See&#160;<MadCap:xref href="../../../Appearance/Look_of_Objects/Making_All_Objects_Look_the_Same_Mimic.htm">Making All Objects Look the Same</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Capture">See&#160;<MadCap:xref alt="" href="../../../Appearance/Look_of_Objects/Making_All_Objects_Look_the_Same_Capture.htm" target="" title="">Making All Objects Look the Same</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                            </MadCap:expanding>
+                        </p>
+                    </li>
+                </ul>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Padding;Objects:padding" />Padding </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>You can add padding (empty space) to increase the area around<MadCap:conditionalText MadCap:conditions="Products.Capture"> an image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic"> a frame</MadCap:conditionalText>or between the edge of an object and the text in it.&#160;<MadCap:conditionalText MadCap:conditions="Products.Mimic">See&#160;<MadCap:xref href="../../../Appearance/Padding/Adding_Padding_Mimic.htm" target="" title="" alt="">Adding Padding</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Capture">See&#160;<MadCap:xref alt="" href="../../../Appearance/Padding/Adding_Padding_Capture.htm" target="" title="">Adding Padding</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Pointer:bubbles;Bubbles:pointer" />Pointer </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>The pointer portion of a bubble shape can be curved, and you can adjust the amount of curve used. In addition, you can make changes to the base of the pointer. <MadCap:conditionalText MadCap:conditions="Products.Mimic">See&#160;<MadCap:xref href="../../../Appearance/Pointer/Adjusting_the_Pointer_on_a_Bubble_Shape_Mimic.htm">Adjusting the Pointer on a Bubble Shape</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Capture">See&#160;<MadCap:xref alt="" href="../../../Appearance/Pointer/Adjusting_the_Pointer_on_a_Bubble_Shape_Capture.htm" target="" title="">Adjusting the Pointer on a Bubble Shape</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Points:deleting;Lines:points;Polygons:points" />Points </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>When you edit polylines or polygons, you can delete points (the small colored circles in the object) in order to turn two line segments into one, thus changing the shape of the object. <MadCap:conditionalText MadCap:conditions="Products.Mimic">See&#160;<MadCap:xref href="../../../Appearance/Points/Deleting_Points_Mimic.htm">Deleting Points in Objects</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Capture">See&#160;<MadCap:xref alt="" href="../../../Appearance/Points/Deleting_Points_Capture.htm" target="" title="">Deleting Points in Objects</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">Positioning Objects </span> <MadCap:expanding><MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead><MadCap:expandingBody>After objects are added, you can position them as needed on the<MadCap:conditionalText MadCap:conditions="Products.Capture"> image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic"> frame</MadCap:conditionalText>. Following are some of methods for positioning objects.</MadCap:expandingBody></MadCap:expanding></p>
+                <ul class="SecondLevel">
+                    <li><span class="SetOffSecondLevel"><MadCap:keyword term="Objects:aligning;Alignment:objects" />Align Objects </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>There are two ways to align objects: (1) align them in relation to one of the objects, or (2) align them on the canvas. <MadCap:conditionalText MadCap:conditions="Products.Mimic">See&#160;<MadCap:xref href="../../../Appearance/Positioning_Objects/Aligning_Objects_Mimic.htm">Aligning Objects</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Capture">See&#160;<MadCap:xref alt="" href="../../../Appearance/Positioning_Objects/Aligning_Objects_Capture.htm" target="" title="">Aligning Objects</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffSecondLevel"><MadCap:keyword term="Objects:floating;Floating:objects;Sinking:objects;Objects:layers;Layers;Objects:sinking" />Float and Sink Objects </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>When you add an object, it is placed on its own layer. And each time you add a new object, it is placed on the top layer with the previous objects on layers beneath it. If necessary, you can "float" objects that are on lower layers to bring them forward, and you can "sink" objects to send them backward. <MadCap:conditionalText MadCap:conditions="Products.Mimic">See&#160;<MadCap:xref href="../../../Appearance/Positioning_Objects/Floating_and_Sinking_Objects_Mimic.htm">Floating and Sinking Objects</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Capture">See&#160;<MadCap:xref alt="" href="../../../Appearance/Positioning_Objects/Floating_and_Sinking_Objects_Capture.htm" target="" title="">Floating and Sinking Objects</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li MadCap:conditions="Products.Capture"><span class="SetOffSecondLevel"><MadCap:keyword term="Objects:hiding;Hiding:objects" />Hide Objects </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>You can hide an object in an image so that it cannot be seen. Later, you can always bring the object back into view. See <MadCap:xref href="../../../Appearance/Positioning_Objects/Hiding_Objects.htm">Hiding Objects</MadCap:xref>.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li MadCap:conditions="Products.Capture"><span class="SetOffSecondLevel"><MadCap:keyword term="Objects:locking;Locking:objects" />Lock Objects </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>You can lock an object in place so that it cannot be moved on the image. Later, you can always unlock the object if necessary. See <MadCap:xref href="../../../Appearance/Positioning_Objects/Locking_Objects.htm">Locking Objects</MadCap:xref>.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffSecondLevel"><MadCap:keyword term="Objects:moving;Moving:objects" />Move Objects Around </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody> After an object is added, you can move it around the<MadCap:conditionalText MadCap:conditions="Products.Capture"> image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic"> frame</MadCap:conditionalText> to place it just where you need it. You can do this by dragging the object. See <MadCap:xref href="../../../Appearance/Positioning_Objects/Moving_Objects_Around.htm">Moving Objects Around</MadCap:xref>.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffSecondLevel"><MadCap:keyword term="Objects:rotating;Rotating:objects" />Rotate Objects </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>You can rotate objects after adding them to<MadCap:conditionalText MadCap:conditions="Products.Capture"> images</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic"> frames</MadCap:conditionalText>. See <MadCap:xref href="../../../Appearance/Positioning_Objects/Rotating_Objects.htm">Rotating Objects</MadCap:xref>.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffSecondLevel"><MadCap:keyword term="Objects:anchors;Anchors:objects" />Set Object Anchors </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>
+                                <MadCap:snippetText src="../Objects/ObjectAnchorsSummary.flsnp" /> See <MadCap:xref href="../../../Appearance/Positioning_Objects/Setting_Object_Anchors.htm">Setting Object Anchors</MadCap:xref>.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffSecondLevel">Using the Grid </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>You enable the grid to help position objects in <MadCap:conditionalText MadCap:conditions="Products.Capture">an image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic">a frame</MadCap:conditionalText>and snap image objects to grid lines. See&#160;<MadCap:xref href="../../../Movies_Creating/More_About_Creating_Movies/Working_with_Grids.htm">Working with Grids</MadCap:xref>.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                </ul>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Shapes:rectangle properties;Objects:rectangle;Bubbles:rectangle properties" />Rectangle Properties </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>
+                        <MadCap:snippetText src="../Objects/SetRectanglePropertiesSummary.flsnp" /> See <MadCap:xref href="../../../Appearance/Rectangle_Properties/Setting_the_Rectangle_Properties_for_an_Object.htm">Setting the Rectangle Properties for an Object</MadCap:xref>.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel"><MadCap:keyword term="Resizing:images;Scale" />Resizing </span>
+                    <MadCap:expanding>
+                        <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                        <MadCap:expandingBody> <MadCap:conditionalText MadCap:conditions="Products.Capture">After you capture an image, you may want to enlarge or reduce its size. This is easily done by adjusting the settings in the File Properties dialog. See <MadCap:xref href="../../../Appearance/Resizing/Resizing_Images.htm">Resizing Images</MadCap:xref>. </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic">After you create a movie, you may want to enlarge or reduce the size of the frames. This is done by adjusting the settings in the Movie Properties dialog. All frames in the movie will be resized according to the settings you provide (see <MadCap:xref href="../../../Appearance/Resizing/Resizing_Movies.htm">Resizing Movies</MadCap:xref>).</MadCap:conditionalText><MadCap:keyword term="Objects:resizing;Resizing:objects" />You can also resize objects by dragging the edges of the object or by automatically resizing a group of objects so that the height and/or width are the same (see <MadCap:xref href="../../../Appearance/Resizing/Resizing_Objects.htm">Resizing Objects</MadCap:xref>). </MadCap:expandingBody>
+                    </MadCap:expanding>
+                </p>
+            </li>
+            <li MadCap:conditions="Products.Capture"><span class="SetOffFirstLevel"><MadCap:keyword term="File format:DPI;DPI:setting;Resolution:setting" /><MadCap:keyword term="File format:JPEG quality;JPEG quality" />Resolution and Quality Settings&#160;</span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive,General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> You can improve the quality of an image by adjusting the resolution (i.e., dots per inch). If you are saving the image in the JPEG format, you can also adjust the JPEG quality. See <MadCap:xref href="../../../Appearance/Resolution_and_Quality_Settings/Setting_the_DPI_for_an_Image.htm">Setting the DPI for an Image</MadCap:xref> and <MadCap:xref href="../../../Appearance/Resolution_and_Quality_Settings/Setting_the_JPEG_Quality_for_an_Image.htm">Setting the JPEG Quality for an Image</MadCap:xref>.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+        </ul>
+    </body>
+</html>

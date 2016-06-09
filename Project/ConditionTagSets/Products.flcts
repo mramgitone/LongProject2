@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags"
+  conditions="Products.AllProductsPlusDocBible">
+  <ConditionTag
+    Comment=""
+    Name="Flare"
+    BackgroundColor="#c0fbc0" />
+  <ConditionTag
+    BackgroundColor="#92fa92"
+    Name="FlareOnlineOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#52fa52"
+    Name="FlarePrintOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#fefece"
+    Name="MovieViewer"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#fcfc8d"
+    Name="MovieViewerOnlineOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#fcfc3e"
+    Name="MovieViewerPrintOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ff7000"
+    Name="Capture"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ff4e00"
+    Name="CaptureOnlineOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ff2600"
+    Name="CapturePrintOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#c5d9fc"
+    Name="Mimic"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#81afff"
+    Name="MimicOnlineOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#4b8dfe"
+    Name="MimicPrintOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ffe9cf"
+    Name="FeedbackExplorer"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#fed6a7"
+    Name="FeedbackExplorerOnlineOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#febd72"
+    Name="FeedbackExplorerPrintOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#eed2fc"
+    Name="HelpViewer"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#db9cfb"
+    Name="HelpViewerOnlineOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#c658fc"
+    Name="HelpViewerPrintOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#daffff"
+    Name="Lingo"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#a8fefe"
+    Name="LingoOnlineOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#65ffff"
+    Name="LingoPrintOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#d8fbb6"
+    Name="Analyzer"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#adff2f"
+    Name="AnalyzerOnlineOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#58fc58"
+    Name="AnalyzerPrintOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#00ffff"
+    Name="AllProducts"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#feb9fe"
+    Name="Contributor"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#fc92fc"
+    Name="ContributorOnlineOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#fc57fc"
+    Name="ContributorPrintOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#fcdec0"
+    Name="Align"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ffcc99"
+    Name="AlignOnlineOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ffcc33"
+    Name="AlignPrintOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#d9f5fe"
+    Name="FeedbackServerAdmin"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#a1e7fe"
+    Name="FeedbackServerAdminOnlineOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#42cffe"
+    Name="FeedbackServerAdminPrintOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="LightBlue"
+    Name="AllProductsNotFeedbackServer"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="LightBlue"
+    Name="AllProductsThatRequireRegistration"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#bcbcfc"
+    Name="MovieSync"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#8686fe"
+    Name="MovieSyncOnlineOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#3030fe"
+    Name="MovieSyncPrintOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#26fc26"
+    Name="AnalyzerWebHelp"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#0efc0e"
+    Name="FlareWebHelp"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#000000"
+    Name="NotHelpViewer"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#000000"
+    Name="NotAlign"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ffffc7"
+    Name="Pulse"
+    Comment=""
+    OriginalName="Pulse" />
+  <ConditionTag
+    BackgroundColor="#fefe8b"
+    Name="PulseOnlineOnly"
+    Comment=""
+    OriginalName="PulseOnlineOnly" />
+  <ConditionTag
+    BackgroundColor="#fcfc42"
+    Name="PulsePrintOnly"
+    Comment=""
+    OriginalName="PulsePrintOnly" />
+  <ConditionTag
+    BackgroundColor="#fcfc0a"
+    Name="PulseWebHelp"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#7fffd4"
+    Name="FlareOnlineNotWebHelp"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#7fffd4"
+    Name="AllProductsPlusDocBible"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#1dbfbf"
+    Name="LingoOnlineNotWebHelp"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="FlareWebHelpResponsive"
+    Comment=""
+    OriginalName="FlareWebHelpResponsive" />
+  <ConditionTag
+    BackgroundColor="#22a519"
+    Name="FlareWebHelpNonResponsive"
+    Comment=""
+    OriginalName="FlareWebHelpNonResponsive" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="AnalyzerWebHelpResponsive"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#90ee90"
+    Name="AnalyzerWebHelpNonResponsive"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="ContributorWebHelpResponsive"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ee68bc"
+    Name="ContributorWebHelpNonResponsive"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#000000"
+    Name="NotPulse"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#f6ff7e"
+    Name="PulseWebHelpResponsive"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#d8ff0e"
+    Name="PulseWebHelpNonResponsive"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ff4500"
+    Name="CaptureWebHelpResponsive"
+    Comment=""
+    OriginalName="CaptureWebHelpResponsive" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="CaptureWebHelpNonResponsive"
+    Comment=""
+    OriginalName="CaptureWebHelpNonResponsive" />
+  <ConditionTag
+    BackgroundColor="#87cefa"
+    Name="MimicWebHelpResponsive"
+    Comment=""
+    OriginalName="CaptureWebHelpResponsive" />
+  <ConditionTag
+    BackgroundColor="#3c00e0"
+    Name="MimicWebHelpNonResponsive"
+    Comment=""
+    OriginalName="CaptureWebHelpNonResponsive" />
+  <ConditionTag
+    BackgroundColor="#87cefa"
+    Name="LingoWebHelpResponsive"
+    Comment=""
+    OriginalName="CaptureWebHelpResponsive" />
+  <ConditionTag
+    BackgroundColor="#3c00e0"
+    Name="LingoWebHelpNonResponsive"
+    Comment=""
+    OriginalName="CaptureWebHelpNonResponsive" />
+</CatapultConditionTagSet>

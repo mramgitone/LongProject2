@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastBlockDepth="2" MadCap:lastHeight="54" MadCap:lastWidth="1118" MadCap:conditions="Products.FeedbackExplorer,Products.Flare,Products.Analyzer" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>After users enter comments, you can view them in Feedback Explorer. This can be done from the Comments window pane, which can be accessed by selecting <span class="Emphasis">View&gt;Comments</span>. Initially all comments are displayed. However, you can use the filter drop-down in the local toolbar to narrow which types of comments are shown (e.g., Accepted, Pending, Hidden).</p>
+    </body>
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+</html>

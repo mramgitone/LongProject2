@@ -1,0 +1,1186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="10" MadCap:lastHeight="17107" MadCap:lastWidth="837" MadCap:conditions="Products.FlareWebHelp">
+    <head>
+    </head>
+    <body>
+        <h1>
+            <img src="../../Resources/Images/How.png" MadCap:conditions="General.OnlineLive" /><span class="HDYDT">How Did You Do That?</span> Styles</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Banners/Flare/HDYDT/ProductFoldout3Fold.flsnp" />
+        <p>To make sure our content looks good with the page layouts we created, we used styles. Following are the steps we followed for the different elements. If you remove the background images from the page layouts or replace them with others that are larger or smaller, you will probably need to adjust the styles (e.g., indentation, space above/below) so that text fits nicely around the images.</p>
+        <p>
+            <img src="../../Resources/Images/hdydt_styles19.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p>
+            <img src="../../Resources/Images/hdydt_styles20.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>body style</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>First, we specified some settings on the body style in our stylesheet. We did this because all of the other styles inherit those settings. For example, we wanted most of the styles in our project to use an Arial font. Therefore, it does not make sense to specify Arial on every style. Instead, we specified Arial on the body style, and as a result, all other styles and style classes use it as well. However, we wanted to use Century Gothic as the font for a few styles, so we simply specified that particular font for those styles, overriding the inherited Arial setting.</p>
+                <ol>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/DoOneOfTheFollowing.flsnp" />
+                        </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>use the stylesheet editor <span class="EightyFiveEM">(</span>beginners<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol class="LowerAlpha">
+                                    <li>Open your stylesheet. See <MadCap:xref href="../../Styles/More_About_Styles_and_Style_Sheets/Opening_Existing_Style_Sheets.htm">Opening Stylesheets</MadCap:xref>.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/StylesMakeSureSimplifiedViewButtonShown.flsnp" />
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/FilterAllStylesStep.flsnp" />
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">body</span> style.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/SelectShowAlphabeticalListStep.flsnp" />
+                                    </li>
+                                    <li>
+                                        <p>Choose the settings shown in the following image (most of these properties should already be set by default):</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_styles40.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>get the css <span class="EightyFiveEM">(</span>advanced users<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p>Enter this in the stylesheet  (most of these properties should already be set by default):</p>
+                                <div class="Indent5Percent">
+                                    <p class="Style">body</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">color: </span><span class="StyleValue">#404040;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">display: </span><span class="StyleValue">block;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">font-family: </span><span class="StyleValue">Arial;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">font-size: </span><span class="StyleValue">8pt;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">line-height: </span><span class="StyleValue">13px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin: </span><span class="StyleValue">8px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">mc-dita-type: </span><span class="StyleValue">body;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">mc-footnote-format: </span><span class="StyleValue">{n};</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">mc-footnote-number: </span><span class="StyleValue">page;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">mc-footnote-position: </span><span class="StyleValue">page;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">mc-hyphenate: </span><span class="StyleValue">always;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">mc-hyphenate-maximum-adjacent-line-count: </span><span class="StyleValue">2;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">mc-hyphenate-shortest-prefix: </span><span class="StyleValue">3;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">mc-hyphenate-shortest-suffix: </span><span class="StyleValue">3;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">mc-hyphenate-shortest-word: </span><span class="StyleValue">5;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">mc-short-line: </span><span class="StyleValue">10;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">mc-short-line-loosen-end-length: </span><span class="StyleValue">30;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">mc-short-line-maximum: </span><span class="StyleValue">6;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">mc-short-line-method: </span><span class="StyleValue">never;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">mc-short-line-step: </span><span class="StyleValue">0.5;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">mc-short-line-tighten-maximum: </span><span class="StyleValue">3;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">orphans: </span><span class="StyleValue">2;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">widows: </span><span class="StyleValue">2;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>company name</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>We created a style class called "p.ManualTitle1" to control the look of the company name on the first panel on the front side of the foldout.</p>
+                <p>
+                    <img src="../../Resources/Images/hdydt_styles2.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <ol>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/DoOneOfTheFollowing.flsnp" />
+                        </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>use the stylesheet editor <span class="EightyFiveEM">(</span>beginners<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol class="LowerAlpha">
+                                    <li>Open your stylesheet. See <MadCap:xref href="../../Styles/More_About_Styles_and_Style_Sheets/Opening_Existing_Style_Sheets.htm">Opening Stylesheets</MadCap:xref>.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/StylesMakeSureSimplifiedViewButtonShown.flsnp" />
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/FilterParagraphStylesStep.flsnp" />
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">p</span> style.</li>
+                                    <li>In the local toolbar, click <span class="Emphasis">Add Class</span>.</li>
+                                    <li>Type a name for the new style class (we named ours "ManualTitle1") and click <span class="Emphasis">OK</span>.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/SelectShowAlphabeticalListStep.flsnp" />
+                                    </li>
+                                    <li>
+                                        <p>Choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_styles18.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>get the css <span class="EightyFiveEM">(</span>advanced users<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p>Enter this in the stylesheet:</p>
+                                <div class="Indent5Percent">
+                                    <p class="Style">p.ManualTitle1</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">column-break-before: </span><span class="StyleValue">always;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">font-family: </span><span class="StyleValue">'Century Gothic';</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">font-size: </span><span class="StyleValue">9pt;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-bottom: </span><span class="StyleValue">0;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-left: </span><span class="StyleValue">50px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">padding-top: </span><span class="StyleValue">80px;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>title</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>We created a style class called "p.ManualTitle2" to control the look of the foldout title on the first panel on the front side of the foldout.</p>
+                <p>
+                    <img src="../../Resources/Images/hdydt_styles3.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <ol>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/DoOneOfTheFollowing.flsnp" />
+                        </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>use the stylesheet editor <span class="EightyFiveEM">(</span>beginners<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol class="LowerAlpha">
+                                    <li>Open your stylesheet. See <MadCap:xref href="../../Styles/More_About_Styles_and_Style_Sheets/Opening_Existing_Style_Sheets.htm">Opening Stylesheets</MadCap:xref>.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/StylesMakeSureSimplifiedViewButtonShown.flsnp" />
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/FilterParagraphStylesStep.flsnp" />
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">p</span> style.</li>
+                                    <li>In the local toolbar, click <span class="Emphasis">Add Class</span>.</li>
+                                    <li>Type a name for the new style class (we named ours "ManualTitle2") and click <span class="Emphasis">OK</span>.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/SelectShowAlphabeticalListStep.flsnp" />
+                                    </li>
+                                    <li>
+                                        <p>Choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_styles21.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>get the css <span class="EightyFiveEM">(</span>advanced users<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p>Enter this in the stylesheet:</p>
+                                <div class="Indent5Percent">
+                                    <p class="Style">p.ManualTitle2</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">color: </span><span class="StyleValue">#bed230;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">font-family: </span><span class="StyleValue">'Century Gothic';</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">font-size: </span><span class="StyleValue">22pt;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">line-height: </span><span class="StyleValue">0;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-bottom: </span><span class="StyleValue">0;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-left: </span><span class="StyleValue">50px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-top: </span><span class="StyleValue">0;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>first-level headings</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>We used the standard h1 style  to control the look of first-level headings when the background is light.</p>
+                <p>
+                    <img src="../../Resources/Images/hdydt_styles4.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <p>In addition, we created a style class called "h1.DarkBackground" to control the look of first-level headings when the background is dark.</p>
+                <p>
+                    <img src="../../Resources/Images/hdydt_styles14.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <ol>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/DoOneOfTheFollowing.flsnp" />
+                        </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>use the stylesheet editor <span class="EightyFiveEM">(</span>beginners<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol class="LowerAlpha">
+                                    <li>Open your stylesheet. See <MadCap:xref href="../../Styles/More_About_Styles_and_Style_Sheets/Opening_Existing_Style_Sheets.htm">Opening Stylesheets</MadCap:xref>.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/StylesMakeSureSimplifiedViewButtonShown.flsnp" />
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/FilterParagraphStylesStep.flsnp" />
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">h1</span> style.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/SelectShowAlphabeticalListStep.flsnp" />
+                                    </li>
+                                    <li>
+                                        <p>Choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_styles22.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>With h1 still selected on the left, in the local toolbar click <span class="Emphasis">Add Class</span>.</li>
+                                    <li>Type a name for the new style class (we named ours "DarkBackground") and click <span class="Emphasis">OK</span>.</li>
+                                    <li>
+                                        <p>Choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_styles23.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>get the css <span class="EightyFiveEM">(</span>advanced users<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p>Enter this in the stylesheet:</p>
+                                <div class="Indent5Percent">
+                                    <p class="Style">h1</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">column-break-before: </span><span class="StyleValue">always;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">font-size: </span><span class="StyleValue">12pt;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">font-weight: </span><span class="StyleValue">normal;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-bottom: </span><span class="StyleValue">4px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-left: </span><span class="StyleValue">20px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-right: </span><span class="StyleValue">20px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-top: </span><span class="StyleValue">20px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">padding-top: </span><span class="StyleValue">28px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">page-break-before: </span><span class="StyleValue">avoid;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                                <div class="Indent5Percent">
+                                    <p class="Style">h1.DarkBackground</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">color: </span><span class="StyleValue">#e1e1e1;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">column-break-before: </span><span class="StyleValue">always;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">font-size: </span><span class="StyleValue">12pt;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">font-weight: </span><span class="StyleValue">normal;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-bottom: </span><span class="StyleValue">4px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-left: </span><span class="StyleValue">20px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-right: </span><span class="StyleValue">20px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-top: </span><span class="StyleValue">20px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">padding-top: </span><span class="StyleValue">28px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">page-break-before: </span><span class="StyleValue">avoid;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>second-level headings</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>We created a style class called "h2.Narrow" to control the look of second-level headings when the background is light and they appear with text that has a narrow width due to a background image on the right.</p>
+                <p>
+                    <img src="../../Resources/Images/hdydt_styles7.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <p>In addition, we created a style class called "h2.DarkBackground" to control the look of second-level headings when the background is dark. We also created a class called "h2.DarkBackgroundSpaceAbove" for times when much space above is required due to a background image.</p>
+                <p>
+                    <img src="../../Resources/Images/hdydt_styles11.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <ol>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/DoOneOfTheFollowing.flsnp" />
+                        </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>use the stylesheet editor <span class="EightyFiveEM">(</span>beginners<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol class="LowerAlpha">
+                                    <li>Open your stylesheet. See <MadCap:xref href="../../Styles/More_About_Styles_and_Style_Sheets/Opening_Existing_Style_Sheets.htm">Opening Stylesheets</MadCap:xref>.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/StylesMakeSureSimplifiedViewButtonShown.flsnp" />
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/FilterParagraphStylesStep.flsnp" />
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">h2</span> style.</li>
+                                    <li>In the local toolbar click <span class="Emphasis">Add Class</span>.</li>
+                                    <li>Type a name for the new style class (we named ours "Narrow") and click <span class="Emphasis">OK</span>.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/SelectShowAlphabeticalListStep.flsnp" />
+                                    </li>
+                                    <li>
+                                        <p>Choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_styles24.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">h2</span> style.</li>
+                                    <li>In the local toolbar click <span class="Emphasis">Add Class</span>.</li>
+                                    <li>Type a name for the new style class (we named ours "DarkBackground") and click <span class="Emphasis">OK</span>.</li>
+                                    <li>
+                                        <p>Choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_styles25.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">h2</span> style.</li>
+                                    <li>In the local toolbar click <span class="Emphasis">Add Class</span>.</li>
+                                    <li>Type a name for the new style class (we named ours "DarkBackgroundSpaceAbove") and click <span class="Emphasis">OK</span>.</li>
+                                    <li>
+                                        <p>Choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_styles26.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>get the css <span class="EightyFiveEM">(</span>advanced users<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p>Enter this in the stylesheet:</p>
+                                <div class="Indent5Percent">
+                                    <p class="Style">h2.DarkBackground</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">color: </span><span class="StyleValue">#e1e1e1;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">font-size: </span><span class="StyleValue">10pt;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">font-weight: </span><span class="StyleValue">normal;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-bottom: </span><span class="StyleValue">4px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-left: </span><span class="StyleValue">20px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-right: </span><span class="StyleValue">20px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-top: </span><span class="StyleValue">16px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">mc-heading-level: </span><span class="StyleValue">0;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                                <div class="Indent5Percent">
+                                    <p class="Style">h2.DarkBackgroundSpaceAbove</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">color: </span><span class="StyleValue">#e1e1e1;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">column-break-before: </span><span class="StyleValue">always;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">font-size: </span><span class="StyleValue">10pt;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">font-weight: </span><span class="StyleValue">normal;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-bottom: </span><span class="StyleValue">4px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-left: </span><span class="StyleValue">20px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-right: </span><span class="StyleValue">20px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-top: </span><span class="StyleValue">16px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">mc-heading-level: </span><span class="StyleValue">0;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">padding-top: </span><span class="StyleValue">275px;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                                <div class="Indent5Percent">
+                                    <p class="Style">h2.Narrow</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">font-size: </span><span class="StyleValue">10pt;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">font-weight: </span><span class="StyleValue">normal;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-bottom: </span><span class="StyleValue">4px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-left: </span><span class="StyleValue">20px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-right: </span><span class="StyleValue">275px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-top: </span><span class="StyleValue">16px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">mc-heading-level: </span><span class="StyleValue">0;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>body text</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>We used several paragraph styles to control the various ways that body text appears in our template.</p>
+                <p>First, we used the standard p style  to control the look of regular body text when the background is light.</p>
+                <p>
+                    <img src="../../Resources/Images/hdydt_styles5.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <p>Second, we created a style class called "p.NarrowLeft" to control the look of body text that has a narrow width due to a background image on the right.</p>
+                <p>
+                    <img src="../../Resources/Images/hdydt_styles6.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <p>Third, we created a style class called "p.BackPanel" to control the look of body text that needs special placement on the back panel of the foldout.</p>
+                <p>
+                    <img src="../../Resources/Images/hdydt_styles8.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <p>Finally, we created a style class called "p.DarkBackground" to control the look of body text when the background is dark.</p>
+                <p>
+                    <img src="../../Resources/Images/hdydt_styles12.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <ol>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/DoOneOfTheFollowing.flsnp" />
+                        </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>use the stylesheet editor <span class="EightyFiveEM">(</span>beginners<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol class="LowerAlpha">
+                                    <li>Open your stylesheet. See <MadCap:xref href="../../Styles/More_About_Styles_and_Style_Sheets/Opening_Existing_Style_Sheets.htm">Opening Stylesheets</MadCap:xref>.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/StylesMakeSureSimplifiedViewButtonShown.flsnp" />
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/FilterParagraphStylesStep.flsnp" />
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">p</span> style.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/SelectShowAlphabeticalListStep.flsnp" />
+                                    </li>
+                                    <li>
+                                        <p>Choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_styles27.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">p</span> style.</li>
+                                    <li>In the local toolbar click <span class="Emphasis">Add Class</span>.</li>
+                                    <li>Type a name for the new style class (we named ours "NarrowLeft") and click <span class="Emphasis">OK</span>.</li>
+                                    <li>
+                                        <p>Choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_styles28.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">p</span> style.</li>
+                                    <li>In the local toolbar click <span class="Emphasis">Add Class</span>.</li>
+                                    <li>Type a name for the new style class (we named ours "BackPanel") and click <span class="Emphasis">OK</span>.</li>
+                                    <li>
+                                        <p>Choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_styles29.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">p</span> style.</li>
+                                    <li>In the local toolbar click <span class="Emphasis">Add Class</span>.</li>
+                                    <li>Type a name for the new style class (we named ours "DarkBackground") and click <span class="Emphasis">OK</span>.</li>
+                                    <li>On the right side of the editor, click in the cell to the right of <span class="Emphasis">color</span> and choose <span class="Emphasis">#e1e1e1</span>.</li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>get the css <span class="EightyFiveEM">(</span>advanced users<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p>Enter this in the stylesheet:</p>
+                                <div class="Indent5Percent">
+                                    <p class="Style">p</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-bottom: </span><span class="StyleValue">8px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-left: </span><span class="StyleValue">20px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-right: </span><span class="StyleValue">20px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-top: </span><span class="StyleValue">8px;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                                <div class="Indent5Percent">
+                                    <p class="Style">p.BackPanel</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">column-break-before: </span><span class="StyleValue">always;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">color: </span><span class="StyleValue">#000000;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-left: </span><span class="StyleValue">10px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-top: </span><span class="StyleValue">30px;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                                <div class="Indent5Percent">
+                                    <p class="Style">p.DarkBackground</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">color: </span><span class="StyleValue">#e1e1e1;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                                <div class="Indent5Percent">
+                                    <p class="Style">p.NarrowLeft</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-bottom: </span><span class="StyleValue">8px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-left: </span><span class="StyleValue">20px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-right: </span><span class="StyleValue">275px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-top: </span><span class="StyleValue">8px;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>company info</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>We created a style class called "p.CompanyInfo1"   to control the look of text that displays the company name on the back panel of the foldout.</p>
+                <p>
+                    <img src="../../Resources/Images/hdydt_styles9.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <p>We also created a style class called "p.CompanyInfo2" to control the look of additional company information (e.g., address, website) that follows the company name on the back panel of the foldout.</p>
+                <p>
+                    <img src="../../Resources/Images/hdydt_styles10.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <ol>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/DoOneOfTheFollowing.flsnp" />
+                        </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>use the stylesheet editor <span class="EightyFiveEM">(</span>beginners<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol class="LowerAlpha">
+                                    <li>Open your stylesheet. See <MadCap:xref href="../../Styles/More_About_Styles_and_Style_Sheets/Opening_Existing_Style_Sheets.htm">Opening Stylesheets</MadCap:xref>.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/StylesMakeSureSimplifiedViewButtonShown.flsnp" />
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/FilterParagraphStylesStep.flsnp" />
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">p</span> style.</li>
+                                    <li>In the local toolbar click <span class="Emphasis">Add Class</span>.</li>
+                                    <li>Type a name for the new style class (we named ours "CompanyInfo1") and click <span class="Emphasis">OK</span>.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/SelectShowAlphabeticalListStep.flsnp" />
+                                    </li>
+                                    <li>
+                                        <p>Choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_styles30.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">p</span> style.</li>
+                                    <li>In the local toolbar click <span class="Emphasis">Add Class</span>.</li>
+                                    <li>Type a name for the new style class (we named ours "CompanyInfo2") and click <span class="Emphasis">OK</span>.</li>
+                                    <li>
+                                        <p>Choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_styles31.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>get the css <span class="EightyFiveEM">(</span>advanced users<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p>Enter this in the stylesheet:</p>
+                                <div class="Indent5Percent">
+                                    <p class="Style">p.CompanyInfo1</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">color: </span><span class="StyleValue">#000000;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">font-size: </span><span class="StyleValue">7pt;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-bottom: </span><span class="StyleValue">0;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-left: </span><span class="StyleValue">10px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-top: </span><span class="StyleValue">310px;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                                <div class="Indent5Percent">
+                                    <p class="Style">p.CompanyInfo2</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">color: </span><span class="StyleValue">#000000;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">font-size: </span><span class="StyleValue">7pt;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-bottom: </span><span class="StyleValue">0;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-left: </span><span class="StyleValue">10px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-top: </span><span class="StyleValue">0;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>numbered and bulleted lists</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>We used the standard ol style to control the look of numbered lists.</p>
+                <p>We used the standard li style to control the look of individual list items on a light background. And we created a style class called "li.DarkBackground" to control the look of individual list items on a dark background.</p>
+                <p>
+                    <img src="../../Resources/Images/hdydt_styles13.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <p>We also used the standard ul style to control the look of bulleted lists on a light background. We also created a style class called "ul.DarkBackground" to control the look of bulleted lists when they appear on a dark background.</p>
+                <p>Finally, we created a character-level class called "span.LightGreen" to control the look of the initial text at the beginning of list items.</p>
+                <p>
+                    <img src="../../Resources/Images/hdydt_styles15.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <ol>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/DoOneOfTheFollowing.flsnp" />
+                        </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>use the stylesheet editor <span class="EightyFiveEM">(</span>beginners<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol class="LowerAlpha">
+                                    <li>Open your stylesheet. See <MadCap:xref href="../../Styles/More_About_Styles_and_Style_Sheets/Opening_Existing_Style_Sheets.htm">Opening Stylesheets</MadCap:xref>.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/StylesMakeSureSimplifiedViewButtonShown.flsnp" />
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/FilterListStylesStep.flsnp" />
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">ol</span> style.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/SelectShowAlphabeticalListStep.flsnp" />
+                                    </li>
+                                    <li>
+                                        <p>Choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_styles32.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">li</span> style.</li>
+                                    <li>
+                                        <p>Choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_styles33.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">li</span> style.</li>
+                                    <li>In the local toolbar click <span class="Emphasis">Add Class</span>.</li>
+                                    <li>Type a name for the new style class (we named ours "DarkBackground") and click <span class="Emphasis">OK</span>.</li>
+                                    <li>
+                                        <p>Choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_styles34.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">ul</span> style.</li>
+                                    <li>
+                                        <p>Choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_styles35.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">The image file shown in the list-style-image row (BulletDark.eps) is a file that we placed in the Resources/Images folder in our template. You can add a bullet image with a different name and point to that instead.</p>
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">ul</span> style.</li>
+                                    <li>In the local toolbar click <span class="Emphasis">Add Class</span>.</li>
+                                    <li>Type a name for the new style class (we named ours "DarkBackground") and click <span class="Emphasis">OK</span>.</li>
+                                    <li>
+                                        <p>Choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_styles36.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/FilterCharacterStylesStep.flsnp" />
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">span</span> style.</li>
+                                    <li>In the local toolbar click <span class="Emphasis">Add Class</span>.</li>
+                                    <li>Type a name for the new style class (we named ours "LightGreen") and click <span class="Emphasis">OK</span>.</li>
+                                    <li>
+                                        <p>Choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_styles37.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>get the css <span class="EightyFiveEM">(</span>advanced users<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p>Enter this in the stylesheet:</p>
+                                <div class="Indent5Percent">
+                                    <p class="Style">ol</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">list-style-image: </span><span class="StyleValue">none;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-left: </span><span class="StyleValue">60px;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                                <div class="Indent5Percent">
+                                    <p class="Style">li</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-bottom: </span><span class="StyleValue">6px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-top: </span><span class="StyleValue">6px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">orphans: </span><span class="StyleValue">2;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">widows: </span><span class="StyleValue">2;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                                <div class="Indent5Percent">
+                                    <p class="Style">li.DarkBackground</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">color: </span><span class="StyleValue">#e1e1e1;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-bottom: </span><span class="StyleValue">6px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-top: </span><span class="StyleValue">6px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">orphans: </span><span class="StyleValue">2;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">widows: </span><span class="StyleValue">2;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                                <div class="Indent5Percent">
+                                    <p class="Style">span.LightGreen</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">color: </span><span class="StyleValue">#bed230;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">font-weight: </span><span class="StyleValue">bold;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                                <div class="Indent5Percent">
+                                    <p class="Style">ul</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">list-style-image: </span><span class="StyleValue">url('../Images/BulletDark.eps');</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-left: </span><span class="StyleValue">60px;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                                <div class="Indent5Percent">
+                                    <p class="Style">ul.DarkBackground</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">list-style-image: </span><span class="StyleValue">url('../Images/BulletLight.eps');</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-left: </span><span class="StyleValue">60px;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">The image files shown for the ul and ul.DarkBackground styles (BulletDark.eps and BulletLight.eps) are files that we placed in the Resources/Images folder in our template. You can add bullet images with different names and point to those instead.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>We created a style class called "p.ExampleHead"   to control the look of the heading at the beginning of an example.</p>
+                <p>We also created a style class called "p.ExampleMiddleSection" to control the look of the content after an example heading but before the end of the example.</p>
+                <p>Finally, we created a style class called "p.Example" to control the look of content at the end of an example.</p>
+                <p>
+                    <img src="../../Resources/Images/hdydt_styles17.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <ol>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/DoOneOfTheFollowing.flsnp" />
+                        </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>use the stylesheet editor <span class="EightyFiveEM">(</span>beginners<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol class="LowerAlpha">
+                                    <li>Open your stylesheet. See <MadCap:xref href="../../Styles/More_About_Styles_and_Style_Sheets/Opening_Existing_Style_Sheets.htm">Opening Stylesheets</MadCap:xref>.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/StylesMakeSureSimplifiedViewButtonShown.flsnp" />
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/FilterParagraphStylesStep.flsnp" />
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">p</span> style.</li>
+                                    <li>In the local toolbar click <span class="Emphasis">Add Class</span>.</li>
+                                    <li>Type a name for the new style class (we named ours "ExampleHead") and click <span class="Emphasis">OK</span>.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/SelectShowAlphabeticalListStep.flsnp" />
+                                    </li>
+                                    <li>
+                                        <p>Choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_styles16.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">p</span> style.</li>
+                                    <li>In the local toolbar click <span class="Emphasis">Add Class</span>.</li>
+                                    <li>Type a name for the new style class (we named ours "ExampleMiddleSection") and click <span class="Emphasis">OK</span>.</li>
+                                    <li>
+                                        <p>Choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_styles38.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">p</span> style.</li>
+                                    <li>In the local toolbar click <span class="Emphasis">Add Class</span>.</li>
+                                    <li>Type a name for the new style class (we named ours "Example") and click <span class="Emphasis">OK</span>.</li>
+                                    <li>
+                                        <p>Choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_styles39.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>get the css <span class="EightyFiveEM">(</span>advanced users<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p>Enter this in the stylesheet:</p>
+                                <div class="Indent5Percent">
+                                    <p class="Style">p.Example</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">background-color: </span><span class="StyleValue">#bed230;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-bottom-color: </span><span class="StyleValue">#a4ac67;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-bottom-left-radius: </span><span class="StyleValue">6px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-bottom-right-radius: </span><span class="StyleValue">6px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-bottom-style: </span><span class="StyleValue">solid;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-bottom-width: </span><span class="StyleValue">1px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-left-color: </span><span class="StyleValue">#a4ac67;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-left-style: </span><span class="StyleValue">solid;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-left-width: </span><span class="StyleValue">1px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-right-color: </span><span class="StyleValue">#a4ac67;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-right-style: </span><span class="StyleValue">solid;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-right-width: </span><span class="StyleValue">1px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-top: </span><span class="StyleValue">0;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">padding-bottom: </span><span class="StyleValue">14px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">padding-left: </span><span class="StyleValue">20px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">padding-right: </span><span class="StyleValue">20px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">padding-top: </span><span class="StyleValue">6px;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                                <div class="Indent5Percent">
+                                    <p class="Style">p.ExampleHead</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">background-color: </span><span class="StyleValue">#bed230;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-left-color: </span><span class="StyleValue">#a4ac67;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-left-style: </span><span class="StyleValue">solid;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-left-width: </span><span class="StyleValue">1px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-right-color: </span><span class="StyleValue">#a4ac67;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-right-style: </span><span class="StyleValue">solid;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-right-width: </span><span class="StyleValue">1px;</span>
+                                        </p>
+                                        <p><span class="StyleProperty">border-top-color: </span><span class="StyleValue">#a4ac67;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-top-left-radius: </span><span class="StyleValue">6px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-top-right-radius: </span><span class="StyleValue">6px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-top-style: </span><span class="StyleValue">solid;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-top-width: </span><span class="StyleValue">1px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">font-size: </span><span class="StyleValue">.9em;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">font-weight: </span><span class="StyleValue">bold;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">letter-spacing: </span><span class="StyleValue">5px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-bottom: </span><span class="StyleValue">0;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-top: </span><span class="StyleValue">6px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">padding-bottom: </span><span class="StyleValue">6px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">padding-left: </span><span class="StyleValue">20px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">padding-right: </span><span class="StyleValue">20px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">padding-top: </span><span class="StyleValue">14px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">page-break-after: </span><span class="StyleValue">avoid;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                                <div class="Indent5Percent">
+                                    <p class="Style">p.ExampleMiddleSection</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">background-color: </span><span class="StyleValue">#bed230;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-left-color: </span><span class="StyleValue">#a4ac67;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-left-style: </span><span class="StyleValue">solid;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-left-width: </span><span class="StyleValue">1px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-right-color: </span><span class="StyleValue">#a4ac67;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-right-style: </span><span class="StyleValue">solid;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">border-right-width: </span><span class="StyleValue">1px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-bottom: </span><span class="StyleValue">0;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-top: </span><span class="StyleValue">0;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">padding-bottom: </span><span class="StyleValue">6px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">padding-left: </span><span class="StyleValue">20px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">padding-right: </span><span class="StyleValue">20px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">padding-top: </span><span class="StyleValue">6px;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>applying styles to content</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p>Now that you've got your styles, you just need to apply them to the appropriate content. See <MadCap:xref href="../../Styles/Applying_Styles_to_Topic_Content.htm">Applying Styles to Content</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

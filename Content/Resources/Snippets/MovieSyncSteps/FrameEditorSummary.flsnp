@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.MovieSync">
+    <body>
+        <p>When you open movies in <MadCap:snippetText src="../AllProductVariables.flsnp" />, the current frame for the new movie is shown in this editor. It is the same editor that is used in Mimic, but with fewer features (e.g., you can draw objects, but you cannot set properties for them; you must do this in Mimic).</p>
+    </body>
+</html>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="8" MadCap:lastHeight="2852" MadCap:lastWidth="841">
+    <body>
+        <p>
+            <MadCap:snippetText src="AutoGenerateProxiesSummary.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Proxies/Auto_Generating_Proxies.htm">Auto-generating Proxies</MadCap:xref>.</MadCap:conditionalText></p>
+        <MadCap:snippetBlock src="AutoGenerateProxiesList.flsnp" />
+        <MadCap:snippetBlock src="AutoGenerateProxies2.flsnp" />
+        <p>
+            <img src="../../Images/generate_proxy_options.png" alt="" title="" class="MaxWidth75Percent" />
+        </p>
+        <MadCap:dropDown class="FourthLevel">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>which page layout is used<span style="font-size: 0.85em;">?</span></MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="AutoGenerateProxiesWhichLayout.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown class="FourthLevel">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>auto-generate versus manual proxies</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="AutoGenerateVersusManualProxies.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown class="FourthLevel">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>editing attributes for generated tocs, indexes, and glossaries</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="AutoGenerateProxiesEditAttributes.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+        <MadCap:dropDown class="FourthLevel">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="AutoGenerateProxiesExample.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown class="FourthLevel">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="../Notes/NoteAutoGenerateProxies1.flsnp">
+                </MadCap:snippetBlock>
+                <MadCap:snippetBlock src="../Notes/NoteAutoGenerateProxies2.flsnp">
+                </MadCap:snippetBlock>
+                <MadCap:snippetBlock src="../Notes/NoteAutoGenerateProxies3.flsnp">
+                </MadCap:snippetBlock>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

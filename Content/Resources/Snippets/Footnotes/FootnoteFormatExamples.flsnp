@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="169" MadCap:lastWidth="1329" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <body>
+        <p class="ExampleHead">examples</p>
+        <p class="ExampleMiddleSection">Let's say you want to see an extra space between the footnote number and the comment text that follows. If so, simply type a space after the format that you provide.</p>
+        <p class="ExampleMiddleSection">Let's say you want to see decimal numbers, followed by a period and then a closing parentheses. If so, simply type this:</p>
+        <p class="ExampleMiddleSectionIndented">{n}.)</p>
+        <p class="ExampleMiddleSection">Let's say you want to see lowercase Roman numerals in bold. If so, simply type this:</p>
+        <p class="ExampleIndented">{b}{r}{/b}</p>
+    </body>
+</html>

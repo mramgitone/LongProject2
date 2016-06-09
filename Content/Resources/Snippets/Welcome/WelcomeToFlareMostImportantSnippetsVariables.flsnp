@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="98" MadCap:lastWidth="1518">
+    <body>
+        <p>Think of snippets as miniature topics. It’s content that you want to reuse in many different topics, but you don’t want to have to keep retyping that content, so you just type it once in a snippet. Then you insert that snippet into as many topics as you need it to be in. Normally snippets are made up of one or more paragraphs, perhaps including things like lists, images, or other things. We’re not usually talking about single words or phrases here. That’s what variables are for. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Snippets/About_Snippets.htm">About Snippets</MadCap:xref>.</MadCap:conditionalText></p>
+        <p>If you’ve got single words or short phrases that you need to reuse again and again, create variables. Think of your company’s product name or version number. Or maybe a phone number.  Those are good things to turn into variables. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Variables/About_Variables.htm">About Variables</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

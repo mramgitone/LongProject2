@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties conditions="Products.Mimic,Products.Capture,Products.MovieSync" fileTags="">
+    <ImageOverlay Profile="C:\Users\rmartinez\Documents\My Profiles\SharedImagesBorder.capro" ProfileHash="54db5c24cb8b652271c02c6580da0b7a" ScreenRectangle="882,196,32,21">
+        <OriginalImage Folder="C:\Shared\Content\Resources\Images" FileName="" ImageScaleFactor="1.0" medium_print_EnableFormat="True" EdgeEffect="torn" Border="solid" BorderWidth="1" BackgroundColor="#ffffff" BorderColor="#000000" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" Right="0" Bottom="0" ExportFormat="png" JPEGQuality="80" ComputedWidth="34" ComputedHeight="23" Format="tiff">SUkqAAICAACAPyBP8AQWDQeEQmFQuGQ2HQ+IRGJQd9xWCROMRmNRuOQ+KvuLx2RSOSSWCx+QwgaldjQhlqkdACVy2Dy+YzOXTCZSyczGTT+IPqhSmDjYsMcAMpUDmgUWj0ml02pQuhPqiVOsVmN1WrwWjUilUyDh1gAWSBlMMIAOc0D6IOMgPutRl83WugAbllkABkqccAAPMEDABchZogAGYkAP1+vwAQJ+wh75MAXV9AA1o25JY6AwAAEAgQAAQCYO6vcAFN7DEAOIf5e5w+6vm7wvA4PYxLXbDcwzZ3e83u+3/bgA5M9FSRTsm/s9W26HhhdwXd72GvjsXccFpkgBkKYbgAPsID8bkcrmABmKodwzQAEABpegIAOEfPmOAj9RjsPiEP62qFPG8rjuSkY3wQiABQWACyLM+z8JG/QEIY/sKuyhbtu677wwG80DJE5a/mIUQZoYAcUAAEBhwpCCgQmAELIeyZ7ruHItmUhC2LctC1IOWxKBKAAlDYbaESBIUiSNH8goYA8ngAFRmgkABwB6/zrIWe0twChIQmIBIAGmGB1xi7DYxgFpoAqABvh41EsoVLZ7S6hEvzCagYnYx6BNi0jRBYZ4KTbN84oUetETqg4RGKBVDIabwdntR6EUQetFUpTKNnpTlMU1T6JHnUVPVBUqG1EedSVNVaEICBAA/gAEAAEAAAAAAAAAAAEEAAEAAAAgAAAAAQEEAAEAAAAVAAAAAgEDAAQAAADIAgAAAwEDAAEAAAAFAAAABgEDAAEAAAACAAAAEQEEAAEAAAAIAAAAFQEDAAEAAAAEAAAAFgEEAAEAAAAVAAAAFwEEAAEAAAD6AQAAGgEFAAEAAADQAgAAGwEFAAEAAADYAgAAHAEDAAEAAAABAAAAKAEDAAEAAAACAAAAPQEDAAEAAAACAAAAUgEDAAEAAAACAAAAAAAAAAgACAAIAAgAAHcBAOgDAAAAdwEA6AMAAA==</OriginalImage>
+        <Shapes />
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <Variables />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

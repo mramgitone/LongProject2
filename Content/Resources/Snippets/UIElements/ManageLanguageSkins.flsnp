@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Mimic" MadCap:lastBlockDepth="2" MadCap:lastHeight="145" MadCap:lastWidth="1061">
+    <head>
+    </head>
+    <body>
+        <p class="TableText">Opens the Language Skins dialog, which lets you localize (associate a language with) skins for movies generated in <MadCap:snippetText src="../Output/AIRFlashSilverlightOR.flsnp"></MadCap:snippetText>.</p>
+    </body>
+</html>

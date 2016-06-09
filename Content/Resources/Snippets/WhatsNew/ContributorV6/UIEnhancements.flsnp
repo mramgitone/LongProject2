@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="91" MadCap:lastWidth="1150">
+    <body>
+        <p>Some general changes have been made to the user interface in Flare. This includes the addition of preview bars for many window panes, green arrows (instead of bold text) to indicate primary files (such as a master TOC), some window panes now opening in the middle of the workspace, redesigned tree views, word count, shortcuts for the XML Editor, and character/line position in the Internal Text Editor.</p>
+    </body>
+</html>

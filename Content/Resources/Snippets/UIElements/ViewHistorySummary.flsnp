@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer" MadCap:lastBlockDepth="2" MadCap:lastHeight="202" MadCap:lastWidth="1211">
+    <head>
+    </head>
+    <body>
+        <p class="TableText">Opens the History dialog, which lets you view the history of a particular source control file, including all of the occasions when the file has been checked in. You can then use the dialog to view the differences between older versions of the file or roll back to a particular version.</p>
+        <p class="TableText">See <MadCap:xref href="../../../Source_Control/More_About_Source_Control/Viewing_the_History_of_Source_Control_Files.htm">Viewing the History of Source Control Files</MadCap:xref> and <MadCap:xref href="../../../Source_Control/More_About_Source_Control/Rolling_Back_to_an_Earlier_Version_of_a_File.htm">Rolling Back to an Earlier Version of a File</MadCap:xref>.</p>
+    </body>
+</html>

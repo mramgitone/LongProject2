@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="69" MadCap:lastWidth="901" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <body>
+        <p>Use this field to specify where to place the<MadCap:conditionalText MadCap:conditions="Snippets.Snippet3"> object</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet8"> text box</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet5"> image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet9"> paragraph</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet19"> QR code</MadCap:conditionalText> on the page<MadCap:conditionalText MadCap:conditions="Snippets.Snippet2"> if it is using the specified style</MadCap:conditionalText>.</p>
+    </body>
+</html>

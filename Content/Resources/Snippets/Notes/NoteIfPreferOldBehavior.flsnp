@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="2" MadCap:lastHeight="191" MadCap:lastWidth="1273">
+    <body>
+        <p class="noteTop" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">If you prefer to use the old behavior from previous versions of <MadCap:snippetText src="../AllProductVariables.flsnp" /> (i.e., automatically display a copy of source segments even if no match is found in TM), you can select a check box on the Translation Memory tab of the Options dialog (<span class="Emphasis">File&gt;Options</span>).</p>
+        <p class="noteBottom">
+            <img src="../../Images/copy_source_no_tm.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+    </body>
+</html>

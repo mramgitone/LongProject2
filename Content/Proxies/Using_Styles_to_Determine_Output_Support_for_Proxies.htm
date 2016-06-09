@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en" MadCap:ignoredWords="toggler.&quot;;Stylesheet;style.);t;argets;n;b;s;reimport;(.css;Reimport;flsfs;SearchFilterSet;mcvariable;VariableSet.VariableName;MyVariables.CompanyName;flbrs;flali;flglo;VariableName;N;M;m;h;hh" MadCap:lastBlockDepth="11" MadCap:lastHeight="1822" MadCap:lastWidth="817" MadCap:conditions="Products.Flare">
+    <head><title></title>
+        <link href="../Resources/Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1 MadCap:conditions="General.OnlineLive">
+            <MadCap:keyword term="Proxies:styles;Styles:proxies" />Using Styles to Determine Output Support for Proxies</h1>
+        <h1 MadCap:conditions="FlareGuides.FlareStylesGuide">
+            <MadCap:keyword term="Proxies:styles;Styles:proxies;Output:proxies;Proxies:output" />Proxies</h1>
+        <MadCap:snippetBlock src="../Resources/Snippets/Banners/Flare/FeatureSupportedAll.flsnp" />
+        <p class="TableText">For some proxies, you can specify which output types should support them. If an output type supports a particular proxy, the generated content is displayed in the output where the proxy was inserted. If an output type does not support a particular proxy, it is simply ignored when the output is generated. You can use a style to change which output types support a proxy. Following are the different proxies involved and the default setting for each.</p>
+        <ul>
+            <li>
+                <MadCap:keyword term="Lists:proxies;Proxies:lists;Print-based output:lists of concepts;Print-based output:proxies;Concepts:list of" MadCap:conditions="Products.Flare" />Concepts proxy (all)</li>
+            <li>
+                <MadCap:keyword term="Endnotes:proxies;Proxies:endnotes;Print-based output:endnotes;Print-based output:proxies;Footnotes:proxies" MadCap:conditions="Products.Flare" />Endnotes proxy (all)</li>
+            <li>
+                <MadCap:keyword term="Glossaries:proxies;Proxies:glossaries;Print-based output:glossaries;Print-based output:proxies" MadCap:conditions="Products.Flare" />Glossary proxy (all)</li>
+            <li>
+                <MadCap:keyword term="Indexes:proxies;Proxies:indexes;Print-based output:indexes;Print-based output:proxies" MadCap:conditions="Products.Flare" />Index proxy (all-print)</li>
+            <li>
+                <MadCap:keyword term="Lists:proxies;Proxies:lists;Print-based output:lists of elements;Print-based output:proxies;Tables:list of;Images:list of" MadCap:conditions="Products.Flare" />List of proxy (all)</li>
+            <li>
+                <MadCap:keyword term="Mini-TOC:proxies;Proxies:mini-TOC" />Mini-TOC proxy (all)</li>
+            <li>
+                <MadCap:keyword term="Relationship tables;Tables:relationship;Relationship links;Proxies:relationship" />Relationships proxy (all)</li>
+            <li>
+                <MadCap:keyword term="Tables of contents:proxies;Proxies:tables of contents" />TOC proxy (all)</li>
+        </ul>
+        <MadCap:snippetBlock src="../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to use styles to determine output support for proxies</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/Styles/EditStyleStep1.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/Styles/StylesMakeSureSimplifiedViewButtonShown.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/Styles/FilterAllStylesStep.flsnp" />
+                    </li>
+                    <li>
+                        <p>In the <span class="Emphasis">Styles</span> section on the left side of the editor, find and select one of the following styles, depending on the type of proxy you want to affect.</p>
+                        <ul class="FirstLevel">
+                            <li><span class="SetOffFirstLevel">MadCap|conceptsProxy</span>
+                            </li>
+                            <li><span class="SetOffFirstLevel">MadCap|endnotesProxy</span>
+                            </li>
+                            <li><span class="SetOffFirstLevel">MadCap|glossaryProxy</span>
+                            </li>
+                            <li><span class="SetOffFirstLevel">MadCap|indexProxy</span>
+                            </li>
+                            <li><span class="SetOffFirstLevel">MadCap|listOfProxy</span>
+                            </li>
+                            <li><span class="SetOffFirstLevel">MadCap|miniTocProxy</span>
+                            </li>
+                            <li><span class="SetOffFirstLevel">MadCap|relationshipsProxy</span>
+                            </li>
+                            <li><span class="SetOffFirstLevel">MadCap|tocproxy</span>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../Resources/Snippets/Styles/SelectShowPropertyGroupsStep.flsnp" />
+                        </p>
+                    </li>
+                    <li>From the <span class="Emphasis">Properties</span> section, expand the <span class="Emphasis">Unclassified</span> property group.</li>
+                    <li>
+                        <p>Click in the cell to the right of <span class="Emphasis">mc-output-support</span> and select any of the following.</p>
+                        <ul class="FirstLevel">
+                            <li><span class="SetOffFirstLevel">all</span> The proxy will be supported in all output types, both online and print-based.</li>
+                            <li><span class="SetOffFirstLevel">all-online</span> The proxy will be supported in all online output types (<MadCap:snippetText src="../Resources/Snippets/Output/AllOnlineOutputTypes.flsnp" />).</li>
+                            <li><span class="SetOffFirstLevel">all-print</span> The proxy will be supported in all print-based output types (<MadCap:snippetText src="../Resources/Snippets/Output/AllPrintOutputTypes.flsnp" />).</li>
+                            <li><span class="SetOffFirstLevel">all-webhelp</span> The proxy will be supported in all of the WebHelp output types (<MadCap:snippetText src="../Resources/Snippets/Output/AllWebHelpOutputs.flsnp" />).</li>
+                            <li><span class="SetOffFirstLevel">dotnethelp</span> The proxy will be supported in <MadCap:variable name="Outputs.DotNetHelp" />.</li>
+                            <li><span class="SetOffFirstLevel">eclipsehelp</span> The proxy will be supported in <MadCap:variable name="Outputs.EclipseHelp" />.</li>
+                            <li><span class="SetOffFirstLevel">epub</span> The proxy will be supported in <MadCap:variable name="Outputs.EPUB" />.</li>
+                            <li><span class="SetOffFirstLevel">framemaker</span> The proxy will be supported in <MadCap:variable name="Outputs.Frame" />.</li>
+                            <li><span class="SetOffFirstLevel">html5</span> The proxy will be supported in <MadCap:variable name="Outputs.HTML5" />.</li>
+                            <li><span class="SetOffFirstLevel">htmlhelp</span> The proxy will be supported in <MadCap:variable name="Outputs.HTMLHelp" />.</li>
+                            <li><span class="SetOffFirstLevel">pdf</span> The proxy will be supported in <MadCap:variable name="Outputs.PDF" />.</li>
+                            <li><span class="SetOffFirstLevel">webhelp</span> The proxy will be supported in <MadCap:variable name="Outputs.WebHelp" />.</li>
+                            <li><span class="SetOffFirstLevel">webhelpair</span> The proxy will be supported in <MadCap:variable name="Outputs.WebHelpAIR" />.</li>
+                            <li><span class="SetOffFirstLevel">webhelpmobile</span> The proxy will be supported in <MadCap:variable name="Outputs.WebHelp Mobile" />.</li>
+                            <li><span class="SetOffFirstLevel">webhelpplus</span> The proxy will be supported in <MadCap:variable name="Outputs.WebHelp Plus" />.</li>
+                            <li><span class="SetOffFirstLevel">word</span> The proxy will be supported in <MadCap:variable name="Outputs.Word" />.</li>
+                            <li><span class="SetOffFirstLevel">xhtmlbook</span> The proxy will be supported in <MadCap:variable name="Outputs.XHTML" />.</li>
+                            <li><span class="SetOffFirstLevel">xps</span> The proxy will be supported in <MadCap:variable name="Outputs.XPS" />.</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide">
+        </MadCap:snippetBlock>
+    </body>
+</html>

@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor" MadCap:lastBlockDepth="9" MadCap:lastHeight="3291" MadCap:lastWidth="819">
+    <body>
+        <ul>
+            <li MadCap:conditions="Products.Flare,Products.Contributor"><span class="SetOffFirstLevel"><MadCap:keyword term="Bookmarks:inserting" />Bookmarks (Insert/Edit) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>
+                        <MadCap:snippetText src="../NavLinks/BookmarkSummary.flsnp" />
+                        <MadCap:conditionalText MadCap:conditions="General.OnlineLive"> See <MadCap:xref href="../../../Nav_Links/Bookmarks/Inserting_Bookmarks_into_Topics.htm">Inserting Bookmarks</MadCap:xref>.</MadCap:conditionalText>
+                    </MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Characters:inserting;Quick characters:inserting" />Characters and Symbols (Insert) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>
+                        <MadCap:snippetText src="../CharactersSymbols/CharactersSymbolsSummary.flsnp" />&#160;<MadCap:snippetText src="../CharactersSymbols/CharactersSymbolsSummary2.flsnp" /><MadCap:conditionalText MadCap:conditions="Products.Contributor,Products.FlareOnlineOnly"> See <MadCap:xref href="../../../Characters_and_Symbols/Inserting_Special_Characters_and_Symbols.htm">Inserting Special Characters and Symbols</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Conditions:content" />Condition Tags (Apply) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>
+                        <MadCap:snippetText src="../ConditionalText/ConditionTagSummary.flsnp" />
+                        <MadCap:conditionalText MadCap:conditions="Products.Contributor"> You can apply these tags only when an author sends you a contribution template for you to use. </MadCap:conditionalText>
+                        <MadCap:conditionalText MadCap:conditions="Products.Contributor,Products.FlareOnlineOnly"> See <MadCap:xref href="../../../Condition_Tags/Applying_Condition_Tags_to_Content.htm">Applying Condition Tags to Content</MadCap:xref>.</MadCap:conditionalText>
+                    </MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Cross-references:inserting;Topics:cross-references;Navigation links:cross-references" />Cross-References (Insert/Edit) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>
+                        <MadCap:snippetText src="../NavLinks/CrossReferenceSummary.flsnp" />
+                        <MadCap:conditionalText MadCap:conditions="Products.Contributor,Products.FlareOnlineOnly"> See <MadCap:xref href="../../../Nav_Links/Cross_References/Inserting_Cross_References_into_Topics.htm">Inserting Cross-References into Topics</MadCap:xref>.</MadCap:conditionalText>
+                    </MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare"><span class="SetOffFirstLevel"><MadCap:keyword term="Drop-down text:inserting" />Drop-Down Text (Insert/Edit) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>
+                        <MadCap:snippetText src="../NavLinks/DropDownTextSummary.flsnp" />
+                        <MadCap:conditionalText MadCap:conditions="General.OnlineLive"> See <MadCap:xref href="../../../Nav_Links/Drop_Down_Text/Inserting_Drop-Down_Text_into_Topics.htm">Inserting Drop-Down Text     </MadCap:xref>.</MadCap:conditionalText>
+                    </MadCap:expandingBody>
+                </MadCap:expanding>
+                <MadCap:conditionalText MadCap:conditions="General.OnlineLive">&#160;</MadCap:conditionalText>
+            </li>
+            <li MadCap:conditions="Products.Flare,Products.Contributor"><span class="SetOffFirstLevel"><MadCap:keyword term="Equations;MathML" />Equations (Insert/Edit) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> From any location in a <MadCap:snippetText src="../Topics/ContentFileDocument.flsnp" /> you can create an equation (using the Equation Editor) and insert it into your content. In the markup the equation is contained in the &lt;math&gt; tag, which is the MathML root of the equation. Although an equation may be composed of many different parts, in the XML Editor it renders as a single block of content. In that way, it behaves much like an image. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Equations/Creating_and_Inserting_Equations.htm">Creating and Inserting Equations</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare"><span class="SetOffFirstLevel"><MadCap:keyword term="Expanding text:inserting" />Expanding Text (Insert/Edit) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>
+                        <MadCap:snippetText src="../NavLinks/ExpandingTextSummary.flsnp" />
+                        <MadCap:conditionalText MadCap:conditions="General.OnlineLive"> See <MadCap:xref href="../../../Nav_Links/Expanding_Text/Inserting_Expanding_Text_into_Topics.htm">Inserting Expanding Text</MadCap:xref>.</MadCap:conditionalText>
+                    </MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare,Products.Contributor"><span class="SetOffFirstLevel"><MadCap:keyword term="Formatting:topic content;Topics:editing and formatting content;Content:editing and formatting;Local formatting;Formatting:inline;Formatting:local" />Formatting—Local (Apply) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> When you edit the content of a topic<MadCap:conditionalText MadCap:conditions="Products.Contributor"> or document</MadCap:conditionalText>, you are working in the XML Editor. <MadCap:snippetText src="../LocalFormatting/LocalFormattingSummary1.flsnp" /> However, using styles is recommended instead of local formatting when possible. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Local_Formatting/Local_Formatting.htm">Local Formatting</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Contributor"><span class="SetOffFirstLevel"><MadCap:keyword term="Text hyperlinks:inserting;Hyperlinks:inserting;Linking:inserting" />Hyperlinks (Insert/Edit) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> <MadCap:snippetText src="../NavLinks/TextHyperlinkSummary.flsnp" />  See <MadCap:xref href="../../../Nav_Links/Text_Hyperlinks/Inserting_Text_Hyperlinks_into_Topics_Contributor.htm">Inserting Text Hyperlinks</MadCap:xref>.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare"><span class="SetOffFirstLevel"><MadCap:keyword term="Text hyperlinks:inserting;Hyperlinks:inserting;Linking:inserting" />Hyperlinks (Insert/Edit) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead>
+                        <MadCap:conditionalText MadCap:conditions="General.OnlineLive">Read more… </MadCap:conditionalText>
+                    </MadCap:expandingHead>
+                    <MadCap:expandingBody>
+                        <MadCap:snippetText src="../NavLinks/TextHyperlinkSummary.flsnp" />
+                        <MadCap:conditionalText MadCap:conditions="General.OnlineLive"> See <MadCap:xref href="../../../Nav_Links/Text_Hyperlinks/Inserting_Text_Hyperlinks_into_Topics.htm">Inserting Text Hyperlinks</MadCap:xref>.</MadCap:conditionalText>
+                    </MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare,Products.Contributor"><span class="SetOffFirstLevel"><MadCap:keyword term="Images" />Image Links (Insert/Edit) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>
+                        <MadCap:snippetText src="../ImagesAndCapture/ImagesSummary.flsnp" />&#160;<MadCap:snippetText src="../ImagesAndCapture/ImagesSummary2.flsnp" /><MadCap:conditionalText MadCap:conditions="General.OnlineLive"> See <MadCap:xref href="../../../Images/Inserting_Images.htm">Inserting Images</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Indexes:keywords;Keywords:indexes" />Index Keywords (Insert/Edit) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> You create an index by inserting index keywords into individual topics. A keyword is contained in a marker, which can hold multiple keywords. <MadCap:conditionalText MadCap:conditions="Products.Flare">When you build the final output, the index is created automatically and displays in the output. </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">You might insert index keywords if you are working with a Flare author. When the author builds the final output, the index is created automatically and displays in the output. </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor,Products.FlareOnlineOnly"> See <MadCap:xref href="../../../Indexes/Inserting_Index_Keywords.htm">Inserting Index Keywords</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare"><span class="SetOffFirstLevel"><MadCap:keyword term="Keyword links:inserting;Navigation links:keyword links" />Keyword Links (Insert/Edit) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead>
+                        <MadCap:conditionalText MadCap:conditions="General.OnlineLive">Read more… </MadCap:conditionalText>
+                    </MadCap:expandingHead>
+                    <MadCap:expandingBody>
+                        <MadCap:snippetText src="../NavLinks/KeywordLinksSummary.flsnp" />
+                        <MadCap:conditionalText MadCap:conditions="General.OnlineLive"> See <MadCap:xref href="../../../Nav_Links/Keyword_Links/Inserting_Keyword_Links_into_Topics.htm">Inserting Keyword Links</MadCap:xref>.</MadCap:conditionalText>
+                    </MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare"><span class="SetOffFirstLevel"><MadCap:keyword term="Master pages" />Master Pages—Proxies (Insert/Edit) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead>
+                        <MadCap:conditionalText MadCap:conditions="General.OnlineLive">Read more… </MadCap:conditionalText>
+                    </MadCap:expandingHead>
+                    <MadCap:expandingBody>
+                        <MadCap:snippetText src="../MasterPages/MasterPageSummary.flsnp" />
+                        <MadCap:conditionalText MadCap:conditions="General.OnlineLive"> See <MadCap:xref href="../../../Master_Pages/About_Master_Pages.htm">About Master Pages</MadCap:xref>.</MadCap:conditionalText>
+                    </MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare"><span class="SetOffFirstLevel"><MadCap:keyword term="Movies" />Multimedia (Insert/Edit) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Not only can you explain concepts and tasks to users in your project, but you can also show and tell them through the use of multimedia (video and audio). You can insert links to MadCap Mimic movies, as well as Flash, Windows Media, and Quicktime files. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Audio/About_Audio.htm">About Audio</MadCap:xref> and <MadCap:xref href="../../../Movies/About_Movies.htm">About Movies</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare"><span class="SetOffFirstLevel"><MadCap:keyword term="Topic popups:inserting;Popups:inserting" /><MadCap:keyword term="Text popups:inserting;Popups:inserting" />Popups (Insert/Edit) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> A text popup is a link that opens a popup box containing basic text that you provide. A topic popup is a text hyperlink that opens a topic or external file (such as a website) in a popup box. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Nav_Links/Text_Popups/Inserting_Text_Popups_into_Topics.htm">Inserting Text Popups</MadCap:xref> and <MadCap:xref href="../../../Nav_Links/Topic_Popups/Inserting_Topic_Popups_into_Topics.htm">Inserting Topic Popups</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare"><span class="SetOffFirstLevel"><MadCap:keyword term="Previewing:topics;Topics:previewing;Viewing:topics" />Preview </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>
+                        <MadCap:snippetText src="../Preview/PreviewTopicsSummary.flsnp" />
+                        <MadCap:conditionalText MadCap:conditions="General.OnlineLive"> See <MadCap:xref href="../../../Topics/More_About_Topics/Previewing_Topics.htm">Previewing Topics</MadCap:xref>.</MadCap:conditionalText>
+                    </MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare,Products.Contributor">
+                <p><span class="SetOffFirstLevel"><MadCap:keyword term="QR codes" />QR Codes (Insert/Edit) </span>
+                    <MadCap:expanding>
+                        <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                        <MadCap:expandingBody> You can insert a QR code in much the same way you insert an image into a <MadCap:snippetText src="../Topics/ContentFileDocument.flsnp" />. <MadCap:conditionalText MadCap:conditions="General.OnlineLive"> See <MadCap:xref href="../../../QR_Code/Inserting_QR_Codes.htm">Inserting QR Codes</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                    </MadCap:expanding>
+                </p>
+            </li>
+            <li MadCap:conditions="Products.Flare"><span class="SetOffFirstLevel"><MadCap:keyword term="Related topics links:inserting;Navigation links:related topics links" />Related Topics Links (Insert/Edit) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>
+                        <MadCap:snippetText src="../NavLinks/RelatedTopicsSummary.flsnp" />
+                        <MadCap:conditionalText MadCap:conditions="General.OnlineLive"> See <MadCap:xref href="../../../Nav_Links/Related_Topics_Links/Inserting_Related_Topics_Links_into_Topics.htm">Inserting Related Topics Links</MadCap:xref>.</MadCap:conditionalText>
+                    </MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare"><span class="SetOffFirstLevel"><MadCap:keyword term="Concepts:inserting;Navigation links:concepts" />See Also (Concept) Links (Insert/Edit) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>
+                        <MadCap:snippetText src="../NavLinks/ConceptLinkSummary.flsnp" />
+                        <MadCap:conditionalText MadCap:conditions="General.OnlineLive"> See <MadCap:xref href="../../../Concepts/Inserting_Concept_Links_into_Topics.htm">Inserting Concept Links</MadCap:xref>.</MadCap:conditionalText>
+                    </MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare,Products.Analyzer"><span class="SetOffFirstLevel"><MadCap:keyword term="Snippets" />Snippet Links (Create/Insert/Edit) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> <MadCap:snippetText src="../Snippets/SnippetSummary2.flsnp" /> <MadCap:conditionalText MadCap:conditions="Products.Analyzer"> In <MadCap:variable name="Products.Analyzer" MadCap:conditions="Products.Analyzer" />, you can replace text in the XML Editor with snippets indirectly through the Snippet Suggestions window pane.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly"> See <MadCap:xref href="../../../Snippets/Creating_New_Snippets_from_Existing_Content.htm" MadCap:conditions="Products.Flare">Creating New Snippets from Existing Content</MadCap:xref> and <MadCap:xref href="../../../Snippets/Inserting_Snippets.htm" MadCap:conditions="Products.Flare">Inserting Snippets</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare,Products.Analyzer"><span class="SetOffFirstLevel"><MadCap:keyword term="Styles:topics;Styles:stylesheets;Topics:styles" />Styles (Apply) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> If you are using styles in your project, you can change the look of content simply by applying styles to it. <MadCap:conditionalText MadCap:conditions="Products.Analyzer">In <MadCap:variable name="Products.Analyzer" MadCap:conditions="Products.Analyzer" />, you can create a new style and apply it to content in the XML Editor indirectly through the New Style Suggestions window pane.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly"> See <MadCap:xref href="../../../Styles/Applying_Styles_to_Topic_Content.htm" MadCap:conditions="Products.Flare">Applying Styles to Topic Content</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+                <MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly">&#160;</MadCap:conditionalText>
+            </li>
+            <li MadCap:conditions="Products.Contributor"><span class="SetOffFirstLevel"><MadCap:keyword term="Styles:topics;Topics:styles" />Styles (Apply) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> You can change the look of content simply by applying styles to it. If you are creating <MadCap:conditionalText MadCap:conditions="Products.Contributor">a new standalone document or </MadCap:conditionalText>a contribution topic, you have access to some basic styles provided by <MadCap:snippetText src="../AllProductVariables.flsnp" />. If you are working on a topic sent by a <MadCap:variable name="Products.Flare" /> author, you have access to any styles provided by the author. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Styles/Applying_Styles_to_Topic_Content.htm">Applying Styles to Topic Content</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare,Products.Contributor"><span class="SetOffFirstLevel"><MadCap:keyword term="Tables" />Tables (Insert/Edit) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> A table in <MadCap:snippetText src="../AllProductVariables.flsnp" /> is much like it is in any word processing program, such as Microsoft Word, or in a printed textbook. A table is a group of intersecting columns and rows that you can add to a topic for various purposes, such providing field descriptions for a software dialog. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Tables/Inserting_Tables.htm">Inserting Tables</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare"><span class="SetOffFirstLevel"><MadCap:keyword term="Togglers:inserting" />Togglers (Insert/Edit) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>
+                        <MadCap:snippetText src="../NavLinks/TogglerSummary.flsnp" />
+                        <MadCap:conditionalText MadCap:conditions="General.OnlineLive"> See <xref href="../../../Nav_Links/Togglers/Inserting_Togglers_into_Topics.htm">Inserting Togglers</xref>.</MadCap:conditionalText>
+                    </MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare,Products.Analyzer"><span class="SetOffFirstLevel"><MadCap:keyword term="Variables:inserting" />Variables (Insert) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>
+                        <MadCap:snippetText src="../Variables/VariablesSummary1.flsnp" />&#160;&#160;<MadCap:snippetText src="../Variables/VariablesSummary2.flsnp" /><MadCap:conditionalText MadCap:conditions="Products.Analyzer"> In <MadCap:variable name="Products.Analyzer" MadCap:conditions="Products.Analyzer" />, you can replace text in the XML Editor with variables indirectly through the Variable Suggestions window pane.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly"> See <MadCap:xref href="../../../Variables/Inserting_Variables.htm" MadCap:conditions="Products.Flare">Inserting Variables</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Contributor"><span class="SetOffFirstLevel"><MadCap:keyword term="Variables:inserting" />Variables (Insert) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> A variable is a pre-set term or content that you can use<MadCap:conditionalText MadCap:conditions="Products.Flare"> in your project </MadCap:conditionalText>over and over. Variables are used for brief, non-formatted pieces of content (such as the name of your company's product or your company's phone number). There are also system variables, such as the date and time. If you are creating <MadCap:conditionalText MadCap:conditions="Products.Contributor">a new standalone document or </MadCap:conditionalText>a contribution topic, you have access to some system variables provided by <MadCap:snippetText src="../AllProductVariables.flsnp" />. If you are working on a topic sent by a <MadCap:variable name="Products.Flare" /> author, you have access to system variables, plus any custom variables provided by the author. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Variables/Inserting_Variables.htm">Inserting Variables</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+        </ul>
+    </body>
+</html>

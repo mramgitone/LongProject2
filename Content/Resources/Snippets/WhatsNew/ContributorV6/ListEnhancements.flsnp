@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="67" MadCap:lastWidth="1217">
+    <body>
+        <p>Some important enhancements have bee made to lists in <MadCap:snippetText src="../../AllProductVariables.flsnp" />. The biggest improvement is that you can now create custom formats. In addition, you can now continue the style of the previous list when using the continue sequence feature. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../../Lists/About_Lists.htm">About Lists</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

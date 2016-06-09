@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="4" MadCap:lastHeight="326" MadCap:lastWidth="934">
+    <body>
+        <p class="ExampleHead">example</p>
+        <p class="ExampleMiddleSection">Let's say you have a table with a colored background, but without outer borders. With rounded corners it looks like this in most newer browsers:</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/rounded_borders14.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareStylesGuide,FlareGuides.FlareTablesGuide" />
+        <p class="ExampleMiddleSection">And in Internet Explorer it looks like this:</p>
+        <p class="Example">
+            <img src="../../Images/rounded_borders15.png" alt="" title="" class="MaxWidth90Percent" />.</p>
+    </body>
+</html>

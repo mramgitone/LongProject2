@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="911" MadCap:lastWidth="815" MadCap:conditions="Products.Flare">
+    <body>
+        <p>You can include or exclude content in files sent for review based on condition tags. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Reviews_and_Contributions/Reviews/Sending_Files_for_Review.htm">Sending Files for Review</MadCap:xref>.</MadCap:conditionalText></p>
+        <p>Toward the bottom of the wizard, you can click <img src="../../Images/conditions_btn2.png" class="ReduceButtonSize" alt="" />. The Conditional Text dialog opens.</p>
+        <p>You can include or exclude conditions in a couple of different ways. You can even use both:</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Target Settings </span>The easiest method is to click the <span class="Emphasis">Target Expressions</span> drop-down and select a target in your project. The dialog is automatically populated based on the included and excluded conditions in that target.</li>
+            <li><span class="SetOffFirstLevel">Manual </span>You can also complete this dialog manually. You can use the same steps that are used in the target for including and excluding certain condition tags. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">For more information about the Basic and Advanced modes, see <MadCap:xref href="../../../Condition_Tags/More_About_Condition_Tags/Creating_Basic_and_Advanced_Tag_Expressions.htm">Basic Versus Advanced Conditions</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="FlareGuides.FlareTopicsGuide">For more information about the Basic and Advanced modes, see the online Help.</MadCap:conditionalText></li>
+        </ul>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareConditionTagsGuide" />
+        <MadCap:snippetBlock src="../ReviewsContributions/ReviewsConditionsExample.flsnp" />
+        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you have already associated conditions with a file while editing in the XML Editor<MadCap:conditionalText MadCap:conditions="General.OnlineLive"> (see <MadCap:xref href="../../../Condition_Tags/Associating_Condition_Tags_to_a_File_While_Editing.htm">Associating Condition Tags to a File While Editing</MadCap:xref>)</MadCap:conditionalText>, those settings are preserved when you open the Send Files For Review Wizard.</p>
+    </body>
+</html>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="2" MadCap:lastHeight="227" MadCap:lastWidth="1153">
+    <body>
+        <p class="ExampleHead">example</p>
+        <p class="Example">Let’s say you have performed a great deal of translation work for a particular client. Once in a while, the source files from that client contain identical segments to those you have already translated in previous projects, and you have uploaded those translations to TM. One day, this client sends you some source files for a new translation project, and these source files include 73 segments that you have already translated for them in the past. During the process of creating the new <MadCap:snippetText src="../AllProductVariables.flsnp" /> project, you select the TM database containing those translations and you click <span class="Emphasis">Pre-translate</span>. When <MadCap:snippetText src="../AllProductVariables.flsnp" /> finishes creating the new project, it automatically applies matching translations to all 73 of those segments (which are 100% or 101% matches).</p>
+    </body>
+</html>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="8" MadCap:lastHeight="664" MadCap:lastWidth="871">
+    <body>
+        <ul>
+            <li>
+                <MadCap:keyword term="Adobe FrameMaker;FM file;MIF file;BOOK file" />Adobe <MadCap:variable name="Outputs.Frame" /> files (FM, MIF, and BOOK)</li>
+            <li>
+                <MadCap:keyword term="Adobe InDesign;IDML file" />Adobe InDesign files (IDML)</li>
+            <li>
+                <MadCap:keyword term="DITA;DITAMAP" />DITA files (DITA, DITAMAP, XML)</li>
+            <li>
+                <MadCap:keyword term="HTM;HTML;XML" />HTM, HTML, and XML documents</li>
+            <li>
+                <MadCap:keyword term="Bundles;Projects:bundles;ZIP file" />MadCap <MadCap:variable name="Products.Lingo" /> bundles (ZIP)</li>
+            <li>
+                <MadCap:keyword term="Images;BMP file;GIF file;HDP file;JPG file;JPEG file;PNG file;TIF file;TIFF file;WDP file;MadCap Capture" />MadCap <MadCap:variable name="Products.Capture" /> Image files (BMP, GIF, HDP, JPG, JPEG, PNG, TIF, TIFF, WDP)</li>
+            <li>
+                <MadCap:keyword term="MadCap Mimic:projects;Projects:MadCap Mimic;MIMOV file;MadCap Mimic:movies;Movies:MadCap Mimic;MIPRJ file" />MadCap <MadCap:variable name="Products.Mimic" /> movies and projects (MIMOV, MIPRJ)</li>
+            <li>
+                <MadCap:keyword term="MadCap Flare:projects;Projects:MadCap Flare;FLPRJ file" />MadCap <MadCap:variable name="Products.Flare" /> projects (FLPRJ)</li>
+            <li>
+                <MadCap:keyword term="Microsoft .NET Resource;RESX file" />Microsoft .NET Resource files (RESX)</li>
+            <li>
+                <MadCap:keyword term="Microsoft PowerPoint;PPT file;PPTX file" />Microsoft PowerPoint documents (PPT, PPTX)</li>
+            <li>
+                <MadCap:keyword term="Microsoft Word;DOC file;DOCX file" />Microsoft Word documents (DOC, DOCX)</li>
+            <li>
+                <MadCap:keyword term="Rich text file;RTF file" />Rich text files (RTF)</li>
+            <li>
+                <MadCap:keyword term="SDLXLIFF file;SDL Trados" />SDL Trados newer files (SDLXLIFF)</li>
+            <li>
+                <p>
+                    <MadCap:keyword term="SDL Trados;TTX file" />SDL Trados older files (TTX)</p>
+                <MadCap:dropDown MadCap:conditions="LingoGuides.LingoTranslationGuide,General.OnlineLive">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">warning</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <MadCap:snippetBlock src="WarningTTXImport.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li>
+                <MadCap:keyword term="TXT file" />TXT files</li>
+            <li>
+                <MadCap:keyword term="Wordfast;TXML file" />Wordfast files (TXML)</li>
+            <li>
+                <MadCap:keyword term="XLIFF file;XLF file" />XLIFF files (XLF)</li>
+            <li>
+                <MadCap:keyword term="Extensible Markup Language;XML files;XML" />XML files</li>
+        </ul>
+    </body>
+</html>

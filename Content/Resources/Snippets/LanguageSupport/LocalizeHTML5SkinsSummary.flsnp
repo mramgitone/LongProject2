@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="93" MadCap:lastWidth="1169">
+    <body>
+        <p>Unlike other output types, separate language skins are not used for <MadCap:variable name="Outputs.HTML5" /> targets. Instead, a UI Text tab is located in the Skin Editor, which lets you perform all of the localization tasks that you would normally accomplish in a language skin. This tab not only lets you enter text in other languages, but it lets you change the substance of text strings altogether, whether they are in your primary language or another.</p>
+    </body>
+</html>

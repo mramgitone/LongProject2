@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="93" MadCap:lastWidth="901">
+    <body>
+        <p>After creating a regular stylesheet, you need to apply (link) the stylesheet to topics where you want to use those styles. <MadCap:conditionalText MadCap:conditions="Products.Flare">It is recommended that you apply a master stylesheet at the project or target level, which means that the stylesheet will automatically be applied to all topics in that project or target (see <MadCap:xref href="../../../Styles/Applying_Master_Style_Sheets.htm">Applying Master Stylesheets</MadCap:xref>). However, if you want to apply different stylesheets to topics individually, you can.</MadCap:conditionalText></p>
+    </body>
+</html>

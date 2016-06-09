@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="69" MadCap:lastWidth="1429">
+    <body>
+        <p>Mini-TOCs are supported in both online and print-based outputs. In the Web Print Mobile template, we used mini-TOCs for two of our PDF outputs, but not for any of the other outputs. For those two PDFs, we created mini-TOCs on the first page of each chapter to show the contents of that chapter and the corresponding page numbers. The mini-TOCs are based on the lower-level headings in the rest of the chapter. We also used styles to control the look of the mini-TOCs.</p>
+    </body>
+</html>

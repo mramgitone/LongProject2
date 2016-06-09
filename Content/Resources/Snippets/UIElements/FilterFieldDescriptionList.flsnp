@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Lingo,Products.Contributor">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <ul class="FirstLevel">
+            <li MadCap:conditions="Products.Lingo">
+                <span class="SetOffFirstLevel">Target </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more…  </MadCap:expandingHead>
+                    <MadCap:expandingBody>Displays only the files associated with a specific Flare target.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Lingo">
+                <span class="SetOffFirstLevel">Translation Candidates </span> <MadCap:expanding><MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead><MadCap:expandingBody> Displays all files that are likely to require translation.</MadCap:expandingBody></MadCap:expanding></li>
+            <li>
+                <span class="SetOffFirstLevel">All Files </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Displays all <MadCap:conditionalText MadCap:conditions="Products.Lingo">content </MadCap:conditionalText>files.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li>
+                <span class="SetOffFirstLevel">Topic Files </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>  Displays only the topic <MadCap:keyword term="HTM"></MadCap:keyword>(HTM and <MadCap:keyword term="HTML"></MadCap:keyword>HTML) files.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare,Products.Analyzer">
+                <span class="SetOffFirstLevel">MasterPage Files </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>  Displays only the master page <MadCap:keyword term="FLMSP file"></MadCap:keyword>(FLMSP) files.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li>
+                <span class="SetOffFirstLevel">Page Layout Files </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Displays only the page layout <MadCap:keyword term="FLPGL file"></MadCap:keyword>(FLPGL) files.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li>
+                <span class="SetOffFirstLevel">Snippet Files </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Displays only the snippet <MadCap:keyword term="FLSNP file"></MadCap:keyword>(FLSNP) files.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li>
+                <span class="SetOffFirstLevel">Stylesheet Files </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Displays only the stylesheet (<MadCap:keyword term="CSS file"></MadCap:keyword>CSS) files.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Lingo">
+                <span class="SetOffFirstLevel">MasterPage Files </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Displays only the master page <MadCap:keyword term="FLMSP file"></MadCap:keyword>(FLMSP) files.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare,Products.Analyzer">
+                <span class="SetOffFirstLevel">Image Files </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Displays only the image files (<MadCap:keyword term="BMP file;GIF file;JPEG file;JPG file;PNG file;TIF file;TIFF file"></MadCap:keyword><MadCap:keyword term="BMP file"></MadCap:keyword>BMP, <MadCap:keyword term="EMP file"></MadCap:keyword>EMF, <MadCap:keyword term="EXPS file"></MadCap:keyword>EXPS, <MadCap:keyword term="GIF file"></MadCap:keyword>GIF, <MadCap:keyword term="HDP file"></MadCap:keyword>HDP, <MadCap:keyword term="JPG file"></MadCap:keyword>JPG, <MadCap:keyword term="JPEG file"></MadCap:keyword>JPEG, <MadCap:keyword term="PNG file"></MadCap:keyword>PNG, <MadCap:keyword term="SWF file"></MadCap:keyword>SWF, <MadCap:keyword term="TIF file"></MadCap:keyword>TIF, <MadCap:keyword term="TIFF file"></MadCap:keyword>TIFF, <MadCap:keyword term="WDP file"></MadCap:keyword>WDP, <MadCap:keyword term="WMF file"></MadCap:keyword>WMF, <MadCap:keyword term="XAML file"></MadCap:keyword>XAML, <MadCap:keyword term="Microsoft XPS"></MadCap:keyword>XPS) and media files (<MadCap:keyword term="SWF file"></MadCap:keyword>SWF).</MadCap:expandingBody>
+                </MadCap:expanding> <![CDATA[ ]]></li>
+            <li MadCap:conditions="Products.Lingo">
+                <span class="SetOffFirstLevel">Image Files </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Displays only the image files (<MadCap:keyword term="BMP file;GIF file;JPEG file;JPG file;PNG file;TIF file;TIFF file"></MadCap:keyword><MadCap:keyword term="BMP file"></MadCap:keyword>BMP, <MadCap:keyword term="EMP file"></MadCap:keyword>EMF, <MadCap:keyword term="EXPS file"></MadCap:keyword>EXPS, <MadCap:keyword term="GIF file"></MadCap:keyword>GIF, <MadCap:keyword term="HDP file"></MadCap:keyword>HDP, <MadCap:keyword term="JPG file"></MadCap:keyword>JPG, <MadCap:keyword term="JPEG file"></MadCap:keyword>JPEG, <MadCap:keyword term="PNG file"></MadCap:keyword>PNG, <MadCap:keyword term="SWF file"></MadCap:keyword>SWF, <MadCap:keyword term="TIF file"></MadCap:keyword>TIF, <MadCap:keyword term="TIFF file"></MadCap:keyword>TIFF, <MadCap:keyword term="WDP file"></MadCap:keyword>WDP, <MadCap:keyword term="WMF file"></MadCap:keyword>WMF, <MadCap:keyword term="XAML file"></MadCap:keyword>XAML, <MadCap:keyword term="Microsoft XPS"></MadCap:keyword>XPS). </MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare,Products.Analyzer">
+                <span class="SetOffFirstLevel">Multimedia Files </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Displays only multimedia (audio and video) files.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare,Products.Analyzer">
+                <span class="SetOffFirstLevel">GIF Files </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Displays only GIF files. </MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare,Products.Analyzer">
+                <span class="SetOffFirstLevel">JPEG Files </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Displays only JPG and JPEG files.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare,Products.Analyzer">
+                <span class="SetOffFirstLevel">PNG Files </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Displays only PNG files.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare,Products.Analyzer">
+                <span class="SetOffFirstLevel">Flash Movie Files </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Displays only SWF files. </MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+        </ul>
+    </body>
+</html>

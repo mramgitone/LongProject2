@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="47" MadCap:lastWidth="1461" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <p>A body proxy is also used when you create a master page for Word or FrameMaker output. You can customize the page size, orientation, and margins for the printed pages by editing the body proxy. If you want all of the pages in your output to share the same settings (page size, margins, etc.), you only need one body proxy in the master page. However, if you want different pages to have different settings, you can add a body proxy for each configuration.</p>
+    </body>
+</html>

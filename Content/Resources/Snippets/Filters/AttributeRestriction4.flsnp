@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="3" MadCap:lastHeight="65" MadCap:lastWidth="823" MadCap:conditions="Products.Lingo">
+    <body>
+        <p>If you want to remove a restriction from an attribute, select the attribute in the Candidate Attributes area of the File Filters dialog, then click <span class="Emphasis">Restriction</span>. In the Attribute Restriction dialog, click <span class="Emphasis">Clear Restriction</span>.</p>
+    </body>
+</html>

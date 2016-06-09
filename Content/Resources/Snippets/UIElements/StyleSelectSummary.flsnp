@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare,Products.Analyzer" MadCap:lastBlockDepth="2" MadCap:lastHeight="193" MadCap:lastWidth="983">
+    <head>
+    </head>
+    <body>
+        <p>Lets you select a style from a style sheet, applying that style to the content selected in the topic<MadCap:conditionalText MadCap:conditions="Products.Contributor"> or document</MadCap:conditionalText>. It is the only button in the Text Format Toolbar that deals with style formatting as opposed to local (or "inline") formatting. <MadCap:conditionalText MadCap:conditions="Products.Flare">You can also select a style class for content from the Styles window pane. For more information see <MadCap:xref href="../../../Styles/About_Styles_and_Style_Sheets.htm" target="" title="" alt="">About Styles and Stylesheets</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

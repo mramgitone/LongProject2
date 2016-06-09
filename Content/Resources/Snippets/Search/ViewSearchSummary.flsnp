@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:conditions="Products.FeedbackExplorer,Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="93" MadCap:lastWidth="1115" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>With MadCap<MadCap:conditionalText MadCap:conditions="Snippets.Snippet1"> Pulse or Feedback</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2"> Pulse</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet3"> Feedback</MadCap:conditionalText>, you can determine how readers are using search in your online output. This helps you answer questions such as: What are they looking for? What are they finding? And more importantly, what are they unable to find? You can use<MadCap:conditionalText MadCap:conditions="Snippets.Snippet1"> Pulse or Feedback Explorer</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2"> Pulse</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet3"> Feedback Explorer</MadCap:conditionalText> to view all used search phrases, as well as searches where no results were returned to the user.</p>
+    </body>
+</html>

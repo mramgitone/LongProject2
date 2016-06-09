@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="137" MadCap:lastWidth="900">
+    <body>
+        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">xxxFor additional information about styles and how they are used in this template, see xxx. <MadCap:conditionalText MadCap:conditions="General.Future">In this topic, we are providing style settings as you would see them in Flare's Internal Text Editor. However, you don't need to use the Internal Text Editor to accomplish the tasks described here. You can use the Stylesheet Editor instead. For more information about styles, how they are used in this template, and how to deal with the style formats you see in this topic, see <MadCap:xref href="../../../How_Did_You_Do_That/OnlinePrintAdv/HDYDT_DropDowns.htm">How Did You Do That? Styles</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo">
+    <body>
+        <p>(Optional) If you want to search the MT using a concordance, select <span class="Emphasis">Use MT in concordance searching</span>. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Concordance/About_the_Concordance.htm">About the Concordance</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+    <head>
+    </head>
+</html>

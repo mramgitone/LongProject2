@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Capture,Products.Mimic" MadCap:lastBlockDepth="2" MadCap:lastHeight="145" MadCap:lastWidth="1211">
+    <head>
+    </head>
+    <body>
+        <p>Shows arrows on each side of an object when you click it. You can then click any of the arrows to set the anchors. This allows you to lock the position of the object in place. See <MadCap:xref href="../../../Appearance/Positioning_Objects/Setting_Object_Anchors.htm">Setting Object Anchors</MadCap:xref>.</p>
+    </body>
+</html>

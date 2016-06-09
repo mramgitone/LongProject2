@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:conditions="Products.Analyzer,Products.Flare,Products.FeedbackExplorer" MadCap:lastBlockDepth="2" MadCap:lastHeight="101" MadCap:lastWidth="485" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>If you set up MadCap Feedback so that new comments require approval before being added to the online output, those comments move to Pending status by default. This means that the comment is visible only to you and the end user until you accept it. If at any time the comment has a different status than Pending (i.e., Hidden, Accepted), you can apply the Pending Review status to it.</p>
+    </body>
+</html>

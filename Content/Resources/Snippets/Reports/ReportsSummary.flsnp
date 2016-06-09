@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="54" MadCap:lastWidth="1211">
+    <body>
+        <p>generate custom reports based on the information contained in your project. You can create reports for just about any type of information that MadCap <MadCap:variable name="Products.Analyzer"></MadCap:variable> captures. You can also design the look and feel of reports, save them for future access, and open them in a browser window (where you can print them).</p>
+    </body>
+</html>

@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Pulse,Products.Flare" MadCap:lastBlockDepth="8" MadCap:lastHeight="520" MadCap:lastWidth="858" MadCap:fileTags="PulseTopicAuthor.Kate">
+    <head>
+        <link href="../../TableStyles/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>The table below describes the different notifications you can received from <MadCap:variable name="Products.Pulse" />. </p>
+        <table style="width: 100%;margin-left: auto;margin-right: auto;">
+            <col />
+            <col />
+            <thead>
+                <tr>
+                    <th>
+                        <p class="TableTextHead">Notification&#160;Types</p>
+                    </th>
+                    <th>
+                        <p class="TableTextHead">Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p class="TableTextEmphasis">Send me email</p>
+                    </td>
+                    <td>
+                        <p class="TableText">Sends you email when events related to you occur.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="TableTextEmphasis">Answers</p>
+                    </td>
+                    <td>
+                        <MadCap:snippetBlock src="PulseNotificationAnswers.flsnp" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="TableTextEmphasis">Comments</p>
+                    </td>
+                    <td>
+                        <MadCap:snippetBlock src="PulseNotificationComments.flsnp" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="TableTextEmphasis">Likes</p>
+                    </td>
+                    <td>
+                        <p class="TableText">Notifies you when people like your posts. </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="TableTextEmphasis">Follows</p>
+                    </td>
+                    <td>
+                        <p class="TableText">Notifies you when people follow you.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="TableTextEmphasis">Updates</p>
+                    </td>
+                    <td>
+                        <p class="TableText">Notifies you when people post updates on your feed.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="TableTextEmphasis">Mentions</p>
+                    </td>
+                    <td>
+                        <MadCap:snippetBlock src="PulseNotificationMentions.flsnp" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="TableTextEmphasis">Asks</p>
+                    </td>
+                    <td>
+                        <p class="TableText">Notifies you when people ask you a question.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="TableTextEmphasis">Invites</p>
+                    </td>
+                    <td>
+                        <MadCap:snippetBlock src="PulseNotificationInvites.flsnp" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="TableTextEmphasis">Daily Digest</p>
+                    </td>
+                    <td>
+                        <p class="TableText">Send you one daily digest email containing all account-related <MadCap:variable name="Products.Pulse" /> activity. </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="TableTextEmphasis">Tasks</p>
+                    </td>
+                    <td>
+                        <MadCap:snippetBlock src="PulseNotificationTasks.flsnp" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="TableTextEmphasis">Messages</p>
+                    </td>
+                    <td>
+                        <p class="TableText">Notifies you when people send you are direct message while you are not actively using <MadCap:variable name="Products.Pulse" />. </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor" MadCap:lastBlockDepth="3" MadCap:lastHeight="69" MadCap:lastWidth="907" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <li>
+            <MadCap:conditionalText MadCap:conditions="Products.Flare">From  the Content Explorer, open the stylesheet that you want to modify. By default, stylesheets are stored in the Resources\Stylesheets folder, but you can store them elsewhere if you like.</MadCap:conditionalText>
+            <MadCap:conditionalText MadCap:conditions="Products.Contributor,Products.Analyzer"> Open the stylesheet you want to modify or create a new one.</MadCap:conditionalText>
+        </li>
+    </body>
+</html>

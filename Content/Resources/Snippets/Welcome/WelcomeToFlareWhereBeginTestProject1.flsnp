@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="3" MadCap:lastHeight="98" MadCap:lastWidth="1518">
+    <body>
+        <p>When you’re ready to start working in Flare, there’s something else we suggest you do before tackling your own content—create a test project. Treat it like a sandbox. Play around with things. See how it feels.</p>
+        <Div class="ImagesFloatLeft">
+            <p>
+                <img src="../../Images/browse_project_templates.png" class="MaxWidth60Percent" />
+            </p>
+        </Div>
+        <p>On the Start Page, select the <span class="Emphasis">Templates</span> tab. Then choose any template that you like. You might want to begin with a basic template and later move on to an advanced one. After selecting a template, complete the information in the wizard in just a few steps. See <MadCap:xref href="../../../Projects_Starting/Creating_a_Project.htm">Creating a New Project</MadCap:xref>.</p>
+    </body>
+</html>

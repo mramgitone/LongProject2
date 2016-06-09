@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.HelpViewer">
+    <body>
+        <p>The online Help attached to the Flare application was created with <MadCap:variable name="Outputs.DotNetHelp" />.</p>
+    </body>
+</html>

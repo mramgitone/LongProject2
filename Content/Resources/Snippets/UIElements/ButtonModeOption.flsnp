@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Mimic,Products.MovieSync" MadCap:lastBlockDepth="2" MadCap:lastHeight="192" MadCap:lastWidth="1199">
+    <head>
+    </head>
+    <body>
+        <p> Lets you create a button with text (e.g., "Click Me"). <MadCap:conditionalText MadCap:conditions="Products.Mimic">You can double-click the button to open the Button Properties dialog, which lets you assign an action to a button (e.g., go to next frame) that occurs when a user clicks the button in the final movie. You can also use the appropriate tabs in that dialog (Mouse Hover and Mouse Pressed) to change the look of the button when the mouse hovers over it or presses it.</MadCap:conditionalText> <![CDATA[ ]]><MadCap:conditionalText MadCap:conditions="Products.Mimic">See <MadCap:xref href="../../../UI_Elements/Button_Properties_Dialog.htm">Button Properties Dialog</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

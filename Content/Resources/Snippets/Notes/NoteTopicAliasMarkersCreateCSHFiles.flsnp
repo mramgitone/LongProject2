@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="105" MadCap:lastWidth="1221">
+    <body>
+        <p class="note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">If you are importing FrameMaker documents and you create topic alias markers in the source files, this file will be created automatically when you perform the import. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Importing/More_About_FrameMaker/Creating_Topic_Alias_Markers_for_CSH.htm">Creating Topic Alias Markers for Context-Sensitive Help</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

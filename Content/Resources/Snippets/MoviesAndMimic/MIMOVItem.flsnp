@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Mimic" MadCap:lastBlockDepth="2" MadCap:lastHeight="93" MadCap:lastWidth="596">
+    <body>
+        <p>
+            <MadCap:keyword term="MIMOV file" /><span class="SetOffFirstLevel">MIMOV </span>
+            <MadCap:expanding>
+                <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                <MadCap:expandingBody> This is an individual <MadCap:variable name="Products.Mimic" /> movie file (whether part of a collection or standalone). When you want to work on an individual movie, you open this file.</MadCap:expandingBody>
+            </MadCap:expanding>
+        </p>
+    </body>
+</html>

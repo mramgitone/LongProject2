@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="117" MadCap:lastWidth="1123">
+    <body>
+        <p>Why use mediums? Because they allow you to have one group of style settings for some outputs, and a different group of settings for other outputs. In this project, we've used two different mediums. We used the default medium to control the look of our web and mobile outputs, and we used the print medium to control the look of our PDFs. (The medium is set in the Advanced tab of a target.)&#160;When you work on styles with the default medium selected, those settings trickle down to the other mediums, including the print medium. But you can always select print or one of the other mediums to override the default settings for any style. See <MadCap:xref href="../../../Styles/Mediums/About_Stylesheet_Mediums.htm">About Stylesheet Mediums</MadCap:xref>.</p>
+    </body>
+</html>

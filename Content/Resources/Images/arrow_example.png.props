@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties conditions="Products.Capture,Products.Mimic,Products.MovieSync" fileTags="">
+    <ImageOverlay HasImage="false" Profile="C:\Users\pstoecklein\Documents\My Profiles\NoBorder.capro" ProfileHash="608a0ba25ab9149d40d3c99c3ec83bb3">
+        <OriginalImage Folder="C:\Trunk\Shared\Content\Resources\Images" ExportFormat="png" ColorDepth="16" medium_print_EnableFormat="False" medium_print_ColorDepth="32" medium_print_DPI="300" FileName="" BackgroundColor="transparent" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" medium_print_EnableGrayScaleFormat="False" Border="none" BorderWidth="1" BorderColor="#000000" JPEGQuality="80" MinWidth="10" MinHeight="10" ComputedWidth="147" ComputedHeight="90" />
+        <Shapes>
+            <Shape Type="Arrow" Coordinates="23,33,139,36" />
+        </Shapes>
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <Variables />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

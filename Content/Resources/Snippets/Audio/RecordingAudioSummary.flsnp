@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Mimic,Products.Capture" MadCap:lastBlockDepth="2" MadCap:lastHeight="69" MadCap:lastWidth="942">
+    <body>
+        <p>You can record audio for your <MadCap:snippetText src="../AllProductVariables.flsnp" /> movies (e.g., narration). The recorded audio file can be created for an individual frame, an object (e.g., cursors and buttons), or an entire movie.</p>
+    </body>
+</html>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="283" MadCap:lastWidth="1211">
+    <head>
+    </head>
+    <body>
+        <p class="TableText">Opens the Get Latest Version dialog, which lets you "get" all files in the project from source control.</p>
+        <p class="TableText">After you bind a <MadCap:snippetText src="../AllProductVariables.flsnp"></MadCap:snippetText> project to a source control application, you can get the latest version of any of the source control files. When you do this, you are copying the most current files stored in the source control application to your local <MadCap:snippetText src="../AllProductVariables.flsnp"></MadCap:snippetText> project without necessarily checking out the files. This means that the "Read Only" designation will remain associated with the files until you check them out. </p>
+        <p class="TableText">See <MadCap:xref href="../../../Source_Control/Getting_the_Latest_Version_of_Source_Control_Files.htm">Getting the Latest Version of Source Control Files</MadCap:xref>.</p>
+    </body>
+</html>

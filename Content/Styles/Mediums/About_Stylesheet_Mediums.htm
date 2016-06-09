@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer" MadCap:lastBlockDepth="10" MadCap:lastHeight="3277" MadCap:lastWidth="1083">
+    <head><title></title>
+    </head>
+    <body>
+        <h1 MadCap:conditions="General.OnlineLive">
+            <MadCap:concept term="FilterSingleSourcePublishing" />
+            <MadCap:keyword term="Mediums;Styles:mediums" />
+            <MadCap:concept term="Mediums" />
+            <MadCap:concept term="FilterStyles" />About Stylesheet Mediums</h1>
+        <h1 MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareStylesGuide">
+            <MadCap:keyword term="Mediums;Styles:mediums" />Stylesheet Mediums</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Banners/Flare/FeatureSupportedAll.flsnp" MadCap:conditions="Products.FlareOnlineOnly,FlareGuides.FlarePrintedOutputGuide" />
+        <p MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,General.OnlineLive">You can single-source styles through the use of stylesheet mediums<MadCap:conditionalText MadCap:conditions="FlareGuides.FlarePrintedOutputGuide"> and table print styles</MadCap:conditionalText>. A medium is an alternative set of styles in a stylesheet that you use for different outputs. They are intended to be an exception to the default style. Mediums can be used in both regular stylesheets and table stylesheets.</p>
+        <p class="FirstPageOfChapter" MadCap:conditions="FlareGuides.FlareStylesGuide">You can single-source styles through the use of stylesheet mediums and table print styles.</p>
+        <MadCap:snippetBlock src="../../Resources/Snippets/ThisChapterDiscussesFollowing.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide">
+        </MadCap:snippetBlock>
+        <h2 MadCap:conditions="FlareGuides.FlareStylesGuide"><a name="StyleSheetMediums"></a>The Basics</h2>
+        <p MadCap:conditions="FlareGuides.FlareStylesGuide">A medium is an alternative set of styles in a stylesheet that you use for different outputs. They are intended to be an exception to the default style. Mediums can be used in both regular stylesheets and table stylesheets.</p>
+        <p MadCap:conditions="Products.Flare">One use for a medium is to have one group of style settings for online formats (<MadCap:snippetText src="../../Resources/Snippets/Output/AllOnlineOutputTypes.flsnp" />) and a different group of settings for print-based formats (<MadCap:snippetText src="../../Resources/Snippets/Output/AllPrintOutputTypes.flsnp" />). Therefore, you could use one medium for your online targets and use another medium for PDF and your other print-based targets.</p>
+        <MadCap:dropDown MadCap:conditions="Products.Flare">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Styles/MediumTypeExample.flsnp" MadCap:conditions="Products.Flare">
+                </MadCap:snippetBlock>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+        <h2 MadCap:conditions="FlareGuides.FlarePrintedOutputGuide">Stylesheet Mediums Provided</h2>
+        <h3 class="PageBreakBefore" MadCap:conditions="FlareGuides.FlareStylesGuide">Stylesheet Mediums Provided</h3>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">stylesheet mediums provided</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../../Resources/Snippets/AllProductVariables.flsnp" /> provides you with the following stylesheet mediums. These are enough to satisfy the needs of most authors, but you can create additional mediums if necessary.</p>
+                <ul>
+                    <li>
+                        <p><span class="SetOffFirstLevel">default</span> This is the standard medium. Any settings that you specify in the default medium "trickle down" automatically to the other mediums. However, you can override any setting in a specific medium.</p>
+                        <MadCap:dropDown MadCap:conditions="Products.Flare">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="Products.FlareOnlineOnly">example</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p class="ExampleHead" MadCap:conditions="Products.Flare">example</p>
+                                <p class="Example" MadCap:conditions="Products.Flare">Suppose you are using four different mediums (default, print, non-print, CustomA) in your project. Let's say you specify that the font color for the &lt;p&gt; style tag in the default medium should be red. If you were to then open any of the other three mediums, you would see that the font color for the &lt;p&gt; tag in each of those is also red. If you were to open the print medium and change the font color for the &lt;p&gt; tag to blue, that is the color that will be used for that medium. However, the &lt;p&gt; tag will continue to be displayed in red for the default, non-print, and CustomA mediums.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Mediums:print" />print</span> This medium is designed to be used for print-based output types<MadCap:conditionalText MadCap:conditions="Products.Flare"> (<MadCap:snippetText src="../../Resources/Snippets/Output/AllPrintOutputTypes.flsnp" />)</MadCap:conditionalText>. <MadCap:conditionalText MadCap:conditions="Products.Flare">When you create a print-based target, this medium is automatically associated with it (although you can select a different medium for the target if necessary).</MadCap:conditionalText></li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Mediums:non-print;Mediums:online" />non-print </span>
+                        <MadCap:conditionalText MadCap:conditions="Products.Flare,Products.Analyzer">If you are creating online output and do not want to use the default medium for it, you can use this medium instead. For example, you might want to use the default medium for three online targets that you are working on, but you want to create a fourth online target that uses a different set of styles. In that case, you can use the non-print medium for that fourth target (or you can create custom mediums if necessary). </MadCap:conditionalText>
+                        <MadCap:conditionalText MadCap:conditions="Products.Contributor">You might use this medium, for example, if you plan to upgrade to MadCap Flare in the future and want to use it for online output.</MadCap:conditionalText>
+                    </li>
+                </ul>
+                <p MadCap:conditions="General.OnlineLive">
+                    <img src="../../Resources/Images/medium_example1.jpg" class="MaxWidth80Percent">
+                    </img>
+                </p>
+                <p MadCap:conditions="Products.FlareOnlineOnly">
+                    <img src="../../Resources/Images/medium_table_style_example.jpg" class="MaxWidth100Percent" />
+                </p>
+                <p MadCap:conditions="Products.ContributorOnlineOnly">
+                    <img src="../../Resources/Images/medium_table_style_example_contributor.jpg" class="MaxWidth100Percent" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+        <h2 MadCap:conditions="FlareGuides.FlarePrintedOutputGuide">
+            <MadCap:keyword term="Mediums:page layouts;Styles:mediums;Styles:page layouts;Page layouts:styles;Page layouts:mediums" />The Print Medium and Page Layouts</h2>
+        <h3 MadCap:conditions="FlareGuides.FlareStylesGuide" class="PageBreakBefore">
+            <MadCap:keyword term="Mediums:page layouts;Styles:mediums;Styles:page layouts;Page layouts:styles;Page layouts:mediums" />The Print Medium and Page Layouts</h3>
+        <MadCap:dropDown MadCap:conditions="Products.Flare">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">
+                    <MadCap:keyword term="Mediums:page layouts;Styles:mediums;Styles:page layouts;Page layouts:styles;Page layouts:mediums" />the print medium and page layouts</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Page layouts render content using the Print medium settings in the stylesheet. <MadCap:conditionalText MadCap:conditions="General.OnlineLive,FlareGuides.FlarePrintedOutputGuide">See <MadCap:xref href="../../Page_Layouts/About_Page_Layouts.htm">About Page Layouts</MadCap:xref>.</MadCap:conditionalText></p>
+                <p class="ExampleHead">example</p>
+                <p class="Example">Let's say you have a style called "p.Section" and you apply this style to the text you have in a header frame in a page layout. In the Default style medium, the font color for this style is black, but in the Print medium it is red. It makes more sense to display the font for a page layout based on the Print medium, because that medium will most likely be used in the print-based output. Therefore, the text displays as red in the page layout.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="FlareGuides.FlarePrintedOutputGuide">Medium Organization and Printing</h2>
+        <h3 MadCap:conditions="FlareGuides.FlareStylesGuide" class="PageBreakBefore">Medium Organization and Printing</h3>
+        <MadCap:dropDown MadCap:conditions="Products.Flare">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">medium organization and printing</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Different mediums in a CSS are set apart by the @media rule and sets of curly braces. This can be seen when you open the stylesheet source file; to do this, navigate to the CSS file in the Content Explorer, right-click on it, and select <span class="Emphasis">Open with&gt;Notepad</span>.</p>
+                <p>
+                    <img src="../../Resources/Images/style_sheet_mediums_example.jpg" class="MaxWidth100Percent" />
+                </p>
+                <p>The placement of the medium section in the stylesheet affect which styles are used when you print topics. For example, if you are using the print medium and want those styles to be used when printing a topic from a web browser, the @media print section should be placed in the stylesheet after your default media section, because style properties lower in a CSS take precedence over properties placed above them. You can always move the medium sections around in the stylesheet (if you want them to be placed higher or lower in the file) by cutting and pasting them in Notepad.</p>
+                <p>For more information about mediums in a CSS, see <a href="http://www.w3.org/TR/CSS2/media.html" target="_blank">http://www.w3.org/TR/CSS2/media.html</a>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="FlareGuides.FlarePrintedOutputGuide">Tasks Associated With Stylesheet Mediums</h2>
+        <h3 MadCap:conditions="FlareGuides.FlareStylesGuide" class="PageBreakBefore">Tasks Associated With Stylesheet Mediums</h3>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">tasks associated with stylesheet mediums</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Following are the tasks that you might perform when working with stylesheet mediums.</p>
+                <ul>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Mediums:selecting" />Select in Editor</span> When you are modifying the properties of a style in the Stylesheet Editor or when you are working in the Table Style Editor, you need to let <MadCap:snippetText src="../../Resources/Snippets/AllProductVariables.flsnp" /> know which medium your settings should be applied to. To do this, select the medium from the <span class="Emphasis">Medium</span> drop-down list in the editor, then set the style properties as necessary. See <MadCap:xref href="Selecting_Style_Sheet_Mediums.htm">Selecting Stylesheet Mediums</MadCap:xref>.</li>
+                    <li MadCap:conditions="Products.Flare,Products.Contributor"><span class="SetOffFirstLevel">Select in XML Editor </span>
+                        <MadCap:snippetText src="../../Resources/Snippets/AllProductVariables.flsnp" /> lets you use two different layout modes when working in the XML Editor: Web Layout mode and Print Layout mode. The "default" and "print" mediums are tied to these two layout modes. This simply means that when you are working in Web Layout mode, the XML Editor displays the styles specified in the default medium. But if you switch to Print Layout mode, the XML Editor automatically displays the styles specified in the print medium. This is simply a way to let you see your content in the format that you are most likely concerned about at the moment. Of course, you can always select a specific medium in the XML Editor when using either layout mode. <MadCap:conditionalText MadCap:conditions="General.OnlineLive,FlareGuides.FlarePrintedOutputGuide">See <MadCap:xref href="Selecting_Style_Sheet_Mediums.htm">Selecting Stylesheet Mediums</MadCap:xref> and <MadCap:xref href="../../Topics/About_Layout_Modes.htm">About Layout Modes</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="FlareGuides.FlareStylesGuide">See <MadCap:xref href="Selecting_Style_Sheet_Mediums.htm">Selecting Stylesheet Mediums</MadCap:xref>. For more information about layout modes and the XML Editor, see the online Help and the <i>Topics Guide</i>.</MadCap:conditionalText></li>
+                    <li>
+                        <p><span class="SetOffFirstLevel"><MadCap:keyword term="Mediums:creating" />Create</span> You may very well be able to meet all of your style editing needs by simply using the mediums provided by <MadCap:snippetText src="../../Resources/Snippets/AllProductVariables.flsnp" /> (default, print, non-print). However, if necessary, you can add as many new custom mediums as you need. <MadCap:conditionalText MadCap:conditions="Products.Flare,Products.Contributor">See <MadCap:xref href="Creating_Medium_Types.htm">Creating Stylesheet Mediums</MadCap:xref>.</MadCap:conditionalText><MadCap:snippetText src="../../Resources/Snippets/ForMoreInfo/SeeFlareOnlineHelp.flsnp" MadCap:conditions="Products.Analyzer" /></p>
+                        <MadCap:dropDown MadCap:conditions="Products.FlareOnlineOnly">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="Products.FlareOnlineOnly">note</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <MadCap:snippetBlock src="../../Resources/Snippets/Notes/NoteCreateCustomMedium.flsnp" MadCap:conditions="Products.FlareOnlineOnly">
+                                </MadCap:snippetBlock>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li MadCap:conditions="Products.Flare"><span class="SetOffFirstLevel"><MadCap:keyword term="Mediums:associating with targets" /><MadCap:keyword term="Mediums:targets" />Associate With Targets</span> After you decide on a medium to use for output, you need to associate it with the target. After you build the target, the medium will be used to display the correct style settings in the output. See <MadCap:xref href="Associating_a_Medium_Type_with_a_Target.htm">Associating a Medium with a Target</MadCap:xref>.</li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p class="note" MadCap:conditions="General.OnlineLive" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you used print table styles in the past and want to remove them now in favor of the medium method, you can use an option in the Apply Table Style dialog in the Table Style Editor. When this option is enabled, print table styles will be removed from any tables updated by this dialog. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../Applying_Table_Stylesheets_to_Tables.htm">Applying Table Stylesheets to Tables</MadCap:xref>.</MadCap:conditionalText></p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:conceptLink term="Mediums" />
+        </p>
+        <MadCap:snippetBlock src="../../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+    </body>
+</html>

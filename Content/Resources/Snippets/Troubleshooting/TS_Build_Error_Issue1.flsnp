@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="10" MadCap:lastHeight="1061" MadCap:lastWidth="836">
+    <head>
+    </head>
+    <body>
+        <p class="Subheading2">Access to temp directory error</p>
+        <p>When building a <MadCap:variable name="Products.Flare" /> project, the following error appears:</p>
+        <p class="Bold">Internal error: Access to the temp directory is denied. Identity under which XMLSerializer is running does not have sufficient permission to access the temp directory</p>
+        <p class="Subheading2">Cause</p>
+        <p> This error is a result of <MadCap:variable name="Products.Flare" /> not being able to write to a temporary file or directory. </p>
+        <p class="Subheading2">Solution</p>
+        <p>Following are several solutions that can fix the problem. </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>solution <span style="font-size: 0.85em;">1</span></MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Perform the following steps to clean your output files.</p>
+                <ol>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                        </p>
+                        <ul class="FirstLevel">
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon </span>
+                                    <MadCap:snippetText src="../UIElements/SelectProjectRibbon.flsnp" /> In the <span class="Emphasis">Build</span> section select <span class="Emphasis">Clean Project</span>. </p>
+                                <MadCap:snippetBlock src="../UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">Menu </span>Select <span class="Emphasis">Build&gt;Clean Project</span>.</li>
+                        </ul>
+                        <p>A message displays, asking you to confirm the deletion of the Output folder and its files.</p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+                    </li>
+                </ol>
+                <p>For more information about cleaning projects, see <MadCap:xref href="../../../Output/More_About_Building_Final_Output/Cleaning_Output_Files.htm">Cleaning Output Files</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>solution <span style="font-size: 0.85em;">2</span></MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Perform the following steps to delete the Users folder in the <MadCap:variable name="Products.Flare" /> project folder.</p>
+                <ol>
+                    <li>Open the <MadCap:variable name="Products.Flare" /> project folder in the Windows Explorer.</li>
+                    <li>Open the <span class="Emphasis">Project</span> folder.</li>
+                    <li>Select the <span MadCap:createDate="2013-01-11T08:20:08.8032667-08:00" MadCap:creator="pstoecklein" MadCap:initials="PJS" MadCap:comment="This word should have an Emphasis span tag on it." MadCap:editor="pstoecklein" MadCap:editDate="2013-01-11T08:20:26.8082966-08:00" class="Emphasis">Users</span> folder and press <span class="Emphasis">Delete</span> on the keyboard.</li>
+                    <li>Reopen the project in <MadCap:variable name="Products.Flare" /> and build the project.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>solution <span style="font-size: 0.85em;">3</span></MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Restart your computer.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>solution <span style="font-size: 0.85em;">4</span></MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Uninstall Microsoft .NET Framework and reinstall the latest version.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>solution <span style="font-size: 0.85em;">5</span></MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p>Check any anti-virus programs you may be running on your computer. Make sure that it allows <MadCap:variable name="Products.Flare" /> to write to temporary files and directories. Most of these types of programs have an exception list. Add <span class="Emphasis">Flare.exe</span> to that list. </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

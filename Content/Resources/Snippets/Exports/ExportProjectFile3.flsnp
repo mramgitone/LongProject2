@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="190" MadCap:lastWidth="946" MadCap:conditions="Products.Flare">
+    <body>
+        <p>If you do not want to make any changes to an export file, you can simply click <span class="Emphasis">Run Export Project File</span> in the local toolbar.</p>
+        <p>
+            <img src="../../Images/export_project18.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <p>You can also select this option after right-clicking on the export file.</p>
+        <p>
+            <img src="../../Images/export_project19.png" alt="" title="" class="MaxWidth50Percent" />
+        </p>
+    </body>
+</html>

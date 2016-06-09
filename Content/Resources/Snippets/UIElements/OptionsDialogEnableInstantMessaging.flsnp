@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:conditions="Products.Flare,Products.Analyzer" MadCap:lastBlockDepth="2" MadCap:lastHeight="91" MadCap:lastWidth="988" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="TableText">Select this option to enable or disable the instant messaging feature in <MadCap:snippetText src="../AllProductVariables.flsnp" />. You also have the option of disabling instant messaging on your Exchange server. See <MadCap:xref href="../../../Source_Control/More_About_Instant_Messaging/Enabling_Disabling_Instant_Messaging.htm">Enabling and Disabling Instant Messaging</MadCap:xref>.</p>
+    </body>
+</html>

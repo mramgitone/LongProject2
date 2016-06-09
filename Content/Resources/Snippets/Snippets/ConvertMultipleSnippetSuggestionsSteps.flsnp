@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="305" MadCap:lastWidth="842" MadCap:conditions="Products.Analyzer">
+    <body>
+        <p class="Subheading">to convert multiple suggestions simultaneously</p>
+        <ol>
+            <li>In the window pane, select all suggestions that you want to convert. <MadCap:snippetText src="../UIElements/IfSelectAllSomeRows.flsnp" /></li>
+            <li>In the local toolbar, click the <span class="Emphasis">Apply</span> button. </li>
+            <li>In the message that opens, click <span class="Emphasis">OK</span>. Another message lets you know how many files were changed. </li>
+            <li>
+                <p>
+                    <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" /> All of the selected suggestions are converted to <MadCap:conditionalText MadCap:conditions="Snippets.Snippet1">snippets</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2">variables</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">index keywords</MadCap:conditionalText>. </p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <MadCap:snippetBlock src="../Notes/NoteCanUseBackupsWindow.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+        </ol>
+    </body>
+</html>

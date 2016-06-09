@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastBlockDepth="2" MadCap:lastHeight="122" MadCap:lastWidth="744" MadCap:conditions="Products.Analyzer,Products.Flare" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>This lists  projects that you have already created in <MadCap:snippetText src="../AllProductVariables.flsnp" />. They are listed in order of how recently they were opened. Click on a project link to open that project.</p>
+        <p>If you want to remove links from this list, you can do so from the Recent Projects dialog. See <MadCap:xref href="../../../UI_Elements/Recent_Projects_Dialog.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Recent Projects Dialog</MadCap:xref>.</p>
+    </body>
+</html>

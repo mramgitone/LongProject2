@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="165" MadCap:lastWidth="1177" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>You can specify how slides transition from one to another. To do this, open the Edit Slideshow dialog. Select the <span class="Emphasis">Playback</span> tab, and change either of the following:</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Transition </span>Select whether you want slides to move from one to the other horizontally, vertically, or with a fade effect. Horizontal is the default setting.</li>
+            <li><span class="SetOffFirstLevel">Transition speed (ms) </span>Select how fast slides come into view in milliseconds. The higher the number, the slower the transition speed. The default setting is 500 (½ second).</li>
+        </ul>
+        <p>
+            <img src="../../Images/slideshow31.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+    </body>
+</html>

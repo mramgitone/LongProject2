@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                <ul class="FirstLevel">
+                    <li>
+                        <p><span class="SetOffFirstLevel">Ribbon</span> Select <span class="Emphasis">Resources&gt;Machine Translate Project</span>. </p>
+                        <MadCap:snippetBlock src="../UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel">Menu</span> Select <b>Translate&gt;Machine Translate Project</b>. </li>
+                </ul>
+            </li>
+            <li>
+                <p>The machine translation processes. When it is finished, you will see a confirmation window that tells you how many segments and words were translated.</p>
+                <p>
+                    <img src="../../Images/machine_translation_confirmation.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>
+                <p>In the File List window pane, select any file to see the translations applied to your project.</p>
+                <p MadCap:conditions="General.Future">image xxx</p>
+            </li>
+        </ol>
+    </body>
+</html>

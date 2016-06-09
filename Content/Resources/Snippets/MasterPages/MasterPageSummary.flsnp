@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="101" MadCap:lastWidth="896" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <body>
+        <p>A master page is an element that you can create in your project in order to apply certain content to multiple topics. A master page is useful in online outputs, as well as print-based outputs. However, the benefits are somewhat different for online output than they are for print output. For example, you might use a master page in online output to apply features such as breadcrumbs, mini-TOCs, or footer text to multiple topics, or even all topics in a target. For print-based output, a master page allows you to determine page specifications (such as size or orientation) and to apply certain content (such as header text or page numbers) to many topics in a manual.</p>
+    </body>
+</html>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.FeedbackExplorer" MadCap:lastBlockDepth="2" MadCap:lastHeight="66" MadCap:lastWidth="1176">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>When users submit comments, they may be required to register, providing information such as user name, email address, and more. However, you can set up a Feedback file so that anonymous users will be accepted. In that case, users will not need to register; instead, they simply enter any user name when submitting a comment.</p>
+    </body>
+</html>

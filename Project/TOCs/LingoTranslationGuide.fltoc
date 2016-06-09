@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Lingo">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/PrintOnlyTopics/ComingSoonTitlePage.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/TitleLingo.flpgl"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/PrintOnlyTopics/TitlePage.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TitleLingo.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue"
+    conditions="General.Future" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/PrintOnlyTopics/Copyright.htm"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    PageNumber="(multiple)"
+    conditions="General.Future" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/PrintOnlyTopics/PrintTOC.htm"
+    StartChapter="true"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/TOC.flpgl"
+    conditions="General.Future" />
+  <TocEntry
+    Title="CH 1 Translating Files"
+    Link="/Content/Translating_Files/Translating_Files.htm"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    PageNumber="1"
+    StartSection="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    BreakType="chapter"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="CH 2 Translation Features"
+    Link="/Content/PrintOnlyTopics/Translation_Features.htm"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    PageNumber="1"
+    StartSection="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    BreakType="chapter"
+    ChapterNumberReset="continue"
+    ChapterNumber=""
+    ChapterNumberFormat="decimal"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    conditions="General.Future">
+    <TocEntry
+      Title="Inline Formatting and Tags"
+      Link="/Content/Translating_Files/Inline_Formatting_and_Tags.htm"
+      BreakType="none"
+      PageNumber=""
+      StartSection="false"
+      PageNumberReset="continue"
+      conditions="General.Future" />
+    <TocEntry
+      Title="Setting the Translated Status of Files"
+      Link="/Content/Translating_Files/Setting_the_Translated_Status_of_Files.htm"
+      BreakType="none"
+      PageNumber=""
+      StartSection="false"
+      PageNumberReset="continue"
+      conditions="General.Future" />
+    <TocEntry
+      Title="Sending Translated Content for Review"
+      Link="/Content/Reviews_and_Contributions/Sending_Translated_Content_for_Review.htm"
+      BreakType="none"
+      PageNumber=""
+      StartSection="false"
+      PageNumberReset="continue"
+      conditions="General.Future" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 3 Translation Memory"
+    Link="/Content/Translation_Memory/About_Translation_Memory.htm"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    PageNumber="(multiple)"
+    StartSection="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    BreakType="chapter"
+    conditions="General.Future">
+    <TocEntry
+      Title="Creating a Translation Memory Database"
+      Link="/Content/Translation_Memory/Creating_a_Translation_Memory_Database.htm"
+      BreakType="none"
+      PageNumber=""
+      StartSection="false"
+      PageNumberReset="continue"
+      conditions="General.Future" />
+    <TocEntry
+      Title="Choosing an Existing Translation Memory Provider"
+      Link="/Content/Translation_Memory/Choosing_a_TM_Database.htm"
+      BreakType="none"
+      PageNumber=""
+      StartSection="false"
+      PageNumberReset="continue"
+      conditions="General.Future" />
+    <TocEntry
+      Title="Statuses and Matches"
+      Link="/Content/Translation_Memory/Statuses_and_Matches.htm"
+      BreakType="none"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageNumber=""
+      conditions="General.Future" />
+    <TocEntry
+      Title="Applying TM Matches to Segments"
+      Link="/Content/Translation_Memory/Applying_TM_Suggestions_to_Segments.htm"
+      PageNumberReset="continue"
+      PageNumber=""
+      conditions="General.Future" />
+    <TocEntry
+      Title="Editing the Translation Memory Database"
+      Link="/Content/Translation_Memory/Editing_the_Translation_Memory_Database.htm"
+      BreakType="none"
+      PageNumber=""
+      StartSection="false"
+      PageNumberReset="continue"
+      conditions="General.Future" />
+    <TocEntry
+      Title="Translation Memory Exchange"
+      Link="/Content/Translation_Memory/About_Translation_Memory_Exchange.htm"
+      BreakType="none"
+      PageNumber=""
+      StartSection="false"
+      PageNumberReset="continue"
+      conditions="General.Future">
+      <TocEntry
+        Title="Importing TMX Files"
+        Link="/Content/Translation_Memory/Importing_TMX_Files.htm"
+        BreakType="none"
+        PageNumber=""
+        StartSection="false"
+        PageNumberReset="continue"
+        conditions="General.Future" />
+      <TocEntry
+        Title="Exporting TMX Files"
+        Link="/Content/Translation_Memory/Exporting_TMX_Files.htm"
+        BreakType="none"
+        PageNumber=""
+        StartSection="false"
+        PageNumberReset="continue"
+        conditions="General.Future" />
+    </TocEntry>
+    <TocEntry
+      Title="Other Translation Memory Tasks"
+      Link="/Content/Translation_Memory/Changing_Segment_Status_Colors.htm"
+      PageNumberReset="continue"
+      PageNumber=""
+      conditions="General.Future">
+      <TocEntry
+        Title="Setting Match Options for Suggestions"
+        Link="/Content/Translation_Memory/Setting_Match_Options_for_Suggestions.htm"
+        BreakType="none"
+        PageNumber=""
+        StartSection="false"
+        PageNumberReset="continue"
+        conditions="General.Future" />
+      <TocEntry
+        Title="Accepting Exact Matches on Applying TM"
+        Link="/Content/Translation_Memory/Accepting_Exact_Matches_on_Applying_TM.htm"
+        conditions="General.Future" />
+      <TocEntry
+        Title="Updating Context Matches"
+        Link="/Content/Translation_Memory/Updating_Segments_With_101_Matches.htm"
+        conditions="General.Future"></TocEntry>
+      <TocEntry
+        Title="Updating Translations With an Identical Source"
+        Link="/Content/Translation_Memory/Updating_Translations_With_Identical_Source.htm"
+        conditions="General.Future" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/PDF_Guides/PDF_Guides.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Appendix.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    conditions="General.Future" />
+  <TocEntry
+    Title="PrintIndex"
+    Link="/Content/PrintOnlyTopics/PrintIndex.htm"
+    StartChapter="true"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    PageNumber="(multiple)"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Index.flpgl"
+    conditions="General.Future"></TocEntry>
+</CatapultToc>

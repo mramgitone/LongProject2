@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="991" MadCap:lastWidth="1120" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <body>
+        <MadCap:dropDown class="ThirdLevel">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>float </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../Formatting/FormattingPositionTabFloatField.flsnp" />
+                </p>
+                <MadCap:snippetBlock src="../Formatting/FormattingPositionTabFloatOptions.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown class="ThirdLevel">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>clear </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../Formatting/FormattingPositionTabClearField.flsnp" />
+                </p>
+                <MadCap:snippetBlock src="../Formatting/FormattingPositionTabClearOptions.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown class="ThirdLevel">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>vertical alignment</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p>Use this field to adjust where the item is positioned vertically.</p>
+                <ul>
+                    <li><span class="SetOffFirstLevel">Baseline </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>The baseline of the box will be aligned with the baseline of the parent box. </MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Text Top </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>The top of the box will be aligned with the top of the parent element's font.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Text Bottom </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>The bottom of the box will be aligned with the bottom of the line box.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Top </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>The top of the box will be aligned with the top of the line box.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Middle </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>The vertical midpoint of the box will be aligned with the baseline of the parent box, plus half the x-height of the parent.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Bottom </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>The bottom of the box will be aligned with the bottom of the line box.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

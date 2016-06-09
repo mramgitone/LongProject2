@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Mimic" MadCap:lastBlockDepth="2" MadCap:lastHeight="153" MadCap:lastWidth="933">
+    <body>
+        <p class="note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">If you import a WAV file and generate Flash output, Mimic looks for an MP3 codec on your computer to convert the WAV to MP3. If it doesn’t find one, you will receive a message. This likely will not happen if you have <MadCap:keyword term="Microsoft Windows XP" />Windows XP because that operating system has a built-in MP3 codec. But if you have <MadCap:keyword term="Microsoft Windows Vista" />Windows Vista, you may encounter the problem. The solution is to install a third-party MP3 codec. Then close Mimic, reopen it, and re-generate the Flash output.</p>
+    </body>
+</html>

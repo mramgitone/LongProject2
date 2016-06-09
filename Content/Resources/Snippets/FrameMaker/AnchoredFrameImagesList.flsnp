@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="6" MadCap:lastHeight="596" MadCap:lastWidth="1192">
+    <body>
+        <ul type="1" class="SecondLevel">
+            <li><span class="SetOffSecondLevel">Generate Images Without Callouts </span>
+                <MadCap:snippetText src="GenerateImagesWithoutCallouts.flsnp" />
+            </li>
+            <li>
+                <p><span class="SetOffSecondLevel">Generate Images With Callouts </span>
+                    <MadCap:snippetText src="GenerateImagesWithCallouts.flsnp" />
+                </p>
+                <p class="ExampleHead">example</p>
+                <p class="ExampleMiddleSection">If you import anchored frame images and tell Flare not to include the callouts, your imported image files will look something like this in Windows Explorer.</p>
+                <p class="ExampleMiddleSection">
+                    <img src="../../Images/import_fm_image_files1.png" class="MaxWidth50Percent" />
+                </p>
+                <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTransitionFromFMGuide" />
+                <p class="ExampleMiddleSection">On the other hand, if you import the same images and tell Flare to include the callouts, it will look something like this in Windows Explorer.</p>
+                <p class="Example">
+                    <img src="../../Images/import_fm_image_files2.png" class="MaxWidth60Percent" />
+                </p>
+                <MadCap:snippetBlock src="../Notes/NoteFMImagesWithCallouts.flsnp" />
+            </li>
+            <li><span class="SetOffSecondLevel">Generate Flattened Images </span>
+                <MadCap:snippetText src="GenerateFlattenedImages.flsnp" />
+            </li>
+        </ul>
+    </body>
+</html>

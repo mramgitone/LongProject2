@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="12" MadCap:lastHeight="2330" MadCap:lastWidth="583" MadCap:conditions="Products.Flare">
+    <head>
+        <link href="../../../TableStyles/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <MadCap:snippetBlock src="../WhatsNewSummary.flsnp" />
+        <MadCap:snippetBlock src="../WhatsNewSeeOnlineHelp.flsnp" MadCap:conditions="General.Print" />
+        <MadCap:snippetBlock src="../../ThisChapterDiscussesFollowing.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+        <h2 MadCap:conditions="FlareGuides.FlareWhatsNewGuide">Summary of Major New Features</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">summary of new features</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="FlareWhatsNewMajorFeaturesTable.flsnp" />
+                <h2 MadCap:conditions="FlareGuides.FlareWhatsNewGuide">Summary of Additional New Features</h2>
+                <MadCap:snippetBlock src="FlareWhatsNewAdditionalFeaturesTable.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

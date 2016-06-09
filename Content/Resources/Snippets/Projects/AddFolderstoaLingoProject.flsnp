@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="18" MadCap:lastHeight="6503" MadCap:lastWidth="898">
+    <body>
+        <ol>
+            <li>
+                <p>In the Start New Project Wizard, click <span class="Emphasis">Add Folder</span>.</p>
+                <p>
+                    <img src="../../Images/new_project_wizard_lingo1.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>
+                <p>In the dialog that opens, navigate to the folder that contains the files that you want to translate and click <span class="Emphasis">Select Folder</span>. </p>
+                <p>
+                    <img src="../../Images/new_project_wizard_lingo4.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>
+                <p>(Optional) Select the file types you want to import for translation.</p>
+                <ol style="list-style-type: lower-alpha;">
+                    <li>
+                        <p>In the <span class="Emphasis">File Types</span> column, click <b>File Types</b> if you want to select the kinds of files to import for translation. The Translatable File Types dialog opens. </p>
+                        <p>
+                            <img src="../../Images/filters_customize_filter2_folders_lingo.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                        <p>
+                            <img src="../../Images/filters_customize_filter3_folders_lingo.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <p>In the <span class="Emphasis">Translate</span> column, all the file types in the folder are selected by default. Deselect any file types you do not want to import. To quickly toggle all the check boxes in the Translate column, click the <b>Select All</b> check box. </p>
+                        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you select a folder that contains a MadCap project, such as a Flare or Mimic project, only translatable file types will display in the Translatable File Types dialog. For example, a Flare project may display Capture images (PNG or JPG files) and Flare topic files (HTM files), but not Flare glossary files (FLGLO files).</p>
+                    </li>
+                    <li>Click <b>OK</b>. The file types you are importing display in the File Types column. </li>
+                </ol>
+            </li>
+            <li>(Optional) If you need to remove a folder from the project, click <span class="Emphasis">Remove</span>.</li>
+            <li>
+                <p>(Optional) If you want to create file type filters for the files within the folder, from the <span class="Emphasis">Filter</span> drop-down, select <span class="Emphasis">Customize Folder</span>. The File Types Filters dialog opens. </p>
+                <p>
+                    <MadCap:snippetText src="../Filters/FiltersforFiles.flsnp" /> </p>
+                <p>
+                    <img src="../../Images/filters_customize_filter4_folders_lingo.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <MadCap:dropDown class="FourthLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>How to Create a File Type Filter—Word Files</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../Filters/FileTypeFilterWord.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="FourthLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>How to Create a File Type Filter—XML Files</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p>
+                            <MadCap:snippetBlock src="../Filters/FileTypeFilterXML.flsnp" />
+                        </p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="FourthLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>How to Create a File Type Filter—Text Files</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p>
+                            <MadCap:snippetBlock src="../Filters/FileTypeFilterTXT.flsnp" />
+                        </p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li>(Optional) If you want to copy all files in the folders you added, select <span class="Emphasis">Copy all files in selected folders</span>.</li>
+        </ol>
+    </body>
+    <head>
+    </head>
+</html>

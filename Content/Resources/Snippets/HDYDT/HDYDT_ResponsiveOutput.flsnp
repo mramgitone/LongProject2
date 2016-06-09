@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare">
+    <body>
+        <p>It's possible to create a separate mobile target for output to be viewed on smart phones. But because we are also generating HTML5 output, we chose an easier option. In the HTML5 target, we selected an option called "Responsive Output." <MadCap:snippetText src="../ResponsiveDesign/ResponsiveDesignSummary.flsnp" /></p>
+    </body>
+</html>

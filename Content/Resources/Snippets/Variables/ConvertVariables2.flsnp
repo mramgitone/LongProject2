@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="4" MadCap:lastHeight="708" MadCap:lastWidth="850">
+    <body>
+        <p>You might use this feature if a variable definition has different meanings in the translation language, depending on the context (e.g., "cash" versus "currency" in German). If you do not convert variables to plain text, you can only translate the variable with a single term, and it will be used everywhere in the project wherever the variable is inserted. On the other hand, if you convert variables to text, you will then be able to translate each term separately when it appears in the Translation Editor.</p>
+        <MadCap:snippetBlock MadCap:conditions="LingoGuides.LingoWhatsNewGuide" src="../EmptyPageBreakAfter.flsnp" />
+        <p class="ExampleHead">example</p>
+        <p class="ExampleMiddleSection">If you do not convert variables to text, you will see something like this.</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/convert_variables1.png" class="MaxWidth90Percent" />
+        </p>
+        <MadCap:snippetBlock MadCap:conditions="LingoGuides.LingoWhatsNewGuide" src="../EmptyPageBreakAfter.flsnp" />
+        <p class="ExampleMiddleSection">If you do convert variables to text, you will see something like this.</p>
+        <p class="Example">
+            <img src="../../Images/convert_variables2.png" class="MaxWidth75Percent" />
+        </p>
+        <MadCap:snippetBlock MadCap:conditions="LingoGuides.LingoWhatsNewGuide" src="../EmptyPageBreakAfter.flsnp" />
+        <p>If the Flare author created a target override for a variable (i.e., one Flare target will use a particular variable definition while another target will use a different one), there will be a drop-down with a check box. This allows you to select the target whose variable definition you want to use when converting to text.</p>
+        <p MadCap:conditions="Snippets.Snippet1">
+            <img src="../../Images/convert_variables_new_project.jpg" class="MaxWidth100Percent" />
+        </p>
+        <p MadCap:conditions="Snippets.Snippet2">
+            <img src="../../Images/convert_variables_update_project.jpg" class="MaxWidth100Percent" />
+        </p>
+    </body>
+</html>

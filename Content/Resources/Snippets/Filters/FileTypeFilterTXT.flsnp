@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="6" MadCap:lastHeight="818" MadCap:lastWidth="1308">
+    <body>
+        <ol>
+            <li>
+                <p>From the <span class="Emphasis">Filters</span> drop-down,  select<span class="Emphasis"> Create New</span>.</p>
+            </li>
+            <li>
+                <MadCap:snippetText src="EnteraNameFilter.flsnp" />
+            </li>
+            <li>(Optional) <MadCap:snippetText src="ExistingFilter.flsnp" /><ul><li><MadCap:snippetText src="ImportFilter.flsnp" /></li><li><MadCap:snippetText src="SelectFilter.flsnp" /></li><li><MadCap:snippetText src="CreateFilter.flsnp" /></li><li><MadCap:snippetText src="DeleteFilter.flsnp" /></li></ul><p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you delete a filter, it will be removed from all translation projects where it is currently in use.</p></li>
+            <li>
+                <p>In the <span class="Emphasis">Segment</span> field, enter a regular expression to identify the text you want to translate. (For more information about regular expressions, see <MadCap:xref href="../../../Find_and_Replace/Using_the_Find_and_Replace_in_Files_Feature.htm">Using the Find and Replace in Files Feature</MadCap:xref>.)</p>
+            </li>
+            <li>
+                <p>In the <span class="Emphasis">Note</span> field, enter a regular expression to identify the text you want to include as a note for each segment.</p>
+                <p MadCap:conditions="" class="ExampleHead">Example</p>
+                <p MadCap:conditions="" class="ExampleMiddleSection">Let's say you have a text file that looks like this:</p>
+                <p MadCap:conditions="" class="ExampleMiddleSection">
+                    <img src="../../Images/filters_text1.png" alt="" title="" class="MaxWidth90Percent" />
+                </p>
+                <p class="ExampleMiddleSection">You want to include everything on the left side of the text file (between the quotation marks) as a note in your translatable file, and everything on the right side of the text file (after the equal sign) as the segment for translation.</p>
+                <p class="ExampleMiddleSection">To accomplish this, you would create a filter using regular expressions that look like this:</p>
+                <p class="ExampleMiddleSection">
+                    <img src="../../Images/filters_text2.png" alt="" title="" class="MaxWidth90Percent" />
+                </p>
+                <p class="ExampleMiddleSection">When you create the project, it will look like this:</p>
+                <p class="Example">
+                    <img src="../../Images/filters_text3.png" alt="" title="" class="MaxWidth90Percent" />
+                </p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+        </ol>
+    </body>
+    <head>
+    </head>
+</html>

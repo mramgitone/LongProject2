@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="69" MadCap:lastWidth="743">
+    <body>
+        <p class="TableText">Hides the <MadCap:keyword term="Inheritance;Styles:inherited" />inherited styles from the "styles list" below. These are styles that were included in the template on which you based your new stylesheet.</p>
+    </body>
+</html>

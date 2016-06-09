@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="2" MadCap:lastHeight="81" MadCap:lastWidth="1221">
+    <body>
+        <p class="note">You cannot merge a bundle back into your project unless the files within it are named the same as the files in the original bundle.</p>
+    </body>
+    <head>
+    </head>
+</html>

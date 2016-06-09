@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Pulse,Products.Flare" MadCap:fileTags="PulseTopicAuthor.Kate">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p class="ExampleHead">example</p>
+        <p class="Example">Let's say that you view search keyword results from your users and find that many are entering the search term "sofa." Unfortunately, you have not used that word in your project, so users are unable to find the topics that they need. However, you have used a similar word, "couch." Therefore, in the Synonyms Editor, you enter "couch" as a synonym for "sofa." The next time a reader enters "sofa" as a search keyword, topics containing the word "couch" will be returned in the results. </p>
+    </body>
+</html>

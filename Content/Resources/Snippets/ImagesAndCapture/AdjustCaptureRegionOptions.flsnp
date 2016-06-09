@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Capture,Products.Contributor" MadCap:lastBlockDepth="6" MadCap:lastHeight="540" MadCap:lastWidth="695">
+    <body>
+        <MadCap:dropDown class="SecondLevel">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>drag edge </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p> You can resize the capture area manually by clicking any of the handles (small squares) around the edge of the rectangle and dragging them to resize the width and/or height.</p>
+                <p>
+                    <img src="../../Images/move_capture_window_drag.png" class="MaxWidth100Percent" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareImagesGuide,CaptureGuides.CaptureCreatingImagesGuide" />
+        <MadCap:dropDown class="SecondLevel">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>move entire capture area   </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>You can move the entire capture area by clicking the size-all icon in the center of the area <img src="../../Images/size_all_cursor.png" class="ReduceButtonSize" /> and dragging the area to a new location on your screen.</p>
+                <p>
+                    <img src="../../Images/move_capture_window.png" class="MaxWidth100Percent" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="CaptureGuides.CaptureCreatingImagesGuide,FlareGuides.FlareImagesGuide" />
+        <MadCap:dropDown class="SecondLevel">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>type width or height </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p>You can click in the number fields in the task bar to manually change the width and/or height of the capture window in pixels.</p>
+                <p>
+                    <img src="../../Images/task_bar_capture.png" class="MaxWidth100Percent" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare">
+    <body>
+        <p>This is where Flare gets really powerful. Condition tags are used to tell Flare, "Hey, this piece of content or this file—I want it to be in this output but not that one." For example, maybe you plan to have two versions of some online output—one version for beginners and one version for advanced users. Much of the content you create is going to be the same for both audiences, but some of it is going to written only for a specific audience. So you can create condition tags for each audience and use them to separate the content when you build your output. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Condition_Tags/About_Condition_Tags.htm">About Condition Tags</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

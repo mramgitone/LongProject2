@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Capture,Products.Mimic" MadCap:lastBlockDepth="2" MadCap:lastHeight="53" MadCap:lastWidth="502">
+    <body>
+        <p>You can easily add padding (or empty space) to increase the area around<MadCap:conditionalText MadCap:conditions="Products.Capture"> an image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic"> a frame</MadCap:conditionalText> or between the edge of an object and the text in it.</p>
+    </body>
+</html>

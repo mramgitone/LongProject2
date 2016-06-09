@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="29" MadCap:lastWidth="821" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <p>You can link a <MadCap:conditionalText MadCap:conditions="Snippets.Snippet1">TOC</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2">browse sequence</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">TOC or browse sequence</MadCap:conditionalText> entry to <MadCap:conditionalText MadCap:conditions="Snippets.Snippet1,Snippets.Snippet3">a</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2">another</MadCap:conditionalText> browse sequence.</p>
+    </body>
+</html>

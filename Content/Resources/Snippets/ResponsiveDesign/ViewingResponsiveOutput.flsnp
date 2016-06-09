@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="4" MadCap:lastHeight="395" MadCap:lastWidth="1161">
+    <body>
+        <p>When you finish generating responsive output, the Build Progress dialog includes view options not only for seeing output on a full browser output, but also on a tablet or smart phone.<MadCap:conditionalText MadCap:conditions="General.OnlineLive"> See <MadCap:xref href="../../../Output/More_About_Building_Final_Output/Viewing_Output.htm">Viewing Output</MadCap:xref> and <MadCap:xref href="../../../UI_Elements/Build_Progress_Dialog.htm">Build Progress Dialog</MadCap:xref>.</MadCap:conditionalText></p>
+        <p>
+            <img src="../../Images/responsive_design6.png" alt="" title="" class="MaxWidth100Percent">
+            </img>
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareHTML5Guide" />
+        <p>If you select the Tablet option, the view displays like this:</p>
+        <p>
+            <img src="../../Images/responsive_design8.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareHTML5Guide" />
+        <p>If you select the Smartphone option, the view displays like this:</p>
+        <p>
+            <img src="../../Images/responsive_design7.png" alt="" title="" class="MaxWidth40Percent" />
+        </p>
+    </body>
+</html>

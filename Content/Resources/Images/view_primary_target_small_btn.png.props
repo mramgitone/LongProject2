@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties conditions="Products.Mimic" fileTags="">
+    <ImageOverlay Profile="C:\Users\rmartinez\Documents\My Profiles\SharedImagesBorder.capro" ProfileHash="54db5c24cb8b652271c02c6580da0b7a" ScreenRectangle="2858,280,21,20">
+        <OriginalImage Folder="C:\Shared\Content\Resources\Images" FileName="" ImageScaleFactor="1.0" medium_print_EnableFormat="True" EdgeEffect="torn" Border="solid" BorderWidth="1" BackgroundColor="#ffffff" BorderColor="#000000" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" Right="0" Bottom="0" ExportFormat="png" JPEGQuality="80" ComputedWidth="23" ComputedHeight="22" Format="tiff">SUkqAMQCAACAPyBP8AQWDQeEQmFQuGQ2HQ+CvuJQSIRWLReMQeJPuKRmPR+QRuOwhSyUALSUQgiSsAO+XABmzGVSyXO+YTKDysiQwNT0AEmgQx9UORwdOUcADWlAAz02EMyoTdm0ynQeoMypVQz0+owdMV8AGSxUKiQsrWcAKi1VmxGSEM+4Wyxwe4M+5W66XGjpwAGa/WR9UWDFPCAAVYeQYmEhvGAA0Y+GPnJYKClHLABPZkAMrOAAvZ+ENjRZvO58vaHR5xlZ7QQfRNi02s07PI5OFpTcAAO7sAFzfQht8EAMniAAEgoFgB/v5/AB+v+CP9+v0AFgsFfgcKDqzuAA2d/avnKAAl+WMG84HEACgWjSIM1kMEAJxNpqILX8Qx8fvxkj/AAco1kyAB8gCASCn65pKgWbj1vagoAgCAABgFA4AQqgp/IIfx+n4ABjGEXYADcbsDgIfZ8AAFhilEABcRe/T+IWnQAG+ORRgAfwAgG5UOgATQDGsAAUheGsJgGAgAAIAskgEAceOm6h+okABgl2WgADUcAEOUfJ6gAGhiE+ABeTLGJ8PGIM1QAOhSAAfcJxyfk4EwA5rxUGIbyVJgAAKAoDT2AoAIFDx9n0fIAF6WxYO8cADyUfR7gAFphk8ABf0whh7028Ye08ABzDsU0cx25U5gAS87UmGYdSPHkl0FCsDuY5qNgAXZalbEdHAAAJ80kFphE6ABh2Khh7WQ8YYWXQY/FUAB9Qu5UqOnOBIAacQABmHAf1dXsDOU5YAF1XNBn46g8HBHgCxQAAKlsSoAGhedj2ShYu3xD5jGMjBEkURbnOm5yBTfc+Aw9DspR8RZFkUAAdYgABR4mhh64s8bFJATJMvtc+FOoNw2jYiGLHrjGMsUSRJEngOPgAOg6Dmhh6Zpk+UZQRpGkdHLmAAOo6johh56Hm2b6Mi6AgEAD+AAQAAQAAAAAAAAAAAQQAAQAAABUAAAABAQQAAQAAABQAAAACAQMABAAAAIoDAAADAQMAAQAAAAUAAAAGAQMAAQAAAAIAAAARAQQAAQAAAAgAAAAVAQMAAQAAAAQAAAAWAQQAAQAAABQAAAAXAQQAAQAAALwCAAAaAQUAAQAAAJIDAAAbAQUAAQAAAJoDAAAcAQMAAQAAAAEAAAAoAQMAAQAAAAIAAAA9AQMAAQAAAAIAAABSAQMAAQAAAAIAAAAAAAAACAAIAAgACAAAdwEA6AMAAAB3AQDoAwAA</OriginalImage>
+        <Shapes />
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <Variables />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

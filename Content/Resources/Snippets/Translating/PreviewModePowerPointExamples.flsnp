@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="4" MadCap:lastHeight="444" MadCap:lastWidth="1074">
+    <body>
+        <p MadCap:conditions="" class="ExampleHead">example—powerpoint</p>
+        <p MadCap:conditions="" class="ExampleMiddleSection">When you first open a PowerPoint file in Lingo, it may look something like this, with text segments in a grid.</p>
+        <p MadCap:conditions="" class="ExampleMiddleSection">
+            <img src="../../Images/powerpoint_preview1.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="LingoGuides.LingoWhatsNewGuide,LingoGuides.LingoTranslationGuide" />
+        <p MadCap:conditions="" class="ExampleMiddleSection">After you click <img src="../../Images/toggle_translation_preview_mode_btn.jpg" class="ReduceButtonSize" />, the file looks just like it would in PowerPoint.</p>
+        <p MadCap:conditions="" class="ExampleMiddleSection">
+            <img src="../../Images/powerpoint_preview2.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="LingoGuides.LingoWhatsNewGuide,LingoGuides.LingoTranslationGuide" />
+        <p class="ExampleMiddleSection">If the PowerPoint document has multiple pages, and most do, you can use previous and next arrow buttons to navigate to other pages.</p>
+        <p class="Example">
+            <img src="../../Images/powerpoint_preview3.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,557 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:ignoredWords="ToolbarItem;FlashPlayer;LowerToolbar;UpperToolbar;NextSection;PreviousSection;SectionList;LabellconRelation;Tooltip;BorderBottom;BorderLeft;BorderRight;BorderTop;BackgroundColorChecked;ColorChecked;IconChecked;BackgroundColor;FontFamily;Arial;FontSize;FontStyle;FontWeight;MarginBottom;MarginLeft;MarginRight;MarginTop;MouseOver;BackgroundColorHover;ColorHover;IconOver;MousePressed;BackgroundColorPressed;ColorPressed;IconPressed" MadCap:lastBlockDepth="11" MadCap:lastHeight="5996" MadCap:lastWidth="591" MadCap:conditions="Products.Mimic">
+    <head>
+        <link href="../Resources/TableStyles/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" /><title></title>
+        <link href="../Resources/Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Language support:language skins;Adobe Flash:language skins;Skins:language skins;Language support:Language Skin Editor" />
+            <MadCap:concept term="User Interface Elements" />Language Skin Editor</h1>
+        <p>This editor is used to edit style settings (including text) for existing language skins. Normally, you would edit style settings for a skin in the Skin Editor. However if you want to display the output user interface in a particular language, you can use this editor instead. (The rest of the interface settings, such as which buttons to include and where to place the navigation toolbar, should still be specified in the Skin Editor.) When you generate <MadCap:snippetText src="../Resources/Snippets/Output/AIRFlashSilverlightOR.flsnp" />, <MadCap:variable name="Products.Mimic" /> first looks at the style settings in the Skin Editor. If it does not find manually entered style settings in that editor, it uses those from the Language Skin Editor. If it does not find settings in either editor, it uses the default skin settings. </p>
+        <p>With the Language Skin Editor, you can modify the look of the skin and the text shown on buttons and labels. Language skins are available only with browser-based output. See <MadCap:xref href="../Language_Support/About_Language_Support_Mimic.htm" target="" title="" alt="">About Language Support</MadCap:xref> and <MadCap:xref href="../Language_Support/Editing_Language_Skins_Mimic.htm" target="" title="" alt="">Editing Language Skins</MadCap:xref>.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>
+                    <MadCap:snippetText src="../Resources/Snippets/UIElements/HowToOpenThisEditor.flsnp" />
+                </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol type="1" class="Decimal">
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                        <ul class="FirstLevel">
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon</span> <MadCap:snippetText src="../Resources/Snippets/UIElements/SelectToolsRibbon.flsnp" /> In the <span class="Emphasis">Edit</span> section, select <span class="Emphasis">Manage Language Skins</span>. </p>
+                                <p>
+                                    <MadCap:snippetBlock src="../Resources/Snippets/UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" />
+                                </p>
+                            </li>
+                            <li><span class="SetOffFirstLevel">Menu</span> Select <span class="Emphasis">Tools&gt;Manage Language Skins</span>.</li>
+                        </ul>
+                        <p>The Language Skins dialog opens.</p>
+                    </li>
+                    <li>Select a language from the list.</li>
+                    <li>
+                        <p>Click <span class="Emphasis">Open File For Editing</span>. If you select a language in regular font (i.e., a language skin that is not factory installed and not user defined), the Select Template Language Skin dialog opens at this point. Select a language and click <span class="Emphasis">OK</span>.</p>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>
+                    <MadCap:snippetText src="../Resources/Snippets/UIElements/ExplainIndividualButtonsSections.flsnp" />
+                </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <table style="caption-side: top;margin-left: 0;margin-right: auto;mc-table-style: url('../Resources/TableStyles/BasicAlternateRows.css');" class="TableStyle-BasicAlternateRows" cellspacing="0">
+                    <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+                    <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+                    <thead>
+                        <tr class="TableStyle-BasicAlternateRows-Head-Header1">
+                            <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                                <p class="TableTextHead">&#160;</p>
+                            </th>
+                            <th class="TableStyle-BasicAlternateRows-HeadD-Regular-Header1">
+                                <p class="TableTextHead">Description</p>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableText">
+                                    <img src="../Resources/Images/cut_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Cuts the selection and sends it to the clipboard. </p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">
+                                    <img src="../Resources/Images/copy_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Copies the selection and sends it to the clipboard. </p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableText">
+                                    <img src="../Resources/Images/paste_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Pastes the selection from the clipboard to the place where the cursor is inserted. </p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">
+                                    <img src="../Resources/Images/delete_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Deletes the selection. </p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableTextEmphasis">Add Class</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Opens the New Style dialog, which lets you create a new style class for the Toolbar Item node. After you create the new toolbar item, you can set the styles to apply an action to it or to change its look and feel. You can also apply an action to a custom toolbar item by adding custom JavaScript.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableTextEmphasis">Styles</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">
+                                    <MadCap:keyword term="Output:navigation toolbar;Skins:navigation toolbar styles;Adobe Flash:navigation toolbar;Navigation toolbar:styles;Toolbars:navigation toolbar;Styles:navigation toolbar;Buttons:styles for navigation toolbar" />Displays the style items that you can modify for browser-based output. This includes the Flash Player (the "container" for displaying the movies), toolbars (you can have a navigation toolbar above or below the movies), and toolbar items (e.g., buttons for moving back or forward, pausing, displaying a logo). When you select an item, the relevant properties are shown to the right. If you select one of the style headings (Toolbar, Toolbar Item), as opposed to an item below it, the property values that you set will be applied to all the items below that heading.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableTextEmphasis">Property Groups</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Select this option to display the style properties in the appropriate groups (e.g., font properties under "Fonts," border properties under "Borders").</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableTextEmphasis">Alphabetical List</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Select this option to display the style properties in alphabetical order.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                                <p class="TableTextEmphasis">Properties</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyA-Regular-LightRows">
+                                <p class="TableText">Lists the properties relevant to the style item that is selected to the left. If the properties are displayed in property groups, expand the group to see the actual properties. The property name is displayed in the left column. The right column is used to specify the value settings for the property. Depending on the property, you might set the value by typing an entry, selecting an option from a drop-down list, or specifying settings in a small popup window. </p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>styles</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <table style="caption-side: top;margin-left: 0;margin-right: auto;mc-table-style: url('../Resources/TableStyles/BasicAlternateRows.css');" class="TableStyle-BasicAlternateRows" cellspacing="0">
+                    <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+                    <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+                    <thead>
+                        <tr class="TableStyle-BasicAlternateRows-Head-Header1">
+                            <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                                <p class="TableTextHead">&#160;</p>
+                            </th>
+                            <th class="TableStyle-BasicAlternateRows-HeadD-Regular-Header1">
+                                <p class="TableTextHead">Description</p>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableTextEmphasis">
+                                    <MadCap:keyword term="FlashPlayer" />Flash Player</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Select this to set style properties for the "container" used to display the movies.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableTextEmphasis">Toolbar/Lower Toolbar</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Select this to set style properties for a navigation toolbar displayed below the movie. </p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableTextEmphasis">Toolbar/Upper Toolbar</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Select this to set style properties for a navigation toolbar displayed above the movie.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableTextEmphasis">
+                                    <MadCap:keyword term="Back button;Buttons:back" />Toolbar Item/Back</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Select this to set style properties for the "Back" button that you can add to a customized toolbar for browser-based output. This button will let the user open the previous frame in the movie.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableTextEmphasis">
+                                    <MadCap:keyword term="Filler;Buttons:filler" />Toolbar Item/Filler</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">
+                                    <temp>Select this to set style properties for the </temp>area in the navigation toolbar where buttons and logos do not appear.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableTextEmphasis">Toolbar Item/First </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Select this to set style properties for the "First" button that you can add to a customized toolbar for browser-based output. This button will let the user open the first frame in the movie.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableTextEmphasis">
+                                    <MadCap:keyword term="Forward button;Buttons:forward" />Toolbar Item/Forward</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Select this to set style properties for the "Forward" button that you can add to a customized toolbar for browser-based output. This button will let the user open the next frame in the movie.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableTextEmphasis">
+                                    <MadCap:keyword term="Home page;Buttons:home" />Toolbar Item/Home</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Select this to set style properties for the "Home" button that you can add to a customized toolbar for browser-based output. If you include a "Home" button in the skin, you can associate a specific URL (e.g., http://www.madcapsoftware.com) with that button. When users click the button in the movie output, the website will open.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableTextEmphasis">
+                                    <MadCap:keyword term="Logo;Buttons:logo" />Toolbar Item/Logo</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Select this to set style properties for the logo that is displayed in the toolbar of the output window. </p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableTextEmphasis">
+                                    <MadCap:keyword term="Next section button;Buttons:next section" />Toolbar Item/Next Section</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Select this to set style properties for the "Next Section" button that you can add to a customized toolbar for browser-based output. This button will let the user open the next movie in the collection (if you have generated a collection rather than a standalone movie).</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableTextEmphasis">
+                                    <MadCap:keyword term="Pausing;Buttons:pause" />Toolbar Item/Pause</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Select this to set style properties for the "Pause" button that you can add to a customized toolbar for browser-based output. This button will let the user pause the movie.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableTextEmphasis">
+                                    <MadCap:keyword term="Previous section button;Buttons:previous section" />Toolbar Item/Previous Section</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Select this to set style properties for the "Previous Section" button that you can add to a customized toolbar for browser-based output. This button will let the user open the previous movie in the collection (if you have generated a collection rather than a standalone movie).</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableTextEmphasis">
+                                    <MadCap:keyword term="Section list;Buttons:section list" />Toolbar Item/Section List</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Select this to set style properties for the "Section List" area for browser-based output. This area is included if you have generated a collection rather than a standalone movie. The list contains quick links to all of the movies in the collection.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyB-Regular-DarkerRows">
+                                <p class="TableTextEmphasis">
+                                    <MadCap:keyword term="Separator;Buttons:separator" />Toolbar Item/Separator</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyA-Regular-DarkerRows">
+                                <p class="TableText"> Select this to set style properties for the separator that you can add to a customized toolbar for browser-based output. The separator is the divider between the navigation toolbar buttons.</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>properties</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <table style="caption-side: top;margin-left: 0;margin-right: auto;mc-table-style: url('../Resources/TableStyles/BasicAlternateRows.css');" class="TableStyle-BasicAlternateRows" cellspacing="0">
+                    <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+                    <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+                    <thead>
+                        <tr class="TableStyle-BasicAlternateRows-Head-Header1">
+                            <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                                <p class="TableTextHead">&#160;</p>
+                            </th>
+                            <th class="TableStyle-BasicAlternateRows-HeadD-Regular-Header1">
+                                <p class="TableTextHead">Description</p>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableTextEmphasis">Basic/Height</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Adjusts the height of the item.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableTextEmphasis">Basic/Icon</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Adds an image next to the style item. Click the down arrow in this field and then select <span class="Emphasis">Browse for Image</span> to find and select an image file.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableTextEmphasis">Basic/Label</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Replaces the label text of the style item. For example, if you want the "Forward" button to display the word "Next," click in this field and type <span class="TypedEntry">Next</span>.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableTextEmphasis">Basic/Label lcon Relation</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Lets you determine where the label and image on a button should be placed in relation to each other. You can specify any of the following: display label above the icon, display icon above the label, display label only, display icon only.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableTextEmphasis">Basic/Tooltip</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Lets you enter a text tip that displays when a user hovers the mouse over the item. For example, if you have added a "Home" button for the output, you can create a tool tip that displays the URL for the button (such as your company's website).</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableTextEmphasis">Basic/Width</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Adjusts the width of the item.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableTextEmphasis">
+                                    <MadCap:keyword term="Borders:styles" />Borders/Border Bottom</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Sets the bottom border of the style item. Click the down arrow to open a small window. In this window, you can enter the width of the border in the lower-left field. You can select the unit of measurement (e.g., pixels, points, centimeters) using the lower-left drop-down arrow (see <MadCap:xref href="../Styles/More_About_Styles_and_Style_Sheets/About_Units_of_Measurement.htm">About Units of Measurement</MadCap:xref>). You can select a color for the border using the upper-right drop-down arrow. And you can select the type of line for the border (e.g., solid, dashed, dotted) using the lower-right drop-down arrow.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableTextEmphasis">Borders/Border Left</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Sets the left border of the style item. Click the down arrow to open a small window. In this window, you can enter the width of the border in the lower-left field. You can select the unit of measurement (e.g., pixels, points, centimeters) using the lower-left drop-down arrow (see <MadCap:xref href="../Styles/More_About_Styles_and_Style_Sheets/About_Units_of_Measurement.htm">About Units of Measurement</MadCap:xref>). <MadCap:keyword term="Color:border;Borders:color" />You can select a color for the border using the upper-right drop-down arrow. And you can select the type of line for the border (e.g., solid, dashed, dotted) using the lower-right drop-down arrow.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableTextEmphasis">Borders/Border Right</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Sets the right border of the style item. Click the down arrow to open a small window. In this window, you can enter the width of the border in the lower-left field. You can select the unit of measurement (e.g., pixels, points, centimeters) using the lower-left drop-down arrow (see <MadCap:xref href="../Styles/More_About_Styles_and_Style_Sheets/About_Units_of_Measurement.htm">About Units of Measurement</MadCap:xref>). You can select a color for the border using the upper-right drop-down arrow. And you can select the type of line for the border (e.g., solid, dashed, dotted) using the lower-right drop-down arrow.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableTextEmphasis">Borders/Border Top</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Sets the top border of the style item. Click the down arrow to open a small window. In this window, you can enter the width of the border in the lower-left field. You can select the unit of measurement (e.g., pixels, points, centimeters) using the lower-left drop-down arrow (see <MadCap:xref href="../Styles/More_About_Styles_and_Style_Sheets/About_Units_of_Measurement.htm">About Units of Measurement</MadCap:xref>). You can select a color for the border using the upper-right drop-down arrow. And you can select the type of line for the border (e.g., solid, dashed, dotted) using the lower-right drop-down arrow.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableTextEmphasis">Checked/Background Color Checked</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Sets the background color for the style item when the item is selected (i.e., "checked"). You can click a color shown, or you can click <span class="Emphasis">More colors</span> and select a different color or create a custom color.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableTextEmphasis">Checked/Color Checked</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Sets the font color for the style item when the item is selected (i.e., "checked"). You can click a color shown, or you can click <span class="Emphasis">More colors</span> and select a different color or create a custom color.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableTextEmphasis">Checked/Icon Checked</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Sets the image for the style item when the item is selected (i.e., "checked"). Click the down arrow in this field and then select <span class="Emphasis">Browse for Image</span> to find and select an image file.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableTextEmphasis">Font/Background Color</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">
+                                    <temp>
+                                        <MadCap:keyword term="Fonts:color;Color:font;Background:color" />Sets the background color of the font for the style item. Click the down arrow to open a color palette window. You can click a color shown, or you can click <span class="Emphasis">More colors</span> and select a different color or create a custom color.</temp>
+                                </p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableTextEmphasis">Font/Color</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Sets the color of the font for the style item. Click the down arrow to open a color palette window. You can click a color shown, or you can click <span class="Emphasis">More colors</span> and select a different color or create a custom color. </p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableTextEmphasis">Font/Font Family</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Sets the font family (e.g., Arial, Tahoma) for the style item. Click the down arrow to open a small window. In this window, select <span class="Emphasis">(click to add family)</span>. A drop-down list appears, from which you can select a font family. You can select additional font families to be used in case your users do not have the first font family selected. If the first font family is not found on the user's computer, it uses the second font family. If the second font family is not found, it uses the third font family, and so on. When you want to delete a font family that you have added, select it in this window and press <span class="Emphasis">Delete</span> on your keyboard. When you are finished, click <span class="Emphasis">OK</span> in the small window to accept the settings.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableTextEmphasis">Font/Font Size</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Sets the size of the font for the style item. Click the down arrow to open a small window. In this window, you can enter the size of the font in the lower-left field (either type a number or use the up and down arrows). You can select the unit of measurement (e.g., pixels, points, centimeters) using the lower-right drop-down arrow (see <MadCap:xref href="../Styles/More_About_Styles_and_Style_Sheets/About_Units_of_Measurement.htm">About Units of Measurement</MadCap:xref>). You can return to the default setting by using the upper-right drop-down arrow.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableTextEmphasis">Font/Font Style</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Sets the style of the font for the style item. Click the down arrow and select either <span class="Emphasis">italic</span> or <span class="Emphasis">normal</span>. </p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableTextEmphasis">Font/Font Weight</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Sets the weight of the font for the style item. Click the down arrow and select either <span class="Emphasis">bold</span> or <span class="Emphasis">normal</span>. </p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableTextEmphasis">
+                                    <MadCap:keyword term="Margins:styles" />Margin/Margin Bottom</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Sets the margin (space) below the item. </p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableTextEmphasis">Margin/Margin Left</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Sets the margin (space) to the left of the item.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableTextEmphasis">Margin/Margin Right</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Sets the margin (space) to the right of the item.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableTextEmphasis">Margin/Margin Top</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Sets the margin (space) above the item.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableTextEmphasis">
+                                    <MadCap:keyword term="Mouse:hover properties" />Mouse Over/Background Color Hover</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Sets the background color for the style item when the mouse hovers over it. You can click a color shown, or you can click <span class="Emphasis">More colors</span> and select a different color or create a custom color.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableTextEmphasis">Mouse Over/Color Hover</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Sets the font color for the style item when the mouse hovers over it<temp>. </temp>You can click a color shown, or you can click <span class="Emphasis">More colors</span> and select a different color or create a custom color.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableTextEmphasis">Mouse Over/Icon Over</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Sets the image for the style item when the mouse hovers over it<temp>. </temp>Click the down arrow in this field and then select <span class="Emphasis">Browse for Image</span> to find and select an image file.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableTextEmphasis">
+                                    <MadCap:keyword term="Mouse:pressed properties" />Mouse Pressed/Background Color Pressed</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Sets the background color for the style item when the mouse button is pressed. You can click a color shown, or you can click <span class="Emphasis">More colors</span> and select a different color or create a custom color.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableTextEmphasis">Mouse Pressed/Color Pressed</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Sets the font color for the style item when the mouse button is pressed<temp>. </temp>You can click a color shown, or you can click <span class="Emphasis">More colors</span> and select a different color or create a custom color.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                                <p class="TableTextEmphasis">Mouse Pressed/Icon Pressed</p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyA-Regular-LightRows">
+                                <p class="TableText">Sets the image for the style item when the mouse button is pressed<temp>. </temp>Click the down arrow in this field and then select <span class="Emphasis">Browse for Image</span> to find and select an image file.</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

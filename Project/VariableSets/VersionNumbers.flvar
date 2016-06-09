@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="Products.AllProductsPlusDocBible">
+  <Variable
+    Comment="Even if doing a dot release, keep this at a whole number. This is used for folders on the server where things like PDFs and movies are downloaded."
+    Name="FlareVersionNumber">11</Variable>
+  <Variable
+    Name="CaptureVersionNumber"
+    Comment="Even if doing a dot release, keep this at a whole number. This is used for folders on the server where things like PDFs and movies are downloaded."
+    Definition="Some text">7</Variable>
+  <Variable
+    Name="MimicVersionNumber"
+    Comment="Even if doing a dot release, keep this at a whole number. This is used for folders on the server where things like PDFs and movies are downloaded."
+    Definition="Some text">7</Variable>
+  <Variable
+    Name="CaptureVersionNumberDot"
+    Comment="Used for title pages and topic master footer (to let people know the specific version of the software)."
+    Definition="Some text">7.0</Variable>
+  <Variable
+    Comment="Used for title pages and topic master footer (to let people know the specific version of the software)."
+    Name="FlareVersionNumberDot">11.0</Variable>
+  <Variable
+    Name="MimicVersionNumberDot"
+    Comment="Used for title pages and topic master footer (to let people know the specific version of the software)."
+    Definition="Some text">7.0</Variable>
+  <Variable
+    Comment="Even if doing a dot release, keep this at a whole number. This is used for folders on the server where things like PDFs and movies are downloaded."
+    Name="AnalyzerVersionNumber">7</Variable>
+  <Variable
+    Comment="Used for title pages and topic master footer (to let people know the specific version of the software)."
+    Name="AnalyzerVersionNumberDot">7.0</Variable>
+  <Variable
+    Comment="Even if doing a dot release, keep this at a whole number. This is used for folders on the server where things like PDFs and movies are downloaded."
+    Name="FeedbackExplorerVersionNumber">4</Variable>
+  <Variable
+    Comment="Used for title pages and topic master footer (to let people know the specific version of the software)."
+    Name="FeedbackExplorerVersionNumberDot">4.0</Variable>
+  <Variable
+    Comment="Even if doing a dot release, keep this at a whole number. This is used for folders on the server where things like PDFs and movies are downloaded."
+    Name="LingoVersionNumber">9</Variable>
+  <Variable
+    Comment="Used for title pages and topic master footer (to let people know the specific version of the software)."
+    Name="LingoVersionNumberDot">9.0</Variable>
+  <Variable
+    Name="MovieSyncVersionNumber"
+    Comment="Even if doing a dot release, keep this at a whole number. This is used for folders on the server where things like PDFs and movies are downloaded."
+    Definition="Some text">5</Variable>
+  <Variable
+    Name="MovieSyncVersionNumberDot"
+    Comment="Used for title pages and topic master footer (to let people know the specific version of the software)."
+    Definition="Some text">5.0</Variable>
+  <Variable
+    Name="ContributorVersionNumber"
+    Comment="Even if doing a dot release, keep this at a whole number. This is used for folders on the server where things like PDFs and movies are downloaded."
+    Definition="Some text">6.1</Variable>
+  <Variable
+    Name="ContributorVersionNumberDot"
+    Comment="Used for title pages and topic master footer (to let people know the specific version of the software)."
+    Definition="Some text">6.1</Variable>
+  <Variable
+    Comment="For things like command line build."
+    Name="FlareVersionNumberWholeNumber">11</Variable>
+  <Variable
+    Name="MimicVersionNumberWholeNumber"
+    Comment="For things like command line build."
+    Definition="Some text">7</Variable>
+  <Variable
+    Comment="Used for title pages and topic master footer (to let people know the specific version of the software)."
+    Name="HelpViewerVersionNumberDot">6.3</Variable>
+  <Variable
+    Name="HelpViewerVersionNumber"
+    Comment="Even if doing a dot release, keep this at a whole number. This is used for folders on the server where things like PDFs and movies are downloaded.">6.3</Variable>
+  <Variable
+    Comment="Used for title pages and topic master footer (to let people know the specific version of the software)."
+    Name="MovieViewerVersionNumberDot">5.0</Variable>
+  <Variable
+    Name="MovieViewerVersionNumber"
+    Comment="Even if doing a dot release, keep this at a whole number. This is used for folders on the server where things like PDFs and movies are downloaded.">5</Variable>
+  <Variable
+    Comment="Even if doing a dot release, keep this at a whole number. This is used for folders on the server where things like PDFs and movies are downloaded."
+    Name="FeedbackServerAdminVersionNumber">4</Variable>
+  <Variable
+    Comment="Used for title pages and topic master footer (to let people know the specific version of the software)."
+    Name="FeedbackServerAdminVersionNumberDot">4.0</Variable>
+  <Variable
+    Name="PulseVersionNumber"
+    Comment="Even if doing a dot release, keep this at a whole number. This is used for folders on the server where things like PDFs and movies are downloaded."
+    Definition="Some text">4.2</Variable>
+  <Variable
+    Name="PulseVersionNumberDot"
+    Comment="Used for title pages and topic master footer (to let people know the specific version of the software)."
+    Definition="Some text">4.2</Variable>
+</CatapultVariableSet>

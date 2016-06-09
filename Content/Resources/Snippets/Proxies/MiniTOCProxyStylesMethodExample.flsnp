@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="627" MadCap:lastWidth="841" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <p class="ExampleHead">example—styles method for print output</p>
+        <p class="ExampleMiddleSection">Let's say that you want to use the default method in print-based output, where the mini-TOC entries are based on headings using the &lt;h1&gt; through &lt;h6&gt; styles in your project. Perhaps you have created a lengthy topic, with the &lt;h1&gt; style applied to the first heading in that topic and several subheadings below it that are using the &lt;h2&gt; and &lt;h3&gt; styles. Like this:</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/mini_toc_proxy_example.png" class="MaxWidth50Percent" />
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTablesOfContentsGuide,FlareGuides.FlarePrintedOutputGuide" />
+        <p class="ExampleMiddleSection">Now let's say that you insert a mini-TOC proxy between the &lt;h1&gt; heading and the first &lt;h2&gt; heading, like this:</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/mini_toc_proxy_example2.png" class="MaxWidth50Percent" />
+        </p>
+        <p class="ExampleMiddleSection">When you insert the proxy, let's say you specify that it should use a depth of 3. In that case, the output will display links that point to all your subheadings—the &lt;h2&gt; headings (which are second-level headings), as well as the &lt;h3&gt; headings (which are third-level headings). But suppose you also have, say, &lt;h4&gt; headings in the topic content. Those &lt;h4&gt; headings will not be included in the mini-TOC because you selected a depth of 3 rather than 4 or higher.</p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTablesOfContentsGuide,FlareGuides.FlarePrintedOutputGuide" />
+        <p class="ExampleMiddleSection">In the output, it might look something like this:</p>
+        <p class="Example">
+            <img src="../../Images/mini_toc_proxy_example3.png" class="MaxWidth80Percent" />
+        </p>
+    </body>
+</html>

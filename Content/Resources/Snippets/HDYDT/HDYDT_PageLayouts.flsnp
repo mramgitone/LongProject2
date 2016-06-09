@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="141" MadCap:lastWidth="1217">
+    <body>
+        <p>Page layouts go hand-in-hand with outline TOCs. You use page layouts to tell Flare the sizes of the pages, their orientation (portrait/landscape), their margins, header and footer content, whether they should have page numbers, and more. In our project, we wanted to produce four different PDFs<span style="font-family: 'Calibri'">—</span>two that are 7x9 inches, and two that are 8½x11 inches. So we created two groups of page layouts, one group for each size, and we placed them in custom folders in the Content Explorer just to keep them organized. Each group has seven different page layouts because we want our pages to look different for the different kinds of content we have (e.g., chapters, copyright page, TOC, index). And most of these page layouts contain multiple types of pages, because we want the first pages of chapters to look different from the left pages, and we want the left pages to look different from the right pages, and so on. It can be a lot of set up, but the good news is that once you're done, you rarely (if ever) need to do much editing in them.</p>
+    </body>
+</html>

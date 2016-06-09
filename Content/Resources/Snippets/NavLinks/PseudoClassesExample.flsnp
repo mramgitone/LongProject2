@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="104" MadCap:lastWidth="1006" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer">
+    <body>
+        <p class="ExampleHead">example</p>
+        <p class="Example">Let's say you want the text to display in green for links that have not yet been clicked. But after a link is clicked, you want it to display as gray text. Therefore, under the &lt;a&gt; style tag, you modify the "link" pseudo class and change the font color to green. Then you modify the "visited" pseudo class under the &lt;a&gt; tag so that the font color is gray.</p>
+    </body>
+</html>

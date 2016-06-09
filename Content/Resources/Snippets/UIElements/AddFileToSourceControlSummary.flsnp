@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="306" MadCap:lastWidth="924" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <head>
+    </head>
+    <body>
+        <p class="TableText">Opens the Check In dialog, which lets you add the selected files to the integrated source control application. </p>
+        <p class="TableText">When working in a <MadCap:snippetText src="../AllProductVariables.flsnp"></MadCap:snippetText> project that is connected to a source control application, there may be occasions when you have files in your local copy of <MadCap:snippetText src="../AllProductVariables.flsnp"></MadCap:snippetText> that are not yet part of the source control copy. For example, when you add a new topic in your local copy of the project, that file will not be included in the source control copy of the project until you add it.</p>
+        <p class="TableText">See <MadCap:xref href="../../../Source_Control/Adding_Files_to_Source_Control.htm">Adding Files to Source Control</MadCap:xref>.</p>
+    </body>
+</html>

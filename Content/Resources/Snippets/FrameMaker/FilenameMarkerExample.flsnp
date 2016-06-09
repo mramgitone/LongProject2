@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="188" MadCap:lastWidth="571" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <p class="ExampleHead">example</p>
+        <p class="ExampleMiddleSection">Let's say that you have a place in a FrameMaker document that is using the Heading 1 style and contains the text "All About Rabbits." You want a new topic to be created at that point when you import the document. However, you also want to make sure that the file name for that new topic is simply "Rabbits." Therefore, you open the FrameMaker document and insert a filename marker at that heading, using the text "Rabbits" for the marker.</p>
+        <p class="Example">When you import the FrameMaker document, you select to split new topics on certain styles, including the Heading 1 style. After the import is finished, one of the topics created is named "Rabbits.htm."</p>
+    </body>
+</html>

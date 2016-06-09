@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="251" MadCap:lastWidth="1122" MadCap:conditions="Products.AllProducts">
+    <head>
+        <link href="../../../../TableStyles/Simple.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>&#160;</p>
+        <table style="mc-table-style: url('../../../../TableStyles/Simple.css');margin-left: auto;margin-right: auto;caption-side: top;" class="TableStyle-Simple" cellspacing="0">
+            <col class="TableStyle-Simple-Column-Column1" />
+            <col class="TableStyle-Simple-Column-Column1" />
+            <col class="TableStyle-Simple-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-Simple-Body-Row1">
+                    <td class="TableStyle-Simple-BodyB-Column1-Row1"><a href="http://docs.madcapsoftware.com/FlareV11/FlareReviewsAndContributionsGuide.pdf" target="_blank"><img src="../../../../Images/pdf_cover_reviews_contributions_guide.png" alt="" title="Flare provides for close collaboration between authors and other individuals through the use of topic reviews and contributions." class="Hyperlinked" /></a>
+                    </td>
+                    <td class="TableStyle-Simple-BodyB-Column1-Row1"><a href="http://docs.madcapsoftware.com/FlareV11/FlareSearchGuide.pdf" target="_blank"><img src="../../../../Images/pdf_cover_search_guide.png" alt="" title="You can add the search feature to any of your online output targets. When users want to find information about a specific subject, they enter key words in the Search field. A search engine looks through every topic in your project to find the term(s) entered by the user. When it finds the terms, it presents the user with a list of topics to open. The way that search works differs depending on the output type. There are also special features that you can use to enhance search, such as synonyms, partial-word search, filters, reports, and excluding topics from search." class="Hyperlinked" /></a>
+                    </td>
+                    <td class="TableStyle-Simple-BodyA-Column1-Row1"><a href="http://docs.madcapsoftware.com/FlareV11/FlareSharePointGuide.pdf" target="_blank"><img src="../../../../Images/pdf_cover_sharepoint_guide.png" alt="" title="SharePoint is software from Microsoft that allows organizations to collaborate, share files, and publish information to the Web). In your Flare project, you can connect to a SharePoint server. Doing this makes it easy to access and edit the SharePoint files from any of your Flare projects." class="Hyperlinked" /></a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&#160;</p>
+    </body>
+</html>

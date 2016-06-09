@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="14" MadCap:lastHeight="12063" MadCap:lastWidth="1031" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:conditionTagExpression="include[Snippets.Snippet2]exclude[Snippets.Snippet1]">
+    <head><title></title>
+        <link href="../Resources/Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+        <meta name="description" content="Creating style-based autonumber formats to apply a consistent format to multiple paragraphs in a project. " />
+    </head>
+    <body>
+        <h1 MadCap:conditions="General.OnlineLive">
+            <MadCap:concept term="Autonumbers" />
+            <MadCap:keyword term="Autonumbers:formats;Styles:auto-numbers;Formatting:auto-numbers" />
+            <MadCap:concept term="FilterAutoNumbers" />Creating Autonumber Formats for Styles</h1>
+        <h1 MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareAutoNumbersGuide">
+            <MadCap:keyword term="Autonumbers:formats;Styles:auto-numbers;Formatting:auto-numbers" />Autonumbers for Styles</h1>
+        <h1 MadCap:conditions="FlareGuides.FlareStylesGuide">
+            <MadCap:keyword term="Autonumbers:formats;Styles:auto-numbers;Formatting:auto-numbers" />Autonumbers</h1>
+        <MadCap:snippetBlock src="../Resources/Snippets/Banners/Flare/FeatureSupportedAllPrint_EPUB.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide,Products.FlareOnlineOnly" />
+        <MadCap:snippetBlock src="../Resources/Snippets/Banners/Contributor/SupportedInContributionNewDocWorkflows.flsnp" MadCap:conditions="Products.Contributor" />
+        <p MadCap:conditions="FlareGuides.FlareStylesGuide">Autonumbering can be used when you want to create content where certain portions are numbered automatically. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="About_Autonumbers.htm">About Autonumbers</MadCap:xref> and <MadCap:xref href="AutoNumber_Format_Examples.htm">Autonumber Format Examples</MadCap:xref>.</MadCap:conditionalText></p>
+        <MadCap:snippetBlock src="../Resources/Snippets/AutoNumbering/AutoNumberFormatBuildingBlock.flsnp" MadCap:conditions="General.OnlineLive,FlareGuides.FlareStylesGuide,FlareGuides.FlarePrintedOutputGuide">
+        </MadCap:snippetBlock>
+        <p class="FirstPageOfChapter" MadCap:conditions="FlareGuides.FlareAutoNumbersGuide">When you incorporate autonumbering into content, you do so by creating an autonumbering format, which consists of one or more commands. Some examples of commands are: CH:, {n+}, {chapnum}, {b}, and {/b}. In addition, you can add text next to commands. </p>
+        <MadCap:dropDown class="SecondLevel" MadCap:conditions="FlareGuides.FlareAutoNumbersGuide">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="../Resources/Snippets/AutoNumbering/AutoNumberFormatExample.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareStylesGuide,General.OnlineLive">For several samples, see <MadCap:xref href="AutoNumber_Format_Examples.htm" class="seepara">Autonumber Format Examples</MadCap:xref>.</p>
+        <p class="FirstPageOfChapter" MadCap:conditions="FlareGuides.FlareAutoNumbersGuide">For several samples, see <MadCap:xref href="AutoNumber_Format_Examples.htm" class="FirstPageOfChapter">Autonumber Format Examples</MadCap:xref>.</p>
+        <MadCap:snippetBlock src="../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide" />
+        <h2 MadCap:conditions="FlareGuides.FlareStylesGuide" class="NoPageBreakBefore">Creating Autonumber Formats for Styles</h2>
+        <p MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareStylesGuide,General.OnlineLive">The following steps show you how to create an autonumber format for a style class. This is the recommended method. A style allows you to apply the same format to multiple paragraphs<MadCap:conditionalText MadCap:conditions="Products.Flare"> throughout your project</MadCap:conditionalText>, and any changes to the format are applied automatically to all the paragraphs using that style. Alternatively, you can create an autonumber format for a single paragraph. For steps see <MadCap:xref href="Creating_Auto_Number_Formats_for_Paragraphs.htm" MadCap:conditions="General.OnlineLive,FlareGuides.FlareAutoNumbersGuide">Creating Autonumber Formats for Paragraphs</MadCap:xref><MadCap:conditionalText MadCap:conditions="FlareGuides.FlareStylesGuide,FlareGuides.FlarePrintedOutputGuide">the online Help</MadCap:conditionalText>.</p>
+        <p class="FirstPageOfChapter" MadCap:conditions="FlareGuides.FlareAutoNumbersGuide">The following steps show you how to create an autonumber format for a style class. This is the recommended method. A style allows you to apply the same format to multiple paragraphs<MadCap:conditionalText MadCap:conditions="Products.Flare"> throughout your project</MadCap:conditionalText>, and any changes to the format are applied automatically to all the paragraphs using that style. Alternatively, you can create an autonumber format for a single paragraph. For steps see <MadCap:xref href="Creating_Auto_Number_Formats_for_Paragraphs.htm" MadCap:conditions="General.OnlineLive,FlareGuides.FlareAutoNumbersGuide" class="FirstPageOfChapter">Creating Autonumber Formats for Paragraphs</MadCap:xref><MadCap:conditionalText MadCap:conditions="FlareGuides.FlareStylesGuide,FlareGuides.FlarePrintedOutputGuide">the online Help</MadCap:conditionalText>.</p>
+        <p MadCap:conditions="FlareGuides.FlareStylesGuide">You can perform this task in the Stylesheet Editor, using either the Simplified view or the Advanced view. The following steps show you how to create autonumber formats with the Advanced view. For steps on using the Simplified view, see the online Help.</p>
+        <p MadCap:conditions="FlareGuides.FlareAutoNumbersGuide" class="FirstPageOfChapter">You can perform this task in the Stylesheet Editor, using either the Simplified view or the Advanced view. The following steps show you how to create autonumber formats with the Advanced view. For steps on using the Simplified view, see the online Help.</p>
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:snippetText src="../Resources/Snippets/Styles/StylesCompleteFollowingAdvancedSimplified.flsnp" />
+        </p>
+        <MadCap:snippetBlock src="../Resources/Snippets/Styles/StylesAdvancedSimplifiedViews.flsnp" MadCap:conditions="General.OnlineLive" />
+        <MadCap:snippetBlock src="../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareAutoNumbersGuide" />
+        <MadCap:dropDown MadCap:conditions="General.OnlineLive">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to create an autonumber format for a style using the simplified view</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/Styles/EditStyleStep1.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/Styles/StylesMakeSureAdvancedViewButtonShown.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/Styles/FilterParagraphStylesStep.flsnp" />
+                    </li>
+                    <li>On the left side of the Stylesheet Editor, select the style. Usually, it is a paragraph or heading style (e.g., h1, p.Figure). If you do not yet have a style that you want to use, you can create one. <MadCap:conditionalText MadCap:conditions="General.OnlineLive,FlareGuides.FlareStylesGuide">See <MadCap:xref href="../Styles/Creating_New_Styles.htm">Creating New Style Classes</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/Styles/InLocalToolbarClickPropertiesForStyle.flsnp" />
+                    </li>
+                    <li>Select the <span class="Emphasis">Autonumber</span> tab.</li>
+                    <li>(Optional) From the <span class="Emphasis">Available commands</span> drop-down list, you can filter the autonumber commands shown in the area below by selecting one of the options.<MadCap:snippetBlock src="../Resources/Snippets/AutoNumbering/AvailableCommandsList.flsnp" /></li>
+                    <MadCap:snippetBlock src="../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/AutoNumbering/EnterFormatField.flsnp" />
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">examples</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <MadCap:snippetBlock src="../Resources/Snippets/AutoNumbering/EnterFormatFieldExamples.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:snippetBlock src="../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareAutoNumbersGuide" />
+                        <MadCap:snippetBlock src="../Resources/Snippets/AutoNumbering/AutoNumberCommandDescriptions.flsnp" />
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:keyword term="Positioning:auto-numbers;Autonumbers:positioning" />In the <span class="Emphasis">Position</span> field, you can select the position for the autonumber format in the paragraph.</p>
+                        <ul class="FirstLevel">
+                            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:inside head" />Inside Head </span>
+                                <MadCap:expanding>
+                                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more…&#160;</MadCap:expandingHead>
+                                    <MadCap:expandingBody>
+                                        <MadCap:snippetText src="../Resources/Snippets/AutoNumbering/AutoNumberInsideHead.flsnp">
+                                        </MadCap:snippetText>
+                                    </MadCap:expandingBody>
+                                </MadCap:expanding>
+                            </li>
+                            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:outside head" />Outside Head</span>&#160;<MadCap:expanding><MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead><MadCap:expandingBody>&#160;<MadCap:snippetText src="../Resources/Snippets/AutoNumbering/AutoNumberOutsideHead.flsnp"></MadCap:snippetText> You can provide space between the format and the content by using the "Offset" field.</MadCap:expandingBody></MadCap:expanding></li>
+                            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:inside tail" />Inside Tail </span>
+                                <MadCap:expanding>
+                                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more…&#160;</MadCap:expandingHead>
+                                    <MadCap:expandingBody>
+                                        <MadCap:snippetText src="../Resources/Snippets/AutoNumbering/AutoNumberInsideTail.flsnp">
+                                        </MadCap:snippetText>
+                                    </MadCap:expandingBody>
+                                </MadCap:expanding>
+                            </li>
+                            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:outside tail" />Outside Tail</span>&#160;<MadCap:expanding><MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead><MadCap:expandingBody>&#160;<MadCap:snippetText src="../Resources/Snippets/AutoNumbering/AutoNumberOutsideTail.flsnp"></MadCap:snippetText> You can provide space between the format and the content by using the "Offset" field.</MadCap:expandingBody></MadCap:expanding></li>
+                            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:float left" />Float Left </span>
+                                <MadCap:expanding>
+                                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more…&#160;</MadCap:expandingHead>
+                                    <MadCap:expandingBody>
+                                        <MadCap:snippetText src="../Resources/Snippets/AutoNumbering/AutoNumberFloatLeft.flsnp">
+                                        </MadCap:snippetText>
+                                    </MadCap:expandingBody>
+                                </MadCap:expanding>
+                            </li>
+                            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:float right" />Float Right </span>
+                                <MadCap:expanding>
+                                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more…&#160;</MadCap:expandingHead>
+                                    <MadCap:expandingBody>
+                                        <MadCap:snippetText src="../Resources/Snippets/AutoNumbering/AutoNumberFloatRight.flsnp">
+                                        </MadCap:snippetText>
+                                    </MadCap:expandingBody>
+                                </MadCap:expanding>
+                            </li>
+                            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:outside frame" />Outside Frame </span>
+                                <MadCap:expanding>
+                                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more…&#160;</MadCap:expandingHead>
+                                    <MadCap:expandingBody>
+                                        <MadCap:snippetText src="../Resources/Snippets/AutoNumbering/AutoNumberOutsideFrame.flsnp">
+                                        </MadCap:snippetText>
+                                    </MadCap:expandingBody>
+                                </MadCap:expanding>
+                            </li>
+                            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:outside frame left side" />Outside Frame (Left Side) </span>
+                                <MadCap:expanding>
+                                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more…&#160;</MadCap:expandingHead>
+                                    <MadCap:expandingBody>
+                                        <MadCap:snippetText src="../Resources/Snippets/AutoNumbering/AutoNumberOutsideFrameLeftSide.flsnp">
+                                        </MadCap:snippetText>
+                                    </MadCap:expandingBody>
+                                </MadCap:expanding>
+                            </li>
+                            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:outside frame right side" />Outside Frame (Right Side) </span>
+                                <MadCap:expanding>
+                                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more…&#160;</MadCap:expandingHead>
+                                    <MadCap:expandingBody>
+                                        <MadCap:snippetText src="../Resources/Snippets/AutoNumbering/AutoNumberOutsideFrameRightSide.flsnp">
+                                        </MadCap:snippetText>
+                                    </MadCap:expandingBody>
+                                </MadCap:expanding>
+                            </li>
+                            <li><span class="SetOffFirstLevel">None </span>
+                                <MadCap:expanding>
+                                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more…&#160;</MadCap:expandingHead>
+                                    <MadCap:expandingBody>
+                                        <MadCap:snippetText src="../Resources/Snippets/AutoNumbering/AutoNumberNone.flsnp">
+                                        </MadCap:snippetText>
+                                    </MadCap:expandingBody>
+                                </MadCap:expanding>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>In the <span class="Emphasis">Offset</span> field, you can <MadCap:snippetText src="../Resources/Snippets/AutoNumbering/AutoNumberOffset.flsnp" /></li>
+                    <li>In the <span class="Emphasis">Span Class</span> field, you can <MadCap:snippetText src="../Resources/Snippets/AutoNumbering/AutoNumberSpanClass.flsnp" /></li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/InPropertiesDialogClickOK.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to create an autonumber format for a style using the advanced view</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/Styles/EditStyleStep1.flsnp" />
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../Resources/Snippets/Styles/StylesMakeSureSimplifiedViewButtonShown.flsnp" />
+                        </p>
+                        <MadCap:snippetBlock src="../Resources/Snippets/Notes/NoteStepsUsingSimplified.flsnp" MadCap:conditions="General.Print" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/Styles/FilterParagraphStylesStep.flsnp" />
+                    </li>
+                    <li>On the left side of the Stylesheet Editor, select the style. Usually, it is a paragraph or heading style (e.g., h1, p.Figure). If you do not yet have a style that you want to use, you can create one. <MadCap:conditionalText MadCap:conditions="General.OnlineLive,FlareGuides.FlareStylesGuide">See <MadCap:xref href="../Styles/Creating_New_Styles.htm">Creating New Style Classes</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/Styles/SelectShowPropertyGroupsStep.flsnp" />
+                    </li>
+                    <li>In the <span class="Emphasis">Properties</span> section, expand the <span class="Emphasis">AutoNumber</span> group.</li>
+                    <li>Click in the right column (the value column) next to <span class="Emphasis">mc-autonumber-format</span>. The Autonumber Format dialog opens.</li>
+                    <li class="PageBreakBefore">(Optional) From the <span class="Emphasis">Available commands</span> drop-down list, you can filter the autonumber commands shown in the area below by selecting one of the options.<MadCap:snippetBlock src="../Resources/Snippets/AutoNumbering/AvailableCommandsList.flsnp" /></li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../Resources/Snippets/AutoNumbering/EnterFormatField.flsnp" />
+                        </p>
+                        <MadCap:dropDown>
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">examples</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <MadCap:snippetBlock src="../Resources/Snippets/AutoNumbering/EnterFormatFieldExamples.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:snippetBlock src="../Resources/Snippets/AutoNumbering/AutoNumberCommandDescriptions.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/ClickOK.flsnp" /> The dialog closes.</li>
+                    <li>You can enter settings for the other autonumber format properties in the Stylesheet Editor. <ul class="FirstLevel"><li><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:span class;Span class:auto-numbers;Styles:span;Styles:classes;Styles:auto-numbers" />mc-autonumber-class </span><MadCap:expanding><MadCap:expandingHead MadCap:conditions="General.OnlineLive"> Read more…&#160;</MadCap:expandingHead><MadCap:expandingBody> You can <MadCap:snippetText src="../Resources/Snippets/AutoNumbering/AutoNumberSpanClass.flsnp"></MadCap:snippetText></MadCap:expandingBody></MadCap:expanding></li><li><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:offset;Offset:auto-numbers" />mc-autonumber-offset </span><MadCap:expanding><MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more…&#160;</MadCap:expandingHead><MadCap:expandingBody> You can <MadCap:snippetText src="../Resources/Snippets/AutoNumbering/AutoNumberOffset.flsnp" /></MadCap:expandingBody></MadCap:expanding></li><MadCap:snippetBlock src="../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide" /><li><p><span class="SetOffFirstLevel"><MadCap:keyword term="Positioning:auto-numbers;Autonumbers:positioning" />mc-autonumber-position</span> <MadCap:expanding><MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead><MadCap:expandingBody> You can select the position for the autonumber format in the paragraph.</MadCap:expandingBody></MadCap:expanding> <![CDATA[ ]]></p><ul class="SecondLevel"><li><span class="SetOffSecondLevel"><MadCap:keyword term="Autonumbers:float left" />float-left </span><MadCap:expanding><MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead><MadCap:expandingBody><MadCap:snippetText src="../Resources/Snippets/AutoNumbering/AutoNumberFloatLeft.flsnp" /></MadCap:expandingBody></MadCap:expanding></li><li><span class="SetOffSecondLevel"><MadCap:keyword term="Autonumbers:float right" />float-right </span><MadCap:expanding><MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead><MadCap:expandingBody><MadCap:snippetText src="../Resources/Snippets/AutoNumbering/AutoNumberFloatRight.flsnp" /></MadCap:expandingBody></MadCap:expanding></li><li><span class="SetOffSecondLevel"><MadCap:keyword term="Autonumbers:inside head" />inside-head </span><MadCap:expanding><MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead><MadCap:expandingBody><MadCap:snippetText src="../Resources/Snippets/AutoNumbering/AutoNumberInsideHead.flsnp" /></MadCap:expandingBody></MadCap:expanding></li><li><span class="SetOffSecondLevel"><MadCap:keyword term="Autonumbers:inside tail" />inside-tail </span><MadCap:expanding><MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead><MadCap:expandingBody><MadCap:snippetText src="../Resources/Snippets/AutoNumbering/AutoNumberInsideTail.flsnp" /></MadCap:expandingBody></MadCap:expanding></li><li><span class="SetOffSecondLevel">none </span><MadCap:expanding><MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead><MadCap:expandingBody><MadCap:snippetText src="../Resources/Snippets/AutoNumbering/AutoNumberNone.flsnp" /></MadCap:expandingBody></MadCap:expanding></li><li><span class="SetOffSecondLevel"><MadCap:keyword term="Autonumbers:outside frame" />outside-frame </span><MadCap:expanding><MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead><MadCap:expandingBody><MadCap:snippetText src="../Resources/Snippets/AutoNumbering/AutoNumberOutsideFrame.flsnp" /></MadCap:expandingBody></MadCap:expanding></li><li><span class="SetOffSecondLevel"><MadCap:keyword term="Autonumbers:outside head" />outside-head </span><MadCap:expanding><MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead><MadCap:expandingBody><MadCap:snippetText src="../Resources/Snippets/AutoNumbering/AutoNumberOutsideHead.flsnp" /> You can provide space between the format and the content by using the "mc-autonumber-offset" property. </MadCap:expandingBody></MadCap:expanding></li><li><span class="SetOffSecondLevel"><MadCap:keyword term="Autonumbers:outside tail" />outside-tail </span><MadCap:expanding><MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead><MadCap:expandingBody><MadCap:snippetText src="../Resources/Snippets/AutoNumbering/AutoNumberOutsideTail.flsnp" /> You can provide space between the format and the content by using the "mc-autonumber-offset" property. </MadCap:expandingBody></MadCap:expanding></li></ul></li></ul></li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../Resources/Snippets/WhatsNext/WhatsNextHeading.flsnp" MadCap:conditions="Products.FlareOnlineOnly" />
+        <p MadCap:conditions="Products.FlareOnlineOnly">After you create an autonumber format for a style, you need to apply the style to the appropriate content. See <MadCap:xref href="../Styles/Applying_Styles_to_Topic_Content.htm" target="" title="" alt="">Applying Styles to Topic Content</MadCap:xref>.</p>
+        <p MadCap:conditions="Products.FlareOnlineOnly">If you have created autonumber formats that include volume, chapter, or section numbers, you need to specify their flow for the output. See <MadCap:xref href="Specifying_Auto_Numbering_Flow_for_Output.htm" target="" title="" alt="">Specifying Autonumbering Flow for Output</MadCap:xref>.</p>
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:conceptLink term="Autonumbers">
+            </MadCap:conceptLink>
+        </p>
+        <MadCap:snippetBlock src="../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide,FlareGuides.FlareStylesGuide" />
+    </body>
+</html>

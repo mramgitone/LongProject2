@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="8" MadCap:lastHeight="999" MadCap:lastWidth="1408" MadCap:fileTags="FlareTopicStatusNeeds.8 Needs to be Tested in Print Output">
+    <head>
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Meta tags;Metadata" />
+            <MadCap:concept term="FilterTargets" />Adding Custom Meta Tags</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Banners/Flare/FeatureSupportedAllOnline.flsnp" />
+        <p>For online outputs, you can add custom meta tags in the Advanced tab of the Target Editor. These are added between the &lt;head&gt; and &lt;/head&gt; tags in your content when you generate output.</p>
+        <p>There is a default meta tag provided. You can keep this tag, remove it, and/or add other valid tags.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">examples</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="ExampleHead">example</p>
+                <p class="Example">Let's say you have embedded HTML5 movies in your topics, and you are generating DotNet Help. However, DotNet Help uses Internet Explorer 7, which does not support HTML5 movies. Therefore, you use the default meta tag in the DotNet Help target to ensure that the latest version of Internet Explorer is used, therefore allowing the movies to play.</p>
+                <p class="ExampleHead">example</p>
+                <p class="Example">You might want to enhance search engine optimization for your output, so you add the &lt;meta name="googlebot"/&gt; tag to the target.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to add custom meta tags</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <ol>
+                    <li>Open a target.</li>
+                    <li>On the <span class="Emphasis">Advanced</span> tab of the Target Editor, select <span class="Emphasis">Add meta tags to content</span>.</li>
+                    <li>
+                        <p>In the area below, you can add any valid meta tags. You can also keep the default tag.</p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>default tag for most output formats</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>For most output formats, the default tag is as follows:</p>
+                                <p>&lt;meta http-equiv="X-UA-Compatible" content="IE=edge" /&gt;</p>
+                                <p>This tag tells Internet Explorer to render with the latest version.</p>
+                                <p>
+                                    <img src="../../Resources/Images/meta_tags1.png" alt="" title="" class="MaxWidth100Percent" />
+                                </p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>default tag for dotnet help and html help</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p>For <MadCap:variable name="Outputs.DotNetHelp" /> and <MadCap:variable name="Outputs.HTMLHelp" /> targets, the default tag looks like this:</p>
+                                <p>&lt;meta http-equiv="X-UA-Compatible" content="IE=7,8,9,10" /&gt;</p>
+                                <p> That's because IE=Edge can cause rendering issues on some systems.</p>
+                                <p>
+                                    <img src="../../Resources/Images/meta_tags2.png" alt="" title="" class="MaxWidth100Percent" />
+                                </p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:conceptLink term="DevelopOutputs" />
+        </p>
+    </body>
+</html>

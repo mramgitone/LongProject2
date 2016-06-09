@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="234" MadCap:lastWidth="935" MadCap:conditions="Products.Flare,Products.Contributor">
+    <head>
+    </head>
+    <body>
+        <p class="TableText">Opens a submenu, which lets you select options for inserting multimedia (audio and video). See <MadCap:xref href="../../../UI_Elements/Insert_Multimedia_Dialog.htm">Insert Multimedia Dialog</MadCap:xref>. Menu options include:</p>
+        <ul>
+            <li value="1"><span class="SetOffFirstLevel">Flash Movie</span> Opens the Insert Multimedia dialog, with tabs designed specifically for inserting Adobe Flash files. </li>
+            <li value="2"><span class="SetOffFirstLevel">Windows Media Player </span>Opens the Insert Multimedia dialog, with tabs designed specifically for inserting Windows Media files. </li>
+            <li value="3"><span class="SetOffFirstLevel">Quicktime Movie</span> Opens the Insert Multimedia dialog, with tabs designed specifically for inserting Quicktime files. </li>
+            <li value="4" MadCap:conditions="Products.Flare"><span class="SetOffFirstLevel">Mimic Movie</span> Opens a dialog that lets you insert a <MadCap:variable name="Products.Mimic" /> movie link into a topic. You must have MadCap Mimic installed on your computer in order to use this feature. See <MadCap:xref href="../../../Movies/Inserting_Mimic_Movie_Links_into_Topics.htm">Inserting Mimic Movie Links into Topics</MadCap:xref>.</li>
+            <li value="3" MadCap:conditions="Products.Flare"><span class="SetOffFirstLevel">HTML5 Movie</span> Opens the Insert Multimedia dialog, with tabs designed specifically for inserting HTML5 movie files (e.g., MP4, WebM). </li>
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="93" MadCap:lastWidth="1278" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <body>
+        <p class="TableText">Opens the Pending Check-Ins window pane, which displays files in the project that are pending check in (if the project is integrated with a source control application). In other words, you can use this window pane to see which files you have checked out, which files have been created but not yet added to source control, which files other users have checked out, and which files are out of date. <MadCap:conditionalText MadCap:conditions="Products.Flare">For more information see <MadCap:xref href="../../../Source_Control/About_Source_Control.htm">About Source Control and Multi-Authoring</MadCap:xref> and <MadCap:xref href="../../../Source_Control/More_About_Source_Control/Viewing_Files_That_are_Checked_Out.htm">Viewing Files That are Checked Out</MadCap:xref>.</MadCap:conditionalText>&#160;<MadCap:snippetText src="../ForMoreInfo/SeeFlareOnlineHelp.flsnp" MadCap:conditions="Products.Analyzer" /></p>
+    </body>
+</html>

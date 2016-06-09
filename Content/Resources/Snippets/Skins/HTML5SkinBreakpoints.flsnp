@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="74" MadCap:lastWidth="917" MadCap:conditions="Products.Flare">
+    <body>
+        <p>UI for users to customize the breakpoints for where tablet/web/mobile stylesheets are swapped out and replaced.</p>
+        <p>Allow users to set a breakpoint of 0, to effectively disable that medium.</p>
+    </body>
+</html>

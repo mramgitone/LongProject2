@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare">
+    <body>
+        <p>
+            <MadCap:snippetText src="../AllProductVariables.flsnp" />'s workspace is flexible, uses a modern Multiple Document Interface (MDI), and gives you several options to work the way that you want. This topic introduces you to the main parts of the Flare user interface. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Tour_of_the_Workspace/Touring_the_Workspace.htm">Touring the Workspace</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

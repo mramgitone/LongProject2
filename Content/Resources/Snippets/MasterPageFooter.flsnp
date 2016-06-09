@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.AllProducts" MadCap:lastBlockDepth="11" MadCap:lastHeight="1425" MadCap:lastWidth="557">
+    <head>
+        <link href="../TableStyles/SimpleNoPadding.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <div class="FooterTable">
+            <p class="FooterTopicMaster" MadCap:conditions="Products.AnalyzerWebHelpNonResponsive"><a href="http://webhelp.madcapsoftware.com/analyzer7/Default.htm" class="footermasterurls" target="_top">VIEW THIS HELP IN RESPONSIVE MODE</a>
+            </p>
+            <p class="FooterTopicMaster" MadCap:conditions="Products.CaptureWebHelpNonResponsive"><a href="http://webhelp.madcapsoftware.com/capture7/Default.htm" class="footermasterurls" target="_top">VIEW THIS HELP IN RESPONSIVE MODE</a>
+            </p>
+            <p class="FooterTopicMaster" MadCap:conditions="Products.ContributorWebHelpNonResponsive"><a href="http://webhelp.madcapsoftware.com/contributor6/Default.htm" class="footermasterurls" target="_top">VIEW THIS HELP IN RESPONSIVE MODE</a>
+            </p>
+            <p class="FooterTopicMaster" MadCap:conditions="Products.FlareWebHelpNonResponsive"><a href="http://webhelp.madcapsoftware.com/flare11/Default.htm" class="footermasterurls" target="_top">VIEW THIS HELP IN RESPONSIVE MODE</a>
+            </p>
+            <p class="FooterTopicMaster" MadCap:conditions="Products.LingoWebHelpNonResponsive"><a href="http://webhelp.madcapsoftware.com/lingo9/Default.htm" class="footermasterurls" target="_top">VIEW THIS HELP IN RESPONSIVE MODE</a>
+            </p>
+            <p class="FooterTopicMaster" MadCap:conditions="Products.MimicWebHelpNonResponsive"><a href="http://webhelp.madcapsoftware.com/mimic8/Default.htm" class="footermasterurls" target="_top">VIEW THIS HELP IN RESPONSIVE MODE</a>
+            </p>
+            <p class="FooterTopicMaster" MadCap:conditions="Products.PulseWebHelpNonResponsive"><a href="http://webhelp.madcapsoftware.com/pulse4/Default.htm" class="footermasterurls" target="_top">VIEW THIS HELP IN RESPONSIVE MODE</a>
+            </p>
+            <p class="FooterTopicMaster" MadCap:conditions="Products.AnalyzerWebHelpResponsive"><a href="http://webhelp.madcapsoftware.com/analyzer7NonResponsive/Default.htm" class="footermasterurls" target="_top">VIEW THIS HELP IN NON-RESPONSIVE DESKTOP MODE</a>
+            </p>
+            <p class="FooterTopicMaster" MadCap:conditions="Products.CaptureWebHelpResponsive"><a href="http://webhelp.madcapsoftware.com/capture7NonResponsive/Default.htm" class="footermasterurls" target="_top">VIEW THIS HELP IN NON-RESPONSIVE DESKTOP MODE</a>
+            </p>
+            <p class="FooterTopicMaster" MadCap:conditions="Products.ContributorWebHelpResponsive"><a href="http://webhelp.madcapsoftware.com/contributor6NonResponsive/Default.htm" class="footermasterurls" target="_top">VIEW THIS HELP IN NON-RESPONSIVE DESKTOP MODE</a>
+            </p>
+            <p class="FooterTopicMaster" MadCap:conditions="Products.FlareWebHelpResponsive"><a href="http://webhelp.madcapsoftware.com/flare11NonResponsive/Default.htm" class="footermasterurls" target="_top">VIEW THIS HELP IN NON-RESPONSIVE DESKTOP MODE</a>
+            </p>
+            <p class="FooterTopicMaster" MadCap:conditions="Products.LingoWebHelpResponsive"><a href="http://webhelp.madcapsoftware.com/lingo9NonResponsive/Default.htm" class="footermasterurls" target="_top">VIEW THIS HELP IN NON-RESPONSIVE DESKTOP MODE</a>
+            </p>
+            <p class="FooterTopicMaster" MadCap:conditions="Products.MimicWebHelpResponsive"><a href="http://webhelp.madcapsoftware.com/mimic8NonResponsive/Default.htm" class="footermasterurls" target="_top">VIEW THIS HELP IN NON-RESPONSIVE DESKTOP MODE</a>
+            </p>
+            <p class="FooterTopicMaster" MadCap:conditions="Products.PulseWebHelpResponsive"><a href="http://webhelp.madcapsoftware.com/pulse4NonResponsive/Default.htm" class="footermasterurls" target="_top">VIEW THIS HELP IN NON-RESPONSIVE DESKTOP MODE</a>
+            </p>
+            <MadCap:dropDown class="Footer">
+                <MadCap:dropDownHead>
+                    <MadCap:dropDownHotspot class="Footer">PDF DOWNLOADS</MadCap:dropDownHotspot>
+                </MadCap:dropDownHead>
+                <MadCap:dropDownBody class="FooterTopicMaster">
+                    <table style="margin-left: 0;margin-right: auto;mc-table-style: url('../TableStyles/SimpleNoPadding.css');" class="TableStyle-SimpleNoPadding" cellspacing="0">
+                        <col class="TableStyle-SimpleNoPadding-Column-Column1" style="width: 30px;" />
+                        <col class="TableStyle-SimpleNoPadding-Column-Column1" />
+                        <tbody>
+                            <tr class="TableStyle-SimpleNoPadding-Body-Row1" MadCap:conditions="Products.Analyzer">
+                                <td class="TableStyle-SimpleNoPadding-BodyE-Column1-Row1">
+                                    <p class="FooterTopicMasterLastLineLeftPadding"><a href="http://docs.madcapsoftware.com/AnalyzerV7/AnalyzerGettingStartedGuide.pdf" target="_blank"><img src="../Images/DownloadIcon.png" class="Hyperlinked" alt="" /></a>
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyD-Column1-Row1">
+                                    <p class="FooterTopicMaster"><a href="http://docs.madcapsoftware.com/AnalyzerV7/AnalyzerGettingStartedGuide.pdf" target="_blank" class="footermaster">Analyzer Getting Started Guide</a>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr class="TableStyle-SimpleNoPadding-Body-Row1" MadCap:conditions="Products.Analyzer">
+                                <td class="TableStyle-SimpleNoPadding-BodyE-Column1-Row1">
+                                    <p class="FooterTopicMasterLastLineLeftPadding"><a href="http://docs.madcapsoftware.com/AnalyzerV7/AnalyzerWhatsNewGuide.pdf" target="_blank"><img src="../Images/DownloadIcon.png" class="Hyperlinked" alt="" /></a>
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyD-Column1-Row1">
+                                    <p class="FooterTopicMaster"><a href="http://docs.madcapsoftware.com/AnalyzerV7/AnalyzerWhatsNewGuide.pdf" target="_blank" class="footermaster">Analyzer What's New Guide</a>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr class="TableStyle-SimpleNoPadding-Body-Row1" MadCap:conditions="Products.Capture">
+                                <td class="TableStyle-SimpleNoPadding-BodyE-Column1-Row1">
+                                    <p class="FooterTopicMasterLastLineLeftPadding"><a href="http://docs.madcapsoftware.com/CaptureV7/CaptureGettingStartedGuide.pdf" target="_blank"><img src="../Images/DownloadIcon.png" class="Hyperlinked" alt="" /></a>
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyD-Column1-Row1">
+                                    <p class="FooterTopicMaster"><a href="http://docs.madcapsoftware.com/CaptureV7/CaptureGettingStartedGuide.pdf" target="_blank" class="footermaster">Capture Getting Started Guide</a>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr class="TableStyle-SimpleNoPadding-Body-Row1" MadCap:conditions="Products.Capture">
+                                <td class="TableStyle-SimpleNoPadding-BodyE-Column1-Row1">
+                                    <p class="FooterTopicMasterLastLineLeftPadding"><a href="http://docs.madcapsoftware.com/CaptureV7/CaptureWhatsNewGuide.pdf" target="_blank"><img src="../Images/DownloadIcon.png" class="Hyperlinked" alt="" /></a>
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyD-Column1-Row1">
+                                    <p class="FooterTopicMaster"><a href="http://docs.madcapsoftware.com/CaptureV7/CaptureWhatsNewGuide.pdf" target="_blank" class="footermaster">Capture What's New Guide</a>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr class="TableStyle-SimpleNoPadding-Body-Row1" MadCap:conditions="Products.Contributor">
+                                <td class="TableStyle-SimpleNoPadding-BodyE-Column1-Row1">
+                                    <p class="FooterTopicMasterLastLineLeftPadding"><a href="http://docs.madcapsoftware.com/ContributorV6/ContributorGettingStartedGuide.pdf" target="_blank"><img src="../Images/DownloadIcon.png" class="Hyperlinked" alt="" /></a>
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyD-Column1-Row1">
+                                    <p class="FooterTopicMaster"><a href="http://docs.madcapsoftware.com/ContributorV6/ContributorGettingStartedGuide.pdf" target="_blank" class="footermaster">Contributor Getting Started Guide</a>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr class="TableStyle-SimpleNoPadding-Body-Row1" MadCap:conditions="Products.Contributor">
+                                <td class="TableStyle-SimpleNoPadding-BodyE-Column1-Row1">
+                                    <p class="FooterTopicMasterLastLineLeftPadding"><a href="http://docs.madcapsoftware.com/ContributorV6/ContributorWhatsNewGuide.pdf" target="_blank"><img src="../Images/DownloadIcon.png" class="Hyperlinked" alt="" /></a>
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyD-Column1-Row1">
+                                    <p class="FooterTopicMaster"><a href="http://docs.madcapsoftware.com/ContributorV6/ContributorWhatsNewGuide.pdf" target="_blank" class="footermaster">Contributor What's New Guide</a>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr class="TableStyle-SimpleNoPadding-Body-Row1" MadCap:conditions="Products.Flare">
+                                <td class="TableStyle-SimpleNoPadding-BodyE-Column1-Row1">
+                                    <p class="FooterTopicMasterLastLineLeftPadding"><a href="http://docs.madcapsoftware.com/FlareV11/FlareGettingStartedGuide.pdf" target="_blank"><img src="../Images/DownloadIcon.png" class="Hyperlinked" alt="" /></a>
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyD-Column1-Row1">
+                                    <p class="FooterTopicMaster"><a href="http://docs.madcapsoftware.com/FlareV11/FlareGettingStartedGuide.pdf" target="_blank" class="footermaster">Flare Getting Started Guide</a>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr class="TableStyle-SimpleNoPadding-Body-Row1" MadCap:conditions="Products.Flare">
+                                <td class="TableStyle-SimpleNoPadding-BodyE-Column1-Row1">
+                                    <p class="FooterTopicMasterLastLineLeftPadding"><a href="http://docs.madcapsoftware.com/FlareV11/FlareWhatsNewGuide.pdf" target="_blank"><img src="../Images/DownloadIcon.png" class="Hyperlinked" alt="" /></a>
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyD-Column1-Row1">
+                                    <p class="FooterTopicMaster"><a href="http://docs.madcapsoftware.com/FlareV11/FlareWhatsNewGuide.pdf" target="_blank" class="footermaster">Flare What's New Guide</a>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr class="TableStyle-SimpleNoPadding-Body-Row1" MadCap:conditions="Products.Lingo">
+                                <td class="TableStyle-SimpleNoPadding-BodyE-Column1-Row1">
+                                    <p class="FooterTopicMasterLastLineLeftPadding"><a href="http://docs.madcapsoftware.com/LingoV9/LingoGettingStartedGuide.pdf" target="_blank"><img src="../Images/DownloadIcon.png" class="Hyperlinked" alt="" /></a>
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyD-Column1-Row1">
+                                    <p class="FooterTopicMaster"><a href="http://docs.madcapsoftware.com/LingoV9/LingoGettingStartedGuide.pdf" target="_blank" class="footermaster">Lingo Getting Started Guide</a>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr class="TableStyle-SimpleNoPadding-Body-Row1" MadCap:conditions="Products.Lingo">
+                                <td class="TableStyle-SimpleNoPadding-BodyE-Column1-Row1">
+                                    <p class="FooterTopicMasterLastLineLeftPadding"><a href="http://docs.madcapsoftware.com/LingoV9/LingoWhatsNewGuide.pdf" target="_blank"><img src="../Images/DownloadIcon.png" class="Hyperlinked" alt="" /></a>
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyD-Column1-Row1">
+                                    <p class="FooterTopicMaster"><a href="http://docs.madcapsoftware.com/LingoV9/LingoWhatsNewGuide.pdf" target="_blank" class="footermaster">Lingo What's New Guide</a>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr class="TableStyle-SimpleNoPadding-Body-Row1" MadCap:conditions="Products.Mimic">
+                                <td class="TableStyle-SimpleNoPadding-BodyE-Column1-Row1">
+                                    <p class="FooterTopicMasterLastLineLeftPadding"><a href="http://docs.madcapsoftware.com/MimicV8/MimicGettingStartedGuide.pdf" target="_blank"><img src="../Images/DownloadIcon.png" class="Hyperlinked" alt="" /></a>
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyD-Column1-Row1">
+                                    <p class="FooterTopicMaster"><a href="http://docs.madcapsoftware.com/MimicV8/MimicGettingStartedGuide.pdf" target="_blank" class="footermaster">Mimic Getting Started Guide</a>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr class="TableStyle-SimpleNoPadding-Body-Row1" MadCap:conditions="Products.Mimic">
+                                <td class="TableStyle-SimpleNoPadding-BodyE-Column1-Row1">
+                                    <p class="FooterTopicMasterLastLineLeftPadding"><a href="http://docs.madcapsoftware.com/MimicV8/MimicWhatsNewGuide.pdf" target="_blank"><img src="../Images/DownloadIcon.png" class="Hyperlinked" alt="" /></a>
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyD-Column1-Row1">
+                                    <p class="FooterTopicMaster"><a href="http://docs.madcapsoftware.com/MimicV8/MimicWhatsNewGuide.pdf" target="_blank" class="footermaster">Mimic What's New Guide</a>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr class="TableStyle-SimpleNoPadding-Body-Row1" MadCap:conditions="Products.MovieSync">
+                                <td class="TableStyle-SimpleNoPadding-BodyE-Column1-Row1">
+                                    <p class="FooterTopicMasterLastLineLeftPadding"><a href="http://docs.madcapsoftware.com/MimicV8/MimicGettingStartedGuide.pdf" target="_blank"><img src="../Images/DownloadIcon.png" class="Hyperlinked" alt="" /></a>
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyD-Column1-Row1">
+                                    <p class="FooterTopicMaster"><a href="http://docs.madcapsoftware.com/MovieSyncV5/MovieSyncGettingStartedGuide.pdf" target="_blank" class="footermaster">MovieSync Getting Started Guide</a>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr class="TableStyle-SimpleNoPadding-Body-Row1" MadCap:conditions="Products.MovieSync">
+                                <td class="TableStyle-SimpleNoPadding-BodyE-Column1-Row1">
+                                    <p class="FooterTopicMasterLastLineLeftPadding"><a href="http://docs.madcapsoftware.com/MovieSyncV5/MovieSyncShortcutsGuide.pdf" target="_blank"><img src="../Images/DownloadIcon.png" class="Hyperlinked" alt="" /></a>
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyD-Column1-Row1">
+                                    <p class="FooterTopicMaster"><a href="http://docs.madcapsoftware.com/MovieSyncV5/MovieSyncShortcutsGuide.pdf" target="_blank" class="footermaster">MovieSync Shortcuts Guide</a>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr class="TableStyle-SimpleNoPadding-Body-Row1" MadCap:conditions="Products.Pulse">
+                                <td class="TableStyle-SimpleNoPadding-BodyE-Column1-Row1">
+                                    <p class="FooterTopicMasterLastLineLeftPadding"><a href="http://docs.madcapsoftware.com/PulseServerV1/PulseServerInstallationGuide.pdf" target="_blank"><img src="../Images/DownloadIcon.png" class="Hyperlinked" alt="" /></a>
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyD-Column1-Row1">
+                                    <p class="FooterTopicMaster"><a href="http://docs.madcapsoftware.com/PulseV4/DashboardAdminGuide.pdf" target="_blank" class="footermaster">Pulse Dashboard Admin Guide</a>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr class="TableStyle-SimpleNoPadding-Body-Row1" MadCap:conditions="Products.Pulse">
+                                <td class="TableStyle-SimpleNoPadding-BodyE-Column1-Row1">
+                                    <p class="FooterTopicMasterLastLineLeftPadding"><a href="http://docs.madcapsoftware.com/PulseServerV1/PulseServerInstallationGuide.pdf" target="_blank"><img src="../Images/DownloadIcon.png" class="Hyperlinked" alt="" /></a>
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyD-Column1-Row1">
+                                    <p class="FooterTopicMaster"><a href="http://docs.madcapsoftware.com/PulseV4/PulseUserGuide.pdf" target="_blank" class="footermaster">Pulse User Guide</a>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr class="TableStyle-SimpleNoPadding-Body-Row1" MadCap:conditions="">
+                                <td class="TableStyle-SimpleNoPadding-BodyB-Column1-Row1">
+                                    <p class="FooterTopicMasterLastLineLeftPadding"><a href="../../PDF_Guides/PDF_Guides.htm"><img src="../Images/ListIconWhite.png" class="Hyperlinked" alt="" /></a>
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyA-Column1-Row1">
+                                    <p class="FooterTopicMasterLastLine"><a href="../../PDF_Guides/PDF_Guides.htm" class="footermaster">More PDF Guides…</a>
+                                    </p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </MadCap:dropDownBody>
+            </MadCap:dropDown>
+            <MadCap:dropDown class="Footer">
+                <MadCap:dropDownHead>
+                    <MadCap:dropDownHotspot class="Footer">SUPPORT LINKS</MadCap:dropDownHotspot>
+                </MadCap:dropDownHead>
+                <MadCap:dropDownBody class="FooterTopicMaster">
+                    <table style="margin-left: 0;margin-right: auto;width: 557px;mc-table-style: url('../TableStyles/SimpleNoPadding.css');" class="TableStyle-SimpleNoPadding" cellspacing="0">
+                        <col class="TableStyle-SimpleNoPadding-Column-Column1" style="width: 29px;" />
+                        <col class="TableStyle-SimpleNoPadding-Column-Column1" />
+                        <tbody>
+                            <tr class="TableStyle-SimpleNoPadding-Body-Row1">
+                                <td class="TableStyle-SimpleNoPadding-BodyE-Column1-Row1">
+                                    <p class="FooterTopicMasterLastLineLeftPadding">
+                                        <img src="../Images/BulletWhite.png" alt="" />
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyD-Column1-Row1">
+                                    <p class="FooterTopicMaster">Feature Suggestions&#160;&#160; |&#160;&#160; <a href="https://www.madcapsoftware.com/feedback/featurerequest.aspx" target="_blank" class="footermasterurls">https://www.madcapsoftware.com/feedback/featurerequest.aspx</a></p>
+                                </td>
+                            </tr>
+                            <tr class="TableStyle-SimpleNoPadding-Body-Row1">
+                                <td class="TableStyle-SimpleNoPadding-BodyE-Column1-Row1">
+                                    <p class="FooterTopicMasterLastLineLeftPadding">
+                                        <img src="../Images/BulletWhite.png" alt="" />
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyD-Column1-Row1">
+                                    <p class="FooterTopicMaster">Forums&#160;&#160; |&#160;&#160; <a href="http://forums.madcapsoftware.com/" target="_blank" class="footermasterurls">http://forums.madcapsoftware.com/</a></p>
+                                </td>
+                            </tr>
+                            <tr class="TableStyle-SimpleNoPadding-Body-Row1">
+                                <td class="TableStyle-SimpleNoPadding-BodyE-Column1-Row1">
+                                    <p class="FooterTopicMasterLastLineLeftPadding">
+                                        <img src="../Images/BulletWhite.png" alt="" />
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyD-Column1-Row1">
+                                    <p class="FooterTopicMaster">Knowledge Base&#160;&#160; | &#160;&#160;<a href="http://kb.madcapsoftware.com/" target="_blank" class="footermasterurls">http://kb.madcapsoftware.com/</a></p>
+                                </td>
+                            </tr>
+                            <tr class="TableStyle-SimpleNoPadding-Body-Row1" MadCap:conditions="">
+                                <td class="TableStyle-SimpleNoPadding-BodyE-Column1-Row1">
+                                    <p class="FooterTopicMasterLastLineLeftPadding">
+                                        <img src="../Images/BulletWhite.png" alt="" />
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyD-Column1-Row1">
+                                    <p class="FooterTopicMaster">Report a Bug&#160;&#160; |&#160;&#160; <a href="http://www.madcapsoftware.com/feedback/bugs.aspx" target="_blank" class="footermasterurls">http://www.madcapsoftware.com/feedback/bugs.aspx</a></p>
+                                </td>
+                            </tr>
+                            <tr class="TableStyle-SimpleNoPadding-Body-Row1">
+                                <td class="TableStyle-SimpleNoPadding-BodyE-Column1-Row1">
+                                    <p class="FooterTopicMasterLeftPadding">
+                                        <img src="../Images/BulletWhite.png" alt="" />
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyD-Column1-Row1">
+                                    <p class="FooterTopicMasterLastLine">Technical Support&#160;&#160; |&#160;&#160; <a href="http://www.madcapsoftware.com/support/" target="_blank" class="footermasterurls">http://www.madcapsoftware.com/support/</a></p>
+                                </td>
+                            </tr>
+                            <tr class="TableStyle-SimpleNoPadding-Body-Row1" MadCap:conditions="Products.FlareOnlineNotWebHelp">
+                                <td class="TableStyle-SimpleNoPadding-BodyB-Column1-Row1">
+                                    <p class="FooterTopicMasterLastLineLeftPadding">
+                                        <img src="../Images/BulletWhite.png" alt="" />
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyA-Column1-Row1">
+                                    <p class="FooterTopicMaster">Web Version of This Help&#160;&#160; |&#160;&#160; <a href="http://webhelp.madcapsoftware.com/" target="_blank" class="footermasterurls">http://webhelp.madcapsoftware.com/</a></p>
+                                    <p class="FooterTopicMaster">Pulse-Enabled for Comments and Questions</p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </MadCap:dropDownBody>
+            </MadCap:dropDown>
+            <MadCap:dropDown class="Footer">
+                <MadCap:dropDownHead>
+                    <MadCap:dropDownHotspot class="Footer">FOLLOW THE DOC TEAM</MadCap:dropDownHotspot>
+                </MadCap:dropDownHead>
+                <MadCap:dropDownBody class="FooterTopicMaster">
+                    <p class="FooterTopicMasterLastLine"><a href="https://twitter.com/#!/MadCapDocTeam" target="_blank"><img src="../Images/Twitter.png" class="Hyperlinked" alt="" /></a><a href="http://www.facebook.com/madcapdocteam" target="_blank"><img src="../Images/Facebook.png" class="Hyperlinked" alt="" /></a>
+                    </p>
+                </MadCap:dropDownBody>
+            </MadCap:dropDown>
+            <MadCap:dropDown class="Footer">
+                <MadCap:dropDownHead>
+                    <MadCap:dropDownHotspot class="Footer">COMPANY INFORMATION</MadCap:dropDownHotspot>
+                </MadCap:dropDownHead>
+                <MadCap:dropDownBody class="FooterTopicMaster">
+                    <table style="margin-left: 0;margin-right: auto;mc-table-style: url('../TableStyles/SimpleNoPadding.css');" class="TableStyle-SimpleNoPadding" cellspacing="0">
+                        <col class="TableStyle-SimpleNoPadding-Column-Column1" style="width: 29px;" />
+                        <col class="TableStyle-SimpleNoPadding-Column-Column1" />
+                        <col class="TableStyle-SimpleNoPadding-Column-Column1" />
+                        <tbody>
+                            <tr class="TableStyle-SimpleNoPadding-Body-Row1">
+                                <td class="TableStyle-SimpleNoPadding-BodyB-Column1-Row1">
+                                    <p class="FooterTopicMasterLastLineLeftPadding">
+                                        <img src="../Images/ContactIcon.png" alt="" />
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyB-Column1-Row1">
+                                    <p class="FooterTopicMaster"><MadCap:variable name="Other.CompanyName" />
+                                    </p>
+                                    <p class="FooterTopicMaster"><MadCap:variable name="Other.Address1" />
+                                    </p>
+                                    <p class="FooterTopicMaster"><MadCap:variable name="Other.Address2" />
+                                    </p>
+                                    <p class="FooterTopicMasterLastLine"><a href="http://www.madcapsoftware.com/" target="_blank" class="footermaster">www.madcapsoftware.com</a>
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyA-Column1-Row1">
+                                    <p class="FooterTopicMasterLeftPadding"><MadCap:variable name="Other.PhoneNumber1" />
+                                    </p>
+                                    <p class="FooterTopicMasterLeftPadding"><MadCap:variable name="Other.PhoneNumber2" />
+                                    </p>
+                                    <p class="FooterTopicMasterLeftPadding"><MadCap:variable name="Other.FaxNumber" />
+                                    </p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </MadCap:dropDownBody>
+            </MadCap:dropDown>
+            <MadCap:dropDown class="Footer">
+                <MadCap:dropDownHead>
+                    <MadCap:dropDownHotspot class="Footer">PRODUCT INFORMATION</MadCap:dropDownHotspot>
+                </MadCap:dropDownHead>
+                <MadCap:dropDownBody class="Final">
+                    <table style="margin-left: 0;margin-right: auto;mc-table-style: url('../TableStyles/SimpleNoPadding.css');" class="TableStyle-SimpleNoPadding" cellspacing="0">
+                        <col class="TableStyle-SimpleNoPadding-Column-Column1" style="width: 29px;" />
+                        <col class="TableStyle-SimpleNoPadding-Column-Column1" />
+                        <tbody>
+                            <tr class="TableStyle-SimpleNoPadding-Body-Row1">
+                                <td class="TableStyle-SimpleNoPadding-BodyB-Column1-Row1">
+                                    <p class="FooterTopicMasterLeftPadding">
+                                        <img src="../Images/InfoIcon.png" alt="" />
+                                    </p>
+                                </td>
+                                <td class="TableStyle-SimpleNoPadding-BodyA-Column1-Row1">
+                                    <p class="FooterTopicMaster" MadCap:conditions="Products.NotPulse">
+                                        <MadCap:snippetText src="AllProductVariables.flsnp" /> Version <MadCap:snippetText src="AllProductVersionNumVariablesDot.flsnp" /></p>
+                                    <p class="FooterTopicMasterLastLine">Copyright © <MadCap:variable name="Other.Year" />&#160;<MadCap:variable name="Other.CompanyName" /></p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </MadCap:dropDownBody>
+            </MadCap:dropDown>
+        </div>
+    </body>
+</html>

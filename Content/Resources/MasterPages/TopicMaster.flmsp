@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="13" MadCap:lastHeight="1215" MadCap:lastWidth="831" MadCap:conditions="Products.AllProducts">
+    <head>
+        <link href="../TableStyles/SimpleNoPadding.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+        <meta charset="utf-8" />
+        <!-- for embedded videos -->
+     <!--   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js">
+        </script>
+		-->
+        <!-- for embedded videos -->
+        <script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-621188-1']);
+			_gaq.push(['_setDomainName', 'madcapsoftware.com']);
+			_gaq.push(['_trackPageview']);
+
+			(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+        <!-- for search -->
+        <script>
+			function showVideo(sender, show, href)
+			{
+			var wrapper = $($(sender).parents(".video")[0]);
+			var summary = $(wrapper.children(".summary")[0]);
+			var player = $(wrapper.children(".player")[0]);
+			var iframe = $(player.children("iframe")[0]);
+                                
+			if (show)
+			{              
+			summary.css('display', 'none');
+			player.css('display', 'block');
+			iframe.attr('src', href);
+			}
+			else
+			{              
+			summary.css('display', 'block');
+			player.css('display', 'none');
+			}
+			}
+		</script>
+        <!-- for embedded videos -->
+    </head>
+    <body>
+        <MadCap:breadcrumbsProxy />
+        <MadCap:bodyProxy />
+        <MadCap:snippetBlock src="../Snippets/MasterPageFooter.flsnp" />
+    </body>
+</html>

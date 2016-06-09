@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare">
+    <body>
+        <p>This topic discusses some of the key features that make <MadCap:snippetText src="../AllProductVariables.flsnp" /> unique. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Introduction_Topics/Key_Features_Flare.htm">Key Features</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

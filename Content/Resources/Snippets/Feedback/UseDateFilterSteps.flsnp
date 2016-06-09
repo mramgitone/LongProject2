@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:conditions="Products.FeedbackExplorer" MadCap:lastBlockDepth="4" MadCap:lastHeight="201" MadCap:lastWidth="1169" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol class="LowerAlpha">
+            <li>In the local toolbar, click <img src="../../Images/date_filter_btn.jpg" class="ReduceButtonSize" />.</li>
+            <li>In the Date Filter dialog, click <span class="Emphasis">Enable filter</span>.</li>
+            <li>Select either <span class="Emphasis">Range</span> or <span class="Emphasis">Preset</span>.</li>
+            <li>Click in the appropriate fields to select a timeframe. If you use the "Range" option, you can click on the down arrows to choose specific months and dates. You can also click inside the field and type a different time.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

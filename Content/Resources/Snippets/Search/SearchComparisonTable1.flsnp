@@ -1,0 +1,567 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="6" MadCap:lastHeight="1399" MadCap:lastWidth="1118">
+    <head>
+        <link href="../../TableStyles/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="margin-left: 0;margin-right: auto;caption-side: top;mc-table-style: url('../../TableStyles/BasicAlternateRows.css');" class="TableStyle-BasicAlternateRows" cellspacing="0">
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" style="width: 182px;" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-BasicAlternateRows-Head-Header1">
+                    <th rowspan="2" style="border-right-color: #ffffff;" class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">&#160;</th>
+                    <th colspan="6" style="border-right-color: #ffffff;padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #ffffff;" class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">CLIENT-BASED OUTPUT</p>
+                    </th>
+                    <th colspan="2" class="TableStyle-BasicAlternateRows-HeadD-Regular-Header1" style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #ffffff;">
+                        <p class="TableTextHead">SERVER-BASED&#160;OUTPUT</p>
+                    </th>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Head-Header1">
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../Images/DotNetIcon.png" class="MaxWidth35PixelsPrint" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../Images/HTMLHelpIcon.png" class="MaxWidth35PixelsPrint" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../Images/WHIcon.png" class="MaxWidth35PixelsPrint" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../Images/HTML5Icon.png" class="MaxWidth35PixelsPrint" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../Images/AirIcon.png" class="MaxWidth35PixelsPrint" />
+                        </p>
+                    </th>
+                    <th style="border-right-color: #ffffff;" class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../Images/WHMIcon.png" class="MaxWidth35PixelsPrint" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../Images/WHPIcon.png" class="MaxWidth35PixelsPrint" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadD-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../Images/HTML5Icon.png" class="MaxWidth35PixelsPrint" />
+                        </p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallPrint">Additional Requirements</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint"><MadCap:variable name="Products.Help Viewer" />
+                        </p>
+                        <p class="TableTextSmallPrint">SQL&#160;Server Compact (for asterisk (*)&#160;wildcard search and boolean operators)</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">Internet&#160;Explorer</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">&#160;</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">&#160;</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">Java Runtime Environment (JRE) </p>
+                        <p class="TableTextSmallPrint">Adobe AIR</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">&#160;</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">IIS</p>
+                        <p class="TableTextSmallPrint">ASP.NET</p>
+                        <p class="TableTextSmallPrint">Microsoft Indexing Service or Windows Search</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextSmallPrint">IIS</p>
+                        <p class="TableTextSmallPrint">ASP.NET</p>
+                        <p class="TableTextSmallPrint">Microsoft Indexing Service or Windows Search</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallPrint">Glossary Search—Find Matching Terms</p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/x.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/x.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/x.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/x.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallPrint">Index Search—Find Matching Terms</p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/x.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallPrint">Search&#160;Favorites—Save Queries to Favorites List</p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/x.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/x.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/x.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <img src="../../Images/x.png" class="ReduceButtonSize" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallPrint">Search Query—Asterisk (*)&#160;Wildcard Character</p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/graycheck.png" class="ReduceButtonSize" />
+                        </p>
+                        <p class="TableTextSmallPrint">Requires SQL&#160;Server Compact.</p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/x.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/x.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/x.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/x.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallPrint">Search Query—Boolean Operators</p>
+                        <p class="TableTextEmphasisSmallPrint" MadCap:conditions="FlareGuides.FlareSearchGuide,General.OnlineLive">See <MadCap:xref href="../../../Search/Searching_Outputs/Search_Methods_and_Syntax.htm" class="darkbackground">Search Methods and Syntax</MadCap:xref>.</p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/graycheck.png" class="ReduceButtonSize" />
+                        </p>
+                        <p class="TableTextSmallPrint">Requires SQL&#160;Server Compact.</p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/graycheck.png" class="ReduceButtonSize" />
+                        </p>
+                        <p class="TableTextSmallPrint">Select operator from built-in list. <MadCap:conditionalText MadCap:conditions="General.OnlineLive,FlareGuides.FlareSearchGuide">See <MadCap:xref href="../../../Search/Searching_Outputs/Searching_HTML_Help.htm">Searching a Microsoft HTML&#160;Help System</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/x.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/x.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallPrint">Search Query—Full-text Search (not case sensitive)</p>
+                        <p class="TableTextEmphasisSmallPrint" MadCap:conditions="FlareGuides.FlareSearchGuide,General.OnlineLive">See <MadCap:xref href="../../../Search/Searching_Outputs/Search_Methods_and_Syntax.htm" class="darkbackground">Search Methods and Syntax</MadCap:xref>.</p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallPrint">Search Query—Enclose Terms in Quotes (" ")</p>
+                        <p class="TableTextEmphasisSmallPrint" MadCap:conditions="FlareGuides.FlareSearchGuide,General.OnlineLive">See <MadCap:xref href="../../../Search/Searching_Outputs/Search_Methods_and_Syntax.htm" class="darkbackground">Search Methods and Syntax</MadCap:xref>.</p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallPrint">Search Results—Narrow Search Scope Using Search&#160;Filter Sets</p>
+                        <p class="TableTextEmphasisSmallPrint" MadCap:conditions="General.OnlineLive,FlareGuides.FlareSearchGuide">See <MadCap:xref href="../../../Search/Search_Filter_Sets/Search_Filter_Set_Example.htm" class="darkbackground">Search Filter Set Example</MadCap:xref>.</p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/x.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/x.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallPrint">Search Results—Results Listed in Ranked Order and Show Rank Number</p>
+                        <p class="TableTextEmphasisSmallPrint" MadCap:conditions="FlareGuides.FlareSearchGuide,General.OnlineLive">See <MadCap:xref href="../../../Search/Optimizing_Search/Optimizing_Search.htm" class="darkbackground">Optimizing Search</MadCap:xref>.</p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/graycheck.png" class="ReduceButtonSize" />
+                        </p>
+                        <p class="TableTextSmallPrint">Results are listed in order. Rank number is not visible.</p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p>
+                            <img src="../../Images/graycheck.png" class="ReduceButtonSize" />
+                        </p>
+                        <p class="TableTextSmallPrint">Results are listed in order. Rank number is not visible.</p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/graycheck.png" class="ReduceButtonSize" />
+                        </p>
+                        <p class="TableTextSmallPrint">Results are listed in order. Rank number is not visible.</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p>
+                            <img src="../../Images/graycheck.png" class="ReduceButtonSize" />
+                        </p>
+                        <p class="TableTextSmallPrint">Results are listed in order. Rank number is not visible.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallPrint">Search Results—Search Hits Highlighted in Topics</p>
+                        <p class="TableTextEmphasisSmallPrint" MadCap:conditions="General.OnlineLive,FlareGuides.FlareSearchGuide">See <MadCap:xref href="../../../Search/More_About_Search_Highlighting/About_Search_Highlighting.htm" class="darkbackground">Search&#160;Highlighting</MadCap:xref>.</p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                        <p class="TableTextCenterVideo">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-BasicAlternateRows-BodyA-Regular-LightRows">
+                        <p class="TableTextSmallPrint">
+                            <img src="../../Images/greencheck.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

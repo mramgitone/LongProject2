@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Mimic,Products.MovieSync,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="75" MadCap:lastWidth="600">
+    <body>
+        <p>Opens a small window on top of the selected object in a movie, letting you edit the text for that object. This option is enabled only if you have selected an object first. It also works only for objects to which you can add text.</p>
+    </body>
+</html>

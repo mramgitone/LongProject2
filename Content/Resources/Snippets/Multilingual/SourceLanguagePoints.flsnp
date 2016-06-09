@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo">
+    <body>
+        <ul type="1" class="Square">
+            <li><span class="SetOffFirstLevel">Indication of Language</span> Selecting a language provides an easy way to identify the project with a particular language. When you are finished creating the project, the target language will be shown in the Lingo Project Editor. You can also indicate the target language by including it when you name the project (e.g., "My <MadCap:variable name="Products.Flare" /> Project Italian").</li>
+            <li>
+                <p><span class="SetOffFirstLevel">Spell Check</span> This affects the language that is used for spell checking.</p>
+                <MadCap:dropDown>
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">notes</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p class="note" MadCap:conditions="General.OnlineLive">The languages displayed in bold are supported for spell check. This does not mean that you cannot translate in a particular language if it is not displayed in bold font in this page of the wizard. Also, you can import dictionaries for spell checking purposes. See <MadCap:xref href="../../../Dictionaries/Importing_Dictionaries.htm">Importing Dictionaries</MadCap:xref>.</p>
+                        <p class="note" MadCap:conditions="General.OnlineLive">If you select multiple languages in the Start New Project Wizard, you can switch between them in the Translation Editor and other areas in Lingo. This makes it easy for you to create projects that need to be translated into multiple languages. You can add new languages to or remove languages from a project at any time. See <MadCap:xref href="../../../Multilingual/About_Multilingual_Projects.htm">About Multilingual Projects</MadCap:xref></p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+        </ul>
+    </body>
+    <head>
+    </head>
+</html>

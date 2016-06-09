@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare">
+    <body>
+        <ol>
+            <li>In the Project Organizer, expand the <span class="Emphasis">Targets</span> folder.</li>
+            <li>
+                <p>Double-click a target that is using a print-based format. In our template, there are four different PDF targets, so we opened each of them to set the TOC depth.</p>
+                <p>
+                    <img src="../../Images/hdydt_chapter_title2.png" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>In the Target Editor, select the <span class="Emphasis">Advanced</span> tab.</li>
+            <li>In the <span class="Emphasis">Generated TOC</span> section, select <span class="Emphasis"> Use TOC depth for heading levels</span>.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

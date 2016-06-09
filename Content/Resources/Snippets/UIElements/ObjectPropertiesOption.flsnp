@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="169" MadCap:lastWidth="704" MadCap:conditions="Products.Capture,Products.Mimic">
+    <head>
+    </head>
+    <body>
+        <p>Opens the properties dialog for the selected object. It lets you perform tasks specific to the selected object. For example, if a rectangle is selected, this dialog lets you add shadow effects, add text, and set the color for the object. </p>
+    </body>
+</html>

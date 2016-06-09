@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Mimic,Products.MovieSync" MadCap:lastBlockDepth="3" MadCap:lastHeight="169" MadCap:lastWidth="1186">
+    <head>
+    </head>
+    <body>
+        <p>Lets you create an input failure caption. After you add an input box to a frame, you can add a failure caption to accompany it. This is a message that displays to users if they fail to complete the input box successfully within the specified number of attempts.<MadCap:conditionalText MadCap:conditions="Products.Mimic"> See <MadCap:xref href="../../../Objects/Typing_Objects/Adding_Input_Failure_Captions.htm">Adding Input Failure Captions</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

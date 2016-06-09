@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:ignoredWords=".bmp;.jpg;.jpeg;jpeg;.gif;.png.;png;.props;demos.asp.;contact.asp.;s;C;F;F1;F4;P;W;Y;Z;Tollfree;MadCap1;F11;F3;F7;NewWord;MadCap's;MyProfile" MadCap:lastBlockDepth="4" MadCap:lastHeight="174" MadCap:lastWidth="1105" MadCap:conditions="Products.Capture">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <MadCap:snippetBlock src="WhatsNextHeading.flsnp" MadCap:conditions="General.OnlineLive" />
+        <p MadCap:conditions="General.OnlineLive">After you capture or open an image, it displays in the Capture Editor. You can then do the following.</p>
+        <ul>
+            <li MadCap:conditions="General.OnlineLive"><span class="SetOffFirstLevel">Edit </span>If you want to enhance the shape before saving it, you can perform tasks such as drawing shapes, creating effects, adding callouts, cropping, etc. See <MadCap:xref href="../../../Steps/Editing_an_Image.htm">Editing an Image</MadCap:xref>.</li>
+            <li MadCap:conditions="General.OnlineLive"><span class="SetOffFirstLevel">Save </span>If you do not want to make any enhancements to the captured image, you can simply save it. See <MadCap:xref href="../../../Steps/Saving_an_Image.htm">Saving an Image</MadCap:xref>.</li>
+        </ul>
+    </body>
+</html>

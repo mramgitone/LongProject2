@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="8" MadCap:lastHeight="446" MadCap:lastWidth="771">
+    <head>
+        <link href="../../../../TableStyles/Simple.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="width: 100%;margin-left: auto;margin-right: auto;mc-table-style: url('../../../../TableStyles/Simple.css');height: 400px;" class="TableStyle-Simple" cellspacing="0">
+            <col class="TableStyle-Simple-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-Simple-Body-Row1">
+                    <td class="TableStyle-Simple-BodyA-Column1-Row1" style="vertical-align: middle;padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;">
+                        <h3>Tables of Contents</h3>
+                        <p>Creating a table of contents in Flare can be very easy to do for both online and print output. For online output, it can be as easy as dragging topics into the TOC Editor<MadCap:conditionalText MadCap:conditions="General.OnlineLive"> (see <MadCap:xref href="../../../../../TOCs/Creating_a_TOC_Manually.htm">Creating a Table of Contents</MadCap:xref>)</MadCap:conditionalText>. You can create a TOC by adding books and items with links. The links usually point to topics, but for online outputs they can also point to external files, other Help systems, and movies. You put all of these books and items in a structure that you think would be useful for the individual. End users then browse through a TOC to find information.You have the option to customize your TOCs in lots of ways, getting as fancy as you want. However, there are some things you should know.</p>
+                        <p>The most important thing to understand is that the TOC files that you see in the Project Organizer work differently for online output than they do for print-based output. For online outputs, TOC files are exactly as their name suggests; they are files that create TOCs in the output. But for print-based outputs, that same TOC file functions more like an outline. The element that actually generates a TOC in print-based output is called a "proxy." You can manually create that proxy yourself, or you can select an option in the Advanced tab of the Target Editor and let Flare do it all for you. There are pros and cons for both methods.</p>
+                        <p>You can see both online and print TOCs in action by looking at Flare's many project templates on the Start Page. Typically, the templates labeled as "Basic" use the easy auto-generation method for creating print TOCs<MadCap:conditionalText MadCap:conditions="General.OnlineLive"> (see <MadCap:xref href="../../../../../Output/Printed_Output/More_About_Printed_Output/Auto_Generating_TOCs_for_Print.htm">Auto-generating TOCs for Print</MadCap:xref>)</MadCap:conditionalText>, and the "Advanced" templates use the more robust method by making use of a combination of a TOC proxy, styles, and page layouts<MadCap:conditionalText MadCap:conditions="General.OnlineLive"> (see <MadCap:xref href="../../../../../Output/Printed_Output/More_About_Printed_Output/Creating_a_TOC_Manually_for_Print.htm">Creating a TOC Manually for Print</MadCap:xref>)</MadCap:conditionalText>.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

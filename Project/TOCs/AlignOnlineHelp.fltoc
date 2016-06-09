@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Align">
+  <TocEntry
+    Title="Welcome"
+    Link="/Content/Introduction_Topics/WelcomeAlign.htm" />
+  <TocEntry
+    Title="Tour of the Workspace">
+    <TocEntry
+      Title="Workspace—Touring"
+      Link="/Content/Tour_of_the_Workspace/Touring_the_Workspace_Align.htm" />
+    <TocEntry
+      Title="Start Page"
+      Link="/Content/UI_Elements/Start_Page_Align.htm" />
+    <TocEntry
+      Title="File Map Window Pane"
+      Link="/Content/Alignment/Aligning_Files.htm" />
+    <TocEntry
+      Title="Alignment Tool"
+      Link="/Content/Alignment/Aligning_Segments.htm"></TocEntry>
+    <TocEntry
+      Title="Ribbons"
+      Link="/Content/Tour_of_the_Workspace/Ribbons_Align.htm" />
+    <TocEntry
+      Title="Menus"
+      Link="/Content/Tour_of_the_Workspace/Menus_Align.htm" />
+    <TocEntry
+      Title="Standard Toolbar"
+      Link="/Content/Tour_of_the_Workspace/Standard_Toolbar_Align.htm" />
+    <TocEntry
+      Title="Workspace—Customizing"
+      Link="/Content/Tour_of_the_Workspace/Customizing_the_Workspace.htm"></TocEntry>
+    <TocEntry
+      Title="More About Customizing the Workspace">
+      <TocEntry
+        Title="Color Theme for Interface"
+        Link="/Content/Tour_of_the_Workspace/More_About_Customizing_the_Workspace/Selecting_an_Interface_Color_Theme.htm" />
+      <TocEntry
+        Title="Ribbons—Minimizing"
+        Link="/Content/Tour_of_the_Workspace/More_About_Customizing_the_Workspace/Minimizing_Ribbons.htm" />
+      <TocEntry
+        Title="Ribbons and Menus/Toolbars—Switching"
+        Link="/Content/Tour_of_the_Workspace/More_About_Customizing_the_Workspace/SwitchingRibbonMenu.htm" />
+      <TocEntry
+        Title="Window Layouts"
+        Link="/Content/Tour_of_the_Workspace/More_About_Customizing_the_Workspace/Window_Layouts.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Features"
+    Link="">
+    <TocEntry
+      Title="Alignment"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue">
+      <TocEntry
+        Title="About Alignment"
+        Link="/Content/Alignment/About_Alignment.htm" />
+      <TocEntry
+        Title="Alignment Projects—Creating"
+        Link="/Content/Projects_Starting/Creating_Alignment_Projects.htm" />
+      <TocEntry
+        Title="Files—Aligning"
+        Link="/Content/Alignment/Aligning_Files.htm" />
+      <TocEntry
+        Title="Segments—Aligning"
+        Link="/Content/Alignment/Aligning_Segments.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Find and Replace">
+      <TocEntry
+        Title="About Find and Replace"
+        Link="/Content/Find_and_Replace/About_Find_and_Replace.htm" />
+      <TocEntry
+        Title="Find and Replace—Using"
+        Link="/Content/Find_and_Replace/Using_the_Quick_Find_and_Quick_Replace_Widgets.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Projects">
+      <TocEntry
+        Title="Projects—Creating"
+        Link="/Content/Projects_Starting/Creating_Alignment_Projects.htm" />
+      <TocEntry
+        Title="Projects—Opening"
+        Link="/Content/Projects_Starting/Opening_Lingo_Projects.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Shortcuts">
+      <TocEntry
+        Title="Keyboard Shortcuts"
+        Link="/Content/Shortcuts/Keyboard_Shortcuts_Align.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Translation Memory">
+      <TocEntry
+        Title="Choosing a Translation Memory Database"
+        Link="/Content/Translation_Memory/Choosing_a_TM_Database.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Window Layouts">
+      <TocEntry
+        Title="Window Layouts"
+        Link="/Content/Tour_of_the_Workspace/More_About_Customizing_the_Workspace/Window_Layouts.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="User Interface Elements—How to Use Each One"
+    Link="">
+    <TocEntry
+      Title="Alignment Tool"
+      Link="/Content/Alignment/Aligning_Segments.htm" />
+    <TocEntry
+      Title="Conflict with Translation Memory Dialog"
+      Link="/Content/UI_Elements/Conflict_with_Translation_Memory_Dialog.htm" />
+    <TocEntry
+      Title="Dynamic Help Window Pane"
+      Link="/Content/UI_Elements/Dynamic_Help_Window.htm" />
+    <TocEntry
+      Title="File Map Window Pane"
+      Link="/Content/Alignment/Aligning_Files.htm" />
+    <TocEntry
+      Title="Find and Replace Window Pane"
+      Link="/Content/Find_and_Replace/Using_the_Quick_Find_and_Quick_Replace_Widgets.htm"></TocEntry>
+    <TocEntry
+      Title="Help Favorites Window Pane"
+      Link="/Content/UI_Elements/Help_Favorites_Window.htm" />
+    <TocEntry
+      Title="Help Glossary Window Pane"
+      Link="/Content/UI_Elements/Help_Glossary_Window.htm" />
+    <TocEntry
+      Title="Help Index Window Pane"
+      Link="/Content/UI_Elements/Help_Index_Window.htm" />
+    <TocEntry
+      Title="Help Search Window Pane"
+      Link="/Content/UI_Elements/Help_Search_Window.htm" />
+    <TocEntry
+      Title="Help TOC Window Pane"
+      Link="/Content/UI_Elements/Help_TOC_Window.htm" />
+    <TocEntry
+      Title="Index Results Window Pane"
+      Link="/Content/UI_Elements/Index_Results_Window.htm" />
+    <TocEntry
+      Title="Manage Window Layouts Dialog"
+      Link="/Content/UI_Elements/Manage_Window_Layouts_Dialog.htm" />
+    <TocEntry
+      Title="Manage Windows Dialog"
+      Link="/Content/UI_Elements/Manage_Windows_Dialog.htm" />
+    <TocEntry
+      Title="Messages Window Pane"
+      Link="/Content/UI_Elements/Messages_Window.htm" />
+    <TocEntry
+      Title="Options Dialog"
+      Link="/Content/UI_Elements/Options_Dialog_Align.htm" />
+    <TocEntry
+      Title="Recent Files Dialog"
+      Link="/Content/UI_Elements/Recent_Files_Dialog.htm" />
+    <TocEntry
+      Title="Recent Projects Dialog"
+      Link="/Content/UI_Elements/Recent_Projects_Dialog.htm" />
+    <TocEntry
+      Title="Start Alignment Wizard"
+      Link="/Content/Projects_Starting/Creating_Alignment_Projects.htm"></TocEntry>
+    <TocEntry
+      Title="Start Page"
+      Link="/Content/UI_Elements/Start_Page_Align.htm" />
+  </TocEntry>
+</CatapultToc>

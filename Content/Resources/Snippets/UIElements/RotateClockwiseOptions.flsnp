@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="177" MadCap:lastWidth="1105" MadCap:conditions="Products.Mimic,Products.Capture">
+    <head>
+    </head>
+    <body>
+        <p>Click the face of the button to rotate the selected object 45 degrees clockwise. You can also click the down arrow to select from the following.</p>
+        <ul style="list-style-type: square;">
+            <li><span class="SetOffFirstLevel">Rotate 90 Clockwise </span>Turns the object 90 degrees clockwise.</li>
+            <li><span class="SetOffFirstLevel">Rotate 45 Clockwise </span>Turns the object 45 degrees clockwise. This is the same function that activates by clicking the face of the button.</li>
+            <li><span class="SetOffFirstLevel">Rotate 1 Clockwise </span>Turns the object 1 degree clockwise.</li>
+        </ul>
+        <p>See <MadCap:xref href="../../../Appearance/Positioning_Objects/Rotating_Objects.htm" target="" title="" alt="">Rotating Objects</MadCap:xref>.</p>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="2" MadCap:lastHeight="69" MadCap:lastWidth="1182">
+    <body>
+        <p>SQL Server Express is designed to be used on a server, but can also be stored locally and used with <MadCap:snippetText src="../AllProductVariables.flsnp" />. To download and install the latest version of SQL Server Express, go to <a href="http://microsoft.com/downloads/" target="_blank">http://www.microsoft.com/downloads/</a>.</p>
+    </body>
+</html>

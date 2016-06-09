@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="166" MadCap:lastWidth="960" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <body>
+        <p class="TableText">When you first start typing content, a popup may display below your text as you type. This is the Auto Suggestion feature, which analyzes text as you type and compares it to other content (e.g., phrases, variables, snippets) that already exists in the project, like this:</p>
+        <p class="TableText">
+            <img src="../../Images/auto_suggestion_popup_window_example.png" class="MaxWidth90Percent" />
+        </p>
+        <p>This means you can quickly select existing content from the popup so that you do not have to finish typing it.</p>
+    </body>
+</html>

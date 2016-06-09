@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="189" MadCap:lastWidth="920" MadCap:conditions="Products.Mimic">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <MadCap:snippetBlock src="WhatsNextHeading.flsnp" MadCap:conditions="General.OnlineLive" />
+        <p MadCap:conditions="General.OnlineLive">After you finish specifying the settings for the skin, you can make other adjustments to the output, such as single/multiple file settings (if necessary). Then you can finalize the movie by building and distributing it. See <MadCap:xref href="../../../Output/Building_Movie_Output.htm" target="" title="" alt="">Building Movie Output</MadCap:xref> and <MadCap:xref href="../../../Output/Distributing_Output_Mimic.htm" target="" title="" alt="">Distributing Output</MadCap:xref>.</p>
+    </body>
+</html>

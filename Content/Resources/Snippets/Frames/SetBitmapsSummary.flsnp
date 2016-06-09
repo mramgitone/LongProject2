@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Mimic" MadCap:lastBlockDepth="2" MadCap:lastHeight="85" MadCap:lastWidth="847">
+    <body>
+        <p>When you create a movie, it consists of one or more frames. A frame can be blank, or it can have an image assigned to its background. When you record a movie, the images are automatically added to each frame, based on your actions during the recording. If necessary, you can manually set the image, whether you are replacing an existing image or assigning a new one to a blank frame. When you set an image, it is either stretched or shrunk (if necessary) to fit the size of the frame.</p>
+    </body>
+</html>

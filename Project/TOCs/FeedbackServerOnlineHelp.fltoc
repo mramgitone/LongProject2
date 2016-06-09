@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.FeedbackServerAdmin">
+  <TocEntry
+    Title="Welcome"
+    Link="/Content/Introduction_Topics/WelcomeFeedbackServer.htm"
+    MarkAsNew="False"
+    conditions=""></TocEntry>
+  <TocEntry
+    Title="What's New in this Version"
+    Link="/Content/Introduction_Topics/Whats_New_in_This_Version_Feedback_Admin.htm" />
+  <TocEntry
+    Title="Installing MadCap Feedback Server"
+    Link="/Content/Getting_Set_Up/Installing_MadCap_Feedback_Server_Admin_and_Other_Components.htm" />
+  <TocEntry
+    Title="Installing SQL Server"
+    Link="/Content/SQL/Installing_SQL_Server.htm" />
+  <TocEntry
+    Title="Configuring the MadCap Feedback Server Admin"
+    Link="/Content/Getting_Set_Up/Configuring_and_Maintaining_the_MadCap_Feedback_Server_Admin.htm" />
+  <TocEntry
+    Title="Localizing Activation Success and Failure Pages"
+    Link="/Content/Getting_Set_Up/Localizing_Success_Failure_Pages.htm" />
+  <TocEntry
+    Title="Importing Data from Feedback Databases"
+    Link="/Content/Getting_Set_Up/Importing_Data.htm" />
+  <TocEntry
+    Title="User Interface Elements - How to Use Each One"
+    StartChapter="False"
+    Link="">
+    <TocEntry
+      Title="Dynamic Help Window Pane"
+      Link="/Content/UI_Elements/Dynamic_Help_Window.htm" />
+    <TocEntry
+      Title="Feedback Server Admin"
+      Link="/Content/Getting_Set_Up/Configuring_and_Maintaining_the_MadCap_Feedback_Server_Admin.htm" />
+    <TocEntry
+      Title="Feedback Server Setup Dialog"
+      Link="/Content/Getting_Set_Up/Installing_MadCap_Feedback_Server_Admin_and_Other_Components.htm" />
+    <TocEntry
+      Title="Help Favorites Window Pane"
+      Link="/Content/UI_Elements/Help_Favorites_Window.htm" />
+    <TocEntry
+      Title="Help Glossary Window Pane"
+      Link="/Content/UI_Elements/Help_Glossary_Window.htm" />
+    <TocEntry
+      Title="Help Index Window Pane"
+      Link="/Content/UI_Elements/Help_Index_Window.htm" />
+    <TocEntry
+      Title="Help Search Window Pane"
+      Link="/Content/UI_Elements/Help_Search_Window.htm" />
+    <TocEntry
+      Title="Help TOC Window Pane"
+      Link="/Content/UI_Elements/Help_TOC_Window.htm" />
+    <TocEntry
+      Title="Index Results Window Pane"
+      Link="/Content/UI_Elements/Index_Results_Window.htm" />
+    <TocEntry
+      Title="Manage Window Layouts Dialog"
+      Link="/Content/UI_Elements/Manage_Window_Layouts_Dialog.htm" />
+    <TocEntry
+      Title="Manage Windows Dialog"
+      Link="/Content/UI_Elements/Manage_Windows_Dialog.htm" />
+    <TocEntry
+      Title="Messages Window Pane"
+      Link="/Content/UI_Elements/Messages_Window.htm" />
+    <TocEntry
+      Title="New Updates Available Dialog"
+      Link="/Content/UI_Elements/New_Updates_Available_Dialog.htm" />
+    <TocEntry
+      Title="Print Preview Dialog"
+      Link="/Content/UI_Elements/Print_Preview_Dialog.htm" />
+    <TocEntry
+      Title="Required Windows Components Dialog"
+      Link="/Content/UI_Elements/Required_Windows_Components_Dialog.htm" />
+  </TocEntry>
+</CatapultToc>

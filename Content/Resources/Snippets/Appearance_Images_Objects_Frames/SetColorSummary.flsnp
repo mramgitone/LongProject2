@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Capture,Products.Mimic" MadCap:lastBlockDepth="2" MadCap:lastHeight="69" MadCap:lastWidth="559">
+    <body>
+        <p>When you add an object (e.g., shape, line) to<MadCap:conditionalText MadCap:conditions="Products.Capture"> an image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic"> a frame</MadCap:conditionalText>, you have many options for changing its look and feel. One way that you can change the look of an object is to adjust its color settings.</p>
+    </body>
+</html>

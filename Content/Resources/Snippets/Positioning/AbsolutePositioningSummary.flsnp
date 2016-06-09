@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="91" MadCap:lastWidth="736">
+    <body>
+        <p>Added support for the CSS “position: absolute” setting, which lets you remove content from the main flow of a document and place it anywhere you want. You can drag absolutely positioned elements to reposition them (by holding down CTRL) or resize them using similar UI to frames in the page layout editor.</p>
+    </body>
+</html>

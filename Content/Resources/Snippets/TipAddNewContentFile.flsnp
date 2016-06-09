@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer" MadCap:lastBlockDepth="2" MadCap:lastHeight="119" MadCap:lastWidth="1221">
+    <body>
+        <p class="tip" MadCap:autonum="&lt;b&gt;Tip: &lt;/b&gt;">When adding a new file to the Content Explorer, the recommended method is to right-click on the folder in the Content Explorer and use the New menu option. This is the most efficient way to direct the new file to the folder where you want to store it. That's because the Add File dialog opens when you add a new content file, and this method ensures that the folder you want is already selected in that dialog.</p>
+    </body>
+</html>

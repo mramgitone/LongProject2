@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="1710" MadCap:lastWidth="1101" MadCap:ignoredWords="CatapultMdiEditor" MadCap:conditions="General.Future">
+    <head>
+    </head>
+    <body>
+        <p class="Subheading2"><MadCap:variable name="Products.Flare" /> cannot locate the startup file</p>
+        <p class="Subheading2">Cause</p>
+        <p>This can be a result of <MadCap:variable name="Products.Flare" /> attempting to  access a startup file registry key that is  no longer valid.</p>
+        <p class="Subheading2">Solution</p>
+        <p>Delete the existing startup registry key. Perform the following steps.</p>
+        <ol>
+            <li>Open the <span class="Emphasis">Start</span> menu.</li>
+            <li>
+                <p>Click in the search field at the bottom of the <b>Start</b>menu and type <span style="font-family: monospace;">regedit</span>, then press <b>ENTER</b>. The Registry Editor opens.</p>
+                <p>
+                    <img src="../../Images/TS_building_projects_ex0.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>In the Registry Editor, expand the <b>HKEY_CURRENT_USER</b> file by clicking the arrow to the left.</li>
+            <li>Under the HKEY_CURRENT_USER file, more files will appear. Expand the <b>Software</b> file.</li>
+            <li>Expand the <span class="Emphasis">MadCap Software</span> file.</li>
+            <li>Select <span class="Emphasis">Flare</span>.</li>
+            <li>Select <span class="Emphasis">CatapultMdiEditor</span>.</li>
+            <li>
+                <p>Press <b>Delete</b> on the keyboard.</p>
+                <p>
+                    <img src="../../Images/TS_importing_ex2.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>A confirmation window will pop up. Click <span class="Emphasis">Yes</span>.</li>
+        </ol>
+    </body>
+</html>

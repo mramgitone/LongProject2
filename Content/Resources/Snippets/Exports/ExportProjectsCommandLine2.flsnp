@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="4" MadCap:lastHeight="488" MadCap:lastWidth="868">
+    <body>
+        <p>The following command option runs the project exporter from madbuild:</p>
+        <p class="TypedEntry">madbuild –export &lt;project path&gt; -settings &lt;export project file name&gt;</p>
+        <p>The part within angle brackets is the location and name your export project file.</p>
+        <p>The following error codes may be seen if problems occur during an export process:</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">3001 </span>The entered export project file does not exist.</li>
+            <li><span class="SetOffFirstLevel">3002 </span>There was an error parsing the entered export project file.</li>
+            <li><span class="SetOffFirstLevel">3003 </span>Export failed.</li>
+            <li><span class="Emphasis">3004 </span>Export destination name not set in the export file</li>
+            <li><span class="Emphasis">3005 </span>Export destination path not set in the export file</li>
+            <li><span class="Emphasis">3006 </span>Template name not set in the export file</li>
+            <li><span class="Emphasis">3007 T</span>emplate path not set in the export file</li>
+            <li><span class="Emphasis">3008 </span>Target path not set in export file (When exporting using target)</li>
+            <li><span class="Emphasis">3009 </span>Target path not found (When exporting using target)</li>
+            <li><span class="Emphasis">3010 </span>Conditional expression not set (When exporting using conditional expression)</li>
+            <li><span class="Emphasis">3011 </span>File Tag expression not set (When exporting using file tag expression)</li>
+            <li><span class="Emphasis">3012 </span>No files selected (When exporting using manual selection)</li>
+        </ul>
+    </body>
+</html>

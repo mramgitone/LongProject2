@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Mimic,Products.Capture,Products.MovieSync" MadCap:lastBlockDepth="2" MadCap:lastHeight="169" MadCap:lastWidth="1079">
+    <head>
+    </head>
+    <body>
+        <p>Converts the cursor to Loop mode, which lets you create a "loop" shape by clicking in the <MadCap:conditionalText MadCap:conditions="Products.Capture">image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic,Products.MovieSync">frame</MadCap:conditionalText> and dragging a rectangle area. When you release the cursor, a loop shape is created. This is a useful shape for circling parts of an image that you want to emphasize. <MadCap:conditionalText MadCap:conditions="Products.Capture,Products.Mimic">See <MadCap:xref href="../../../UI_Elements/Loop_Properties_Dialog.htm" target="" title="" alt="">Loop Properties Dialog</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

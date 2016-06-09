@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.FlareWebHelp" MadCap:lastBlockDepth="10" MadCap:lastHeight="3623" MadCap:lastWidth="902">
+    <head>
+    </head>
+    <body>
+        <h1>
+            <img src="../../Resources/Images/How.png" MadCap:conditions="General.OnlineLive" /><span class="HDYDT">How Did You Do That?</span> Cross-References</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Banners/Flare/HDYDT/OnlinePrint.flsnp" />
+        <p>When it comes to creating internal links in a project (e.g., links from one topic to another), cross-references are preferred over hyperlinks. That's because they're smarter and require much less maintenance. Hyperlinks are best for external links (e.g., to a website or PDF).</p>
+        <p>We used cross-references in this template to create links in the following ways.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>topic links in online and pdf outputs</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>We wanted links from one topic to another in the online output to look like this:</p>
+                <p>
+                    <img src="../../Resources/Images/hdydt_cross_references2.png" alt="" title="" class="MaxWidth100Percent">
+                    </img>
+                </p>
+                <p>
+                    <img src="../../Resources/Images/hdydt_cross_references3.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <p>We didn't want the same look for the cross-references when we generated the PDFs. Instead, we wanted them to look like this:</p>
+                <p>
+                    <img src="../../Resources/Images/hdydt_cross_references4.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <ol>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/DoOneOfTheFollowing.flsnp" />
+                        </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>use the stylesheet editor <span class="EightyFiveEM">(</span>beginners<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol class="LowerAlpha">
+                                    <li>
+                                        <p>Open a stylesheet, and at the top of the Stylesheet Editor, click in the <span class="Emphasis">Medium</span> drop-down and select <span class="Emphasis">default</span>.</p>
+                                        <p>The online output is going to use the default settings, so we'll deal with that first. Then we'll switch to the print medium and modify settings for the PDF output. See <MadCap:xref href="../../Styles/Mediums/About_Stylesheet_Mediums.htm">About Stylesheet Mediums</MadCap:xref>.</p>
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/StylesMakeSureSimplifiedViewButtonShown.flsnp" />
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/FilterLinkStylesStep.flsnp" />
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">MadCap|xref</span> style.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/SelectShowPropertyGroupsStep.flsnp" />
+                                    </li>
+                                    <li>
+                                        <p>In the <span class="Emphasis">Properties</span> section, expand the <span class="Emphasis">Font</span> group and choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_cross_references6.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>Expand the <span class="Emphasis">Unclassified</span> group, scroll down, and click in the cell to the right of the <span class="Emphasis">mc-format</span> property.</li>
+                                    <li>
+                                        <p>In the dialog that opens, type the following in the <span class="Emphasis">Enter format</span> field:</p>
+                                        <p class="TypedEntry">{para}</p>
+                                        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">There are lots of other formats that we could have created in this dialog. But we liked this one for a couple of reasons. First, it's simple and does just what we want—displays the first text it finds in the file we point to, which is usually the heading. And second, this format creates a context-sensitive cross-reference. This means that the text in the link automatically changes based on the relationship of the cross-reference and the target location. See <MadCap:xref href="../../Nav_Links/Cross_References/Creating_Context_Sensitive_Cross_References.htm">Creating Context-Sensitive Cross-References</MadCap:xref>.</p>
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/ClickOK.flsnp" />
+                                    </li>
+                                    <li>Now you need to tell Flare what to do when someone hovers over the cross-reference. On the left side of the Stylesheet Editor, expand the <span class="Emphasis">MadCap|xref</span> style. Then under that, expand <span class="Emphasis">(Pseudo Classes)</span>.</li>
+                                    <li>Select <span class="Emphasis">hover</span>.</li>
+                                    <li>
+                                        <p>In the <span class="Emphasis">Properties</span> section, expand the <span class="Emphasis">Font</span> group and choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_cross_references8.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>That takes care of the settings for online output. Now for the PDFs. At the top of the Stylesheet Editor, click in the <span class="Emphasis">Medium</span> drop-down and select <span class="Emphasis">print</span>.</li>
+                                    <li>On the left side of the Stylesheet Editor, make sure <span class="Emphasis">MadCap|xref</span> is still selected.</li>
+                                    <li>
+                                        <p>In the <span class="Emphasis">Properties</span> section, expand the <span class="Emphasis">Font</span> group and choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_cross_references7.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>Expand the <span class="Emphasis">Unclassified</span> group, scroll down, and click in the cell to the right of the <span class="Emphasis">mc-format</span> property.</li>
+                                    <li>
+                                        <p>In the dialog that opens, type the following in the <span class="Emphasis">Enter format</span> field:</p>
+                                        <p class="TypedEntry">"{para}" {pageref}</p>
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/ClickOK.flsnp" />
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                                    </li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>get the css <span class="EightyFiveEM">(</span>advanced users<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p>Enter this in the default medium in the stylesheet:</p>
+                                <div class="Indent5Percent">
+                                    <p class="Style">MadCap|xref</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">color: </span><span class="StyleValue">#2d8dcc;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">font-weight: </span><span class="StyleValue">bold;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">mc-format: </span><span class="StyleValue">'{para};</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">text-decoration: </span><span class="StyleValue">underline;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                                <div class="Indent5Percent">
+                                    <p class="Style">MadCap|xref:hover</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">color: </span><span class="StyleValue">#bed230;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">There are lots of other formats that we could have created. But we liked {para} for a couple of reasons. First, it's simple and does just what we want—displays the first text it finds in the file we point to, which is usually the heading. And second, this format creates a context-sensitive cross-reference. This means that the text in the link automatically changes based on the relationship of the cross-reference and the target location. See <MadCap:xref href="../../Nav_Links/Cross_References/Creating_Context_Sensitive_Cross_References.htm">Creating Context-Sensitive Cross-References</MadCap:xref>.</p>
+                                <p>Enter this in the print medium in the stylesheet:</p>
+                                <div class="Indent5Percent">
+                                    <p class="Style">MadCap|xref</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">color: </span><span class="StyleValue">#404040;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">font-weight: </span><span class="StyleValue">normal;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">mc-format: </span><span class="StyleValue">'{quote}{para}{quote} {pageref};</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">text-decoration: </span><span class="StyleValue">none;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <p>Whenever you insert a cross-reference, select the xref style. See <MadCap:xref href="../../Nav_Links/Cross_References/Inserting_Cross_References_into_Topics.htm">Inserting Cross-References</MadCap:xref>.</p>
+                        <p>You can also create classes of the xref style. We just happened to use the parent xref style in this template.</p>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>index page numbers for pdf outputs</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p>We also used cross-references in a way that most people don't know about. We modified a cross-reference style that allowed us to control how the page numbers look in a PDF index. In this template, we made the index page numbers green.</p>
+                <p>
+                    <img src="../../Resources/Images/hdydt_cross_references5.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <p>One good thing about these cross-references is that Flare already provided us with the styles we needed. All we had to do was modify the styles and apply them to the content.</p>
+                <ol>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/DoOneOfTheFollowing.flsnp" />
+                        </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>use the stylesheet editor <span class="EightyFiveEM">(</span>beginners<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol class="LowerAlpha">
+                                    <li>
+                                        <p>Open a stylesheet, and at the top of the Stylesheet Editor, click in the <span class="Emphasis">Medium</span> drop-down and select <span class="Emphasis">print</span>.</p>
+                                        <p>We specified these settings in the print medium of our stylesheet, because this feature is designed for print-based outputs. See <MadCap:xref href="../../Styles/Mediums/About_Stylesheet_Mediums.htm">About Stylesheet Mediums</MadCap:xref>.</p>
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/StylesMakeSureSimplifiedViewButtonShown.flsnp" />
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/FilterLinkStylesStep.flsnp" />
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, expand the <span class="Emphasis">MadCap|xref</span> style.</li>
+                                    <li>Select the <span class="Emphasis">IndexPageNumber</span> class under it.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/SelectShowPropertyGroupsStep.flsnp" />
+                                    </li>
+                                    <li>In the <span class="Emphasis">Properties</span> section, expand the <span class="Emphasis">Font</span> group.</li>
+                                    <li>Next to the <span class="Emphasis">color</span> property, choose a color for the index page numbers. We chose green (the hexadecimal number is BED230).</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                                    </li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>get the css <span class="EightyFiveEM">(</span>advanced users<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p>Enter this in the print medium in the stylesheet:</p>
+                                <div class="Indent5Percent">
+                                    <p class="Style">MadCap|xref.IndexPageNumber</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">color: </span><span class="StyleValue">#bed230;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>Now you just need to make sure you go through the steps to create a generated index in print output. See <MadCap:xref href="HDYDT_Indexes.htm">How Did You Do That? Indexes</MadCap:xref>.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.Future">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="../../Resources/Snippets/Notes/NoteHDYDTStyles.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

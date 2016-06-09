@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties conditions="Products.Analyzer,Products.Capture,Products.Contributor,Products.Flare,Products.Mimic,Products.FeedbackExplorer" fileTags="">
+    <ImageOverlay ScreenRectangle="1746,107,30,18" Profile="C:\Users\pstoecklein\Documents\My Profiles\150dpi.capro" ProfileHash="458a4c33c31007e9215ef1c416713856">
+        <OriginalImage FileName="" Folder="C:\Trunk\Shared\Content\Resources\Images" BackgroundColor="transparent" Border="solid" BorderWidth="1" BorderColor="#000000" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" Right="0" Bottom="0" ExportFormat="png" JPEGQuality="80" ComputedWidth="32" ComputedHeight="20" Format="tiff" medium_print_EnableFormat="true" medium_print_ColorDepth="32" medium_print_DPI="150" medium_print_EnableGrayScaleFormat="False">SUkqAAgCAACAPuBP8AQWDQeEQmFQuGQ2HQ+IRGHQJ9wSJReMRmNRuGvqPRaMvd8vwALBfN4ADYWBYACMOhCOTGZRKPPqQRhsuB3gBCpxlgAaioJgA2loZzOkUmEzWbxdMq1qgBkNBwABvuN1ABgKAw0qvUl82GmxI+JJgAAYCoKABJqRjgAHAkDgBZpcvV+8Rmwvmxw1Nq1ngACAEBAAjj0RgA9JRcgBrtisqtHlcAB4NBK85mG3u+wwrG9XAAgjcNAAKBEEABYsJtABttpygAeDHSo0+ZTNbmEPjeZ2DrVhNwAKdcNEAEsciAAPt9SQBgQC2xProAAkFgGeHEpAAdDQS7qEgjxRjePjd72HnJGrYAGUmDIACkThiGHhFrS6LdjAA3GMjAAM4tiA8CGPE1KFvKhjys6X5kG64ZYGQAABgGdoAEuQo3IQXhhqiR5NlYgoCgYwQAn6AA+DWKKgBi78CIVAwAQSh57xqzp3HeeoAHadx6AAf5/n8AATBIDKEHYdsfRweaCyChAEgQuYOg6tcXqSe0sJudRpGkABfDsO0rISFYti2AAWi6LsxIhLB7JucRhGEABUCQJE1oOHY9j2AE8z3O6GnrQKbnGYZhznOs/oKHQ9D1Pk9UShlAnqm54nCcIAGoUhSUgDwfB8AAOh6HtIIWelTN9UlUoiedWVRVVXoYgIABAA/gAEAAEAAAAAAAAAAAEEAAEAAAAeAAAAAQEEAAEAAAASAAAAAgEDAAQAAADOAgAAAwEDAAEAAAAFAAAABgEDAAEAAAACAAAAEQEEAAEAAAAIAAAAFQEDAAEAAAAEAAAAFgEEAAEAAAASAAAAFwEEAAEAAAD/AQAAGgEFAAEAAADWAgAAGwEFAAEAAADeAgAAHAEDAAEAAAABAAAAKAEDAAEAAAACAAAAPQEDAAEAAAACAAAAUgEDAAEAAAACAAAAAAAAAAgACAAIAAgAAHcBAOgDAAAAdwEA6AMAAA==</OriginalImage>
+        <Shapes />
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <Variables />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

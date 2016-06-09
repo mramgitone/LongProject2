@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="12" MadCap:lastHeight="1233" MadCap:lastWidth="814" MadCap:conditions="Products.Flare">
+    <head>
+        <link href="../Resources/TableStyles/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="SharePoint" />
+            <MadCap:keyword term="Microsoft SharePoint;Microsoft SharePoint:copying files;Microsoft SharePoint:mapping files" />Copying and Mapping<MadCap:conditionalText MadCap:conditions="General.OnlineLive"> SharePoint</MadCap:conditionalText> Files</h1>
+        <p class="FirstPageOfChapter">After you connect to a SharePoint server, you can copy any of the SharePoint files to your project, mapping them to the source files at the same time.</p>
+        <p class="FirstPageOfChapter">This is a different process than that of importing files, which you can do elsewhere in <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" />. Files that are brought into a project using a traditional import process can be connected to the source file, but only in one direction (i.e., files can be updated from the source to the imported file in the project). On the other hand, files that are copied from the SharePoint Explorer can be connected via mappings to the source files in two directions (i.e., files can be updated from the source to the copied file or from the copied file to the source). </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot class="FirstPageOfChapter">how to copy and map sharepoint files</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <ol class="FirstPageOfChapter">
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                        <ul class="FirstPageOfChapter">
+                            <li>
+                                <p><span class="SetOffFirstLevelDarkBackground">Ribbon</span> <MadCap:snippetText src="../Resources/Snippets/UIElements/SelectViewRibbon.flsnp" /> In the <span class="Emphasis">Resources</span> section select <span class="Emphasis">SharePoint Explorer</span>. </p>
+                                <p>
+                                    <MadCap:snippetBlock src="../Resources/Snippets/UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" />
+                                </p>
+                            </li>
+                            <li><span class="SetOffFirstLevelDarkBackground">Menu</span> Select <span class="Emphasis">View&gt;SharePoint Explorer</span>.</li>
+                        </ul>
+                        <p>The SharePoint Explorer opens. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../UI_Elements/SharePoint_Explorer.htm">SharePoint Explorer</MadCap:xref>.</MadCap:conditionalText></p>
+                    </li>
+                </ol>
+                <ol start="2">
+                    <li>
+                        <p>Locate the file that you want to add to the project. You can use the "multi-view" to do this.</p>
+                        <MadCap:snippetBlock src="../Resources/Snippets/UIElements/MultiViewTable.flsnp" />
+                    </li>
+                    <li>Right-click on the file and from the context menu select <span class="Emphasis">Copy to Project</span>.</li>
+                    <li>In the dialog that opens, find and select the location in your project that you want to add the file. Again, you can use the multi-view buttons to navigate to folders in your project.</li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/ClickOK.flsnp">
+                        </MadCap:snippetText>
+                    </li>
+                    <li>In the Copy to Project dialog select <span class="Emphasis">Keep file synchronized (create mapping)</span>.</li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/ClickOK.flsnp" /> The file is added to the project, as you can see by opening the Content Explorer. If you selected to map the file, a small icon <img src="../Resources/Images/mapped_resource_icon.png" class="ReduceButtonSize" /> is shown next to it.</p>
+                        <p>
+                            <img src="../Resources/Images/mapped_files_example.jpg" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../Resources/Snippets/WhatsNext/WhatsNextHeading.flsnp" MadCap:conditions="General.OnlineLive">
+        </MadCap:snippetBlock>
+        <p MadCap:conditions="General.OnlineLive">After you map project files to source files located in SharePoint, you can synchronize them to ensure that each file contains the same content. This process allows you to import content from SharePoint files, export content from files in the project, or keep the most recently modified content. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="Synchronizing_Sharepoint_Files.htm">Synchronizing SharePoint Files and Folders</MadCap:xref>.</MadCap:conditionalText></p>
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:conceptLink term="SharePoint" />
+        </p>
+    </body>
+</html>

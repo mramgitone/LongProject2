@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor" MadCap:lastBlockDepth="8" MadCap:lastHeight="835" MadCap:lastWidth="866">
+    <body>
+        <p>
+            <MadCap:snippetText src="../../AllProductVariables.flsnp" /> now supports OpenType fonts. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../../Fonts/About_Fonts.htm">About Fonts</MadCap:xref>.</MadCap:conditionalText></p>
+        <MadCap:snippetBlock src="../../Fonts/OpenTypeFonts.flsnp" />
+        <MadCap:dropDown class="ThirdLevel" MadCap:conditions="Products.Flare">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="../../Fonts/OpenTypeFontExample.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

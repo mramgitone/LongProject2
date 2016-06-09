@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="213" MadCap:lastWidth="840">
+    <body>
+        <p class="ExampleHead">example</p>
+        <p class="Example">Let's say that you are creating a WebHelp system that contains small images (e.g., less than 48 pixels high) as well as bigger images (e.g., larger than 48 pixels high). Suppose you want all of the bigger images to appear as thumbnails in the output. In that case, you might create a class of the &lt;img&gt; tag and name it "BigImages." For the smaller images, you can use the parent &lt;img&gt; tag (or even a style class), but for the larger ones, you can use the img.BigImages style class. The large images will automatically be displayed as thumbnails in the output, until the end user performs an action to see the image in its full size.</p>
+    </body>
+</html>

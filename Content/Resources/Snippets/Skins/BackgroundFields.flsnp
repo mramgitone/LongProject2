@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="12" MadCap:lastHeight="535" MadCap:lastWidth="769" MadCap:conditions="Products.Flare">
+    <head>
+        <link href="../../TableStyles/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <MadCap:snippetBlock src="CanChangeAnyOfFollowingBackground.flsnp" />
+        <ul class="FirstLevel">
+            <li>
+                <p><span class="SetOffFirstLevel">Gradient </span>
+                    <MadCap:snippetText src="GradientOption.flsnp" />
+                </p>
+                <MadCap:snippetBlock src="ColorFieldsTable.flsnp" />
+            </li>
+            <li><span class="SetOffFirstLevel">Color </span>
+                <MadCap:snippetText src="ColorOption.flsnp" />
+            </li>
+            <li><span class="SetOffFirstLevel">Image </span>
+                <MadCap:snippetText src="ImageOption.flsnp" />
+                <br />
+            </li>
+            <li><span class="SetOffFirstLevel">Repeat </span>
+                <MadCap:snippetText src="RepeatOption.flsnp" />
+            </li>
+        </ul>
+        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">
+            <MadCap:snippetText src="BackgroundPrecedence.flsnp" />
+            <br />
+        </p>
+    </body>
+</html>

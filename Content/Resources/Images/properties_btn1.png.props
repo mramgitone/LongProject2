@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties conditions="Products.Flare,Products.Mimic,Products.Contributor,Products.Capture" fileTags="">
+    <ImageOverlay Profile="C:\Users\rmartinez\Documents\My Profiles\SharedImagesBorder.capro" ProfileHash="54db5c24cb8b652271c02c6580da0b7a" ScreenRectangle="1411,636,16,19">
+        <OriginalImage FileName="" Folder="C:\Shared\Content\Resources\Images" BackgroundColor="#ffffff" Border="solid" BorderWidth="1" BorderColor="#000000" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" Right="0" Bottom="0" ExportFormat="png" JPEGQuality="80" ComputedWidth="17" ComputedHeight="20" EnableCropRectangle="true" CropRectangle="1,1,15,18">SUkqAJICAACAP99v9/gACACEPyEQaFwqEQeEwuIACHQyIw+GxKMxgAQSCQuQSGRSOSSWTSSBR+IJ1Vq6ORSQAiFviTwh8Q6ZQgxlUpS+KxCPQWHJ1Zy4lkUlACcgCbzSDTl+U6lAB70wAAmFq1brapzKdz2LTCOwOCytXy4pkmk2KQVKlzeNQmaLVdr4AUchAC6XYxlGwUCPWJTLOuEoi3mazS3XKFzKtS4EASZU2ugCv2OPwtTVsAFKkVaaTKZN9yN8AN/UYwIhEMgAMCDWgkGBDGQiZLXOZeg4LOYa86KmVEAOd0OcAL5f3YtlEpgBruDTO/pAAUikVVfZzO9XXLX7MQXNZwpWoAPB2OjG0oITJ3uh4ABXK9SgDlz1vuj0PeHCoYDGQtwri+p6lLwIQUzuCkIIdOOX5jKYfD3h0HMFgQ7JrmoZ4AGcZZnAAITDgAZ5rmuADDKSyi9u7AayJBA67C1EBXKLDweryWzuBDHIAGMYa7RM0DnG20wlPIkCtQC70CJAVzuN847uAQnMchCABbMJGkFnOdZ3gA1YIw1EYACm7ypRSMYmqSe81H+yKZFc5LOxAdB2PeWpXlaAAMgw1spuCpyHHeecuHQcj0AwDgMAAGUJgBI7LCbFaPocV0es6ILEIg/D0ORBxvnBEk1KqsQIgq1sJBkABrGua08g5Kh4HwmkYTTNc2vhODPMQkifpsnCFuQu1PNMFTrVTVarz2AAtPJJVJmOY7Oh6HKfLitjtJEXxdq5YVFBbVBvunXKqVqqZXGOu0E10mqNosuCpoQWzOW4CIQSpWaOnugjFOOY8MpoqqZKxf6FqwilRJOylbYSqYlQUqh53zhThLCnDJT9ailYsymKNtjWJoggIBAA/gAEAAEAAAAAAAAAAAEEAAEAAAAQAAAAAQEEAAEAAAATAAAAAgEDAAQAAABYAwAAAwEDAAEAAAAFAAAABgEDAAEAAAACAAAAEQEEAAEAAAAIAAAAFQEDAAEAAAAEAAAAFgEEAAEAAAATAAAAFwEEAAEAAACKAgAAGgEFAAEAAABgAwAAGwEFAAEAAABoAwAAHAEDAAEAAAABAAAAKAEDAAEAAAACAAAAPQEDAAEAAAACAAAAUgEDAAEAAAACAAAAAAAAAAgACAAIAAgAAHcBAOgDAAAAdwEA6AMAAA==</OriginalImage>
+        <Shapes />
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <Variables />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

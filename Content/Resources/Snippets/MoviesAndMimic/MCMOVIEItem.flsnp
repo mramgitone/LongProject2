@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Mimic" MadCap:lastBlockDepth="2" MadCap:lastHeight="93" MadCap:lastWidth="962">
+    <body>
+        <p><span class="SetOffFirstLevel"><MadCap:keyword term="MCMOVIE file" />MCMOVIE&#160;</span>
+            <MadCap:expanding>
+                <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                <MadCap:expandingBody>  This is an output file that is created when you generate a movie (whether the movie is part of a collection or standalone). A <MadCap:variable name="Products.Mimic"></MadCap:variable> collection can contain several movies. When you generate the finalized movies in <MadCap:variable name="Products.Mimic"></MadCap:variable>, an MCMOVIE file is created for each movie in the collection (e.g., myfirstmovie.mcmovie, mysecondmovie.mcmovie). The output plays in the MadCap Movie Viewer.</MadCap:expandingBody>
+            </MadCap:expanding>
+        </p>
+    </body>
+</html>

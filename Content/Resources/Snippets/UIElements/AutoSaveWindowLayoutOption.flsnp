@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.AllProducts">
+    <body>
+        <p class="TableText">Automatically saves the layout of the workspace when you exit <MadCap:snippetText src="../AllProductVariables.flsnp" />. The next time you launch <MadCap:snippetText src="../AllProductVariables.flsnp" />, that same layout will be displayed.</p>
+    </body>
+</html>

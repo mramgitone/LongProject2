@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="2" MadCap:lastHeight="249" MadCap:lastWidth="875">
+    <body>
+        <p>The Find and Replace and the Find in Files features have been enhanced. This involves a redesign of the user interface (including integration with individual files), a change in the way <MadCap:snippetText src="../../AllProductVariables.flsnp" /> looks for and replaces content globally, and the ability to look for whole words. <MadCap:conditionalText MadCap:conditions="Products.Lingo">You can also find and replace specifically in the source or target segments.</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="General.OnlineLive"> See <MadCap:xref href="../../../../Find_and_Replace/About_Find_and_Replace.htm">About Find and Replace</MadCap:xref>.</MadCap:conditionalText></p>
+        <p>In previous versions, there was a Find and Replace window pane that was used to find text and replace it. And then there was a Find in Files window pane that was used to simply find text and list all the files where it was found. Starting with this version, the features in those window panes are still available, but they are found in two file widgets and a new window pane.</p>
+        <p>From the <MadCap:snippetText src="../../AllProductVariables.flsnp" /> ribbons and menus, you can select the following features: Quick Find, Quick Replace, and Find and Replace in Files.</p>
+    </body>
+    <head>
+    </head>
+</html>

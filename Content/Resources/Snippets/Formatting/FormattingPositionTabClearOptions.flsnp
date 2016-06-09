@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="204" MadCap:lastWidth="903" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">None </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Does not apply the clear property to the <MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">object</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet8">text box</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet5">image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet9">paragraph</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet19">QR code</MadCap:conditionalText>.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Left Side </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>The <MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">object</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet8">text box</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet5">image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet9">paragraph</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet19">QR code</MadCap:conditionalText> will be placed below the bottom outer edge of a previous <MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">object</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet8">text box</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet5">image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet9">paragraph</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet19">QR code</MadCap:conditionalText> that is floating left.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Right Side </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>The <MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">object</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet8">text box</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet5">image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet9">paragraph</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet19">QR code</MadCap:conditionalText> will be placed below the bottom outer edge of a previous <MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">object</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet8">text box</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet5">image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet9">paragraph</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet19">QR code</MadCap:conditionalText> that is floating right.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Both Sides&#160;</span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>The <MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">object</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet8">text box</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet5">image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet9">paragraph</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet19">QR code</MadCap:conditionalText> will be placed below the a previous <MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">object</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet8">text box</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet5">image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet9">paragraph</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet19">QR code</MadCap:conditionalText>, whether it is floating left or right.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+        </ul>
+    </body>
+</html>

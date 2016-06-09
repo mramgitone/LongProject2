@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastBlockDepth="8" MadCap:lastHeight="518" MadCap:lastWidth="1012" MadCap:conditions="Products.FeedbackExplorer" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+        <meta name="description" content="How to exclude one or more IP addresses from the data collected by the MadCap Feedback server." />
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="IP addresses" />Excluding IP Addresses</h1>
+        <p>You can specify that certain IP addresses should be excluded from Feedback data. This might be a useful feature, for example, if you want to test your online output but do not want your topic views and searches to be included in the data collected by the Feedback server.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to exclude ip addresses</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/Feedback/OpenFeedbackFileStep.flsnp" />
+                    </li>
+                    <li>In the Feedback Admin, select the <span class="Emphasis">Excluded IPs</span> tab.</li>
+                    <li>
+                        <p>Enter the IP addresses that you want to exclude. Use a separate line for each IP address, pressing <span class="Emphasis">Enter</span> after you add an address.</p>
+                        <p>When entering IP addresses, you can use wildcards (i.e., asterisks) to exclude multiple IP addresses.</p>
+                        <MadCap:dropDown>
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">examples</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p class="ExampleHead">examples</p>
+                                <p class="ExampleMiddleSection">172.16.0.100 will exclude that exact IP address.</p>
+                                <p class="ExampleMiddleSection">172.16.0.* will exclude 172.16.0.[0-255]. The numbers within brackets represent a range. So, for example, 172.16.0.144 will be excluded.</p>
+                                <p class="Example">172.16.*.* will exclude 172.16.[0-255].[0-255] The numbers within brackets represent a range. So, for example, 172.16.92.144 will be excluded.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                        </p>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

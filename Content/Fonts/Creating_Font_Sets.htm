@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="11" MadCap:lastHeight="1506" MadCap:lastWidth="812" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+        <link href="../Resources/Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+        <meta name="description" content="Creating a font family (font set) in MadCap Flare. Defining the font sets and using the Font Family Picker." />
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Fonts:font sets" />
+            <MadCap:concept term="Fonts" />
+            <MadCap:concept term="FilterFonts" />
+            <MadCap:concept term="FilterLocalFormatting" />Creating Font Sets</h1>
+        <p MadCap:conditions="">
+            <MadCap:snippetText src="../Resources/Snippets/Fonts/FontSetDescription.flsnp" />
+        </p>
+        <p MadCap:conditions="">Because different types of computers and operating systems do not always have the same fonts, it is recommended that you try to include fonts that cover all of the bases. </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p MadCap:conditions="" class="ExampleHead">example</p>
+                <p MadCap:conditions="" class="Example">Let's say you want to use Arial if possible. Therefore, you list that font type first in the font set. Next you might add a similar font that is found on Macintosh computers, such as Helvetica, since Macs do not use Arial. And third, you might add a generic font type, such as Sans-serif.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to create a font set</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/Topics/OpenContentFileDocument.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                        <ul class="FirstLevel">
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon</span> <MadCap:snippetText src="../Resources/Snippets/UIElements/SelectHomeRibbon.flsnp" /> At the bottom of the <span class="Emphasis">Font</span> section click <img src="../Resources/Images/arrow_btn.png" class="ReduceButtonSize" />.</p>
+                                <p>
+                                    <MadCap:snippetBlock src="../Resources/Snippets/UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" />
+                                </p>
+                            </li>
+                            <li><span class="SetOffFirstLevel">Menu</span> Select <span class="Emphasis">Format&gt;Font</span>.</li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Text Format Toolbar</span> Click <img src="../Resources/Images/font_properties_btn1.png" class="ReduceButtonSize" />.</p>
+                                <p>
+                                    <MadCap:snippetText src="../Resources/Snippets/UIElements/ToOpenTextFormatToolbar.flsnp" />
+                                </p>
+                            </li>
+                            <li><span class="SetOffFirstLevel">Keyboard Shortcut</span> Press <span class="Emphasis">CTRL+SHIFT+B</span>. </li>
+                        </ul>
+                        <p>The Font Properties dialog opens.</p>
+                    </li>
+                    <li>Select <span class="Emphasis">Pick</span>. The Font Family Picker dialog opens.</li>
+                    <li>Select <span class="Emphasis">Defined Font Sets</span>.</li>
+                    <li>Click <span class="Emphasis">Define Set</span>. The Define Font Set dialog opens.</li>
+                    <li>In the <span class="Emphasis">Name</span> field, enter a name for the new font set.</li>
+                    <li>From the list of font families on the right side of the dialog, double-click each font family that you want to add to the set. Start with the preferred font family that you want to be used, then select the second, then the third, and so on until you are finished.</li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/ClickOK.flsnp" />
+                    </li>
+                    <li>Click <span class="Emphasis">OK</span> in the Font Family Picker dialog.</li>
+                    <li>Click <span class="Emphasis">OK</span> in the Font Properties dialog.</li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+                <p MadCap:conditions="">If you want to create additional font sets in the Font Family Picker dialog, you need to first select an existing font set in the list. Then click <span class="Emphasis">Define Set</span>, give it a the set a new name, and choose new fonts. As a result, a new font set with that name is added to the list, but the other one also remains in the list just as it was before.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../Resources/Snippets/WhatsNext/WhatsNextHeading.flsnp" MadCap:conditions="General.OnlineLive" />
+        <p MadCap:conditions="General.OnlineLive">After you create a font set, you can select that font set when applying fonts to content. You can also select that font set as part of the user interface list (i.e., determines which fonts are seen in <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" />'s user interface).</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">There is no need to link a font set to a stylesheet. After you create a new font set in a project, it is automatically available for use in any stylesheet you add to the project. You just open the stylesheet, select your style, click the font-family property, and apply it.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:conceptLink term="Fonts" />
+        </p>
+    </body>
+</html>

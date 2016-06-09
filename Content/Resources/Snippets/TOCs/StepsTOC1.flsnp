@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare">
+    <body>
+        <p>Following are the tasks necessary for including <MadCap:conditionalText MadCap:conditions="General.OnlineLive,FlareGuides.FlareTablesOfContentsGuide">a </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="FlareGuides.FlarePrintedOutputGuide">an outline </MadCap:conditionalText>TOC in your project.</p>
+    </body>
+</html>

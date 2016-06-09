@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="10" MadCap:lastHeight="333" MadCap:lastWidth="1064">
+    <head>
+        <link href="../../../TableStyles/Simple.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="width: 100%;margin-left: auto;margin-right: auto;mc-table-style: url('../../../TableStyles/Simple.css');" class="TableStyle-Simple" cellspacing="0">
+            <col class="TableStyle-Simple-Column-Column1" />
+            <col class="TableStyle-Simple-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-Simple-Body-Row1">
+                    <td class="TableStyle-Simple-BodyB-Column1-Row1">
+                        <h2>Accessibility—Alt Text in Language Skins for Link Features</h2>
+                        <p>In addition to editing alternate text for the following features in a regular stylesheet, you can now edit alternate text for these features in a specific language. This can be done by editing the language skin. See <MadCap:xref href="../../../../Language_Support/Editing_Language_Skins.htm">Editing Language Skins</MadCap:xref>.</p>
+                        <ul>
+                            <li>Concept Links</li>
+                            <li>Drop-Down Links</li>
+                            <li>Expanding Text Links</li>
+                            <li>Glossary Term Links</li>
+                            <li>Keyword Links</li>
+                            <li>Related Topics Links</li>
+                            <li>Toggler Links</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-Simple-BodyA-Column1-Row1" style="padding-left: 5px;padding-right: 5px;padding-top: 20px;padding-bottom: 5px;">
+                        <p class="TableTextRight">
+                            <img src="../../../Images/alt_text_language_skins.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

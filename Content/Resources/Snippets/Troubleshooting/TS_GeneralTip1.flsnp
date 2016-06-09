@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:ignoredWords="F5" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="122" MadCap:lastWidth="951">
+    <head />
+    <body>
+        <p class="Subheading2">Avoiding huge files</p>
+        <p>Although it is possible to create topics or snippets that contain a great deal of content, it is recommended that you try to keep files sizes to a minimum. Try to break the content up and place it into multiple topics or snippets, rather than putting it all into one very long file. The more content, especially pictures and other multimedia, that a file contains, the longer it takes to load it.</p>
+    </body>
+</html>

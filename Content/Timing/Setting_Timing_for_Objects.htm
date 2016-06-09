@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:ignoredWords="s;(.miprj;XXXXXXX;XXXX;(.png;XXXXXX;XXXXX;F;W" MadCap:lastBlockDepth="10" MadCap:lastHeight="2257" MadCap:lastWidth="604" MadCap:conditions="Products.Mimic">
+    <head><title></title>
+        <link href="../Resources/Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="FilterTiming" />
+            <MadCap:keyword term="Timing:objects;Objects:timing" />
+            <MadCap:concept term="Timing" />Setting Timing for Objects</h1>
+        <MadCap:snippetBlock src="../Resources/Snippets/Objects/SetTimingObjectsSummary.flsnp" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot><a name="HowToSetTimelineWindow"></a>how to set the timing for an object in the timeline window pane</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Open the frame.</li>
+                    <li>Open the Timeline window pane. <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" /><ul class="FirstLevel"><li><p><span class="SetOffFirstLevel">Ribbon</span> <MadCap:snippetText src="../Resources/Snippets/UIElements/SelectToolsRibbon.flsnp" /> In the <span class="Emphasis">Tool Windows</span> section, select <img src="../Resources/Images/timeline_btn.png" alt="" title="" class="ReduceButtonSize" />. </p><MadCap:snippetBlock src="../Resources/Snippets/UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" MadCap:conditions="General.OnlineLive" /></li><li><span class="SetOffFirstLevel">Menu</span> Select <span class="Emphasis">View&gt;Timeline</span>.</li><li><span class="SetOffFirstLevel">Standard Toolbar</span> Click <img src="../Resources/Images/open_timeline_window_btn.png" alt="" title="" class="ReduceButtonSize" />.</li><li><span class="SetOffFirstLevel">Keyboard Shortcut</span> Press <span class="Emphasis">CTRL+T</span> on the keyboard. </li></ul><p>The Timeline window pane opens.</p></li>
+                    <li>
+                        <p>Click at the beginning or end of an object bar and drag it to the right or the left. You can drag the left edge of an object to determine its starting point, and the left edge to set its ending point. In this example, the Timeline window pane shows that there are five objects in the frame. (If you are unable to drag an object bar, right-click on it and select <span class="Emphasis">Customize time span</span>. Then try to drag the bar again.)</p>
+                        <p>
+                            <img src="../Resources/Images/timeline_window_example.png" class="MaxWidth100Percent" />
+                        </p>
+                        <ul class="FirstLevel">
+                            <li>The first object is a bubble shape that starts playing at the beginning of the frame and plays to the end of the frame.</li>
+                            <li>The second object is a cursor shape that starts playing at the beginning of the frame and stops after  2 seconds.</li>
+                            <li>The third object is a rectangle shape that plays for 2 seconds, starting at 1 seconds and stopping at  the end of the frame.</li>
+                            <li>The fourth object is a polyline that starts playing at the beginning of the frame and plays to the end of the frame.</li>
+                            <li>The final object is another rectangle shape that plays for 1.9 seconds, beginning .6 seconds after the start of the frame and ending .5 seconds before the end of the frame. </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot><a name="HowToSetObjectProperties"></a>how to set the timing for an object in the object properties dialog</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Open the frame.</li>
+                    <li>In the Frame Editor, double-click the object whose timing you want to set.</li>
+                    <li>Select the <span class="Emphasis">Time Span</span> tab.</li>
+                    <li>Change the settings in any of the following fields.<ul class="FirstLevel"><li><span class="SetOffFirstLevel">Time span</span> If you want the object to be displayed for a specific period of time, leave the check mark in this box. If you want to disable timing for the object, click this check box to remove the check mark. Disabling the timing is useful if you want to ensure that the object continues to display as long as the frame does.</li><li><span class="SetOffFirstLevel">Start Time</span> Enter the number of seconds after the start of the frame that you would like the object to first be displayed. If you want the object to display from the very start of the frame, leave 0 in this field.</li><li><span class="SetOffFirstLevel">Length </span>Enter the number of seconds you would like the object to be displayed in the frame.</li><li><span class="SetOffFirstLevel">Display message for [ ] seconds</span> Enter the total number of seconds that you would like the object to be displayed in the frame.</li></ul><MadCap:dropDown class="SecondLevel"><MadCap:dropDownHead><MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody class="Final"><p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">The Time span, Start Time, and Length fields are not displayed for success, failure, and hint captions. On the other hand, the Display message for [] seconds field is displayed only for success, failure, and hint captions.</p></MadCap:dropDownBody></MadCap:dropDown></li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/ClickOK.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p class="note" MadCap:conditions="General.OnlineLive" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">When you adjust the timing for a frame, the timing for the objects within it stay the same, unless you specify otherwise. You can use a setting on the Mimic tab of the Options dialog (<span class="Emphasis">File&gt;Options</span> in the ribbon interface or <span class="Emphasis">Tools&gt;Options</span> in the menu interface) to adjust time spans automatically for all frames and objects as you work in Mimic. See <MadCap:xref href="../UI_Elements/Options_Dialog_Mimic.htm">Options Dialog</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../Resources/Snippets/WhatsNext/WhatsNextAfterEdit.flsnp" />
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:conceptLink term="Timing" />
+        </p>
+    </body>
+</html>

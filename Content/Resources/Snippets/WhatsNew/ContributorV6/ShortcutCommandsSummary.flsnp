@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="43" MadCap:lastWidth="1226">
+    <body>
+        <p>Some new shortcut commands have been added for moving block-level elements around in the XML Editor. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../../Shortcuts/Keyboard_Shortcuts_Flare.htm">Shortcuts</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

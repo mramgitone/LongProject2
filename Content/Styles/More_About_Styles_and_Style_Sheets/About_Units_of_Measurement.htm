@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.AllProducts" MadCap:lastBlockDepth="6" MadCap:lastHeight="980" MadCap:lastWidth="869">
+    <head><title></title>
+        <link href="../../Resources/Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+        <meta name="description" content="Understanding the Absolute and Relative Units of Measurements (UOMs)&#160;in MadCap Software products. Defines terms for metrics such as points, pixels, pica, and more." />
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Unit of measurement" />
+            <MadCap:keyword term="Styles;Styles:stylesheets" />
+            <MadCap:concept term="FilterStyles" />About Units of Measurement</h1>
+        <p>When changing the look of content, you may often need to select a unit of measurement (UOM). <MadCap:snippetText src="../../Resources/Snippets/AllProductVariables.flsnp" /> offers the following relative and absolute UOMs (definitions are taken from w3c.org).</p>
+        <h2 MadCap:conditions="General.Print">
+            <MadCap:keyword term="Relative measurements;Proportional measurements" />Relative UOMs</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">
+                    <MadCap:keyword term="Relative measurements;Proportional measurements" />relative uoms</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Following are UOMs that are relative. In other words, they might be displayed differently, depending on the circumstance.</p>
+                <ul>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Pixel" />Pixel (px)</span>   Pixel units are relative to the resolution of the viewing device (i.e., most often a computer display). If the pixel density of the output device is very different from that of a typical computer display, the user agent should rescale pixel values. It is recommended that the reference pixel be the visual angle of one pixel on a device with a pixel density of 96 dpi and a distance from the reader of an arm's length. For a nominal arm's length of 28 inches, the visual angle is therefore about 0.0213 degrees.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Em" />Ems (em)</span>&#160;  The em unit is equal to the computed value of the font size property of the element on which it is used. The exception is when "em" occurs in the value of the "font-size" property itself, in which case it refers to the font size of the parent element. It may be used for vertical or horizontal measurement. (This unit is also sometimes called the quad-width in typographic texts.)</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Percentage measurement" />Percentage (%)</span> This is the percentage value of the element. Please be aware that if you are using percentage for the size of an object such as an image, the percentage refers to the block containing that image, not to the image itself. For example, if you have an image in a topic and set the width to 60%, this does not mean that the image will be reduced to 60% of its size. Instead, it means that the image will be resized so that its width is 60% of the "container" where it is inserted.</li>
+                    <li>
+                        <p><span class="SetOffFirstLevel"><MadCap:keyword term="X-height" />X-Height (ex)</span> The ex unit is defined by the element's first available font. The x-height is so called because it is often equal to the height of the lowercase "x." However, an "ex" is defined even for fonts that don't contain an "x.:</p>
+                        <p>The x-height of a font can be found in different ways. Some fonts contain reliable metrics for the x-height. If reliable font metrics are not available, the x-height may be determined from the height of a lowercase glyph. One possible heuristics is to look at how far the glyph for the lowercase "o" extends below the baseline, and subtract that value from the top of its bounding box. In the cases where it is impossible or impractical to determine the x-height, a value of 0.5 em should be used. </p>
+                    </li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide" />
+        <h2 MadCap:conditions="General.Print">
+            <MadCap:keyword term="Absolute measurements;Fixed measurements" />Absolute UOMs</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">
+                    <MadCap:keyword term="Absolute measurements;Fixed measurements" />absolute uoms</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p>Following the UOMs that are absolute. In other words, they are always displayed the same way.</p>
+                <ul>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Point" />Point (pt)</span> The points used by CSS 2.1 are equal to 1/72nd of an inch.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Centimeter" />Centimeter (cm)</span>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Millimeter" />Millimeter (mm)</span>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Inch" />Inch (in)</span> One inch is equal to 2.54 centimeters.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Pica" />Pica (pc)</span> One pica is equal to 12 points.</li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

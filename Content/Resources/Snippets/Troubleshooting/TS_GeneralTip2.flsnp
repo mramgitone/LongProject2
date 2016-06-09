@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:ignoredWords="F5" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="4" MadCap:lastHeight="798" MadCap:lastWidth="925">
+    <head />
+    <body>
+        <p class="Subheading2">Build warning: locating files that contain issues</p>
+        <p>If you generate a target and <MadCap:snippetText src="../AllProductVariables.flsnp" /> discovers various problems, it will display a message and list these issues on the Warnings tab of the Build Progress dialog.</p>
+        <p>
+            <img src="../../Images/build_warning_message.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p>
+            <img src="../../Images/TS_general_tips1.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p>If you have many issues and don't have time to look at them right away, you can click <span class="Emphasis">Save Log</span> in the Build Progress dialog. This saves the log file in the Reports folder in the Project Organizer.</p>
+        <p>
+            <img src="../../Images/TS_general_tips2.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p>The warnings grid contains several columns. The Description column shows the problem, and for certain types of problems the file at the center of the issue is also included.</p>
+        <p>
+            <img src="../../Images/TS_general_tips3.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p>If you scroll to the right, you will see the File column, which shows the file where the issue occurs.</p>
+        <p>
+            <img src="../../Images/TS_general_tips4.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p>Let's consider three common types of issues that are encountered: missing files, links pointing outside the project, and errors validating condition tag expressions.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Missing Files</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>xxx</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Links Pointing Outside Project</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>xxx</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Errors Validating Condition Tag Expressions</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p>xxx</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="Products.AllProductsPlusDocBible">
+  <Variable
+    Comment=""
+    Name="PulseInstallationGuide">Installation Guide</Variable>
+  <Variable
+    Comment=""
+    Name="PulseUserGuide">User Guide</Variable>
+  <Variable
+    Name="CaptureGettingStartedGuide"
+    Comment=""
+    OriginalName="CaptureGettingStartedGuide">Getting Started Guide</Variable>
+  <Variable
+    Name="CaptureCreatingImagesGuide"
+    Comment=""
+    OriginalName="CaptureCreatingImagesGuide">Creating Images Guide</Variable>
+  <Variable
+    Name="CaptureEditingImagesGuide"
+    Comment=""
+    OriginalName="CaptureEditingImagesGuide">Editing Images Guide</Variable>
+  <Variable
+    Name="CaptureKeyFeaturesGuide"
+    Comment=""
+    OriginalName="CaptureKeyFeaturesGuide">Key Features Guide</Variable>
+  <Variable
+    Name="CaptureShortcutsGuide"
+    Comment=""
+    OriginalName="CaptureShortcutsGuide">Shortcuts Guide</Variable>
+  <Variable
+    Name="CaptureTouringWorkspaceGuide"
+    Comment=""
+    OriginalName="CaptureTouringWorkspaceGuide">Touring the Workspace Guide</Variable>
+  <Variable
+    Name="CaptureWhatsNewGuide"
+    Comment="">What's New Guide</Variable>
+  <Variable
+    Name="PulseDashboardAdminGuide"
+    Comment="">Dashboard Administration Guide</Variable>
+</CatapultVariableSet>

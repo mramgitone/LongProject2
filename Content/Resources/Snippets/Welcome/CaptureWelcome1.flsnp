@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:conditions="Products.Capture" MadCap:lastBlockDepth="2" MadCap:lastHeight="139" MadCap:lastWidth="988" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>MadCap <MadCap:snippetText src="../AllProductVariables.flsnp" /> lets you easily capture anything that displays on your computer screen and enhance the image using a variety of features. What makes <MadCap:snippetText src="../AllProductVariables.flsnp" /> different from other screen capture tools is its tight integration with MadCap Flare and other applications in <MadCap:variable name="Other.CompanyName" />’s suite of native XML, multi-channel authoring software. This means you can take advantage of single-sourcing and other unique features such as condition tags, profiles, and palettes.</p>
+    </body>
+</html>

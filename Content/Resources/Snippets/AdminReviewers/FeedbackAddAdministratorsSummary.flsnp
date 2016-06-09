@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.FeedbackExplorer" MadCap:lastBlockDepth="2" MadCap:lastHeight="202" MadCap:lastWidth="1104">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>You can specify individuals, called administrators, who should be emailed when events such as the following take place: users submit new comments that require acceptance before they are published <MadCap:conditionalText MadCap:conditions="General.Print"> (see page <MadCap:xref href="../../../Feedback/Comments/Specifying_Whether_New_Comments_Need_to_be_Reviewed.htm" class="page" MadCap:conditions="General.Print">1</MadCap:xref>)</MadCap:conditionalText>, the status for a comment is changed, searches are performed with no results, topics are rated, and context-sensitive Help (CSH) calls are made. Administrators can also be subscribed to an email manifest, which automatically emails summaries of Feedback activity periodically. An administrator might be a writer on the documentation team, or even an individual such as a manager or documentation leader who will not necessarily take action on user activity but still needs to be kept informed. Each administrator can be set up to receive different types of emails.</p>
+    </body>
+</html>

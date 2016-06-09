@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="165" MadCap:lastWidth="896" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <body>
+        <p class="ExampleHead">example</p>
+        <p class="Example">Let's say you want to apply autonumbering to figure captions. Furthermore, let's say you want the beginning of each caption to contain the word "Figure" followed by the chapter number, a dash, and the next incremented number (e.g., Figure 1<span class="Emphasis">-</span>5, Figure 1-6, Figure 1-7). To accomplish this, you might create an autonumbering format that looks like this: CH:Figure {chapnum}-{n+}.</p>
+    </body>
+</html>

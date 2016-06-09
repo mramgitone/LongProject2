@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="193" MadCap:lastWidth="628" MadCap:conditions="Products.Capture,Products.Mimic">
+    <head>
+    </head>
+    <body>
+        <p>This button is enabled if you have selected more than one object. You can group multiple objects into an object group, which then acts as a single object. And at any point, you can ungroup the objects so that they are separate once again. See <MadCap:xref href="../../../Objects/Groups/Grouping_Objects.htm">Grouping Objects</MadCap:xref>.</p>
+    </body>
+</html>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties conditions="Products.Lingo">
+    <ImageOverlay Profile="C:\Users\pstoecklein\Documents\My Profiles\SharedImagesBorder.capro" ProfileHash="0a06dfa79d45414c823a1e4d5c624f5c" ScreenRectangle="612,88,20,19">
+        <OriginalImage FileName="" Folder="C:\Trunk\Shared\Content\Resources\Images" BackgroundColor="transparent" Border="solid" BorderWidth="1" BorderColor="#000000" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" Right="0" Bottom="0" ExportFormat="png" JPEGQuality="80" ComputedWidth="22" ComputedHeight="21" Format="tiff">SUkqABwDAACAPuBP8AQWDQeEQmFQuGQ2HQ2BPuCQ+KRWLReERGJwV0tJfgB6tphgB/vh6AABBAMgAMD0ugBvpwngALg+VvwaGgAAoMCMAPJuswAP17vKdhwWAAJiYaAAAgIBxh9VONgBsp83U55uMAAN+Sd+AUJ0ohGunLI0gAGgV9gBxiMxAB9OdrAAEvp1119v4APcA3wHEM5ywYkepVSLvt8PUAOBYIsAPynU4BAWSOdqAAFi4kAAOkAuU6nxiH1N9VWFttRHIABUIgsAAQXFKCvNzwV6u2SCAebFwL0AOVkqkAAwcm+WDUmaSFPnnaiDNlKlsABwjGcAP4MDCGAV3tmuuln111ZkAOdoAB7O11AB3DQ7AAPEO48wAc581Vxr1PAAJAsCrshAH6nHyowDGuVaunOZqCnecCCn0eaCn8fqCn4fSEHifICJ2NZggABAHwCi78KqcxEicAAHDCSUQl+PanHLBqSL4+yFnOdMOn6B4EoQfDigAE49xAg58SOqpkka0IHHycgAAKqMbn6fy2n+f0OgIAgApIfcuACAroIMfoEAxIQ3lRH8kIOXRfGKoYFtgBR8HyuwEy+AgDpJLjigWBiQHqk4CALDp8ntDIWBUEoAGQZLxgOBM9B6HQbIxI58KqW5fxBHs9QmAwAAiArLAIAQBJRMK1AWBqfngxi9rbCq+BSFCfGuaxrgAfB9wsIFJowe9gqqXpgmMnYEKiDIMg0AB0nQdgABSFISAAahrvAB4HAdGq+AkCIHgAcRyryEYQWYc51HirrIgAFYVBOjB7XkqpznQdIAHMdR4V0eyTgTf7Yy0kgGtgCQB1PXkLOdDJ3n6gh9HjfYFADCwaYslFTXjeaFmAYpkAACwKTMcxxm9kAMg2AAIAc2FdraDQLgsABunArlDTqCgLguAB2navIahiFsbnrokxOyfy+GMZRlAAEIQUWeZ53VUcOnRe0oANPQJW8nYEtgcBwm+AFKBnG6D6IeujIWaJp1ygjJVHHwB4PKAC1Od53HdkAK5kDwOg5syFHpwe1cDwz7aiefC8PxiLICABAA/gAEAAEAAAAAAAAAAAEEAAEAAAAUAAAAAQEEAAEAAAATAAAAAgEDAAQAAADiAwAAAwEDAAEAAAAFAAAABgEDAAEAAAACAAAAEQEEAAEAAAAIAAAAFQEDAAEAAAAEAAAAFgEEAAEAAAATAAAAFwEEAAEAAAATAwAAGgEFAAEAAADqAwAAGwEFAAEAAADyAwAAHAEDAAEAAAABAAAAKAEDAAEAAAACAAAAPQEDAAEAAAACAAAAUgEDAAEAAAACAAAAAAAAAAgACAAIAAgAAHcBAOgDAAAAdwEA6AMAAA==</OriginalImage>
+        <Shapes />
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <Variables />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Mimic">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/PrintOnlyTopics/ComingSoonTitlePage.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/TitleMimic.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/PrintOnlyTopics/TitlePage.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TitleMimic.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/PrintOnlyTopics/Copyright.htm"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Copyright.flpgl" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/PrintOnlyTopics/PrintTOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TOC.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    PageNumberFormat="lower-roman" />
+  <TocEntry
+    Title="Welcome"
+    Link="/Content/Introduction_Topics/WelcomeMimic.htm"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumberReset="reset"
+    PageNumberFormat="decimal"
+    PageNumber="(multiple)"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    BreakType="chapter">
+    <TocEntry
+      Title="Getting_Help"
+      Link="/Content/PrintOnlyTopics/Getting_Help.htm"
+      BreakType="none"
+      PageType="first"
+      PageNumber="(multiple)"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="Step 1 - Creating a Movie Project"
+    Link="/Content/Movie_Collections/Creating_a_Movie_Collection.htm"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue"
+    BreakType="chapter"></TocEntry>
+  <TocEntry
+    Title="Step 2: Recording Movies"
+    StartSection="false"
+    Link="/Content/Movies_Creating/Recording_Movies.htm"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    BreakType="chapter"></TocEntry>
+  <TocEntry
+    Title="Step 3: Enhancing a Movie"
+    StartSection="false"
+    Link="/Content/Steps/Editing_a_Movie.htm"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    BreakType="chapter"></TocEntry>
+  <TocEntry
+    Title="Step 4 - Building Movie Output"
+    Link="/Content/Output/Building_Movie_Output.htm"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter"></TocEntry>
+  <TocEntry
+    Title="Step 5 - Distributing Output"
+    Link="/Content/Output/Distributing_Output_Mimic.htm"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    BreakType="chapter">
+    <TocEntry
+      Title="Publishing Output"
+      Link="/Content/Output/Publishing_Output_Mimic.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/PDF_Guides/PDF_Guides.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Appendix.flpgl"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled" />
+  <TocEntry
+    Title="APPENDIX Output_Type_Tables"
+    Link="/Content/PrintOnlyTopics/Output_Type_Tables_Mimic.htm"
+    StartPageLayout="false"
+    BreakPageLayout="/Content/Resources/PageLayouts/ChaptersLandscapeGreen.flpgl"
+    StartSection="false"
+    StartChapter="true"
+    BreakPageType="normal"
+    PageLayout="/Content/Resources/PageLayouts/AppendixLandscape.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

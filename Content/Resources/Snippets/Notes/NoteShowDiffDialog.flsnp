@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="105" MadCap:lastWidth="1221" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <p class="note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">This split window pane opens only if you are using Microsoft Visual SourceSafe. If you are using Microsoft Team Foundation Server, the Show Differences Dialog, which is a simple text-based viewer, opens instead. However, if you install Team Explorer, a more robust window pane will open.</p>
+    </body>
+</html>

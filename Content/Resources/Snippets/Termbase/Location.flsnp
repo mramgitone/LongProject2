@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo">
+    <body>
+        <p class="TableText">You can click in this drop-down and select a user interface location where someone would see the term.</p>
+        <p class="ExampleHead">example</p>
+        <p class="Example">Check box, menu item, tab, and so on.</p>
+    </body>
+    <head>
+    </head>
+</html>

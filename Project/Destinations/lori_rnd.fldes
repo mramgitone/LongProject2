@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="rnd.madcapsoftware.com"
+  User="MyAccountId"
+  Password=""
+  Directory="lori/v11/published"
+  Port=""
+  ViewUrl="http://www.madcapsoftware.com/"
+  Type="ftp"
+  ConnectionMode="Active"
+  UploadLogFile="false"
+  RemoveStale="false"
+  ChangedOnly="false"></CatapultDestination>

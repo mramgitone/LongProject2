@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Capture">
+    <body>
+        <p>The canvas is the area behind an image, the element that the image rests on. When you capture an image, the canvas is automatically the same size as the image itself. If you create a new blank image, the canvas size is 600 x 600 pixels. Either way, you can resize the canvas whenever necessary. You can do this on the individual image, or you can set the canvas size on a profile.</p>
+    </body>
+</html>

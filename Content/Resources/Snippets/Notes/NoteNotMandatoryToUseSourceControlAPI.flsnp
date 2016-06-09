@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="105" MadCap:lastWidth="1221">
+    <body>
+        <p class="note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">It is not mandatory that you use the SCC API to use a source control application for your <MadCap:variable name="Products.Flare" MadCap:conditions="Products.Flare" /> project files. It is only necessary if you want to take advantage of the source control integration features inside <MadCap:variable name="Products.Flare" MadCap:conditions="Products.Flare" />. Otherwise, you can manually add your <MadCap:variable name="Products.Flare" MadCap:conditions="Products.Flare" /> project files to any source control application.</p>
+    </body>
+</html>

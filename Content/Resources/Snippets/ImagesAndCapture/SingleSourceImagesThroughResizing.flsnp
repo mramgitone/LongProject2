@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="65" MadCap:lastWidth="812">
+    <body>
+        <p>You can also single-source images when resizing them in Flare. This can be done through the use of styles (applying the settings to many images at once) or local formatting (applying the settings to one image). When you generate online output, the image will be displayed in one size, and when you generate print-based output, the image will be displayed in another size.</p>
+    </body>
+</html>

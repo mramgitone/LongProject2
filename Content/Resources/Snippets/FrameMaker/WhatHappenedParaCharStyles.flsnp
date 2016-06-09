@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="8" MadCap:lastHeight="2338" MadCap:lastWidth="533">
+    <body>
+        <p>In <MadCap:variable name="Outputs.Frame" />, you used the Character Designer, Paragraph Designer, and Catalogs to manage your text formatting needs. When you import <MadCap:variable name="Outputs.Frame" /> documents, all the style information is placed in a stylesheet, which can be viewed in <MadCap:snippetText src="../AllProductVariables.flsnp" />'s Stylesheet Editor. </p>
+        <p>In addition to the styles you created in <MadCap:variable name="Outputs.Frame" />, you will notice many more styles that <MadCap:snippetText src="../AllProductVariables.flsnp" /> adds. These styles are adopted from W3C specifications (see <a href="http://www.w3c.org/" target="_blank">http://www.w3c.org</a>), or they are MadCap-specific styles used to support unique features in <MadCap:snippetText src="../AllProductVariables.flsnp" />. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Styles/About_Styles_and_Style_Sheets.htm">About Styles and Stylesheets</MadCap:xref>.</MadCap:conditionalText></p>
+        <p class="PageBreakBefore" MadCap:conditions="General.OnlineLive">You can use the following steps to locate your imported styles:</p>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/MakeSureContentExplorerOpen.flsnp" />
+            </li>
+            <li>
+                <p>Navigate to your stylesheet.</p>
+                <MadCap:dropDown>
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p class="note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">When you add new stylesheets (not import them), the traditional default location for those stylesheets is within the Resources folder (although they can also be placed in custom folders). To open a stylesheet from this location, double-click the<span class="Emphasis"> Resources</span> folder. Then double-click the <span class="Emphasis">Stylesheets</span> folder.</p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li>Double-click the stylesheet. The Stylesheet Editor opens.</li>
+            <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTransitionFromFMGuide" />
+            <li>
+                <p>In the Stylesheet Editor, your imported paragraph and character styles can be found in the following locations<MadCap:conditionalText MadCap:conditions="Snippets.Snippet1">, depending on your selections in the Import FrameMaker Wizard</MadCap:conditionalText>.</p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>
+                            <MadCap:keyword term="Styles:paragraph;Paragraphs:styles" />paragraph styles</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <p> If you imported paragraph styles<MadCap:conditionalText MadCap:conditions="Snippets.Snippet1"> without mapping them to <MadCap:snippetText src="../AllProductVariables.flsnp" /> styles</MadCap:conditionalText>, they can be found under the &lt;p&gt; tag in the Stylesheet Editor. </p>
+                        <p class="ExampleHead">example</p>
+                        <p class="ExampleMiddleSection">If you imported a paragraph style called "Chapter," you can find that style under the &lt;p&gt; tag, and its new full name is "p.Chapter."</p>
+                        <p class="ExampleMiddleSection">
+                            <img src="../../Images/imported_paragraph_styles_example1.png" class="MaxWidth55Percent" />
+                        </p>
+                        <p class="Example">Please note that this example is showing the Advanced view of the Stylesheet Editor. You can also work in the Simplified view of the editor, which shows the styles in a grid.</p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTransitionFromFMGuide" />
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>
+                            <MadCap:keyword term="Styles:character;Characters:styles" />character styles</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <p>If you imported character styles<MadCap:conditionalText MadCap:conditions="Snippets.Snippet1"> without mapping any of them to existing <MadCap:snippetText src="../AllProductVariables.flsnp" /> styles</MadCap:conditionalText>, your character styles can be found under the &lt;span&gt; tag. </p>
+                        <p class="ExampleHead">example</p>
+                        <p class="ExampleMiddleSection">If you imported a character style called "Emphasis," you can find that style under the &lt;span&gt; tag, and its new full name is "span.Emphasis."</p>
+                        <p class="Example">
+                            <img src="../../Images/imported_character_styles_example1.png" class="MaxWidth65Percent" />
+                        </p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTransitionFromFMGuide" />
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>
+                            <MadCap:keyword term="Styles:mapping;Mapping:styles" />mapped styles</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p> If you imported paragraph and character styles, mapping them to existing <MadCap:snippetText src="../AllProductVariables.flsnp" /> styles, they will be found under the tags that you mapped them to. </p>
+                        <p class="ExampleHead">example</p>
+                        <p class="ExampleMiddleSection">If you imported a paragraph style called "Chapter" and mapped it to the <MadCap:snippetText src="../AllProductVariables.flsnp" /> style called "h1," you can find the imported style under the &lt;h1&gt; tag, and its new full name is "h1.Chapter."</p>
+                        <p class="Example">
+                            <img src="../../Images/imported_paragraph_styles_example2.png" class="MaxWidth65Percent" />
+                        </p>
+                        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTransitionFromFMGuide" />
+                        <p class="ExampleHead">example</p>
+                        <p class="ExampleMiddleSection">If you imported a character style called "Emphasis" and mapped it to the <MadCap:snippetText src="../AllProductVariables.flsnp" /> style called "b," you can find that style under the &lt;b&gt; tag, and its new full name is "b.Emphasis."</p>
+                        <p class="Example">
+                            <img src="../../Images/imported_character_styles_example2.png" class="MaxWidth65Percent" />
+                        </p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+        </ol>
+    </body>
+</html>

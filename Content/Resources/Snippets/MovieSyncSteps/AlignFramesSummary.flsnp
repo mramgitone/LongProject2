@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.MovieSync" MadCap:lastBlockDepth="2" MadCap:lastHeight="57" MadCap:lastWidth="1440">
+    <body>
+        <p>After your old and new movies are loaded, you can make sure that the frames for each are aligned properly. When you perform the transfer, the properties and objects from the frame on the left (old movie) will be copied to whatever frame is immediately to its right (new movie).</p>
+    </body>
+</html>

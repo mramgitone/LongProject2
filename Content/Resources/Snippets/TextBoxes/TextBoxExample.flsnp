@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="138" MadCap:lastWidth="516" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <body>
+        <p class="ExampleHead">example</p>
+        <p class="Example">Let's say you want to add a case study that is positioned next to the main body text on a page. Therefore, you insert a text box with a border and unique background color to make it stand out. You position the text box to the left of the body frame on a page. That way, it is clear to the reader that the case study is intended to provide additional information pertaining to the body text on that page.</p>
+    </body>
+</html>

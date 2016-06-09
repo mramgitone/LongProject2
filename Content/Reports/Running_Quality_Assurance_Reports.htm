@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="12" MadCap:lastHeight="5277" MadCap:lastWidth="706" MadCap:conditions="Products.Lingo">
+    <head><title>Running Quality Assurance Reports</title>
+    </head>
+    <body>
+        <h1>Running Quality Assurance Reports</h1>
+        <MadCap:snippetBlock src="../Resources/Snippets/NOTyetUPDATED.flsnp" />
+        <p>Quality assurance (QA) reports allow you to review your translated projects for discrepancies between the source and target segments. These reports let you know the quality of your translations.</p>
+        <p MadCap:conditions="General.Future">xxx more information</p>
+        <p>
+            <img src="../Resources/Images/qa_reports_file_menu.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Run Quality Assurance Reports</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <ol>
+                    <li> Select <span class="Emphasis">File&gt;Project QA</span>. The Quality Assurance dialog opens.</li>
+                    <li>
+                        <p>Select the check boxes for the quality assurance reports you want to run.</p>
+                        <ul>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Mismatching numbers in source and target</span> This report shows segments where numerals are not the same in the source and target segments.</p>
+                                <MadCap:dropDown>
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">Example</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody class="Final">
+                                        <p class="ExampleHead">example</p>
+                                        <p class="ExampleMiddleSection">Let's say you have a source segment that contains a reference to <span class="EmphasisItalic">Chapter 1</span>. During translation, the translator mistypes in the target segment, and types a <span class="EmphasisItalic">2</span> instead of a <span class="EmphasisItalic">1</span>. </p>
+                                        <p class="ExampleMiddleSection">
+                                            <img src="../Resources/Images/qa_reports_mismatching_numbers1.png" alt="" title="" class="MaxWidth90Percent" />
+                                        </p>
+                                        <p class="ExampleMiddleSection">When the translator runs the QA report to find mismatching numbers in the source and target segments, <MadCap:variable name="Products.Lingo" /> recognizes this error and identifies the segment where the mistake was made. The translator can then go back and fix the mistyped numeral.</p>
+                                        <p class="Example">
+                                            <img src="../Resources/Images/qa_reports_mismatching_numbers2.png" alt="" title="" class="MaxWidth90Percent" />
+                                        </p>
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Inconsistency in translation of repeated source segments</span> This report shows segments where two identical source segments do not have identical translations.</p>
+                                <MadCap:dropDown>
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">Example</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody class="Final">
+                                        <p class="ExampleHead">example</p>
+                                        <p class="ExampleMiddleSection">Let's say you have two options in the translation memory for a particular segment. While translating, the translator selects the same translation almost every time. However, they occasionally select the alternative translation. This results in inconsistent target segments.</p>
+                                        <p class="ExampleMiddleSection">
+                                            <img src="../Resources/Images/qa_reports_inconsistency_in_translation1.png" alt="" title="" class="MaxWidth90Percent" />
+                                        </p>
+                                        <p class="ExampleMiddleSection">When the translator runs the QA&#160;report to find inconsistent translation of repeated source segments, Lingo recognizes the error and identifies the segments where the incorrect segment was chosen. The translator can then go back and correct the translation so all identical source segments have consistent translations.</p>
+                                        <p class="Example">
+                                            <img src="../Resources/Images/qa_reports_inconsistency_in_translation2.png" alt="" title="" class="MaxWidth90Percent" />
+                                        </p>
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Mismatching punctuation in source and target</span> This report shows segments where punctuation is missing or does not match between the source and target.</p>
+                                <MadCap:dropDown>
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">Example</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody class="Final">
+                                        <p class="ExampleHead">example</p>
+                                        <p class="ExampleMiddleSection">Let's say you have a segment that begins with a parenthesis. Because the segments are split, the closed parenthesis does not appear until the end of the last source segment. However, the translator accidentally added a closed parenthesis at the end of the first target segment when translating.</p>
+                                        <p class="ExampleMiddleSection">
+                                            <img src="../Resources/Images/qa_reports_mismatching_punctuation1.png" alt="" title="" class="MaxWidth90Percent" />
+                                        </p>
+                                        <p class="ExampleMiddleSection">When the translator runs the QA&#160;report to check for mismatched punctuation, Lingo recognizes the error and identifies the segment where there is an incorrect closed parenthesis. The translator can then go back and fix the inaccurate punctuation.</p>
+                                        <p class="Example">
+                                            <img src="../Resources/Images/qa_reports_mismatching_punctuation2.png" alt="" title="" class="MaxWidth90Percent" />
+                                        </p>
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Incorrect use of project termbases</span> This report reviews the termbase to find instances where a word is improperly used. Select the Match Case option if you want to limit results so the report only <MadCap:annotation MadCap:createDate="2014-09-04T10:11:12.1220279-07:00" MadCap:creator="pstoecklein" MadCap:initials="PS" MadCap:comment="I'll review this again when you finish it." MadCap:editor="pstoecklein" MadCap:editDate="2014-09-04T10:11:22.0125936-07:00">finds</MadCap:annotation><MadCap:conditionalText MadCap:conditions="General.Future">xxx is this working?</MadCap:conditionalText></p>
+                                <MadCap:dropDown>
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">Example</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody class="Final">
+                                        <p class="ExampleHead">example</p>
+                                        <p class="ExampleMiddleSection">Let's say your company uses termbases to define preferred definitions for words and phrases with multiple definitions. While translating, the translator manually translates a segment and uses an alternative term that does not match the termbase definition.</p>
+                                        <p class="ExampleMiddleSection">
+                                            <img src="../Resources/Images/qa_reports_incorrect_termbases1.png" alt="" title="" class="MaxWidth90Percent" />
+                                        </p>
+                                        <p class="ExampleMiddleSection">When the translator runs the QA&#160;report to locate incorrect uses of the project termbases, Lingo identifies locations where the termbase was incorrectly used. The translator can then go back and fix the incorrect <MadCap:annotation MadCap:createDate="2014-09-04T10:13:23.9285668-07:00" MadCap:creator="pstoecklein" MadCap:initials="PS" MadCap:comment="Should the following image have callouts?" MadCap:editor="pstoecklein" MadCap:editDate="2014-09-04T10:13:32.5900622-07:00">word.</MadCap:annotation></p>
+                                        <p class="Example">
+                                            <img src="../Resources/Images/qa_reports_incorrect_termbases2.png" alt="" title="" class="MaxWidth90Percent" />
+                                        </p>
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Mismatching whitespace in source and target including double spaces</span> This report shows segments where spacing is inconsistent between the source and target segments.</p>
+                                <MadCap:dropDown>
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">Example</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody class="Final">
+                                        <p class="ExampleHead">example</p>
+                                        <p class="ExampleMiddleSection">Let's say your translator is manually translating some source segments that are not in the translation memory. While typing, the translator types an extra space between two words, and it falls at a line break, so it is very difficult to identify.</p>
+                                        <p class="ExampleMiddleSection">
+                                            <img src="../Resources/Images/qa_reports_mismatching_whitespace1.png" alt="" title="" class="MaxWidth90Percent" />
+                                        </p>
+                                        <p class="ExampleMiddleSection">When the translator runs the QA&#160;report to check for mismatching whitespace in the source and target segments, Lingo identifies the extra space between words that would otherwise have been difficult to see. The translator can then go back and remove the extra <MadCap:annotation MadCap:createDate="2014-09-04T10:15:36.0841256-07:00" MadCap:creator="pstoecklein" MadCap:initials="PS" MadCap:comment="I'll review this again after you get a final image." MadCap:editor="pstoecklein" MadCap:editDate="2014-09-04T10:15:47.0867550-07:00">space.</MadCap:annotation></p>
+                                        <p class="Example" MadCap:conditions="General.Future">
+                                            <MadCap:annotation MadCap:createDate="2014-07-29T17:05:27.1156565-07:00" MadCap:creator="kschneider" MadCap:initials="KS" MadCap:comment="no word wrap in report -- can't take good image at this time" MadCap:editor="kschneider" MadCap:editDate="2014-07-29T17:05:47.2866734-07:00">imagexxx</MadCap:annotation>
+                                        </p>
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Repeated target segments with varying source</span> This report shows segments where identical target segments do not have the same source segment.</p>
+                                <MadCap:dropDown>
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">Example</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody class="Final">
+                                        <p class="ExampleHead">example</p>
+                                        <p class="ExampleMiddleSection">Let's say your translator is manually translating a long list of segments.  While translating, the translator inadvertently looks at another segment in the Translation Editor and retranslates that segment into the selected target segment.</p>
+                                        <p class="ExampleMiddleSection">
+                                            <img src="../Resources/Images/qa_reports_repeated_target_segments1.png" alt="" title="" class="MaxWidth90Percent" />
+                                        </p>
+                                        <p class="ExampleMiddleSection">When the translator runs the QA&#160;report to find repeated target segments with a varying source segment, Lingo recognizes the error and identifies the two identical target segments that should have different translations.&#160;The translator can then go back and fix the <MadCap:annotation MadCap:createDate="2014-09-04T10:17:12.7836565-07:00" MadCap:creator="pstoecklein" MadCap:initials="PS" MadCap:comment="Should the following image have callouts?" MadCap:editor="pstoecklein" MadCap:editDate="2014-09-04T10:17:21.4851542-07:00">mistake.</MadCap:annotation></p>
+                                        <p class="Example">
+                                            <img src="../Resources/Images/qa_reports_repeated_target_segments2.png" alt="" title="" class="MaxWidth90Percent" />
+                                        </p>
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Empty target segments</span> This report finds target segments that have not yet been translated.</p>
+                                <MadCap:dropDown>
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">Example</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody class="Final">
+                                        <p class="ExampleHead">example</p>
+                                        <p class="ExampleMiddleSection">Let's say you have a very long project with many topics to translate. While translating, the translator intentionally leaves a few segments to translate later. After translating these segments, he wants to be sure that he didn't forget anything.</p>
+                                        <p class="ExampleMiddleSection">
+                                            <img src="../Resources/Images/qa_reports_empty_target_segments1.png" alt="" title="" class="MaxWidth90Percent" />
+                                        </p>
+                                        <p class="ExampleMiddleSection">When the translator runs the QA&#160;report to find empty target segments, Lingo finds a few untranslated segments, and the translator can return to the topics to complete the translations.</p>
+                                        <p class="Example">
+                                            <img src="../Resources/Images/qa_reports_empty_target_segments2.png" alt="" title="" class="MaxWidth90Percent" />
+                                        </p>
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Untranslated source text in target segments</span> This report shows segments where the source text appears in both the source and target segment.</p>
+                                <MadCap:dropDown>
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">Example</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody class="Final">
+                                        <p class="ExampleHead">example</p>
+                                        <p class="ExampleMiddleSection">Let's say your translator is using the translation memory to translate the project's source segments. One of the segment's translation suggestions was incorrectly saved in the TM; its translation is the same as the English text in the source segment. When the translator applies the TM to the entire project, the English translation is applied to the segment it matches.</p>
+                                        <p class="ExampleMiddleSection">
+                                            <img src="../Resources/Images/qa_reports_untranslated_source_text1.png" alt="" title="" class="MaxWidth90Percent" />
+                                        </p>
+                                        <p class="ExampleMiddleSection">When the translator runs the QA&#160;report to find untranslated source text in target segments, Lingo identifies the segments where the target text and the source text are identical. The translator can then go back and correct the error.</p>
+                                        <p class="Example">
+                                            <img src="../Resources/Images/qa_reports_untranslated_source_text2.png" alt="" title="" class="MaxWidth90Percent" />
+                                        </p>
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Tag errors and warnings</span> This report shows segments where there is a tag error or warning because of a missing or open tag.</p>
+                                <MadCap:dropDown>
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">Example</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody class="Final">
+                                        <p class="ExampleHead">example</p>
+                                        <p class="ExampleMiddleSection">Let's say you have a source segment with formatting throughout the segment. One word is bold and another is italic. While translating, the translator includes the formatting on the bold word, but does not format the italic word. As a result, a tag warning appears on the segment to indicate that there is a missing tag in the target segment.</p>
+                                        <p class="ExampleMiddleSection">
+                                            <img src="../Resources/Images/qa_reports_tag_errors_warnings1.png" alt="" title="" class="MaxWidth90Percent" />
+                                        </p>
+                                        <p class="ExampleMiddleSection">When the translator runs the QA&#160;report to check for tag errors or warnings, Lingo identifies the segment where there is a missing tag. The translator can then go back and update the segment with the correct formatting.</p>
+                                        <p class="Example">
+                                            <img src="../Resources/Images/qa_reports_tag_errors_warnings2.png" alt="" title="" class="MaxWidth90Percent" />
+                                        </p>
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Large variation in size of source and target segments</span> This report shows segments where either the source or target differ in length by more than the defined threshold.</p>
+                                <MadCap:dropDown>
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">Example</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody class="Final">
+                                        <p class="ExampleHead">example</p>
+                                        <p class="ExampleMiddleSection">Some target languages use many more letters than English to spell a particular word, while some use many fewer. Let's say your target segments are consistently about 20% longer than the source segment. If they are much shorter or longer, it may indicate a translation error. In the Quality Assurance dialog, the translator sets the segment variance to +/- 20%.</p>
+                                        <p class="ExampleMiddleSection">
+                                            <img src="../Resources/Images/qa_reports_large_variation_in_size1.png" alt="" title="" class="MaxWidth90Percent" />
+                                        </p>
+                                        <p class="ExampleMiddleSection"> When the translator runs the QA&#160;report to see large variations in the size of the source and target, she can see variations in the target segment that are at least 20% smaller or larger than the source segment. She can then review these segments for errors and correct any that may be mistakes.</p>
+                                        <p class="Example">
+                                            <img src="../Resources/Images/qa_reports_large_variation_in_size2.png" alt="" title="" class="MaxWidth90Percent" />
+                                        </p>
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <p>(Optional) If your project includes more than one target language, you can run reports for a specific language in your project. Select the language you want to use for the QA report from the <b>Project language</b> drop-down. You can select an individual language or all languages.</p>
+                        <p>
+                            <img src="../Resources/Images/multilingual_qa_reports.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                        <MadCap:snippetBlock src="../Resources/Snippets/Multilingual/NoteMultilingualOnly.flsnp" />
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/ClickOK.flsnp" />
+                        </p>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

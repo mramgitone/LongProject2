@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSearchFilterSet
+  conditions="Products.Flare">
+  <SearchFilter
+    Name="Best Practices"
+    Concepts="BestPractice"></SearchFilter>
+  <SearchFilter
+    Name="FAQs"
+    Comment=""
+    Concepts="FAQs" />
+  <SearchFilter
+    Name="Introduction Topics"
+    Comment=""
+    Concepts="Introduction" />
+  <SearchFilter
+    Name="Tour of the Workspace"
+    Comment=""
+    Concepts="FilterTourWorkspace" />
+  <SearchFilter
+    Name="Audio"
+    Comment=""
+    Concepts="FilterAudio" />
+  <SearchFilter
+    Name="Auto-Numbers"
+    Comment=""
+    Concepts="FilterAutoNumbers" />
+  <SearchFilter
+    Name="Browse Sequences"
+    Comment=""
+    Concepts="FilterBrowseSequences" />
+  <SearchFilter
+    Name="Characters and Symbols"
+    Comment=""
+    Concepts="FilterCharactersSymbols" />
+  <SearchFilter
+    Name="Symbols and Characters"
+    Comment=""
+    Concepts="FilterCharactersSymbols" />
+  <SearchFilter
+    Name="Color"
+    Comment=""
+    Concepts="FilterColor" />
+  <SearchFilter
+    Name="Condition Tags"
+    Comment=""
+    Concepts="FilterConditionTags" />
+  <SearchFilter
+    Name="Context-Sensitive Help"
+    Comment=""
+    Concepts="FilterCSH" />
+  <SearchFilter
+    Name="Destinations"
+    Comment=""
+    Concepts="FilterDestinations" />
+  <SearchFilter
+    Name="DotNet Help"
+    Comment=""
+    Concepts="FilterDotNetHelp" />
+  <SearchFilter
+    Name="Feedback"
+    Comment=""
+    Concepts="FilterFeedback" />
+  <SearchFilter
+    Name="Find and Replace"
+    Comment=""
+    Concepts="FilterFindReplace" />
+  <SearchFilter
+    Name="Fonts"
+    Comment=""
+    Concepts="FilterFonts" />
+  <SearchFilter
+    Name="FrameMaker"
+    Comment=""
+    Concepts="FilterFrameMaker" />
+  <SearchFilter
+    Name="Glossaries"
+    Comment=""
+    Concepts="FilterGlossaries" />
+  <SearchFilter
+    Name="HTML Help"
+    Comment=""
+    Concepts="FilterHTMLHelp" />
+  <SearchFilter
+    Name="Importing"
+    Comment=""
+    Concepts="FilterImporting" />
+  <SearchFilter
+    Name="Exporting"
+    Comment=""
+    Concepts="FilterExporting" />
+  <SearchFilter
+    Name="Indexes"
+    Comment=""
+    Concepts="FilterIndexing" />
+  <SearchFilter
+    Name="Instant Messaging"
+    Comment=""
+    Concepts="FilterInstantMessaging" />
+  <SearchFilter
+    Name="Language Support"
+    Comment=""
+    Concepts="FilterLanguageSupport" />
+  <SearchFilter
+    Name="Lists"
+    Comment=""
+    Concepts="FilterLists" />
+  <SearchFilter
+    Name="Formatting"
+    Comment=""
+    Concepts="FilterLocalFormatting" />
+  <SearchFilter
+    Name="Local Formatting"
+    Comment=""
+    Concepts="FilterLocalFormatting" />
+  <SearchFilter
+    Name="Master Pages"
+    Comment=""
+    Concepts="FilterMasterPages" />
+  <SearchFilter
+    Name="Merging Projects"
+    Comment=""
+    Concepts="FilterMergingProjects" />
+  <SearchFilter
+    Name="Movies"
+    Comment=""
+    Concepts="FilterMovies" />
+  <SearchFilter
+    Name="Navigation Links"
+    Comment=""
+    Concepts="FilterNavigationLinks" />
+  <SearchFilter
+    Name="Bookmarks"
+    Comment=""
+    Concepts="FilterBookmarks" />
+  <SearchFilter
+    Name="Concept (See Also) Links"
+    Comment=""
+    Concepts="FilterConceptLinks" />
+  <SearchFilter
+    Name="See Also Links"
+    Comment=""
+    Concepts="FilterConceptLinks" />
+  <SearchFilter
+    Name="Cross-References"
+    Comment=""
+    Concepts="FilterCrossReferences" />
+  <SearchFilter
+    Name="Drop-Down Text"
+    Comment=""
+    Concepts="FilterDropDownText" />
+  <SearchFilter
+    Name="Dynamic Effects"
+    Comment=""
+    Concepts="FilterDropDownText;FilterExpandingText;FilterTogglers" />
+  <SearchFilter
+    Name="Expanding Text"
+    Comment=""
+    Concepts="FilterExpandingText" />
+  <SearchFilter
+    Name="Hyperlinks"
+    Comment=""
+    Concepts="FilterHyperlinks" />
+  <SearchFilter
+    Name="Keyword Links"
+    Comment=""
+    Concepts="FilterKeywordLinks" />
+  <SearchFilter
+    Name="Related Topics Links"
+    Comment=""
+    Concepts="FilterRelatedTopicsLinks" />
+  <SearchFilter
+    Name="Shortcut Controls"
+    Comment=""
+    Concepts="FilterShortcutControls" />
+  <SearchFilter
+    Name="Text Hyperlinks"
+    Comment=""
+    Concepts="FilterTextHyperlinks" />
+  <SearchFilter
+    Name="Popups"
+    Comment=""
+    Concepts="FilterPopups" />
+  <SearchFilter
+    Name="Togglers"
+    Comment=""
+    Concepts="FilterTogglers" />
+  <SearchFilter
+    Name="Output (Building/Generating"
+    Comment=""
+    Concepts="FilterOutputBuilding" />
+  <SearchFilter
+    Name="Output (Distributing)"
+    Comment=""
+    Concepts="FilterOutputDistributing" />
+  <SearchFilter
+    Name="Publishing"
+    Comment=""
+    Concepts="FilterPublishing" />
+  <SearchFilter
+    Name="Output Types"
+    Comment=""
+    Concepts="FilterOutputTypes" />
+  <SearchFilter
+    Name="Images"
+    Comment=""
+    Concepts="FilterPictures" />
+  <SearchFilter
+    Name="Printed Output"
+    Comment=""
+    Concepts="FilterPrintedOutput" />
+  <SearchFilter
+    Name="Projects"
+    Comment=""
+    Concepts="FilterProjects" />
+  <SearchFilter
+    Name="Horizontal Rules"
+    Comment=""
+    Concepts="FilterRulers" />
+  <SearchFilter
+    Name="Scripts"
+    Comment=""
+    Concepts="FilterScripts" />
+  <SearchFilter
+    Name="Search"
+    Comment=""
+    Concepts="FilterSearch" />
+  <SearchFilter
+    Name="Accessibility"
+    Comment=""
+    Concepts="FilterAccessibility" />
+  <SearchFilter
+    Name="Single-Source Publishing"
+    Comment=""
+    Concepts="FilterSingleSourcePublishing" />
+  <SearchFilter
+    Name="Skins"
+    Comment=""
+    Concepts="FilterSkins" />
+  <SearchFilter
+    Name="Snippets"
+    Comment=""
+    Concepts="FilterSnippets" />
+  <SearchFilter
+    Name="Source Control"
+    Comment=""
+    Concepts="FilterSourceControl" />
+  <SearchFilter
+    Name="Spell Check"
+    Comment=""
+    Concepts="FilterSpellCheck" />
+  <SearchFilter
+    Name="Styles"
+    Comment=""
+    Concepts="FilterStyles" />
+  <SearchFilter
+    Name="Tables"
+    Comment=""
+    Concepts="FilterTables" />
+  <SearchFilter
+    Name="Tables of Contents"
+    Comment=""
+    Concepts="FilterTOCs" />
+  <SearchFilter
+    Name="Targets"
+    Comment=""
+    Concepts="FilterTargets" />
+  <SearchFilter
+    Name="Templates"
+    Comment=""
+    Concepts="FilterTemplates" />
+  <SearchFilter
+    Name="Topics"
+    Comment=""
+    Concepts="FilterTopics" />
+  <SearchFilter
+    Name="Variables"
+    Comment=""
+    Concepts="FilterVariables" />
+  <SearchFilter
+    Name="WebHelp"
+    Comment=""
+    Concepts="FilterWebHelp" />
+  <SearchFilter
+    Name="WebHelp Plus"
+    Comment=""
+    Concepts="FilterWebHelpPlus" />
+  <SearchFilter
+    Name="Word"
+    Comment=""
+    Concepts="FilterWord" />
+  <SearchFilter
+    Name="PDF"
+    Comment=""
+    Concepts="FilterPDF" />
+  <SearchFilter
+    Name="Page Layouts"
+    Comment=""
+    Concepts="FilterPageLayouts" />
+  <SearchFilter
+    Name="Backups"
+    Comment=""
+    Concepts="FilterBackups" />
+  <SearchFilter
+    Name="Footnotes and Endnotes"
+    Comment=""
+    Concepts="FilterFootnotes" />
+  <SearchFilter
+    Name="Reports"
+    Comment=""
+    Concepts="FilterReports" />
+  <SearchFilter
+    Name="Reviews and Contributions"
+    Comment=""
+    Concepts="FilterReviewsContributions" />
+  <SearchFilter
+    Name="XHTML"
+    Comment=""
+    Concepts="FilterXHTML" />
+  <SearchFilter
+    Name="XPS"
+    Comment=""
+    Concepts="FilterXPS" />
+  <SearchFilter
+    Name="DITA"
+    Comment=""
+    Concepts="FilterDITA" />
+  <SearchFilter
+    Name="EPUB"
+    Comment=""
+    Concepts="FilterEPUB" />
+  <SearchFilter
+    Name="HTML5"
+    Comment=""
+    Concepts="FilterHTML5" />
+  <SearchFilter
+    Name="Pulse"
+    Comment=""
+    Concepts="FilterPulse" />
+  <SearchFilter
+    Name="*Troubleshooting"
+    Comment=""
+    Concepts="Troubleshooting" />
+  <SearchFilter
+    Name="Eclipse Help"
+    Comment=""
+    Concepts="Eclipse Help" />
+  <SearchFilter
+    Name="Eclipse"
+    Comment=""
+    Concepts="FilterEclipseHelp" />
+  <SearchFilter
+    Name="WebHelp AIR"
+    Comment=""
+    Concepts="FilterWebHelpAIR" />
+  <SearchFilter
+    Name="WebHelp Mobile"
+    Comment=""
+    Concepts="FilterWebHelpMobile" />
+  <SearchFilter
+    Name="Slideshows"
+    Comment=""
+    Concepts="FilterSlideshows" />
+</CatapultSearchFilterSet>

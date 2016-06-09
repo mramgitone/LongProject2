@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare">
+    <body>
+        <p>External resources can be virtually any local or network files that you have access to (e.g., images, PDF files, <MadCap:snippetText src="../AllProductVariables.flsnp"></MadCap:snippetText> project files). From the External Resources window pane, you can easily bring external files into a project (i.e., a copy of the file is added to your <MadCap:snippetText src="../AllProductVariables.flsnp"></MadCap:snippetText> project) and keep them synchronized with the source files through mappings.</p>
+    </body>
+</html>

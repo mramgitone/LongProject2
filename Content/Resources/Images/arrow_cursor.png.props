@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties conditions="Products.Mimic,Products.Flare,Products.Contributor,Products.Capture,Products.Analyzer" fileTags="">
+    <ImageOverlay ScreenRectangle="0,0,0,0" Profile="C:\Users\pstoecklein\Documents\My Profiles\150dpi.capro" ProfileHash="458a4c33c31007e9215ef1c416713856">
+        <OriginalImage FileName="" Folder="C:\Trunk\Shared\Content\Resources\Images" ExportFormat="png" ImageScaleFactor="1.0" DPI="72" medium_print_EnableFormat="true" medium_print_DPI="150" Format="tiff" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" medium_print_EnableGrayScaleFormat="False" WaveHeight="10" WaveLength="6" Transparency="0" BorderWidth="0" ImageScaleToHeight="0" ImageScaleToWidth="0" ImageShadeFactor="5" ImageBlurFactor="6" BackgroundColor="transparent" Right="0" Bottom="0" EnableShadow="false" ShadowTransparency="0.7" ComputedWidth="14" ComputedHeight="21" ColorDepth="16" medium_print_ColorDepth="32" JPEGQuality="80">SUkqAKgAAACAP+BQOBACDQSEQmFQuGQ2CQYAP+IQ6KRWKxOHweLRuNxiFR6OSGESCGSSRRaTQ6UyePxqTyuWRKXTGZRGaQWZzecTaXzmdRmeSifT+EzCgT+J0mD0qgyOh0WnzWkVGmSWoxySTCtVeVUuuTurU2sV+w2WiUKxQOjWeF1u02yoW+pXCO165QEAYAAAAAEAAABgAAAAAQAAAAgACAAIAAgAEAD+AAQAAQAAAAAAAAAAAQMAAQAAAA4AAAABAQMAAQAAABUAAAACAQMABAAAAKAAAAADAQMAAQAAAAUAAAAGAQMAAQAAAAIAAAARAQQAAQAAAAgAAAAVAQMAAQAAAAQAAAAWAQQAAQAAABUAAAAXAQQAAQAAAIcAAAAaAQUAAQAAAJAAAAAbAQUAAQAAAJgAAAAcAQMAAQAAAAEAAAAoAQMAAQAAAAIAAAA9AQMAAQAAAAEAAABSAQMAAQAAAAIAAAAAAAAA</OriginalImage>
+        <Shapes />
+        <Variables />
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

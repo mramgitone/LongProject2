@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="6" MadCap:lastHeight="481" MadCap:lastWidth="559">
+    <body>
+        <ol>
+            <li>
+                <p>From your web server, open a web browser and navigate to your WebHelp Plus output web service. </p>
+                <MadCap:dropDown>
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p class="ExampleHead">example</p>
+                        <p class="ExampleMiddleSection">Let's say your output resides at:</p>
+                        <p class="ExampleMiddleSection">http://localhost/MyWebHelpPlus</p>
+                        <p class="ExampleMiddleSection">In that case, navigate to:</p>
+                        <p class="Example"> http://localhost/MyWebHelpPlus/Service/Service.asmx</p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li>In the list of links, click the <span class="Emphasis">GetSearchResults</span> link.</li>
+            <li>In the <span class="Emphasis">searchString</span> field, enter a term to search for that you know exists in the content of your WebHelp Plus output.</li>
+            <li>Click the <span class="Emphasis">Invoke</span> button. This will open a page containing search results in XML format.</li>
+            <li>You should see content from your output in the list of search results.</li>
+        </ol>
+    </body>
+</html>

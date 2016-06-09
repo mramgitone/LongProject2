@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor" MadCap:lastBlockDepth="4" MadCap:lastHeight="646" MadCap:lastWidth="903">
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Styles:CAPTION tag;Captions:table;Tables:captions" />caption </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>This tag lets you modify the table caption, which is a short title or description of the table's purpose. When inserting or editing a table, you can add a caption above or below the table.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Styles:COL tag;Columns:tables;Tables:columns;Tables:COL tag" />col </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>This tag lets you group together attribute specifications for table columns. The &lt;col&gt; elements are empty and serve only as a support for attributes. They may appear inside or outside an explicit column group (i.e., &lt;colgroup&gt; element).</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Styles:COL tag;Columns:tables;Tables:columns;Tables:COLGROUP tag" />colgroup </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>This tag lets you group columns together structurally. The number of columns in the column group may be specified by using the element's &lt;span&gt; tag or by the &lt;col&gt; element, which represents one or more columns in the group.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Styles:tables;Tables:styles;Tables:TABLE tag" />table </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>This tag lets you modify entire tables. It contains all other elements that specify caption, rows, content, and formatting.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Styles:TBODY tag;Tables:TBODY tag" />tbody </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>This tag lets you modify the main rows in a table (i.e., not the header or footer rows). Each &lt;tbody&gt; tag must have at least one &lt;tr&gt; tag within it, which is used to represent a single row.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel"><MadCap:keyword term="Styles:TD tag;Tables:TD tag" />td </span>
+                    <MadCap:expanding>
+                        <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                        <MadCap:expandingBody>This tag lets you modify the data (or content) in the primary cells of a table. When you press Enter after the first paragraph in a table cell, a paragraph &lt;p&gt; tag is added inside each &lt;td&gt; tag in that cell.</MadCap:expandingBody>
+                    </MadCap:expanding>
+                </p>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Styles:TFOOT tag;Tables:footers;Tables:TFOOT tag" />tfoot </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>This tag lets you modify a footer row in a table. When a table requires multiple pages in print layouts and outputs, the footer row is placed at the bottom of the last page. Each &lt;tfoot&gt; tag must have at least one &lt;tr&gt; tag within it, which is used to represent a single row.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Styles:TH tag;Tables:TH tag" />th </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>This tag lets you modify the header content in a table. Why not just use the &lt;td&gt; tag for header content as well? First, by having different tags, you can more easily dictate one look for the header text (e.g., bold font) and a different look for the main content in the table (e.g., normal font). Second, using separate tags greatly assists users with visual disabilities, making it possible for multi-modal wireless browsers with limited display capabilities (e.g., Web-enabled pagers and phones) to handle tables. When you press Enter after the first paragraph in a table cell, a paragraph &lt;p&gt; tag is added inside each &lt;th&gt; tag in that cell.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Styles:THEAD tag;Tables:headers;Tables:THEAD tag" />thead </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>This tag lets you modify a header row in a table. When a table requires multiple pages in output, the header row is repeated by default at the top of each page. Each &lt;thead&gt; tag must have at least one &lt;tr&gt; tag within it, which is used to represent a single row.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Styles:TR tag;Tables:TR tag" />tr </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>This tag lets you modify single rows that are contained within &lt;tbody&gt;, &lt;tfoot&gt;, and &lt;thead&gt; tags. </MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+        </ul>
+    </body>
+</html>

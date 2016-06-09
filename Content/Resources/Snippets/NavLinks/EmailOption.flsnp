@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="189" MadCap:lastWidth="1140">
+    <body>
+        <p>This option lets you add an email address and subject line so that the user can quickly send an email. </p>
+        <p class="ExampleHead">example</p>
+        <p class="Example">You might use this feature to help the end user send an email to your company's technical support department. When users click the link, it opens their email program and begins a new email message for them, inserting the email address and subject line for them. After you click this option, complete the <span class="Emphasis">E-mail address</span> and <span class="Emphasis">Subject</span> fields to the right (or select a recent email address from the list below). </p>
+    </body>
+</html>

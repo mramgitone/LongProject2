@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="2" MadCap:lastHeight="167" MadCap:lastWidth="1273">
+    <body>
+        <p class="noteTop" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">If you change the fuzzy matches percentage in the Options dialog, a segment doesn't necessarily have to have a 100% match to be automatically filled in when you click on it. For example, you can change the option so that segments with a 95% match are considered exact.</p>
+        <p class="noteBottom">
+            <img src="../../Images/fuzzy_match_fill_in.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+    </body>
+</html>

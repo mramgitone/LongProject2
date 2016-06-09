@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="14" MadCap:lastHeight="992" MadCap:lastWidth="1204">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                <ul class="FirstLevel">
+                    <li>
+                        <p><span class="SetOffFirstLevel">Ribbon</span> Select <span class="Emphasis">Resources&gt;Choose MT</span>. </p>
+                        <MadCap:snippetBlock src="../UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" />
+                    </li>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Menu</span> Select <b>Resources&gt;Choose MT</b>.</p>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Translate Toolbar</span> In the Translate toolbar, click <img src="../../Images/choose_mt_small_btn.png" alt="" title="" class="ReduceButtonSize" />.</li>
+                </ul>
+                <p>The Machine Translation Providers dialog opens.</p>
+            </li>
+            <li>
+                <p>Click the button for the provider(s) you want to use for machine translation. You can select multiple providers if you want to see suggestions from more than one machine translation service.</p>
+                <p>
+                    <img src="../../Images/machine_translation_dialog2.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <MadCap:snippetBlock src="SegmentsVsProjectWithMT.flsnp" />
+            </li>
+            <li>
+                <p>(Optional) If you have not yet entered credentials for the machine translation provider in the Options dialog (see <a href="../../../Machine_Translation/Setting_Machine_Translation_Options.htm">Setting Machine Translation Options</a>), an additional dialog opens where you can provide your authentication information.</p>
+                <MadCap:dropDown>
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>How to Apply Machine Translation Settings</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <ol>
+                            <li>
+                                <p>Select a machine translation service from the <span class="Emphasis">Select Machine Translation Provider</span> drop-down, then enter your authentication credentials in the <span class="Emphasis">Settings</span> area. Each provider requires different credentials.</p>
+                                <MadCap:snippetBlock src="ProviderCredentials.flsnp" />
+                                <p>Click <span class="Emphasis">Test Connection</span> to verify that your credentials are <MadCap:annotation MadCap:comment="include where to get credentials" MadCap:createDate="2014-08-27T17:02:55.2909087-07:00" MadCap:creator="KSchneider" MadCap:editDate="2014-08-27T17:03:06.9215821-07:00" MadCap:editor="KSchneider" MadCap:initials="KS">correct</MadCap:annotation></p>
+                            </li>
+                            <li>
+                                <MadCap:snippetBlock src="ConcordanceSearch.flsnp" />
+                            </li>
+                            <li>
+                                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+                            </li>
+                        </ol>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+        </ol>
+    </body>
+    <head>
+    </head>
+</html>

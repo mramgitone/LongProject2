@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.AllProducts">
+    <body>
+        <p class="TableText">This selects the text between the cursor (before you pressed SHIFT) and the new location of the cursor when you click the mouse button again. You can also hold down the SHIFT key and press arrow keys to select characters to the right or left of the cursor.</p>
+    </body>
+</html>

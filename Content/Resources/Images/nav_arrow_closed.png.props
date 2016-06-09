@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties conditions="Products.AllProductsPlusDocBible">
+    <ImageOverlay Profile="C:\Users\pstoecklein\Documents\My Profiles\SharedImagesNoBorder.capro" ProfileHash="9723dfd6e93f50385be33421f760b802d839b681" ScreenRectangle="336,269,8,11">
+        <OriginalImage Folder="C:\Trunk\Shared\Content\Resources\Images" ExportFormat="png" medium_print_EnableFormat="False" medium_print_ColorDepth="32" medium_print_DPI="300" FileName="" BackgroundColor="#ffffff" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" medium_print_EnableGrayScaleFormat="False" Border="none" BorderWidth="1" BorderColor="#000000" JPEGQuality="80" ComputedWidth="8" ComputedHeight="11" Format="tiff">SUkqAKQAAACAP+BP8AQWDQeEQmFQN/saHAAXxEAAuKQqLQWGKeNAABR0AESQAAJyOLweMxuQEQALGWAAky8ABuZReTqcAFmcAB2zsAKSfAAlUEACWiQiazecwd0UsAJqnAA21EABGqACjzgsgB3VsAKOvUChUQS0aBxqbEW0ABYWuXTCZBuaWWNx0BR+QyMJyWDQyHMaIRKKAu9QmGYPDQaAgAAQAP4ABAABAAAAAAAAAAABBAABAAAACAAAAAEBBAABAAAACwAAAAIBAwAEAAAAagEAAAMBAwABAAAABQAAAAYBAwABAAAAAgAAABEBBAABAAAACAAAABUBAwABAAAABAAAABYBBAABAAAACwAAABcBBAABAAAAmwAAABoBBQABAAAAcgEAABsBBQABAAAAegEAABwBAwABAAAAAQAAACgBAwABAAAAAgAAAD0BAwABAAAAAgAAAFIBAwABAAAAAgAAAAAAAAAIAAgACAAIAAB3AQDoAwAAAHcBAOgDAAA=</OriginalImage>
+        <Shapes />
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <Variables />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

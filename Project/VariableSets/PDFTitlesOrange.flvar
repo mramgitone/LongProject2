@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="Products.AllProductsPlusDocBible">
+  <Variable
+    Comment=""
+    Name="LingoAlignmentGuide"
+    OriginalName="LingoAlignmentGuide">Alignment Guide</Variable>
+  <Variable
+    Comment=""
+    Name="LingoGettingStartedGuide"
+    OriginalName="LingoGettingStartedGuide">Getting Started Guide</Variable>
+  <Variable
+    Name="LingoKeyFeaturesGuide"
+    Comment="">Key Features Guide</Variable>
+  <Variable
+    Name="LingoShortcutsGuide"
+    Comment="">Shortcuts Guide</Variable>
+  <Variable
+    Name="LingoTermbaseGuide"
+    Comment="">Termbase Guide</Variable>
+  <Variable
+    Name="LingoTouringWorkspaceGuide"
+    Comment="">Touring the Workspace Guide</Variable>
+  <Variable
+    Name="LingoTranslationGuide"
+    Comment="">Translation Guide</Variable>
+  <Variable
+    Name="LingoWhatsNewGuide"
+    Comment="">What's New Guide</Variable>
+  <Variable
+    Name="AnalyzerConceptsGuide"
+    Comment="">Concepts Guide</Variable>
+  <Variable
+    Name="AnalyzerConditionTagsGuide"
+    Comment="">Condition Tags Guide</Variable>
+  <Variable
+    Name="AnalyzerCSHGuide"
+    Comment="">Context-Sensitive Help Guide</Variable>
+  <Variable
+    Name="AnalyzerFileTagsGuide"
+    Comment="">File Tags Guide</Variable>
+  <Variable
+    Name="AnalyzerFrequentSegmentsGuide"
+    Comment="">Frequent Segments Guide</Variable>
+  <Variable
+    Name="AnalyzerGettingStartedGuide"
+    Comment="">Getting Started Guide</Variable>
+  <Variable
+    Name="AnalyzerIndexGuide"
+    Comment="">Index Guide</Variable>
+  <Variable
+    Name="AnalyzerKeyFeaturesGuide"
+    Comment="">Key Features Guide</Variable>
+  <Variable
+    Name="AnalyzerLinksGuide"
+    Comment="">Links Guide</Variable>
+  <Variable
+    Name="AnalyzerReportsGuide"
+    Comment="">Reports Guide</Variable>
+  <Variable
+    Name="AnalyzerShortcutsGuide"
+    Comment="">Shortcuts Guide</Variable>
+  <Variable
+    Name="AnalyzerSnippetsGuide"
+    Comment="">Snippets Guide</Variable>
+  <Variable
+    Name="AnalyzerStatisticsChartsGuide"
+    Comment="">Statistics and Charts Guide</Variable>
+  <Variable
+    Name="AnalyzerStylesGuide"
+    Comment="">Styles Guide</Variable>
+  <Variable
+    Name="AnalyzerSuggestionsGuide"
+    Comment="">Suggestions Guide</Variable>
+  <Variable
+    Name="AnalyzerTOCsGuide"
+    Comment="">Tables of Contents Guide</Variable>
+  <Variable
+    Name="AnalyzerTopicsGuide"
+    Comment="">Topics Guide</Variable>
+  <Variable
+    Name="AnalyzerTouringWorkspaceGuide"
+    Comment="">Touring the Workspace Guide</Variable>
+  <Variable
+    Name="AnalyzerTrackChangesGuide"
+    Comment="">Track Changes Guide</Variable>
+  <Variable
+    Name="AnalyzerUndefinedItemsGuide"
+    Comment="">Undefined Items Guide</Variable>
+  <Variable
+    Name="AnalyzerUnusedItemsGuide"
+    Comment="">Unused Items Guide</Variable>
+  <Variable
+    Name="AnalyzerVariablesGuide"
+    Comment="">Variables Guide</Variable>
+  <Variable
+    Name="AnalyzerWhatsNewGuide"
+    Comment="">What's New Guide</Variable>
+</CatapultVariableSet>

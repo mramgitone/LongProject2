@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="1" MadCap:lastHeight="71" MadCap:lastWidth="719">
+    <body>The topic toolbar proxy will use whatever settings are specified on the Topic Toolbar tab in the Skin Editor (for Standard and Mobile skins only). However, the settings in the individual proxy have precedence. Therefore, if you select some buttons in the proxy and others in the skin, those in the proxy will be displayed in the output.</body>
+</html>

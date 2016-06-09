@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="8" MadCap:lastHeight="1182" MadCap:lastWidth="789">
+    <body>
+        <p>In the <span class="Emphasis">Condition Tag Sets</span> area, you can choose to view tags for all condition tag sets or you can select a specific set. The tags associated with the selected set are shown to the right, with their associated colors. An Include and Exclude check box appears next to each condition tag.</p>
+        <p>When Basic is selected, the check boxes are shown and the Advanced section is disabled.</p>
+        <MadCap:dropDown MadCap:conditions="Products.Flare">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p class="ExampleHead">example</p>
+                <p class="Example">
+                    <img src="../../Images/conditions2.png" class="MaxWidth90Percent" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTargetsGuide,FlareGuides.FlareConditionTagsGuide" />
+        <p>If you want to exclude a condition tag, click the <span class="Emphasis">Exclude</span> check box next to it. If you want to make sure a condition tag is included, click the <span class="Emphasis">Include</span> check box next to it. The primary reason for having Include check boxes is to account for possible conflicts.</p>
+        <MadCap:dropDown MadCap:conditions="Products.Flare">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="ConditionalTextIncludeExample.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">warning</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="WarningIncludeExclude.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTargetsGuide,FlareGuides.FlareConditionTagsGuide" />
+        <p>When you click check boxes in the Basic section, you are creating expressions with "or" statements (e.g., "include this condition tag <span class="EmphasisItalic">or</span> that one"). And when you do this, you can see the resulting expression displayed in the Advanced section below.</p>
+        <MadCap:dropDown MadCap:conditions="Products.Flare">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p class="ExampleHead">example</p>
+                <p class="Example">
+                    <img src="../../Images/conditions3.png" class="MaxWidth90Percent" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

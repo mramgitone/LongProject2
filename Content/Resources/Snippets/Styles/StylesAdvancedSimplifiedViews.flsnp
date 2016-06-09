@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="170" MadCap:lastWidth="1238" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Simplified </span>The Simplified view is often best for newer users. <MadCap:expanding><MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead><MadCap:expandingBody>It provides an easier way to apply properties to styles, with format options available from a toolbar (similar to the way one would use the Text Format toolbar to change the look of topic content without a style). In some cases, only the most common property options are available in the Simplified view (e.g., font, letter/word spacing, paragraph alignment/indentation, autonumbering format, borders, background). One advantage of the Simplified view is that you can apply a property to multiple styles at the same time. You can also click a check box to hide the properties in the editor, allowing you to see only the styles.</MadCap:expandingBody></MadCap:expanding></li>
+            <li><span class="SetOffFirstLevel">Advanced </span>The Advanced view displays style classes and properties in hierarchical tree structures. <MadCap:expanding><MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead><MadCap:expandingBody>For beginners, it is not as quick and easy to use as the Simplified view, but it allows you to edit more settings than are available in the Simplified view.</MadCap:expandingBody></MadCap:expanding></li>
+        </ul>
+    </body>
+</html>

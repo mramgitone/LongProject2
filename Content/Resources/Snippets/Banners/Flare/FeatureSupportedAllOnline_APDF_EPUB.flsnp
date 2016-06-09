@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="127" MadCap:lastWidth="567">
+    <body>
+        <p class="OutputsSupported">This feature is supported in <MadCap:variable name="Outputs.PDF" />, in <MadCap:variable name="Outputs.EPUB" />, and in all online outputs—<MadCap:snippetText src="../../Output/AllOnlineOutputTypesAND.flsnp" />.</p>
+    </body>
+</html>

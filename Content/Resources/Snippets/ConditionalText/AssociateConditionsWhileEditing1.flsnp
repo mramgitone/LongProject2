@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="95" MadCap:lastWidth="867">
+    <body>
+        <p>When editing a document in the XML Editor, you can click <img src="../../Images/conditions_btn3.png" alt="" class="ReduceButtonSize" /> in the local toolbar to open the Conditional Text dialog and include and exclude conditions on that file. This is similar to the feature that you can use to preview a document with certain conditions set. The difference is that this associates the conditions to the document as you edit it in the XML Editor.</p>
+    </body>
+</html>

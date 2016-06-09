@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="8" MadCap:lastHeight="2032" MadCap:lastWidth="1092">
+    <head><title></title>
+        <meta name="description" content="A Language Skin in MadCap&#160;Flare gives you the opportunity to localize a Help system's user interface into different languages." />
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Language support:language skins;Language support:skins;Skins:language skins;Skins:language" />
+            <MadCap:concept term="LanguageSupport" />
+            <MadCap:concept term="FilterLanguageSupport" />
+            <MadCap:conditionalText MadCap:conditions="General.OnlineLive">About </MadCap:conditionalText>Language Skins</h1>
+        <MadCap:snippetBlock src="../Resources/Snippets/Banners/Flare/FeatureSupportedAllExceptWH2.flsnp" />
+        <p class="FirstPageOfChapter">A regular skin controls the interface that users see for online outputs. They are stored in the Skins folder of the Project Organizer. By default, the text in these skins is in English, and they are used not only for editing text but also to control the look of the skin in the output (e.g., color, navigation elements). <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../Skins/About_Skins.htm">About Skins</MadCap:xref>.</MadCap:conditionalText> <![CDATA[ ]]></p>
+        <p class="FirstPageOfChapter">On the other hand, a language skin can be used to display the interface in a specific language for most WebHelp outputs (<MadCap:variable name="Outputs.WebHelp" />, <MadCap:variable name="Outputs.WebHelpAIR" />, <MadCap:variable name="Outputs.WebHelp Mobile" />, and <MadCap:variable name="Outputs.WebHelp Plus" />). Language skins hold only text used for the output; they do not control the look of the output. To control the appearance of the output, you must use a regular skin in addition to the language skin.</p>
+        <MadCap:snippetBlock src="../Resources/Snippets/ThisChapterDiscussesFollowing.flsnp" MadCap:conditions="FlareGuides.FlareLanguageSupportGuide,FlareGuides.FlareSkinsGuide" />
+        <h2 MadCap:conditions="FlareGuides.FlareSkinsGuide,FlareGuides.FlareLanguageSupportGuide">Completed Versus User-Defined Language Skins</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">completed versus user-defined language skins</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" /> provides completed language skins for certain languages, such as French, German, and Spanish. These are languages that are already identified as being "localized" skins when you select the project or target language<MadCap:conditionalText MadCap:conditions="General.OnlineLive"> (see <MadCap:xref href="Selecting_a_Language.htm">Selecting a Language</MadCap:xref>)</MadCap:conditionalText>. </p>
+                <p>For other languages, you can create language skins so that they can be applied to a project or target too (see <MadCap:xref href="Creating_User_Defined_Language_Skins.htm">Creating User-Defined Language Skins</MadCap:xref>). After you create a user-defined language skin, it too is identified as "localized." User-defined language skins that you create are stored in your application data folder, outside of your Flare project (e.g., C:\Users\myname\AppData\Roaming\MadCap Software\Flare\Language Skins).</p>
+                <p class="ExampleHead">example</p>
+                <p class="ExampleMiddleSection">Let's say you select French as the project language. </p>
+                <p class="ExampleMiddleSection">
+                    <img src="../Resources/Images/language_skin_example.png" class="MaxWidth90Percent" />
+                </p>
+                <MadCap:snippetBlock src="../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareSkinsGuide,FlareGuides.FlareLanguageSupportGuide" />
+                <p class="ExampleMiddleSection">If you generate WebHelp, the French skin is automatically used, so the output looks something like this:</p>
+                <p class="ExampleMiddleSection">
+                    <img src="../Resources/Images/language_skin_example2.png" class="MaxWidth90Percent" />
+                </p>
+                <MadCap:snippetBlock src="../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareSkinsGuide,FlareGuides.FlareLanguageSupportGuide" />
+                <p class="ExampleMiddleSection">Now suppose that you want to use Filipino as the project language. Notice in the example above that Filipino does not have a "Yes" next to it. This means that you need to create a language skin for it from the Language Skins dialog (<span class="Emphasis">Tools&gt;Manage Language Skins</span>). </p>
+                <p class="ExampleMiddleSection">
+                    <img src="../Resources/Images/language_skin_example3.png" class="MaxWidth90Percent" />
+                </p>
+                <p class="ExampleMiddleSection">When you do this another dialog opens, asking you to select a language to use as a starting point. Some languages are relatively close to others. Therefore, by selecting a language close to the one you want, you probably do not need to do as much editing.</p>
+                <p class="ExampleMiddleSection">After you do this, the new language skin opens in the Language Skin Editor, which you can use to edit text labels and make other changes (see <MadCap:xref href="Editing_Language_Skins.htm">Editing Language Skins</MadCap:xref>).</p>
+                <p class="ExampleMiddleSection">After you are finished, you can select the language for the project or a specific target. When you do this, you'll notice that the language now has a "Yes" next to it in the Localized Skins column.</p>
+                <p class="Example">
+                    <img src="../Resources/Images/language_skin_example4.png" class="MaxWidth90Percent" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="FlareGuides.FlareSkinsGuide,FlareGuides.FlareLanguageSupportGuide">Tasks for Using Language Skins</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">tasks for using language skins</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Following are the basic steps involved with language skins.</p>
+                <ol>
+                    <li><span class="SetOffFirstLevel">(Optional) Create </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody> If you are using a language for which <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" /> has already provided a completed language skin, you do not need to complete this step. However, if you want to use another language, you can create a skin for it. See <MadCap:xref href="Creating_User_Defined_Language_Skins.htm">Creating User-Defined Language Skins</MadCap:xref>.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li>
+                        <p><span class="SetOffFirstLevel">(Optional) Edit</span>
+                            <MadCap:expanding>
+                                <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                                <MadCap:expandingBody>If you create a new user-defined language skin, you need to edit it to make sure it provides all the correct translations. You can also open a completed language skin to edit the translated text if you want. See <MadCap:xref href="Editing_Language_Skins.htm">Editing Language Skins</MadCap:xref>.</MadCap:expandingBody>
+                            </MadCap:expanding>
+                        </p>
+                        <MadCap:dropDown>
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you want to make other changes to a skin to affect how it looks in the output, you can edit a regular skin in the Project Organizer<MadCap:conditionalText MadCap:conditions="General.OnlineLive"> (see <MadCap:xref href="../Skins/Editing_Skin_Settings.htm">Editing Skin Settings</MadCap:xref>)</MadCap:conditionalText>.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Select</span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>You need to tell <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" /> which language you are working with so that it knows which skin to use in the output. This can be done when you are first creating the project. You can also change the language for the entire project later by using the Project Properties option. You can also override the project language and set it for the individual targets or topics. <MadCap:conditionalText MadCap:conditions="General.OnlineLive,FlareGuides.FlareLanguageSupportGuide"> See <MadCap:xref href="Selecting_a_Language.htm">Selecting a Language</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="../Resources/Snippets/Notes/NoteLanguageSkinsOtherOutputs.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:conceptLink term="LanguageSupport" />
+        </p>
+    </body>
+</html>

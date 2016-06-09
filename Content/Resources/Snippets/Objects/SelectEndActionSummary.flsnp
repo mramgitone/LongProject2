@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Mimic,Products.Capture">
+    <body>
+        <p>If you have cursor shapes in the frames of your movie (either added manually or automatically during the recording), what happens in the movie when a cursor movement reaches the end of its path (trajectory)? Unless you specify otherwise, the movie will simply continue to play in its normal progression. It is likely that this is often what you will want to happen. However, there may be times when you want to provide a specific action to take place when the cursor reaches the end of its path.</p>
+    </body>
+</html>

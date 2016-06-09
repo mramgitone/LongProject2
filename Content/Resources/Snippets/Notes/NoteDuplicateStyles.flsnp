@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer" MadCap:lastBlockDepth="2" MadCap:lastHeight="129" MadCap:lastWidth="1221">
+    <body>
+        <p class="note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">Duplicate styles are displayed only if they are based on the same tag. For example, if you have identical properties set for the styles "p.tip" and "p.note," they will be included in the window pane (because they are both based on the &lt;p&gt; tag). However, if you have identical properties set for the styles "p.tip" and "h4.note," they will not be included in the window pane (because one is based on the &lt;p&gt; tag, whereas the other is based on the &lt;h4&gt; tag).</p>
+    </body>
+</html>

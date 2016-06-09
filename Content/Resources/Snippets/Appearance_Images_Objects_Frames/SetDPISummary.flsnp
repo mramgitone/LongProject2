@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Capture" MadCap:lastBlockDepth="2" MadCap:lastHeight="85" MadCap:lastWidth="845">
+    <body>
+        <p>When you capture an image, you can specify the resolution by setting the<MadCap:keyword term="DPI" /> DPI (dots per inch). As the name suggests, this determines how many pixels are used to display an image in a given linear inch. The DPI is automatically set for online output when you capture the image, depending on the computer that you are using (usually this is about 96 DPI). However, the DPI setting for printed output often needs to be higher (say, 300 DPI); therefore, you can specify a different DPI for print output.</p>
+    </body>
+</html>

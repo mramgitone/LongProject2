@@ -1,0 +1,531 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Mimic,Products.MovieSync" MadCap:lastBlockDepth="12" MadCap:lastHeight="7417" MadCap:lastWidth="578">
+    <head>
+        <link href="../../TableStyles/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>buttons and sections <span style="font-size: 0.85em;">(</span>top toolbar<span style="font-size: 0.85em;">)</span></MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <table style="caption-side: top;margin-left: 0;margin-right: auto;mc-table-style: url('../../TableStyles/BasicAlternateRows.css');" class="TableStyle-BasicAlternateRows" cellspacing="0">
+                    <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+                    <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+                    <thead>
+                        <tr class="TableStyle-BasicAlternateRows-Head-Header1">
+                            <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                                <p class="TableTextHead">Button</p>
+                            </th>
+                            <th class="TableStyle-BasicAlternateRows-HeadD-Regular-Header1">
+                                <p class="TableTextHead">Description</p>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr MadCap:conditions="Products.MovieSync" class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableText">
+                                    <img src="../../Images/view_old_version_btn.jpg" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Opens a window showing the first frame of the old movie. This window is much like the Frame Editor, in that it lets you navigate through the frames and use the scale buttons at the bottom to increase or decrease the size of the frames. You can also use a drop-down field at the bottom to show or hide any master frames that might be part of a frame. Finally, you can select <span class="Emphasis">View&gt;Draw Trajectories</span> to hide or show any cursor trajectories on the frame.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">
+                                    <img src="../../Images/frame_number.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Displays the number of the current frame in the movie sequence. If you click the down arrow, you can select any frame in the movie to open it.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableText">
+                                    <img src="../../Images/go_back_previous_frame_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Opens the previous frame that was being viewed. For example, if you were looking at frame 23 and then jump ahead to frame 55, clicking this button brings you back to frame 23.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">
+                                    <img src="../../Images/go_to_first_frame_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Opens the first frame in the movie.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableText">
+                                    <img src="../../Images/go_to_previous_frame_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Opens the previous frame in the sequence of the movie.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">
+                                    <img src="../../Images/go_to_next_frame_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Opens the next frame in the movie.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableText">
+                                    <img src="../../Images/go_to_last_frame_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Opens the last frame in the movie.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">
+                                    <img src="../../Images/quick_preview_movie_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Opens the MadCap Movie Viewer, which lets you watch a quick preview of your movie. If you click the image on the button, rather than the down arrow, a preview of the entire movie plays. If you click the down arrow, you can select one of the following options.</p>
+                                <ul>
+                                    <li><span class="SetOffFirstLevel">Movie</span> The movie plays in its entirety.</li>
+                                    <li><span class="SetOffFirstLevel">This Frame</span> Only the current frame plays.</li>
+                                    <li><span class="SetOffFirstLevel">Start at this Frame</span> The movie plays, starting with the current frame, until the end of the movie.</li>
+                                    <li><span class="SetOffFirstLevel">Next 5 Frames</span> The current frame and the next 4 frames play.</li>
+                                    <li><span class="SetOffFirstLevel">Next 10 Frames</span> The current frame and the next 9 frames play.</li>
+                                </ul>
+                            </td>
+                        </tr>
+                        <tr MadCap:conditions="Products.Mimic" class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableText">
+                                    <img src="../../Images/run_properties_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Opens the Movie Properties dialog, which lets you edit settings for the movie.</p>
+                            </td>
+                        </tr>
+                        <tr MadCap:conditions="Products.Mimic" class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">
+                                    <img src="../../Images/edit_frame_properties_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Opens the Frame Properties dialog, which lets you edit settings for the current frame. </p>
+                            </td>
+                        </tr>
+                        <tr MadCap:conditions="Products.Mimic" class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableText">
+                                    <img src="../../Images/shape_properties_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Opens a properties dialog, depending on the type of object selected. This dialog lets you modify the appearance and behavior of an object (e.g., shape or effect) that has been added to the frame. </p>
+                            </td>
+                        </tr>
+                        <tr MadCap:conditions="Products.Mimic" class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">
+                                    <img src="../../Images/open_shape_format_toolbar_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Opens the Format toolbar, which lets you quickly adjust the format of the selected object and text in the object.</p>
+                            </td>
+                        </tr>
+                        <tr MadCap:conditions="Products.Mimic" class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableText">
+                                    <img src="../../Images/open_object_layout_toolbar.png" alt="" title="" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Opens the Layout toolbar, which lets you align, sink, or float objects in a frame.</p>
+                            </td>
+                        </tr>
+                        <tr MadCap:conditions="Products.Mimic" class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">
+                                    <img src="../../Images/open_frames_toolbar_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Opens the Frames toolbar, which lets you perform tasks such as inserting, copying, and duplicating frames.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableText">
+                                    <img src="../../Images/show_trajectory_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Displays or hides the trajectory (path) of a cursor in the frame. When you record a movie, the trajectory can be added automatically to each frame. Click this button if you want to show or hide it.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">
+                                    <img src="../../Images/delete_point_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Lets you delete a point in certain objects (polygon and polyline). After you select a point (small circle at the end of a segment in the object) in one of these objects, this button is enabled. When you click this button, the selected point is removed.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableText">
+                                    <img src="../../Images/hand_mode_btn1.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">Lets you drag areas of a frame around. This is useful when you have zoomed in on a frame so much that you cannot see all of it in the editor. <MadCap:conditionalText MadCap:conditions="Products.Mimic">See <MadCap:xref href="../../../Steps/More/Using_the_Hand_Mode_Feature.htm">Using the Hand Mode Feature</MadCap:xref>.</MadCap:conditionalText></td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">
+                                    <img src="../../Images/select_mode_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Converts the cursor to Select mode, which lets you select any objects or areas in the frame.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableText">
+                                    <img src="../../Images/bubble_mode_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Converts the cursor to Bubble mode, which lets you create a callout by clicking in the frame and dragging a rectangle area. When you release the cursor, a "bubble" shape is created, which consists of a rectangular or square area for holding text and a pointy area for pointing toward an area of the frame that you want to explain or emphasize.</p>
+                                <p class="TableText">
+                                    <img src="../../Images/bubble_example.png" />
+                                </p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">
+                                    <img src="../../Images/new_text_box_mode_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Converts the cursor to Text Rectangle mode, which lets you create a square or rectangle shape with text by clicking in the image and dragging in any direction. When you release the cursor, default text is shown in a popup editor. You can replace the text with your own and click outside the area to see the finished shape. In addition, this mode adds a background to the box (as opposed to a transparent background), which makes it easier to see the text. </p>
+                                <p class="TableText">
+                                    <img src="../../Images/text_box_example.png" />
+                                </p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableText">
+                                    <img src="../../Images/arrow_mode_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Converts the cursor to Arrow mode, which lets you create a curvy arrow shape. After you select this button, you can click anywhere in the frame to identify the starting point for the arrow. When you move the cursor, a straight line shows where the arrow will be placed. When you release the cursor, an arrow is created.</p>
+                                <p class="TableText">
+                                    <img src="../../Images/arrow_example.png" />
+                                </p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">
+                                    <img src="../../Images/loop_mode_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Converts the cursor to Loop mode, which lets you create a "loop" shape by clicking in the image and dragging a rectangle area. When you release the cursor, a loop shape is created. This is a useful shape for circling parts of an image that you want to emphasize.</p>
+                                <p class="TableText">
+                                    <img src="../../Images/loop_example.png" />
+                                </p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableText">
+                                    <img src="../../Images/new_button_mode_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Opens a submenu, which lets you create a button that is used to perform an action.</p>
+                                <p>
+                                    <MadCap:dropDown>
+                                        <MadCap:dropDownHead>
+                                            <MadCap:dropDownHotspot>button mode&#160;</MadCap:dropDownHotspot>
+                                        </MadCap:dropDownHead>
+                                        <MadCap:dropDownBody>
+                                            <p>  Lets you create a button with text (e.g., "Click Me"). <MadCap:conditionalText MadCap:conditions="Products.Mimic">You can double-click the button to open the Button Properties dialog, which lets you assign an action to a button (e.g., go to next frame) that occurs when a user clicks the button in the final movie. You can also use the appropriate tabs in that dialog (Mouse Hover and Mouse Pressed) to change the look of the button when the mouse hovers over it or presses it.</MadCap:conditionalText></p>
+                                        </MadCap:dropDownBody>
+                                    </MadCap:dropDown>
+                                </p>
+                                <p>
+                                    <MadCap:dropDown>
+                                        <MadCap:dropDownHead>
+                                            <MadCap:dropDownHotspot>rollover caption mode</MadCap:dropDownHotspot>
+                                        </MadCap:dropDownHead>
+                                        <MadCap:dropDownBody>
+                                            <p>   Lets you create a rollover caption. This is an effect where you designate an area on the frame for the user to hover the mouse over. When the user does this, a caption with text that you provide appears on the frame. </p>
+                                        </MadCap:dropDownBody>
+                                    </MadCap:dropDown>
+                                </p>
+                                <p>
+                                    <MadCap:dropDown>
+                                        <MadCap:dropDownHead>
+                                            <MadCap:dropDownHotspot>typing box mode  </MadCap:dropDownHotspot>
+                                        </MadCap:dropDownHead>
+                                        <MadCap:dropDownBody>
+                                            <p>Lets you create an animated typing box. When you record a movie, <MadCap:variable name="Products.Mimic" /> captures any typing actions that you perform on screen. This typing is therefore animated in the movie output. In other words, each letter of the content is typed as the user watches it. Not only are these animated text boxes added automatically when you record movies, but you can also add them manually when you edit the movie. </p>
+                                        </MadCap:dropDownBody>
+                                    </MadCap:dropDown>
+                                </p>
+                                <p>
+                                    <MadCap:dropDown>
+                                        <MadCap:dropDownHead>
+                                            <MadCap:dropDownHotspot>input box mode&#160;  </MadCap:dropDownHotspot>
+                                        </MadCap:dropDownHead>
+                                        <MadCap:dropDownBody>
+                                            <p>Lets you create an input box. If you want the user to enter text at a certain frame in the movie, you can accomplish this by adding an input box. <MadCap:conditionalText MadCap:conditions="Products.Mimic">You can then enter the exact content that you want the user to type. You can also format the text, as well as specify captions and actions based on the user's input.</MadCap:conditionalText></p>
+                                        </MadCap:dropDownBody>
+                                    </MadCap:dropDown>
+                                </p>
+                                <p>
+                                    <MadCap:dropDown>
+                                        <MadCap:dropDownHead>
+                                            <MadCap:dropDownHotspot>input success caption mode </MadCap:dropDownHotspot>
+                                        </MadCap:dropDownHead>
+                                        <MadCap:dropDownBody>
+                                            <p> Lets you create an input success caption. After you add an input box to a frame, you can add a success caption to accompany it. This is a message that displays to users after they complete the input box successfully.</p>
+                                        </MadCap:dropDownBody>
+                                    </MadCap:dropDown>
+                                </p>
+                                <p>
+                                    <MadCap:dropDown>
+                                        <MadCap:dropDownHead>
+                                            <MadCap:dropDownHotspot>input failure caption mode</MadCap:dropDownHotspot>
+                                        </MadCap:dropDownHead>
+                                        <MadCap:dropDownBody>
+                                            <p>  Lets you create an input failure caption. After you add an input box to a frame, you can add a failure caption to accompany it. This is a message that displays to users if they fail to complete the input box successfully within the specified number of attempts.</p>
+                                        </MadCap:dropDownBody>
+                                    </MadCap:dropDown>
+                                </p>
+                                <p>
+                                    <MadCap:dropDown>
+                                        <MadCap:dropDownHead>
+                                            <MadCap:dropDownHotspot>input hint caption mode </MadCap:dropDownHotspot>
+                                        </MadCap:dropDownHead>
+                                        <MadCap:dropDownBody class="Final">
+                                            <p> Lets you create an input hint caption. After you add an input box to a frame, you can add a hint caption to accompany it. This is a message that displays to users if they hover over the input box for help.</p>
+                                        </MadCap:dropDownBody>
+                                    </MadCap:dropDown>
+                                </p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">
+                                    <img src="../../Images/new_effect_mode_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Opens a submenu, which lets you create one of the following. </p>
+                                <p>
+                                    <MadCap:dropDown>
+                                        <MadCap:dropDownHead>
+                                            <MadCap:dropDownHotspot>shade effect</MadCap:dropDownHotspot>
+                                        </MadCap:dropDownHead>
+                                        <MadCap:dropDownBody>
+                                            <p>   The area inside the shape is clear, while the area outside the shape is shaded.<MadCap:conditionalText MadCap:conditions="Products.Mimic"> The shade color is based on the color selected in the Appearance tab of the Frame Properties dialog. From that dialog, you can change the color, as well as the darkness of the shading. If you want to create this effect with other closed-off shapes (e.g., oval, polygon), first draw the shape in the frame, then enable the shade effect from the Image Effects tab in the properties dialog for that object.</MadCap:conditionalText></p>
+                                        </MadCap:dropDownBody>
+                                    </MadCap:dropDown>
+                                </p>
+                                <p>
+                                    <MadCap:dropDown>
+                                        <MadCap:dropDownHead>
+                                            <MadCap:dropDownHotspot>gray scale effect&#160;   </MadCap:dropDownHotspot>
+                                        </MadCap:dropDownHead>
+                                        <MadCap:dropDownBody>
+                                            <p>The area inside the shape is displayed in its original color, while the area outside the shape is displayed in gray. <MadCap:conditionalText MadCap:conditions="Products.Mimic">If you want to create this effect with other closed-off shapes (e.g., oval, polygon), first draw the shape in the image, then enable the gray scale effect from the Image Effects tab in the properties dialog for that object.</MadCap:conditionalText></p>
+                                        </MadCap:dropDownBody>
+                                    </MadCap:dropDown>
+                                </p>
+                                <p>
+                                    <MadCap:dropDown>
+                                        <MadCap:dropDownHead>
+                                            <MadCap:dropDownHotspot>blur effect &#160;</MadCap:dropDownHotspot>
+                                        </MadCap:dropDownHead>
+                                        <MadCap:dropDownBody>
+                                            <p>  The area inside the shape is clear, while the area outside the shape is blurred. <MadCap:conditionalText MadCap:conditions="Products.Mimic">You can change the amount of the blurriness from the Frame Properties dialog. If you want to create this effect with other closed-off shapes (e.g., oval, polygon), first draw the shape in the frame, then enable the blur effect from the Image Effects tab in the properties dialog for that object.</MadCap:conditionalText></p>
+                                        </MadCap:dropDownBody>
+                                    </MadCap:dropDown>
+                                </p>
+                                <p>
+                                    <MadCap:dropDown>
+                                        <MadCap:dropDownHead>
+                                            <MadCap:dropDownHotspot>blur-inside effect &#160;</MadCap:dropDownHotspot>
+                                        </MadCap:dropDownHead>
+                                        <MadCap:dropDownBody>
+                                            <p class="TableText">
+                                                <MadCap:snippetText src="../UIElements/BlurInsideEffectOption.flsnp" />
+                                            </p>
+                                        </MadCap:dropDownBody>
+                                    </MadCap:dropDown>
+                                </p>
+                                <p>
+                                    <MadCap:dropDown>
+                                        <MadCap:dropDownHead>
+                                            <MadCap:dropDownHotspot>zoom effect  </MadCap:dropDownHotspot>
+                                        </MadCap:dropDownHead>
+                                        <MadCap:dropDownBody class="Final">
+                                            <p>The area inside the original rectangle is enlarged and displayed in another rectangle that is larger and seemingly closer to the user (a three-dimensional effect).<MadCap:conditionalText MadCap:conditions="Products.Mimic"> You can adjust the zoom settings from the properties dialog for that object.</MadCap:conditionalText></p>
+                                        </MadCap:dropDownBody>
+                                    </MadCap:dropDown>
+                                </p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableText">
+                                    <img src="../../Images/additional_shapes_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Opens a submenu that lets you create one of the following.</p>
+                                <p>
+                                    <MadCap:dropDown>
+                                        <MadCap:dropDownHead>
+                                            <MadCap:dropDownHotspot>
+                                                <img src="../../Images/new_rectangle_mode_btn2.png" />&#160;rectangle mode   </MadCap:dropDownHotspot>
+                                        </MadCap:dropDownHead>
+                                        <MadCap:dropDownBody>
+                                            <p>Converts the cursor to Rectangle mode, which lets you create a square or rectangle shape by clicking in the frame and dragging in any direction. When you release the cursor, the shape is created. </p>
+                                            <p>
+                                                <img src="../../Images/rectangle_example.png" />
+                                            </p>
+                                        </MadCap:dropDownBody>
+                                    </MadCap:dropDown>
+                                </p>
+                                <p>
+                                    <MadCap:dropDown>
+                                        <MadCap:dropDownHead>
+                                            <MadCap:dropDownHotspot>
+                                                <img src="../../Images/new_oval_mode_btn.png" /> oval mode&#160;   </MadCap:dropDownHotspot>
+                                        </MadCap:dropDownHead>
+                                        <MadCap:dropDownBody>
+                                            <p>Converts the cursor to Oval mode, which lets you create a circle or oval shape by clicking in the frame and dragging in any direction. When you release the cursor, the shape is created.</p>
+                                            <p>
+                                                <img src="../../Images/oval_example.png" />
+                                            </p>
+                                        </MadCap:dropDownBody>
+                                    </MadCap:dropDown>
+                                </p>
+                                <p>
+                                    <MadCap:dropDown>
+                                        <MadCap:dropDownHead>
+                                            <MadCap:dropDownHotspot>
+                                                <img src="../../Images/new_polygon_mode_btn2.png" />&#160;polygon mode  </MadCap:dropDownHotspot>
+                                        </MadCap:dropDownHead>
+                                        <MadCap:dropDownBody>
+                                            <p>Converts the cursor to Polygon mode, which lets you create a closed plane shape bounded by three or more line segments. After you select this button, you can click anywhere in the frame to identify the starting point for the shape. When you move the cursor, a straight line segment is drawn. If you click the left mouse button, it signifies the end of that line segment and the start of another line segment. When you move the cursor, another straight line segment is drawn. When you double-click, a final line segment joins your starting and ending points, thus closing off the shape.</p>
+                                            <p>
+                                                <img src="../../Images/polygon_example.png" />
+                                            </p>
+                                        </MadCap:dropDownBody>
+                                    </MadCap:dropDown>
+                                </p>
+                                <p>
+                                    <MadCap:dropDown>
+                                        <MadCap:dropDownHead>
+                                            <MadCap:dropDownHotspot>
+                                                <img src="../../Images/new_polyline_mode_btn.png" />&#160;polyline mode  </MadCap:dropDownHotspot>
+                                        </MadCap:dropDownHead>
+                                        <MadCap:dropDownBody>
+                                            <p>Converts the cursor to Polyline mode, which lets you create a straight or angled line with an arrow at the end (which you can change or remove by using the Polyline Properties dialog). After you select this button, you can click anywhere in the frame to identify the starting point for the line. When you move the cursor, a straight line segment is drawn. If you click the left mouse button, it signifies the end of that line segment and the start of another line segment. When you move the cursor, another straight line segment is drawn. You can identify the end of the line by double-clicking.</p>
+                                            <p>
+                                                <img src="../../Images/line_example4.png" />
+                                            </p>
+                                        </MadCap:dropDownBody>
+                                    </MadCap:dropDown>
+                                </p>
+                                <p>
+                                    <MadCap:dropDown>
+                                        <MadCap:dropDownHead>
+                                            <MadCap:dropDownHotspot>
+                                                <img src="../../Images/new_cursor_mode_btn.png" />&#160;cursor mode  </MadCap:dropDownHotspot>
+                                        </MadCap:dropDownHead>
+                                        <MadCap:dropDownBody class="Final">
+                                            <p>Converts the cursor to Cursor mode, which lets you add a cursor bitmap to the frame by clicking in the frame and dragging in any direction. When you release the mouse button, a cursor bitmap is added within a shaded oval shape. <MadCap:conditionalText MadCap:conditions="Products.Mimic">You can change the cursor type and adjust the color and transparency of the oval background from the Cursor Properties dialog. You can also use the Cursor Properties dialog to add animation to the cursor (causing it to move), and you can use the "Set Animation Trajectory" button <img src="../../Images/animation_trajectory_btn.png" class="ReduceButtonSize" /> to determine where the cursor moves.</MadCap:conditionalText></p>
+                                            <p>
+                                                <img src="../../Images/cursor_example.png" style="width: 54px;height: 49px;" />
+                                            </p>
+                                        </MadCap:dropDownBody>
+                                    </MadCap:dropDown>
+                                </p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">
+                                    <img src="../../Images/insert_sound_btn1.png" alt="" title="" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <MadCap:snippetBlock src="../UIElements/InsertSound.flsnp" />
+                            </td>
+                        </tr>
+                        <tr MadCap:conditions="Products.Mimic,Products.MovieSync" class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                                <p class="TableText">
+                                    <img src="../../Images/animation_trajectory_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                                <p class="TableText">Lets you determine the trajectory (path) of an object. For example, if you have added a cursor to the frame, you can click this button and then drag a path from the cursor to its destination on the frame. When you view the final movie, the object will move along the path that you created.</p>
+                            </td>
+                        </tr>
+                        <tr MadCap:conditions="Products.Mimic" class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">
+                                    <img src="../../Images/group_selected_items_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">This button is enabled if you have selected more than one object. You can group multiple objects into an object group, which then acts as a single object. And at any point, you can ungroup the objects so that they are separate once again.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                            <td class="TableStyle-BasicAlternateRows-BodyB-Regular-LightRows">
+                                <p class="TableText">
+                                    <img src="../../Images/issue_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-BasicAlternateRows-BodyA-Regular-LightRows">
+                                <p class="TableText">If you have created an object that requires an action (such as a button or input box), or if you have created a caption that requires a connection to an object (such as a rollover caption), this button displays the number of objects or captions on the frame that contain issues. If you click this button, a small dialog opens, displaying the number of missing actions, broken actions, unconnected captions, spelling errors, or miscellaneous actions. A similar icon will display on the object(s) in question. After you fix the issue, this button and the object icon will no longer display.</p>
+                                <p class="TableText">If an icon like this <img src="../../Images/unlinked_icon_mimic.png" /> is displayed on a button or input box, that means the object is not yet associated with an action. If that icon is displayed on a caption (e.g., rollover, input success), that means the caption is not yet connected to an object or input box. If an icon like this <img src="../../Images/broken_icon_mimic.png" class="ReduceButtonSize" /> is displayed on a button or input box, that means the action link for that object is broken and needs to be fixed.</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="201" MadCap:lastWidth="923">
+    <body>
+        <p>Topics are where you type your text and other content<MadCap:conditionalText MadCap:conditions="General.OnlineLive"> (see <MadCap:xref href="../../../Topics/About_Topics.htm">About Topics</MadCap:xref>)</MadCap:conditionalText>. If you come from the world of print publishing, you’ll probably be tempted at first to create really long topics—such as one topic for each chapter or even one topic for an entire PDF manual. And while Flare lets you create very long topics and there may be cases where you need to do that, for the most part, you want your topics to be smaller, digestible chunks of content that you can reuse for different outputs. One chapter in a PDF that you create from Flare will usually consist of several separate topics.</p>
+        <p>But don’t make your topics too short either. We’re not necessarily talking about single sentences or short paragraphs.</p>
+        <p>Think about a long magazine article. It sometimes has several subheadings throughout it break the article up into logical sections. That’s how topics are. It all comes back to content reuse and single-sourcing. By using smaller topics, you can reuse them in different outputs—print, online, and mobile.</p>
+    </body>
+</html>

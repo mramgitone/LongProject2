@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="129" MadCap:lastWidth="1221">
+    <body>
+        <p class="note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">For some proxies, you can specify which output types should support them. If an output type supports a particular proxy, the generated content is displayed in the output where the proxy was inserted. If an output type does not support a particular proxy, it is simply ignored when the output is generated. You can use the mc-output-support style property to change which output types support a proxy. <MadCap:conditionalText MadCap:conditions="General.OnlineLive,FlareGuides.FlareStylesGuide">See <MadCap:xref href="../../../Proxies/Using_Styles_to_Determine_Output_Support_for_Proxies.htm">Using Styles to Determine Output Support for Proxies</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

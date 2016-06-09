@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.MovieSync">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/PrintOnlyTopics/ComingSoonTitlePage.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/TitleMimic.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/PrintOnlyTopics/TitlePage.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TitleMimic.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/PrintOnlyTopics/Copyright.htm"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Copyright.flpgl" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/PrintOnlyTopics/PrintTOC.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TOC.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    PageType="first"
+    PageNumberFormat="lower-roman"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Welcome"
+    Link="/Content/Introduction_Topics/WelcomeMovieSync.htm"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumberReset="reset"
+    PageNumberFormat="decimal"
+    PageNumber="(multiple)"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    BreakType="chapter">
+    <TocEntry
+      Title="Getting_Help"
+      Link="/Content/PrintOnlyTopics/Getting_Help.htm"
+      BreakType="none"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="Touring the Workspace"
+    Link="/Content/Tour_of_the_Workspace/Touring_the_Workspace_MovieSync.htm"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false" />
+  <TocEntry
+    Title="Opening Movies"
+    Link="/Content/MovieSync_Steps/Opening_Mimic_Movies.htm"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue"
+    BreakType="chapter">
+    <TocEntry
+      Title="Changing the Old Movie Version"
+      Link="/Content/MovieSync_Steps/More/Changing_the_Old_Movie_Version.htm"
+      BreakType="none"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="Aligning Frames"
+    Link="/Content/MovieSync_Steps/Aligning_Frames_MovieSync.htm"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter" />
+  <TocEntry
+    Title="Viewing and Selecting Properties for Transfer"
+    Link="/Content/MovieSync_Steps/Viewing_and_Selecting_Properties_for_Transfer.htm"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter" />
+  <TocEntry
+    Title="Transferring Properties"
+    Link="/Content/MovieSync_Steps/Transferring_Properties.htm"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter" />
+  <TocEntry
+    Title="Saving Movies"
+    Link="/Content/MovieSync_Steps/Saving_Movies.htm"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter"></TocEntry>
+  <TocEntry
+    Title="Previewing Movies"
+    Link="/Content/MovieSync_Steps/More/Previewing_Movies_MovieSync.htm"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter" />
+  <TocEntry
+    Title="Viewing the Old Movie Version"
+    Link="/Content/MovieSync_Steps/More/Viewing_the_Old_Movie_Version.htm"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter" />
+  <TocEntry
+    Title="APPENDIX PDF Library"
+    Link="/Content/PDF_Guides/PDF_Guides.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Appendix.flpgl"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"></TocEntry>
+  <TocEntry
+    Title="PrintIndex"
+    Link="/Content/PrintOnlyTopics/PrintIndex.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Index.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    PageType="first"></TocEntry>
+</CatapultToc>

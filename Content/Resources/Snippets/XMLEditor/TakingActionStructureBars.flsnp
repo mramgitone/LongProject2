@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="411" MadCap:lastWidth="915" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <body>
+        <p>Not only do structure bars let you see the tags for content, but you can also perform numerous tasks by using them. If you right-click on a structure bar, a context menu opens. From the menu, you can select from several options to take action on the content associated with that structure bar.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">examples</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p class="ExampleHead">examples</p>
+                <p class="ExampleMiddleSection">If you want to delete an entire numbered list from a topic, you could right-click the <span class="Emphasis">&lt;ol&gt;</span> tag bar to the left of the content and select <span class="Emphasis">Delete</span> from the menu.</p>
+                <p class="Example">If you have a table with a table stylesheet applied to it, you can right-click on one of the <span class="Emphasis">&lt;tr&gt;</span> tags and select <span class="Emphasis">Row Style</span>. From the submenu you can then choose a pattern to overwrite the existing look for that row.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p>If you left-click on a structure bar, the corresponding content is selected in the editor. </p>
+        <p>Also, if you left-click on tag bars, you can drag them up or down. If you left-click on table column bars (in the span bar area), you can drag them left or right. In this way, the chunks of topic content can easily be repositioned. In addition, you can click on the borders between column and row bars and drag the mouse to resize individual columns and rows. <MadCap:conditionalText MadCap:conditions="Products.Contributor,Products.FlareOnlineOnly">See <MadCap:xref href="../../../Structure_Bars/Moving_Paragraphs_and_Content_with_Structure_Bars.htm">Moving Paragraphs and Content with Structure Bars</MadCap:xref>, <MadCap:xref href="../../../Tables/More_About_Tables/Moving_Table_Columns_and_Rows.htm">Moving Table Columns and Rows</MadCap:xref>, and <MadCap:xref href="../../../Tables/More_About_Tables/Resizing_Tables.htm">Resizing Tables</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

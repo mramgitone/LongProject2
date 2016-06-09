@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="251" MadCap:lastWidth="1122" MadCap:conditions="Products.AllProducts">
+    <head>
+        <link href="../../../../TableStyles/Simple.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>&#160;</p>
+        <table style="mc-table-style: url('../../../../TableStyles/Simple.css');margin-left: auto;margin-right: auto;caption-side: top;" class="TableStyle-Simple" cellspacing="0">
+            <col class="TableStyle-Simple-Column-Column1" />
+            <col class="TableStyle-Simple-Column-Column1" />
+            <col class="TableStyle-Simple-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-Simple-Body-Row1">
+                    <td class="TableStyle-Simple-BodyB-Column1-Row1"><a href="http://docs.madcapsoftware.com/FlareV11/FlareSourceControlGuide.pdf" target="_blank"><img src="../../../../Images/pdf_cover_source_control_guide.png" alt="" title="Source control is a process that allows you to store your project files in a central location and determine which individuals have access to those files. By using a system where individuals must &quot;check in&quot; and &quot;check out&quot; files to edit them, you can ensure that there are no file conflicts when many individuals are working on the same project (multi-authoring teams)." class="Hyperlinked" /></a>
+                    </td>
+                    <td class="TableStyle-Simple-BodyB-Column1-Row1"><a href="http://docs.madcapsoftware.com/FlareV11/FlareStylesGuide.pdf" target="_blank"><img src="../../../../Images/pdf_cover_styles_guide.png" alt="" title="This guide discusses styles and how they are used in Flare to control the look and behavior of your output." class="Hyperlinked" /></a>
+                    </td>
+                    <td class="TableStyle-Simple-BodyA-Column1-Row1"><a href="http://docs.madcapsoftware.com/FlareV11/FlareTablesGuide.pdf" target="_blank"><img src="../../../../Images/pdf_cover_tables_guide.png" alt="" title="This guide talks about the different elements of tables, and how to create and edit them in Flare." class="Hyperlinked" /></a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&#160;</p>
+    </body>
+</html>

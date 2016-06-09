@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor,Products.Flare,Products.Analyzer">
+    <body>
+        <p class="note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">In order to use the Equation Editor, you need to install the latest Java Runtime Environment (JRE). You can download the JRE from <a href="http://java.sun.com/javase/downloads/index.jsp" target="_blank" MadCap:excludeAction="unbind">http://java.sun.com/javase/downloads/index.jsp</a>.</p>
+    </body>
+</html>

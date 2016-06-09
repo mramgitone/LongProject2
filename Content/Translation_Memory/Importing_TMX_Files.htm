@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:fileTags="LingoTopicStatusNeeds.5 Needs to be Finished with Edits,LingoTopicStatusNeeds.6 Needs to be Sent for Review,LingoTopicStatusNeeds.7 Needs to be Tested in Online Output,LingoTopicStatusNeeds.8 Needs to be Tested in Print Output" MadCap:lastBlockDepth="11" MadCap:lastHeight="1348" MadCap:lastWidth="811">
+    <head><title></title>
+        <meta name="description" content="How to import TMX&#160;files from SDL&#160;Trados or Catalyst for use in a MadCap Lingo translation project." />
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="TranslationMemory" />
+            <MadCap:keyword term="TMX file;Importing:TMX files;TMX file:importing" />
+            <MadCap:concept term="FilterTM" />Importing TMX Files</h1>
+        <MadCap:snippetBlock src="../Resources/Snippets/NOTyetUPDATED.flsnp" />
+        <p>You can import<MadCap:conditionalText MadCap:conditions="Products.LingoOnlineOnly"> Translation Memory eXchange (TMX)</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="LingoGuides.LingoGettingStartedGuide"> TMX</MadCap:conditionalText> files from tools such as <MadCap:keyword term="SDL Trados" />Trados and <MadCap:keyword term="CATALYST" />CATALYST. This allows you to leverage all prior translations, whether or not they occurred in the same project or document.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to import tmx files</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                        <ul style="list-style-type: square;">
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon</span> <MadCap:snippetText src="../Resources/Snippets/UIElements/SelectTranslateRibbon.flsnp" /> In the <span class="Emphasis">TMX</span> section select <span class="Emphasis">Import TMX</span>. </p>
+                                <p MadCap:conditions="General.OnlineLive">
+                                    <MadCap:snippetBlock src="../Resources/Snippets/UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" />
+                                </p>
+                            </li>
+                            <li><span class="SetOffFirstLevel">Menu</span> Select <span class="Emphasis">Translate&gt;Import TMX</span>.</li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Translate Toolbar</span> Click <img src="../Resources/Images/import_tmx_btn.jpg" class="ReduceButtonSize" />.</p>
+                                <MadCap:snippetBlock src="../Resources/Snippets/UIElements/ToOpenTranslateToolbar.flsnp" />
+                            </li>
+                        </ul>
+                        <p>The Import TMX File dialog opens.</p>
+                    </li>
+                    <li>Click <img src="../Resources/Images/browse_ellipses.png" class="ReduceButtonSize" />.</li>
+                    <li>In the dialog that opens, navigate to the TMX file that you want to import, and double-click it.</li>
+                    <li>
+                        <p>(Optional) If you want to be informed of matching segments, click <span class="Emphasis">Check TMX for repeated segments</span>.</p>
+                        <p>If this option is selected, you will be informed if alternative or duplicate segments are found in your TM. Duplicate segments are not reimported.</p>
+                        <p>
+                            <img src="../Resources/Images/import_tmx_duplicate_alternate.png" class="MaxWidth100Percent">
+                            </img>
+                        </p>
+                        <MadCap:snippetBlock src="../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="LingoGuides.LingoTranslationGuide" />
+                        <p class="ExampleHead">example</p>
+                        <p class="ExampleMiddleSection">Let's say you have the text "This is a car." In your TM database, you already have this translated, using the word "coche" for "car." In the TMX file you are importing, the translation is much the same, except the word "carro" is used. Therefore, <MadCap:variable name="Products.Lingo" /> informs you that an alternative translation has been found.</p>
+                        <p class="Example">On the other hand, if the translation in the TMX file also uses the word "coche" in the translation, <MadCap:variable name="Products.Lingo" /> informs you that a duplicate translation has been found.</p>
+                        <p>If you do not select the option to check for repeated segments, the import process is faster. However, you are not informed of duplicate or alternate translations. Whether you select the option or not, the translations in the TMX file are added to the TM database.</p>
+                    </li>
+                    <li>(Optional) By default, the current database is shown in the <span class="Emphasis">Translation Memory</span> field. If you are working with other databases and want to use a different one instead, select it from this field. You might use this field, for example, if you forgot to change to the database you want before starting the import process.</li>
+                    <li>Click <span class="Emphasis">Start Import</span>. A message lets you know the results of the import.</li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/ClickOK.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:conceptLink term="TranslationMemory" />
+        </p>
+        <MadCap:snippetBlock src="../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="LingoGuides.LingoGettingStartedGuide,LingoGuides.LingoTranslationGuide" />
+    </body>
+</html>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="447" MadCap:lastWidth="743" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p class="ExampleHead">example</p>
+        <p class="ExampleMiddleSection">Let's say you have text hyperlinks that are shown in blue font with an underline. That may be fine for Target A, but let's say you want this style to appear in black font with no underline for Target B. The solution is to use a stylesheet medium.</p>
+        <p class="Example">Suppose Target A is using the "default" medium, where the blue underline properties are specified. With the properties for Target A already set, you now need to specify style properties for Target B. Therefore, in the Stylesheet Editor, instead of selecting the "default" medium, you can select another medium (e.g., the "print" medium) and change the properties for the style to black with no underline. It's the same stylesheet and the same style that you are working with. The only difference is that one medium is telling <MadCap:snippetText src="../AllProductVariables.flsnp" /> to display that content in blue with an underline, and the other medium is telling it to use black font with no underline. With Target A using the default medium and Target B using the other medium, the content will display appropriately in each output.</p>
+    </body>
+</html>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties conditions="Products.Mimic" fileTags="">
+    <ImageOverlay Profile="C:\Users\rmartinez\Documents\My Profiles\SharedImagesBorder.capro" ProfileHash="54db5c24cb8b652271c02c6580da0b7a" ScreenRectangle="2783,281,21,20">
+        <OriginalImage Folder="C:\Shared\Content\Resources\Images" FileName="" ImageScaleFactor="1.0" medium_print_EnableFormat="True" EdgeEffect="torn" Border="solid" BorderWidth="1" ComputedWidth="22" ComputedHeight="22" BackgroundColor="#ffffff" BorderColor="#000000" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" Right="0" Bottom="0" ExportFormat="png" JPEGQuality="80" EnableCropRectangle="true" CropRectangle="1,0,20,20">SUkqAJQCAACAPuBP8AQWDQeEQmFQuGQ2HQ+CwJ9wSIRWLReMQeJRSMgSPRmQPyRRh9SWORACykANqWAB+y8ASJ+AB9yOSvqaSUATedzp8z+ezgrUOaQKITeTw+UgUANmnTR+PuYvt+1CcSWpPt9PkAT+pSWuTyeFmyUWpQ+kRelgBrNdrVOZwK41quzp90B8vqs3SfzitTguF0uWaIT980mFOxjKAABogGaQZGEuZgJoABQdGCGYbEQlxrA+AARlZFSuWy+qzKoTOeX+g6/Da+hlYAN1VHYAB0oITNz/OgB6NxicBsLgAB4paWnNmoVKo1Wa1e9TmuV6e2GdWOyuJXbgGCgkAAGCQeQh8effutkKWXOxrgAPlNF2y3XCi3OcXm/XjpwL8rynLAMEABwlaOoAAGCgUgACocC28z0IWbxXD+AAJAkBoAAuI49gAakPvuoq/KMrbquyny7ROnAwRYAB0lyQoAHcdx5gAEQpEDCB8N+axQjaAASBcFwAFuWZegAFAVhmwgCgmDcZAaEyaQA/TXhIAx2JodpygAtZsGqZoACSJohgAbhpGkAAVC+SaEHvN7fmkTw0gAGwkCUiBlmFNJ5A6IDYQAsAABCexpgAGofSGh5lFwWwABcMRLoQe1KN+Z5NDIAAZB+ISd0ohhrmydLJBSE4LoYAwFAUABnGCXwABiMxOUnSqFmUSgv1gHof08eyGAoEAQMkdhwHBVFVAAZ5hmDOo2FChB62i35gEW2gaB4HyYqAyVuAAAgDgOABmGIYQACAOpVWhaSFlqQAmAAHIeB6AB/Xqhh/3wyQA32hgBX8ABjmIYYACWQBaIQemEt+g5VjvMtu4ghAqkTI6Fnni+F4jjTI4ueeM43kCLICEAD+AAQAAQAAAAAAAAAAAQQAAQAAABUAAAABAQQAAQAAABQAAAACAQMABAAAAFoDAAADAQMAAQAAAAUAAAAGAQMAAQAAAAIAAAARAQQAAQAAAAgAAAAVAQMAAQAAAAQAAAAWAQQAAQAAABQAAAAXAQQAAQAAAIwCAAAaAQUAAQAAAGIDAAAbAQUAAQAAAGoDAAAcAQMAAQAAAAEAAAAoAQMAAQAAAAIAAAA9AQMAAQAAAAIAAABSAQMAAQAAAAIAAAAAAAAACAAIAAgACAAAdwEA6AMAAAB3AQDoAwAA</OriginalImage>
+        <Shapes />
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <Variables />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

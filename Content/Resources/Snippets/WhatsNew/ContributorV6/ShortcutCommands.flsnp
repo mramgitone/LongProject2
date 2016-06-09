@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="631" MadCap:lastWidth="1137" MadCap:conditions="Products.Contributor">
+    <body>
+        <MadCap:snippetBlock src="ShortcutCommandsSummary.flsnp" />
+        <p>By pressing <span class="Emphasis">ALT+SHIFT+UP</span> or <span class="Emphasis">ALT+SHIFT+DOWN</span>, you can move one or more block items up or down.</p>
+        <p>In previous versions, this functionality was limited to a <span class="EmphasisItalic">single</span> block-level element, and you could access it in a context menu (e.g., right-clicking a structure bar and selecting Move&gt;Move Up or Move&gt;Move Down). Now that same functionality is available with these shortcuts.</p>
+        <p>With the new shortcut key implementation, you can now move <span class="EmphasisItalic">multiple</span> block-level elements up and down.  In addition, you can move these block items from one parent tag into another. However, you cannot use these commands to move list items outside of lists.</p>
+        <p MadCap:conditions="General.Future">If John is able to re-implement this, I may be able to keep the example below. Check back before the releasexxx</p>
+        <p class="ExampleHead" MadCap:conditions="General.Future">example</p>
+        <p class="ExampleMiddleSection" MadCap:conditions="General.Future">Let's say you have a multi-level list, like this:</p>
+        <p class="ExampleMiddleSection" MadCap:conditions="General.Future">
+            <img src="../../../Images/move_items_up1.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <p class="ExampleMiddleSection" MadCap:conditions="General.Future">You want to move two bullet items up into a numbered list.</p>
+        <p class="ExampleMiddleSection" MadCap:conditions="General.Future">
+            <img src="../../../Images/move_items_up2.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <p class="ExampleMiddleSection" MadCap:conditions="General.Future">
+            <img src="../../../Images/move_items_up3.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <p class="ExampleMiddleSection" MadCap:conditions="General.Future">So you select those two bullet items and press <span class="Emphasis">ALT+SHIFT+UP</span>. The items move from their &lt;ul&gt; parent tag up into the &lt;ol&gt; parent tag.</p>
+        <p class="Example" MadCap:conditions="General.Future">
+            <img src="../../../Images/move_items_up4.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+    </body>
+</html>

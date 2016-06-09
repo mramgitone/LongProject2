@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary
+  conditions="Products.MovieSync">
+  <GlossaryEntry
+    Terms="Copy (4) of New">
+    <Terms>
+      <Term>Collection</Term>
+    </Terms>
+    <Definition
+      Link="">A movie collection is a way to combine two or more individual movies into a group of related, linked movies. You might find this useful, for example, if you are creating a video tutorial for your users and want one lesson (i.e., movie) to smoothly lead into the next.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    Terms="Copy (25) of New">
+    <Terms>
+      <Term>Floating window</Term>
+    </Terms>
+    <Definition
+      Link="">A window that has been moved in the MovieSync interface and then "dropped" so that it "floats" in the interface, not being attached (or "docked") to any other elements.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    Terms="Copy (27) of New">
+    <Terms>
+      <Term>Layout</Term>
+    </Terms>
+    <Definition
+      Link="">A feature that lets you save different layouts (configurations) of the interface when you move windows around.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    Terms="Copy (28) of New">
+    <Terms>
+      <Term>Local toolbar</Term>
+    </Terms>
+    <Definition
+      Link="">A toolbar with shortcut buttons that is available in an active element.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    Terms="Copy (62) of New">
+    <Terms>
+      <Term>Drag Pane</Term>
+    </Terms>
+    <Definition
+      Link="">The area at the top-left of a window with a series of nine dots. You can easily move any of the windows in the interface, floating them anywhere in the workspace that you like. Just click on the Drag Pane area of the window, hold your mouse button, and drag/drop the window.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Object</Term>
+    </Terms>
+    <Definition
+      Link="">An element that you can add on top of a frame to enhance or explain areas of the frame (e.g., callouts), or to incorporate actions into the frame (e.g., buttons, cursor trajectories). Objects can be elements such as shapes, lines, cursors, buttons, or even other images. Each object is stored on its own "layer." This enables you to overlap objects and edit them individually.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Frame</Term>
+    </Terms>
+    <Definition
+      Link="">A bitmap (possibly containing objects) that serves as one piece of an overall movie. A Mimic movie is comprised of many individual frames linked together in the appropriate order (just like a movie that you watch in a theater).</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Movie</Term>
+    </Terms>
+    <Definition
+      Link="">A series of related bitmap images (with objects, actions, and movement) called "frames" that are viewed in sequence. The final effect is a movie that shows a series of actions that you recorded or have added manually. After you record a movie, a .mimov file is created. If you generate output from that file, another file is created (depending on the output format you select); this is the movie file that end users watch. You can also create a movie collection, which is simply a group of related movies (such as a video tutorial).</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Start Page</Term>
+    </Terms>
+    <Definition
+      Link="">A handy window that displays when you first launch MovieSync and remains open unless you choose to close it. This window consists of three sections (Recent Files, Getting Started, and News and Updates), which contain links to high-level tasks and information.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    Terms="Copy (26) of New">
+    <Terms>
+      <Term>Docked window</Term>
+    </Terms>
+    <Definition
+      Link="">A window that has been moved in the interface and then "dropped" so that it is attached (or "docked") to the sides, top, or bottom of the program interface. When you move the cursor over one of the square icons, semi-transparent shading shows where the window will be docked when you release the mouse button.</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

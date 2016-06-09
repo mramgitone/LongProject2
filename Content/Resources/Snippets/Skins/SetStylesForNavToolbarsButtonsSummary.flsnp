@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="69" MadCap:lastWidth="1061" MadCap:conditions="Products.Mimic">
+    <body>
+        <p>You can determine the style settings for elements of a navigation toolbar. These styles pertain to <MadCap:snippetText src="../Output/AIRFlashSilverlightOR.flsnp" />. This can be done for an entire collection or for a standalone movie. This can be done only in regular skins, not in embedded skins.</p>
+    </body>
+</html>

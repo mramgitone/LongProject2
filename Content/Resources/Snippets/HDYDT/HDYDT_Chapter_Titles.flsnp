@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="69" MadCap:lastWidth="1105">
+    <body>
+        <p>The PDF outputs in the Web Print Mobile template each consist of some front matter, three chapters, and some back matter. The chapter titles have all been designed to have a certain look. They also use autonumbering so that we can automatically add the word "CHAPTER" and increment chapter numbers.</p>
+    </body>
+</html>

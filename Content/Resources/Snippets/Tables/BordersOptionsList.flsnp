@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor" MadCap:lastBlockDepth="4" MadCap:lastHeight="538" MadCap:lastWidth="877">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Outer Borders </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Click in any of the individual fields (<span class="Emphasis">Left</span>, <span class="Emphasis">Right</span>, <span class="Emphasis">Top</span>, <span class="Emphasis">Bottom</span>) to specify the settings for the table border. If you click the down arrow to the right of all the fields, the settings will be applied to all of the border fields. When you click the down arrow or in one of the individual fields, a small popup displays. Use the lower-left area of the popup to enter a number for the thickness of the border. Use the lower-middle area to select a unit of measurement (e.g., point, pixel, centimeter) for the number you entered. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Styles/More_About_Styles_and_Style_Sheets/About_Units_of_Measurement.htm">About Units of Measurement</MadCap:xref>. </MadCap:conditionalText><MadCap:keyword term="Borders:color;Color:border" />Use the upper-right area to select a color for the border. And use the lower-right area to select a line type (e.g., solid, double, dashed) for the border. When you are finished, click <span class="Emphasis">OK</span> in the small popup.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Border Radius </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>These fields let you create rounded corners on the table<MadCap:conditionalText MadCap:conditions="Products.Flare"> (see <MadCap:xref href="../../../Paragraphs/Borders/Creating_Rounded_Borders.htm">Creating Rounded Borders</MadCap:xref>)</MadCap:conditionalText>. <MadCap:snippetText src="../Formatting/FormattingRoundedBordersTables1.flsnp"></MadCap:snippetText>&#160;<MadCap:snippetText src="../Formatting/FormattingBordersStep2.flsnp"></MadCap:snippetText><MadCap:snippetText src="../Formatting/FormattingRoundedBorders3.flsnp"></MadCap:snippetText><MadCap:snippetText src="../Formatting/FormattingRoundedBorders2.flsnp"></MadCap:snippetText><MadCap:snippetText src="../Formatting/FormattingRoundedBorders4.flsnp"></MadCap:snippetText><MadCap:snippetText src="../Formatting/FormattingRoundedBorders5.flsnp"></MadCap:snippetText> When you are finished, click <span class="Emphasis">OK</span> in the small popup.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Cell Border Collapse </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Select whether you want to collapse the cell borders in the table. If you collapse the cell borders, the row and cell borders of a table are joined in a single border. If you do not collapse the cell borders, the row and cell borders of a table are detached. If you use the border radius properties to create rounded borders, this must be set to "Do not collapse cell borders."</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Cell Border Spacing </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Use this area to increase or decrease the amount of spacing for a cell border (in pixels).</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+        </ul>
+    </body>
+</html>

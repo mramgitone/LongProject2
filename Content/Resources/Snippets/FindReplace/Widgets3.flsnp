@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare,Products.Lingo,Products.Align" MadCap:lastBlockDepth="2" MadCap:lastHeight="78" MadCap:lastWidth="928">
+    <body>
+        <p>To close the widget, click <img src="../../Images/close_btn3.png" alt="" title="" class="ReduceButtonSize" /> or press the <span class="Emphasis">Esc</span> key on your keyboard.</p>
+        <p MadCap:conditions="Products.Lingo,Products.Flare,Products.Contributor">The <span class="Emphasis">Quick Replace</span> widget is identical to the Quick Find widget. The only difference is that the replace fields are displayed as soon as you select the option.</p>
+    </body>
+    <head>
+    </head>
+</html>

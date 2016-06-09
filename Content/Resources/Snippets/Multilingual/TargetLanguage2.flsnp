@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo">
+    <body>
+        <p>Selecting a target language does not determine or limit which language(s) you can use for translating content, because you can add or remove languages at any time from the <MadCap:xref href="../../../UI_Elements/Project_Editor.htm">Project Editor</MadCap:xref>. Instead, selecting languages in this wizard accomplishes the following:</p>
+    </body>
+    <head>
+    </head>
+</html>

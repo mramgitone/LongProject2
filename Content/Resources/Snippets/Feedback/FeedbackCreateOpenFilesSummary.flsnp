@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.FeedbackExplorer" MadCap:lastBlockDepth="2" MadCap:lastHeight="83" MadCap:lastWidth="1070">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>One of the first tasks that must be performed in Feedback Explorer is to create or open a file that is configured with a target in MadCap Flare. You can initialize this task from Feedback Explorer or from within Flare. It is easiest to create and open the initial Feedback file from within Flare. The reason for this is that you only need to enter your Feedback license once. After entering the license key in Flare's Target Editor, simply click the button labeled <span class="Emphasis">Configure with Feedback Explorer Application</span>. </p>
+    </body>
+</html>

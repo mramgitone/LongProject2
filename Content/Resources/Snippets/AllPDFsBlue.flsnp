@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="69" MadCap:lastWidth="1492" MadCap:conditions="Products.AllProducts">
+    <body>
+        <p><MadCap:variable name="PDFTitlesBlue.CaptureCreatingImagesGuide" MadCap:conditions="CaptureGuides.CaptureCreatingImagesGuide" /><MadCap:variable name="PDFTitlesBlue.CaptureEditingImagesGuide" MadCap:conditions="CaptureGuides.CaptureEditingImagesGuide" /><MadCap:variable name="PDFTitlesBlue.CaptureGettingStartedGuide" MadCap:conditions="CaptureGuides.CaptureGettingStartedGuide" /><MadCap:variable name="PDFTitlesBlue.CaptureKeyFeaturesGuide" MadCap:conditions="CaptureGuides.CaptureKeyFeaturesGuide" /><MadCap:variable name="PDFTitlesBlue.CaptureShortcutsGuide" MadCap:conditions="CaptureGuides.CaptureShortcuts" /><MadCap:variable name="PDFTitlesBlue.CaptureTouringWorkspaceGuide" MadCap:conditions="CaptureGuides.CaptureTouringWorkspaceGuide" /><MadCap:variable name="PDFTitlesBlue.CaptureWhatsNewGuide" MadCap:conditions="CaptureGuides.CaptureWhatsNewGuide" /><MadCap:variable name="PDFTitlesBlue.PulseInstallationGuide" MadCap:conditions="PulseGuides.PulseInstallationGuide" /><MadCap:variable name="PDFTitlesBlue.PulseUserGuide" MadCap:conditions="PulseGuides.PulseUserGuide" />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare">
+    <body>
+        <ul>
+            <li><span class="SetOffFirstLevel">Convert variables to text </span>This option flattens any variables you have so that they become text, instead of separate files.</li>
+            <li><span class="SetOffFirstLevel">Convert snippets to text </span>This option flattens any snippets you have so that they become text, instead of separate files.</li>
+        </ul>
+    </body>
+</html>

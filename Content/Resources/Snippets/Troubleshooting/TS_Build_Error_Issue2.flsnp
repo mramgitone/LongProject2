@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="4" MadCap:lastHeight="2972" MadCap:lastWidth="1029">
+    <head>
+    </head>
+    <body>
+        <p class="Subheading2">Internal error: surrogate pair is invalid</p>
+        <p>When attempting to build a <MadCap:variable name="Outputs.WebHelp" /> target, Flare displays the following error message:</p>
+        <p class="Bold">Internal error: The surrogate pair (0xDBC0, OxDBC0) is invlaid. A high surrogate character (0xD800 - 0xDBFF) must always be paired with a low surrogate character (0xDC00 - 0xDFFF)</p>
+        <p class="Subheading2">Cause</p>
+        <p>Byte Order Mark (BOM) is required for certain characters to be read. The error occurs because the registry has not turned on the BOM for the compiler when the project is being built.</p>
+        <p class="Subheading2">Solution</p>
+        <p>This registry edit will turn on BOM for the compiler.</p>
+        <ol>
+            <li>Close the <MadCap:variable name="Products.Flare" /> project.</li>
+            <li>Open the <span class="Emphasis">Start</span> menu.</li>
+            <li>
+                <p>Click in the search field at the bottom of the <b>Start</b> menu and type <span style="font-family: monospace;">regedit</span>, then press <b>ENTER</b>. The Registry Editor opens.</p>
+                <p>
+                    <img src="../../Images/TS_building_projects_ex0.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>In the Registry Editor, expand the <b>HKEY_CURRENT_USER</b> file by clicking the arrow to the left.</li>
+            <li>Under the <b>HKEY_CURRENT_USER</b> file, more files will appear. Expand the <b>Software</b> file.</li>
+            <li>Expand the <span class="Emphasis">MadCap Software</span> file.</li>
+            <li>Select <span class="Emphasis">Flare</span>.</li>
+            <li>
+                <p>In the right pane of the Registry Editor, right-click any empty space and from the context menu select <span class="Emphasis">New&gt;String Value</span>.</p>
+                <p>
+                    <img src="../../Images/TS_building_projects_ex1.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>
+                <p>Rename the new string value that appears from "New Value #1" to <span class="Emphasis">SaveXmlWithBom</span> (be aware this entry is case sensitive).</p>
+                <p>
+                    <img src="../../Images/TS_building_projects_ex2.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <p>
+                    <img src="../../Images/TS_building_projects_ex3.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>
+                <p>Right-click the entry you have renamed and from the context menu, select <span class="Emphasis">Modify</span>. The Edit String dialog appears.</p>
+                <p>
+                    <img src="../../Images/TS_building_projects_ex4.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>
+                <p>In the Edit String dialog, locate the <span MadCap:createDate="2013-01-11T08:24:27.6060694-08:00" MadCap:creator="pstoecklein" MadCap:initials="PJS" MadCap:comment="This should have an Emphasis span tag on it. This should also be bold in the image callout below. And in that callout the word True should be in Courier New font, not bold." MadCap:editor="pstoecklein" MadCap:editDate="2013-01-11T08:25:10.6445311-08:00" class="Emphasis">Value data</span> field and  type <span class="TypedEntry">True</span>.</p>
+                <p>
+                    <img src="../../Images/TS_building_projects_ex5.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp">
+                </MadCap:snippetText>
+            </li>
+            <li>Close the Registry.</li>
+            <li>Open the project in <MadCap:variable name="Products.Flare" /> and build the <MadCap:variable name="Outputs.WebHelp" />.</li>
+        </ol>
+    </body>
+</html>

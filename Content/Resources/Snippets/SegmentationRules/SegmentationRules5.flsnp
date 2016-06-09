@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo">
+    <body>
+        <p>Following are some examples of how you might create segmentation rules:</p>
+        <p class="ExampleHead">example—do not break</p>
+        <p class="ExampleMiddleSection">Let's say you import a Word document and the segments look like this in the Translation Editor:</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/segmentation_rules2.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <p class="ExampleMiddleSection">Notice that the first two rows should be joined into a single segment, and the final three rows should be joined together as well.</p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="LingoGuides.LingoWhatsNewGuide" />
+        <p class="ExampleMiddleSection">To accomplish this with segmentation rules, you can do the following:</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/segmentation_rules3.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <p class="ExampleMiddleSection">With these rules in place, you can update the project and the segments will look like this:</p>
+        <p class="Example">
+            <img src="../../Images/segmentation_rules4.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="LingoGuides.LingoWhatsNewGuide" />
+        <MadCap:snippetBlock src="ExampleBreak.flsnp" />
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="LingoGuides.LingoWhatsNewGuide" />
+        <p class="ExampleHead">example—do not break <span style="font-size: 0.85em;">(</span>using regular expressions<span style="font-size: 0.85em;">)</span></p>
+        <p class="ExampleMiddleSection">Let's say you import a Word document and the segments look like this in the Translation Editor:</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/segmentation_rules8.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="LingoGuides.LingoWhatsNewGuide" />
+        <p class="ExampleMiddleSection">To correct these breaks, you can create a segmentation rule like this:</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/segmentation_rules9.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <p class="ExampleMiddleSection">With this rule in place, you can update the project and the segments will look like this:</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/segmentation_rules10.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <p class="ExampleMiddleSection">We can edit the rule so that Lingo does not break segments when Vol. or vol. is followed by a number. But if it is followed by a character, it will break. To accomplish this, we can edit the segmentation rule as shown here:</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/segmentation_rules11.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="LingoGuides.LingoWhatsNewGuide" />
+        <p class="ExampleMiddleSection">The modified rule tells Lingo to avoid breaking a segment when it finds Vol. or vol. followed by a number, including occasions when a space exists before the number. With this rule altered, you can update the project and the segments will look like this:</p>
+        <p class="Example">
+            <img src="../../Images/segmentation_rules12.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <p class="ExampleHead">example—advanced segmentation rules</p>
+        <p class="Example" MadCap:conditions="General.Future">xxx</p>
+    </body>
+</html>

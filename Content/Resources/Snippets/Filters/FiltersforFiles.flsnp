@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="1" MadCap:lastHeight="47" MadCap:lastWidth="1003" MadCap:conditions="Products.Lingo">
+    <body>If you want to filter the translated files, you can create a file type filter. Use the <span class="Emphasis">Filter</span> drop-down to select an existing filter, or select <span class="Emphasis">Create New</span> to create a new one. You can add file type filters to XML, Word, or text files.</body>
+    <head>
+    </head>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="67" MadCap:lastWidth="1195">
+    <body>
+        <p class="FirstPageOfChapter">Slideshows are supported in <MadCap:variable name="Outputs.HTML5" />, <MadCap:variable name="Outputs.WebHelp" />, <MadCap:variable name="Outputs.WebHelp Plus" />, <MadCap:variable name="Outputs.WebHelpAIR" />, <MadCap:variable name="Outputs.DotNetHelp" />, and <MadCap:variable name="Outputs.HTMLHelp" />.</p>
+    </body>
+</html>

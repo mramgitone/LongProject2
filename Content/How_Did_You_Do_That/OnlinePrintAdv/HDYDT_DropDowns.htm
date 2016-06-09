@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.FlareWebHelp" MadCap:lastBlockDepth="10" MadCap:lastHeight="6294" MadCap:lastWidth="902">
+    <head>
+    </head>
+    <body>
+        <h1>
+            <img src="../../Resources/Images/How.png" MadCap:conditions="General.OnlineLive" /><span class="HDYDT">How Did You Do That?</span> Drop-Downs</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Banners/Flare/HDYDT/OnlinePrint.flsnp" />
+        <p>Creating drop-downs is quite easy in Flare. It's just a matter of selecting the content that you want to be in the drop-down (both the header and the content below) and clicking a button or two. See <MadCap:xref href="../../Nav_Links/Drop_Down_Text/About_Drop_Down_Text.htm">About Drop-Down Text</MadCap:xref>.</p>
+        <p>In this template, we used styles to make some adjustments to the look of drop-downs.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>style properties</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Here are some of the main properties that we adjusted for our styles:</p>
+                <ul>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Border </span>We added borders to the bottom of drop-downs to make it easier for the reader to distinguish one drop-down from another when there are many of them in row. We also created a style class that displays the final drop-down in a series without a bottom border.</p>
+                        <p>
+                            <img src="../../Resources/Images/hdydt_dropdowns2.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Icons </span>We associated custom icons with the drop-downs to distinguish first-level drop-downs from second-level drop-downs. Furthermore, we used multiple icons to display the drop-downs when they are expanded and collapsed.</p>
+                        <p>
+                            <img src="../../Resources/Images/hdydt_dropdowns4.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Hover Color </span>We styled the drop-down hotspot so that it shows a different color when users hover over it.</p>
+                        <p>
+                            <img src="../../Resources/Images/hdydt_dropdowns11.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>first-level drop-downs</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>We used the parent drop-down style for first-level drop-downs.</p>
+                <p>
+                    <img src="../../Resources/Images/hdydt_dropdowns3.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <ol>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/DoOneOfTheFollowing.flsnp" />
+                        </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>use the stylesheet editor <span class="EightyFiveEM">(</span>beginners<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol class="LowerAlpha">
+                                    <li>
+                                        <p>Open a stylesheet, and at the top of the Stylesheet Editor, click in the <span class="Emphasis">Medium</span> drop-down and select <span class="Emphasis">default</span>.</p>
+                                        <p>The online output is going to use the default settings, so that's where we're making our changes. See <MadCap:xref href="../../Styles/Mediums/About_Stylesheet_Mediums.htm">About Stylesheet Mediums</MadCap:xref>.</p>
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/StylesMakeSureSimplifiedViewButtonShown.flsnp" />
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/FilterDynamicEffectsStylesStep.flsnp" />
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">MadCap|dropDown</span> style.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/SelectShowPropertyGroupsStep.flsnp" />
+                                    </li>
+                                    <li>
+                                        <p>In the <span class="Emphasis">Properties</span> section, expand the <span class="Emphasis">Box</span> group and choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_dropdowns6.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>Expand the <span class="Emphasis">Unclassified</span> group, scroll down, and click in the cell to the right of the <span class="Emphasis">mc-closed-image</span> property. Select <span class="Emphasis">[Browse for Image]</span> and use the dialog to find and select an image you want to use. This is the image that is used when the drop-down is in a closed (or collapsed) state. In our template, we selected an image called "DropDownClosed" that we stored in the Resources/Images subfolder of the Content Explorer.</li>
+                                    <li>Scroll down more in the Unclassified group and click in the cell to the right of the <span class="Emphasis">mc-open-image</span> property. Select <span class="Emphasis">[Browse for Image]</span> and use the dialog to find and select an image you want to use. This is the image that is used when the drop-down is in an open (or expanded) state. In our template, we selected an image called "DropDownOpen" that we stored in the Resources/Images subfolder of the Content Explorer.</li>
+                                    <li>Now you need to give the first-level drop-down a bottom border. On the left side of the Stylesheet Editor,select the <span class="Emphasis">MadCap|dropDownBody</span> style.</li>
+                                    <li>
+                                        <p>In the <span class="Emphasis">Properties</span> section, expand the <span class="Emphasis">Border</span> group and choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_dropdowns7.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>Next, let's account for the final drop-downs that we don't want to have borders. On the left side of the Stylesheet Editor,select the <span class="Emphasis">MadCap|dropDownBody</span> style.</li>
+                                    <li>In the local toolbar, click <span class="Emphasis">Add Class</span>.</li>
+                                    <li>Type a name for the new style class (we named ours "Final") and click <span class="Emphasis">OK</span>.</li>
+                                    <li>
+                                        <p>With that new style class selected, expand the <span class="Emphasis">Border</span> group and choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_dropdowns8.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>And finally, you need to give a unique look to the drop-down link, including a different color when users hover over it. On the left side of the Stylesheet Editor,select the <span class="Emphasis">MadCap|dropDownHotspot</span> style.</li>
+                                    <li>
+                                        <p>In the <span class="Emphasis">Properties</span> section, expand the <span class="Emphasis">Font</span> group and choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_dropdowns9.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>Now expand the <span class="Emphasis">MadCap|dropDownHotspot</span> style, and then expand <span class="Emphasis">(Pseudo Classes)</span> under that.</li>
+                                    <li>Select <span class="Emphasis">hover</span>.</li>
+                                    <li>
+                                        <p>In the <span class="Emphasis">Properties</span> section, expand the <span class="Emphasis">Font</span> group and choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_dropdowns10.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>get the css <span class="EightyFiveEM">(</span>advanced users<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p>Enter this in the default medium in the stylesheet (replacing the example images with your own):</p>
+                                <div class="Indent5Percent">
+                                    <p class="Style">MadCap|dropDown</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-bottom: </span><span class="StyleValue">6px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-top: </span><span class="StyleValue">6px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">mc-closed-image: </span><span class="StyleValue">url('../Images/DropDownClosed.png');</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">mc-open-image: </span><span class="StyleValue">url('../Images/DropDownOpen.png');</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                                <div class="Indent5Percent">
+                                    <p class="Style">MadCap|dropDownBody</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">border-bottom: </span><span class="StyleValue">solid 1px#bed230;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                                <div class="Indent5Percent">
+                                    <p class="Style">MadCap|dropDownBody.Final</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">border-bottom: </span><span class="StyleValue">0px;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                                <div class="Indent5Percent">
+                                    <p class="Style">MadCap|dropDownHotspot</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">color: </span><span class="StyleValue">#404040;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">font-size: </span><span class="StyleValue">0.9em;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">font-weight: </span><span class="StyleValue">bold;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                                <div class="Indent5Percent">
+                                    <p class="Style">MadCap|dropDownHotspot:hover</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">color: </span><span class="StyleValue">#bed230;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">font-weight: </span><span class="StyleValue">bold;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                    <li>Now that you've got your styles, you just need to apply them to the correct parts of the drop-down (see below).</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>second-level drop-downs</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>We created a style class to make second-level drop-downs indented.</p>
+                <p>
+                    <img src="../../Resources/Images/hdydt_dropdowns17.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <ol>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/DoOneOfTheFollowing.flsnp" />
+                        </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>use the stylesheet editor <span class="EightyFiveEM">(</span>beginners<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol class="LowerAlpha">
+                                    <li>
+                                        <p>Open a stylesheet, and at the top of the Stylesheet Editor, click in the <span class="Emphasis">Medium</span> drop-down and select <span class="Emphasis">default</span>.</p>
+                                        <p>The online output is going to use the default settings, so that's where we're making our changes. See <MadCap:xref href="../../Styles/Mediums/About_Stylesheet_Mediums.htm">About Stylesheet Mediums</MadCap:xref>.</p>
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/StylesMakeSureSimplifiedViewButtonShown.flsnp" />
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/FilterDynamicEffectsStylesStep.flsnp" />
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">MadCap|dropDown</span> style.</li>
+                                    <li>In the local toolbar, click <span class="Emphasis">Add Class</span>.</li>
+                                    <li>Type a name for the new style class (we named ours "SecondLevel") and click <span class="Emphasis">OK</span>.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/SelectShowPropertyGroupsStep.flsnp" />
+                                    </li>
+                                    <li>
+                                        <p>With the new style class selected, expand the <span class="Emphasis">Box</span> group and choose the settings shown in the following image:</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_dropdowns12.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                    <li>Expand the <span class="Emphasis">Unclassified</span> group, scroll down, and click in the cell to the right of the <span class="Emphasis">mc-closed-image</span> property. Select <span class="Emphasis">[Browse for Image]</span> and use the dialog to find and select an image you want to use. This is the image that is used when the drop-down is in a closed (or collapsed) state. In our template, we selected an image called "DropDownClosedSecondLevel" that we stored in the Resources/Images subfolder of the Content Explorer.</li>
+                                    <li>Scroll down more in the Unclassified group and click in the cell to the right of the <span class="Emphasis">mc-open-image</span> property. Select <span class="Emphasis">[Browse for Image]</span> and use the dialog to find and select an image you want to use. This is the image that is used when the drop-down is in an open (or expanded) state. In our template, we selected an image called "DropDownOpenSecondLevel" that we stored in the Resources/Images subfolder of the Content Explorer.</li>
+                                </ol>
+                                <p>You don't need to set anymore styles for the second-level, because the second level will inherit all of the other settings from the parent (first-level) styles.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>get the css <span class="EightyFiveEM">(</span>advanced users<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p>Enter this in the default medium in the stylesheet (replacing the example images with your own):</p>
+                                <div class="Indent5Percent">
+                                    <p class="Style">MadCap|dropDown.SecondLevel</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-left: </span><span class="StyleValue">10px;</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">mc-closed-image: </span><span class="StyleValue">url('../Images/DropDownClosedSecondLevel.png');</span>
+                                        </p>
+                                        <p class="TypedEntry"><span class="StyleProperty">mc-open-image: </span><span class="StyleValue">url('../Images/DropDownOpenSecondLevel.png');</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                    <li>Now that you've got your styles, you just need to apply them to the correct parts of the drop-down (see below).</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>drop-down styles for print</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Drop-downs only function in online output. However, the content is still shown in print-based output. Therefore, we made slight adjustments to the styles in the print medium to make them look the way we want.</p>
+                <p>
+                    <img src="../../Resources/Images/hdydt_dropdowns5.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <ol>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/DoOneOfTheFollowing.flsnp" />
+                        </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>use the stylesheet editor <span class="EightyFiveEM">(</span>beginners<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol class="LowerAlpha">
+                                    <li>
+                                        <p>Open a stylesheet, and at the top of the Stylesheet Editor, click in the <span class="Emphasis">Medium</span> drop-down and select <span class="Emphasis">print</span>.</p>
+                                        <p>The PDF output is going to use the print medium settings, so that's where we're making a few changes for properties that we don't want to inherit from the default medium. See <MadCap:xref href="../../Styles/Mediums/About_Stylesheet_Mediums.htm">About Stylesheet Mediums</MadCap:xref>.</p>
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/StylesMakeSureSimplifiedViewButtonShown.flsnp" />
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/FilterDynamicEffectsStylesStep.flsnp" />
+                                    </li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">MadCap|dropDownBody</span> style.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Styles/SelectShowPropertyGroupsStep.flsnp" />
+                                    </li>
+                                    <li>Expand the <span class="Emphasis">Border</span> group and set the <span class="Emphasis">border-bottom</span> property to <span class="Emphasis">0</span>, or <span class="Emphasis">none</span>.</li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">MadCap|dropDownHead</span> style.</li>
+                                    <li>Expand the <span class="Emphasis">Box</span> group and set the <span class="Emphasis">margin-top</span> property to <span class="Emphasis">16px</span>.</li>
+                                    <li>On the left side of the Stylesheet Editor, select the <span class="Emphasis">MadCap|dropDownHotspot</span> style.</li>
+                                    <li>Expand the <span class="Emphasis">Font</span> group and set the <span class="Emphasis">font-size</span> property to <span class="Emphasis">8pt</span>.</li>
+                                </ol>
+                                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you don't want the second-level drop-downs to be indented in PDF output, you can change the margin-left property to 0.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>get the css <span class="EightyFiveEM">(</span>advanced users<span class="EightyFiveEM">)</span></MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p>Enter this in the print medium in the stylesheet:</p>
+                                <div class="Indent5Percent">
+                                    <p class="Style">MadCap|dropDownBody</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">border-bottom: </span><span class="StyleValue">none;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                                <div class="Indent5Percent">
+                                    <p class="Style">MadCap|dropDownHead</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">margin-top: </span><span class="StyleValue">16px;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                                <div class="Indent5Percent">
+                                    <p class="Style">MadCap|dropDownHotspot</p>
+                                    <p class="Style">{</p>
+                                    <div class="Indent5Percent">
+                                        <p class="TypedEntry"><span class="StyleProperty">font-size: </span><span class="StyleValue">8pt;</span>
+                                        </p>
+                                    </div>
+                                    <p class="Style">}</p>
+                                </div>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                    <li>Now that you've got your styles, you just need to apply them to the correct parts of the drop-down (see below).</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>applying drop-down styles</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <ol>
+                    <li>Insert a drop-down. See <MadCap:xref href="../../Nav_Links/Drop_Down_Text/Inserting_Drop-Down_Text_into_Topics.htm">Inserting Drop-Down Text            </MadCap:xref>.</li>
+                    <li>In the local toolbar at the bottom of the XML Editor, click <img src="../../Resources/Images/toggle_show_blocks_btn.png" class="ReduceButtonSize" /> and <img src="../../Resources/Images/toggle_show_spans_btn.png" class="ReduceButtonSize" /> to turn on the structure bars. Block bars are displayed to the left of the content, and span bars are displayed above it. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../Structure_Bars/About_Structure_Bars.htm" MadCap:conditions="General.OnlineLive">About Structure Bars</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li>
+                        <p>Do the following to apply the appropriate styles to the different parts of a drop-down.</p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>to make a second-level drop-down</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol class="LowerAlpha">
+                                    <li>Right-click the MadCap:dropDown structure bar.</li>
+                                    <li>In the content menu, select Style Class.</li>
+                                    <li>
+                                        <p>Select the class you created for the second level. In this template, our class is named "MadCap:dropDown.SecondLevel."</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_dropdowns13.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_dropdowns14.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                </ol>
+                                <p>You don't need to apply a style to make a first-level drop-down, because when you insert a drop-down, it initially uses the parent style that we're using for the first level.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>to remove the bottom border</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p>You don't need to add the bottom border, because we've designed the styles so that they will all initially have a bottom border when first inserted. Use the following steps to remove the bottom border for the final drop-down in a sequence (i.e., the final first-level drop-down or the final second-level drop-down in a row).</p>
+                                <ol class="LowerAlpha">
+                                    <li>Right-click the MadCap:dropDownBody structure bar.</li>
+                                    <li>In the content menu, select Style Class.</li>
+                                    <li>
+                                        <p>Select the class you created to remove the bottom border. In this template, our class is named "MadCap:dropDownBody.Final."</p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_dropdowns15.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                        <p>
+                                            <img src="../../Resources/Images/hdydt_dropdowns16.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.Future">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">xxxWe also used drop-downs in the footer area of topics (within a master page). For more information, see <MadCap:xref href="HDYDT_Topic_Footer.htm" class="FirstPageOfChapter">How Did You Do That? Topic Footer</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

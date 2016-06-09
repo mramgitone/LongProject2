@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.FeedbackExplorer,Products.MovieSync,Products.Contributor,Products.Capture" MadCap:lastBlockDepth="2" MadCap:lastHeight="71" MadCap:lastWidth="845">
+    <body>
+        <p class="TableText">Opens the Save As dialog, which lets you save the active file under a different name and/or file type and to a particular location. The new file is not automatically displayed in the editor. <MadCap:conditionalText MadCap:conditions="Products.FeedbackExplorer">This option can be used to export Feedback data to a <MadCap:keyword term="CSV file" />CSV or TXT file. See <MadCap:xref href="../../../Feedback/Exporting/Exporting_Feedback_Data_to_Microsoft_Excel_(Using_a_CSV_File).htm">Exporting Feedback Data to Microsoft Excel (Using a CSV File)</MadCap:xref> and <MadCap:xref href="../../../Feedback/Exporting/Exporting_Feedback_Data_to_a_Tab_Delimited_Text_File.htm">Exporting Feedback Data to a Tab-Delimited Text File</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

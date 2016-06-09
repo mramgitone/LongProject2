@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="229" MadCap:lastWidth="1140" MadCap:conditions="Products.Contributor">
+    <body>
+        <p>You can use "before" and "after" pseudo classes on a style to insert content before or after an element. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../../Styles/Using_Styles_and_Stylesheets/Pseudo_Classes.htm">Pseudo Classes in Flare</MadCap:xref>.</MadCap:conditionalText></p>
+        <MadCap:snippetBlock src="../../Styles/BeforeAfterPseudoClassExample.flsnp" />
+    </body>
+</html>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="208" MadCap:lastWidth="923">
+    <body>
+        <p>This is a question you should try to answer before you begin creating files and content.</p>
+        <p>What kinds of output do you want to create? <MadCap:conditionalText MadCap:conditions="General.OnlineLive">To compare all of the output types that Flare offers, see <MadCap:xref href="../../../Output/Determining_the_Output_Type.htm">Determining the Output Type</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.Print">To compare all of the output types that Flare offers, see <MadCap:xref href="../../../Output/Determining_the_Output_Type_GS_Guide.htm">Determining the Output Type</MadCap:xref>.</MadCap:conditionalText></p>
+        <p>Do you need online output, print output, or both? How many different versions of online and print output do you need? How will you name your files to keep things consistent and organized? What kinds of snippets and variables will you need? What kinds of condition tags will you need? Will one author be working on the project or will multiple people be involved?</p>
+        <p>In other words, the more planning and preparation you do beforehand, the smoother your journey in Flare will be.</p>
+    </body>
+</html>

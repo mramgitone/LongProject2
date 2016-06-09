@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="2"
+  SkinType="WebHelp2"
+  ComponentType="MasterPage"
+  TemplateName="Fluid"
+  Comment="HTML5 Top Navigation skin"
+  EnableResponsiveOutput="True">
+  <Stylesheet>
+    <Resources>
+      <Resource
+        Name="flare_logo.png">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</Resource>
+    </Resources>
+    <Styles>
+      <Style
+        Name="Logo">
+        <Properties>
+          <Property
+            Name="BackgroundImage">url('flare_logo.png')</Property>
+        </Properties>
+      </Style>
+    </Styles>
+  </Stylesheet>
+  <Strings />
+</CatapultSkin>

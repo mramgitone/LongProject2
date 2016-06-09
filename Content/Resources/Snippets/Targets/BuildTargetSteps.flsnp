@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="8" MadCap:lastHeight="867" MadCap:lastWidth="789">
+    <head>
+    </head>
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                <ul class="FirstLevel">
+                    <li>
+                        <p><span class="SetOffFirstLevel">Ribbon </span>
+                            <MadCap:snippetText src="../UIElements/SelectProjectRibbon.flsnp" /> In the <span class="Emphasis">Build</span> section select <span class="Emphasis">Build Primary&gt;Build [name of target]</span>. </p>
+                        <MadCap:snippetBlock src="../UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" MadCap:conditions="General.OnlineLive" />
+                    </li>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Project Toolbar </span>Click the down arrow next to <img class="ReduceButtonSize" src="../../Images/build_primary_target_btn1.png" /> and from the menu select the name of the target.</p>
+                        <MadCap:snippetBlock src="../UIElements/ToOpenProjectToolbar.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel">Local Toolbar </span>In the local toolbar of the Target Editor click <img src="../../Images/build_btn2.png" class="ReduceButtonSize" />.</li>
+                    <li><span class="SetOffFirstLevel">Right-Click </span>In the Project Organizer, open the Targets folder, right-click on a target, and from the context menu select <span class="Emphasis">Build [name of target]</span>.</li>
+                </ul>
+            </li>
+            <li>After the output files finish generating, a message asks if you want to view the output. Click either <span class="Emphasis">Yes</span> or <span class="Emphasis">No</span>. If you select Yes, the generated output opens.</li>
+            <li>(Optional) If any errors or warnings occur during the process, you can save the report file by clicking <span class="Emphasis">Save Log</span> in the Build Progress dialog<MadCap:conditionalText MadCap:conditions="General.OnlineLive"> (see <MadCap:xref href="../../../UI_Elements/Build_Progress_Dialog.htm">Build Progress Dialog</MadCap:xref>)</MadCap:conditionalText>. You can then open the error report file from the Reports folder in the Project Organizer. You can also ignore warnings that you do not want to see anymore by right-clicking on them in the Warnings tab<MadCap:conditionalText MadCap:conditions="General.OnlineLive"> (see <MadCap:xref href="../../../Output/More_About_Building_Final_Output/Ignoring_Warnings_When_Building_Output.htm">Ignoring Warnings When Building Output</MadCap:xref>)</MadCap:conditionalText>.</li>
+            <li>(Optional) From the Build Progress dialog, you can view the output by clicking <span class="Emphasis">View Output</span>. </li>
+            <li>(Optional) If you want to open the Windows folder holding the output files that were generated, click <span class="Emphasis">Open Output Folder</span> in the Build Progress dialog.</li>
+        </ol>
+        <MadCap:dropDown MadCap:conditions="General.OnlineLive">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">warning</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="../Output/WarningBuildErrorsAVScan.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="47" MadCap:lastWidth="599">
+    <body>
+        <p>You can rename a style class after you have created it. However, you cannot rename existing parent tags, such as &lt;p&gt;, &lt;h1&gt;, or &lt;span&gt;.</p>
+    </body>
+</html>

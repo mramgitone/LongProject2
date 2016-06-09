@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="4" MadCap:lastHeight="197" MadCap:lastWidth="670">
+    <body>
+        <p>This tab allows you to add, edit, or remove segmentation rules using regular expressions.</p>
+        <p>
+            <img src="../../Images/segmentation_rules_adv3.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <ul>
+            <li>Select a language from the drop-down list. Use the <span MadCap:changes="1" class="Emphasis">Languages</span> tab to set the languages that appear in this list. After you select a language, you can add, edit, or remove rules associated with that language.</li>
+            <li>
+                <MadCap:annotation MadCap:createDate="2014-09-12T13:38:37.6392356-07:00" MadCap:creator="pstoecklein" MadCap:initials="PS" MadCap:comment="After beta, it might be a good idea to work in an example here." MadCap:editor="pstoecklein" MadCap:editDate="2014-09-12T13:38:47.9742690-07:00">You can also edit user-defined rules and default rules</MadCap:annotation>.</li>
+        </ul>
+    </body>
+    <head>
+        <MadCap:changeData>
+            <MadCap:BindChange MadCap:userName="pstoecklein" MadCap:initials="PS" MadCap:id="1" MadCap:timestamp="2014-09-12T13:38:17.5772296-07:00" />
+        </MadCap:changeData>
+    </head>
+</html>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>Lets users open the previous topic in the sequence. First, <MadCap:snippetText src="../AllProductVariables.flsnp" /> attempts to find the current topic in a browse sequence and navigate to the previous topic from there. If you do not have a browse sequence, <MadCap:snippetText src="../AllProductVariables.flsnp" /> looks at the position of the current topic in your table of contents (TOC) and opens the previous topic before it.</body>
+</html>

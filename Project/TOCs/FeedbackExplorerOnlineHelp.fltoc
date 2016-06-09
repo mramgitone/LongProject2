@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.FeedbackExplorer">
+  <TocEntry
+    Title="Welcome"
+    Link="/Content/Introduction_Topics/WelcomeFeedbackExplorer.htm"
+    MarkAsNew="False"
+    conditions=""></TocEntry>
+  <TocEntry
+    Title="What's New in this Version"
+    Link="/Content/Introduction_Topics/Whats_New_in_This_Version_Feedback_Explorer.htm" />
+  <TocEntry
+    Title="About MadCap Feedback"
+    Link="/Content/Feedback/About_MadCap_Feedback.htm" />
+  <TocEntry
+    Title="About the MadCap Feedback Explorer"
+    Link="/Content/Introduction_Topics/About_the_MadCap_Feedback_Explorer.htm" />
+  <TocEntry
+    Title="Key Features"
+    Link="/Content/Introduction_Topics/Key_Features_Feedback_Explorer.htm" />
+  <TocEntry
+    Title="Getting Set Up with MadCap Feedback"
+    Link="/Content/Getting_Set_Up/Getting_Set_Up_with_MadCap_Feedback.htm">
+    <TocEntry
+      Title="Getting Set Up with MadCap Feedback"
+      Link="/Content/Getting_Set_Up/Getting_Set_Up_with_MadCap_Feedback.htm" />
+    <TocEntry
+      Title="Installing MadCap Feedback Server"
+      Link="/Content/Getting_Set_Up/Installing_MadCap_Feedback_Server_Admin_and_Other_Components.htm" />
+    <TocEntry
+      Title="Installing SQL Server"
+      Link="/Content/SQL/Installing_SQL_Server.htm" />
+    <TocEntry
+      Title="Configuring the MadCap Feedback Server Admin"
+      Link="/Content/Getting_Set_Up/Configuring_and_Maintaining_the_MadCap_Feedback_Server_Admin.htm" />
+    <TocEntry
+      Title="Localizing Activation Success and Failure Pages"
+      Link="/Content/Getting_Set_Up/Localizing_Success_Failure_Pages.htm" />
+    <TocEntry
+      Title="Creating a Configured Feedback File"
+      Link="/Content/Getting_Set_Up/Creating_a_Configured_Feedback_File.htm" />
+    <TocEntry
+      Title="Opening a Configured Feedback File"
+      Link="/Content/Getting_Set_Up/Opening_a_Configured_Feedback_File.htm" />
+    <TocEntry
+      Title="Clearing the Feedback Database"
+      Link="/Content/Getting_Set_Up/Clearing_the_Feedback_Database.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Tour of the Feedback Explorer Workspace"
+    Link="/Content/Tour_of_the_Workspace/Touring_the_Feedback_Explorer_Workspace.htm">
+    <TocEntry
+      Title="Touring the Feedback Explorer Workspace"
+      Link="/Content/Tour_of_the_Workspace/Touring_the_Feedback_Explorer_Workspace.htm" />
+    <TocEntry
+      Title="Start Page"
+      Link="/Content/UI_Elements/Start_Page.htm" />
+    <TocEntry
+      Title="Menus"
+      Link="/Content/Tour_of_the_Workspace/Menus_Feedback_Explorer.htm" />
+    <TocEntry
+      Title="Standard Toolbar"
+      Link="/Content/Tour_of_the_Workspace/Standard_Toolbar_Feedback_Explorer.htm" />
+    <TocEntry
+      Title="Customizing the Workspace"
+      Link="/Content/Tour_of_the_Workspace/Customizing_the_Workspace.htm" />
+    <TocEntry
+      Title="More About Customizing the Feedback Explorer Workspace..."
+      Link="/Content/Tour_of_the_Workspace/More_About_Customizing_the_Workspace/Customizing_Column_Information.htm">
+      <TocEntry
+        Title="Customizing Column Information"
+        Link="/Content/Tour_of_the_Workspace/More_About_Customizing_the_Workspace/Customizing_Column_Information.htm" />
+      <TocEntry
+        Title="Window Layouts"
+        Link="/Content/Tour_of_the_Workspace/More_About_Customizing_the_Workspace/Window_Layouts.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Administrators and Reviewers"
+    Link="/Content/Administrators/About_Administrators.htm">
+    <TocEntry
+      Title="About Administrators and Reviewers"
+      Link="/Content/Administrators/About_Administrators.htm" />
+    <TocEntry
+      Title="Adding Administrators"
+      Link="/Content/Administrators/Adding_Administrators.htm" />
+    <TocEntry
+      Title="Editing Administrator Settings"
+      Link="/Content/Administrators/Editing_Administrator_Settings.htm" />
+    <TocEntry
+      Title="Removing Administrators"
+      Link="/Content/Administrators/Removing_Administrators.htm" />
+    <TocEntry
+      Title="Creating Manifests for Administrators"
+      Link="/Content/Administrators/Creating_Manifests_for_Administrators.htm" />
+    <TocEntry
+      Title="Editing Manifests"
+      Link="/Content/Administrators/Editing_Manifests.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Charts"
+    Link="/Content/Charts/Setting_Colors_for_Charts.htm">
+    <TocEntry
+      Title="Setting Colors for Charts"
+      Link="/Content/Charts/Setting_Colors_for_Charts.htm" />
+    <TocEntry
+      Title="Editing Colors for Charts"
+      Link="/Content/Charts/Editing_Colors_for_Charts.htm" />
+    <TocEntry
+      Title="Printing Charts"
+      Link="/Content/Printing/Printing.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Help System Name"
+    Link="/Content/Feedback/Adding_a_Help_System_Name.htm">
+    <TocEntry
+      Title="Adding a Help System Name"
+      Link="/Content/Feedback/Adding_a_Help_System_Name.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Comments"
+    Link="/Content/Feedback/Comments/About_Comments.htm">
+    <TocEntry
+      Title="About Comments"
+      Link="/Content/Feedback/Comments/About_Comments.htm" />
+    <TocEntry
+      Title="Specifying Whether New Comments Need to be Reviewed"
+      Link="/Content/Feedback/Comments/Specifying_Whether_New_Comments_Need_to_be_Reviewed.htm" />
+    <TocEntry
+      Title="Enabling Anonymous Comments"
+      Link="/Content/Feedback/Comments/Enabling_Anonymous_Comments.htm" />
+    <TocEntry
+      Title="Viewing Topic Comments"
+      Link="/Content/Feedback/Comments/Viewing_Topic_Comments.htm" />
+    <TocEntry
+      Title="Editing Comments"
+      Link="/Content/Feedback/Comments/Editing_Comments.htm" />
+    <TocEntry
+      Title="Accepting Pending Comments"
+      Link="/Content/Feedback/Comments/Accepting_Pending_Comments.htm" />
+    <TocEntry
+      Title="Hiding Comments"
+      Link="/Content/Feedback/Comments/Hiding_Comments.htm" />
+    <TocEntry
+      Title="Setting Comments to Pending Status"
+      Link="/Content/Feedback/Comments/Setting_Comments_to_Pending_Status.htm" />
+    <TocEntry
+      Title="Discarding Comments"
+      Link="/Content/Feedback/Comments/Discarding_Comments.htm" />
+    <TocEntry
+      Title="Replying to  Comments"
+      Link="/Content/Feedback/Comments/Replying_to_Community_Wide_Comments.htm" />
+    <TocEntry
+      Title="Viewing Active Users"
+      Link="/Content/Feedback/Viewing_Active_Users.htm" />
+    <TocEntry
+      Title="Editing Feedback Profiles"
+      Link="/Content/Feedback/Comments/Editing_Feedback_Profiles.htm" />
+    <TocEntry
+      Title="Customizing Email Notifications"
+      Link="/Content/Feedback/Comments/Customizing_Email_Notifications.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Exporting"
+    Link="/Content/Exporting/About_Exporting.htm">
+    <TocEntry
+      Title="About Exporting"
+      Link="/Content/Exporting/About_Exporting.htm" />
+    <TocEntry
+      Title="Exporting Feedback Data to Microsoft Excel (Using a CSV File)"
+      Link="/Content/Feedback/Exporting/Exporting_Feedback_Data_to_Microsoft_Excel_(Using_a_CSV_File).htm" />
+    <TocEntry
+      Title="Exporting Feedback Data to a Tab-Delimited Text File"
+      Link="/Content/Feedback/Exporting/Exporting_Feedback_Data_to_a_Tab_Delimited_Text_File.htm" />
+    <TocEntry
+      Title="Exporting Synonyms"
+      Link="/Content/Exporting/Exporting_Synonyms.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="IP Addresses"
+    Link="/Content/Excluded_IPs/Excluding_IP_Addresses.htm">
+    <TocEntry
+      Title="Excluding IP Addresses"
+      Link="/Content/Excluded_IPs/Excluding_IP_Addresses.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Other Statistics"
+    Link="/Content/Statistics/Viewing_Browser_Statistics.htm">
+    <TocEntry
+      Title="Viewing Browser Statistics"
+      Link="/Content/Statistics/Viewing_Browser_Statistics.htm" />
+    <TocEntry
+      Title="Resetting Browser Statistics"
+      Link="/Content/Statistics/Resetting_Browser_Statistics.htm" />
+    <TocEntry
+      Title="Viewing Operating System Statistics"
+      Link="/Content/Statistics/Viewing_Operating_System_Statistics.htm" />
+    <TocEntry
+      Title="Resetting Operating System Statistics"
+      Link="/Content/Statistics/Resetting_Operating_System_Statistics.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Search"
+    Link="/Content/Search/About_Search_FE.htm">
+    <TocEntry
+      Title="About Search"
+      Link="/Content/Search/About_Search_FE.htm" />
+    <TocEntry
+      Title="Viewing Used Search Phrases"
+      Link="/Content/Search/Viewing_Used_Search_Phrases.htm" />
+    <TocEntry
+      Title="Viewing Searches Without Results"
+      Link="/Content/Search/Viewing_Searches_Without_Results.htm" />
+    <TocEntry
+      Title="Resetting Search Phrase Counts"
+      Link="/Content/Search/Resetting_Search_Phrase_Counts.htm" />
+    <TocEntry
+      Title="Creating Synonyms to Enhance Search Results"
+      Link="/Content/Search/Synonyms/Creating_Synonyms_to_Enhance_Search_ResultsFE.htm" />
+    <TocEntry
+      Title="Exporting Synonyms"
+      Link="/Content/Exporting/Exporting_Synonyms.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Topics"
+    Link="/Content/Topics/Viewing_Topics_Opened_by_Users.htm">
+    <TocEntry
+      Title="Viewing Topics Opened by Users"
+      Link="/Content/Topics/Viewing_Topics_Opened_by_Users.htm" />
+    <TocEntry
+      Title="Resetting Topic Views"
+      Link="/Content/Topics/Resetting_Topic_Views.htm" />
+    <TocEntry
+      Title="Viewing Context-Sensitive Help Topics Opened by Users"
+      Link="/Content/Topics/Viewing_CSH_Topics_Opened_by_Users.htm" />
+    <TocEntry
+      Title="Resetting Context-Sensitive Help Calls"
+      Link="/Content/Topics/Resetting_CSH_Calls.htm" />
+    <TocEntry
+      Title="Viewing Live Topics in a Browser"
+      Link="/Content/Topics/Viewing_Live_Topics_in_a_Browser.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Topic Ratings"
+    Link="/Content/Topic_Ratings/About_Topic_Ratings.htm">
+    <TocEntry
+      Title="About Topic Ratings"
+      Link="/Content/Topic_Ratings/About_Topic_Ratings.htm" />
+    <TocEntry
+      Title="Viewing Topic Ratings"
+      Link="/Content/Topic_Ratings/Viewing_Topic_Ratings.htm" />
+    <TocEntry
+      Title="Resetting Topic Ratings"
+      Link="/Content/Topic_Ratings/Resetting_Topic_Ratings.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="User Interface Elements - How to Use Each One"
+    StartChapter="False"
+    Link="/Content/Feedback/Viewing_Active_Users.htm">
+    <TocEntry
+      Title="Active Users Window Pane"
+      Link="/Content/Feedback/Viewing_Active_Users.htm" />
+    <TocEntry
+      Title="Browser Statistics Window Pane"
+      Link="/Content/Statistics/Viewing_Browser_Statistics.htm" />
+    <TocEntry
+      Title="Chart Options Dialog"
+      Link="/Content/UI_Elements/Chart_Options_Dialog.htm" />
+    <TocEntry
+      Title="Color Picker Dialog"
+      Link="/Content/UI_Elements/Color_Picker_Dialog.htm" />
+    <TocEntry
+      Title="Comments Window Pane"
+      Link="/Content/UI_Elements/Comments_Window.htm" />
+    <TocEntry
+      Title="CSH Calls Window Pane"
+      Link="/Content/Topics/Viewing_CSH_Topics_Opened_by_Users.htm" />
+    <TocEntry
+      Title="Date Filter Dialog"
+      Link="/Content/Topics/Viewing_Topics_Opened_by_Users.htm" />
+    <TocEntry
+      Title="Dynamic Help Window Pane"
+      Link="/Content/UI_Elements/Dynamic_Help_Window.htm" />
+    <TocEntry
+      Title="Edit Comment Dialog"
+      Link="/Content/Feedback/Comments/Editing_Comments.htm" />
+    <TocEntry
+      Title="Feedback Admin"
+      Link="/Content/UI_Elements/Feedback_Admin.htm" />
+    <TocEntry
+      Title="Help Favorites Window Pane"
+      Link="/Content/UI_Elements/Help_Favorites_Window.htm" />
+    <TocEntry
+      Title="Help Glossary Window Pane"
+      Link="/Content/UI_Elements/Help_Glossary_Window.htm" />
+    <TocEntry
+      Title="Help Index Window Pane"
+      Link="/Content/UI_Elements/Help_Index_Window.htm" />
+    <TocEntry
+      Title="Help Search Window Pane"
+      Link="/Content/UI_Elements/Help_Search_Window.htm"
+      StartChapter="False"
+      MarkAsNew="False" />
+    <TocEntry
+      Title="Help TOC Window Pane"
+      Link="/Content/UI_Elements/Help_TOC_Window.htm"
+      StartChapter="False"
+      MarkAsNew="False" />
+    <TocEntry
+      Title="Index Results Window Pane"
+      Link="/Content/UI_Elements/Index_Results_Window.htm" />
+    <TocEntry
+      Title="Manage Window Layouts Dialog"
+      Link="/Content/UI_Elements/Manage_Window_Layouts_Dialog.htm" />
+    <TocEntry
+      Title="Manage Windows Dialog"
+      Link="/Content/UI_Elements/Manage_Windows_Dialog.htm" />
+    <TocEntry
+      Title="Messages Window Pane"
+      Link="/Content/UI_Elements/Messages_Window.htm"
+      MarkAsNew="False" />
+    <TocEntry
+      Title="New Local Target Dialog"
+      Link="/Content/Getting_Set_Up/Creating_a_Configured_Feedback_File.htm" />
+    <TocEntry
+      Title="New Updates Available Dialog"
+      Link="/Content/UI_Elements/New_Updates_Available_Dialog.htm" />
+    <TocEntry
+      Title="Operating System Statistics Window Pane"
+      Link="/Content/Statistics/Viewing_Operating_System_Statistics.htm" />
+    <TocEntry
+      Title="Print Dialog"
+      Link="/Content/Printing/Printing.htm" />
+    <TocEntry
+      Title="Print Preview Dialog"
+      Link="/Content/UI_Elements/Print_Preview_Dialog.htm" />
+    <TocEntry
+      Title="Recent Files Dialog"
+      Link="/Content/UI_Elements/Recent_Files_Dialog.htm" />
+    <TocEntry
+      Title="Search Phrases Window Pane"
+      Link="/Content/Search/Viewing_Used_Search_Phrases.htm" />
+    <TocEntry
+      Title="Search Phrases With No Results Window Pane"
+      Link="/Content/Search/Viewing_Searches_Without_Results.htm" />
+    <TocEntry
+      Title="Start Page"
+      Link="/Content/UI_Elements/Start_Page.htm" />
+    <TocEntry
+      Title="Synonyms Editor"
+      Link="/Content/Search/Synonyms/Creating_Synonyms_to_Enhance_Search_ResultsFE.htm"
+      StartSection="false"
+      StartChapter="false" />
+    <TocEntry
+      Title="Topic View Window Pane"
+      Link="/Content/UI_Elements/Topic_View_Window.htm" />
+    <TocEntry
+      Title="Topics Window Pane"
+      Link="/Content/Topics/Viewing_Topics_Opened_by_Users.htm" />
+  </TocEntry>
+</CatapultToc>

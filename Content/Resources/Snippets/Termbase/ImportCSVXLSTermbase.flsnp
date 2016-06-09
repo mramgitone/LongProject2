@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="9" MadCap:lastHeight="760" MadCap:lastWidth="844">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                <ul style="list-style-type: square;">
+                    <li>
+                        <p><span class="SetOffFirstLevel">Ribbon</span> Select the <span class="Emphasis">Resources</span> ribbon. In the <span class="Emphasis">TBX</span> section, select <span class="Emphasis">Import Termbase</span>.</p>
+                        <p MadCap:conditions="General.OnlineLive">
+                            <MadCap:snippetBlock src="../UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" />
+                        </p>
+                    </li>
+                    <li MadCap:conditions="General.Future"><span class="SetOffFirstLevel">Menu</span> Select <MadCap:conditionalText MadCap:conditions="General.Future">xxx</MadCap:conditionalText>.</li>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Translate Toolbar</span> Click <img src="../../Images/import_tbx_small_btn.png" alt="" title="" class="ReduceButtonSize" />.</p>
+                        <MadCap:snippetBlock src="../UIElements/ToOpenTranslateToolbar.flsnp" MadCap:conditions="General.OnlineLive" />
+                        <p>The Import Termbase File dialog opens.</p>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <p>Next to the <span class="Emphasis">Termbase File</span> field, click <img src="../../Images/browse_ellipses.png" class="ReduceButtonSize" />. The Select TBX file to import dialog opens, where you can locate the CSV or XLS file. Select the file and click <b>Open</b>. </p>
+            </li>
+            <li>From the <span class="Emphasis">Destination Termbase</span> drop-down, select the termbase to which you want to import the fields in the CSV or XLS file. </li>
+            <li>
+                <p>Click <span class="Emphasis">Start Import</span>. </p>
+                <p>If you are importing a CSV or XLS file, the <MadCap:annotation MadCap:createDate="2014-09-12T13:54:47.4887482-07:00" MadCap:creator="pstoecklein" MadCap:initials="PS" MadCap:comment="Needs CSH." MadCap:editor="pstoecklein" MadCap:editDate="2014-09-12T13:54:52.8435334-07:00">Column Mapping dialog</MadCap:annotation> opens.</p>
+            </li>
+            <li>
+                <p>(Optional, if you are importing CSV&#160;or XLS) From the <b>Term Property</b> drop-down, select the metadata you want to assign to the values in each column. From the <b>Reference</b> drop-down, select the language to associate with each column. If you want to use the first row of the spreadsheet as headers in your termbase, select <span class="Emphasis">Use first row as column headers</span>.</p>
+                <p>
+                    <img src="../../Images/import_termbase_csv_xls2.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <p>
+                    <img src="../../Images/import_termbase_csv_xls1.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+        </ol>
+    </body>
+    <head>
+    </head>
+</html>

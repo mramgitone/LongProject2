@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="289" MadCap:lastWidth="596" MadCap:conditions="Products.Lingo,Products.Align">
+    <body>
+        <p class="ExampleHead">example</p>
+        <p class="ExampleMiddleSection">Let's say your company has some legacy content that was created in English using MadCap <MadCap:variable name="Products.Flare" /> (or even another tool such as Microsoft Word). Subsequently, that content was translated into German using a tool other than <MadCap:variable name="Products.Lingo" />. Now your company has purchased <MadCap:variable name="Products.Lingo" /> and wants to use it to translate future updates to that same documentation. The problem is that you do not want to lose all of that previous translation work. The solution is to launch the MadCap Align utility from <MadCap:variable name="Products.Lingo" /> and create an alignment project.</p>
+        <p class="Example">From MadCap Align, you use the Start Alignment Wizard to create the new alignment project. In the process of doing this, you select the English version of the original <MadCap:variable name="Products.Flare" /> project (or other type of project/file), as well as the German translation of that project or file. In addition, you make sure the option is selected in the wizard to automatically upload the translated segments to your translation memory. Therefore, when you translate content in future <MadCap:variable name="Products.Lingo" /> projects, that previously translated content can be used via the suggestions feature in <MadCap:variable name="Products.Lingo" />.</p>
+    </body>
+</html>

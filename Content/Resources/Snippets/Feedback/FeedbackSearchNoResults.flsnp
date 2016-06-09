@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:conditions="Products.Analyzer,Products.Flare,Products.FeedbackExplorer" MadCap:lastBlockDepth="2" MadCap:lastHeight="53" MadCap:lastWidth="490" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>You can see statistics on the search phrases for which users did not find results, including the number of searches performed for each term.</p>
+    </body>
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+</html>

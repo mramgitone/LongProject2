@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Mimic,Products.MovieSync" MadCap:lastBlockDepth="2" MadCap:lastHeight="169" MadCap:lastWidth="1199">
+    <head>
+    </head>
+    <body>
+        <p> Lets you create an input success caption. After you add an input box to a frame, you can add a success caption to accompany it. This is a message that displays to users after they complete the input box successfully.<MadCap:conditionalText MadCap:conditions="Products.Mimic"> See <MadCap:xref href="../../../Objects/Typing_Objects/Adding_Input_Success_Captions.htm">Adding Input Success Captions</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

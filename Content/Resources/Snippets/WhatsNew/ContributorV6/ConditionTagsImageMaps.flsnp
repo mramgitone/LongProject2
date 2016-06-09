@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:conditions="Products.Contributor" MadCap:lastBlockDepth="4" MadCap:lastHeight="724" MadCap:lastWidth="1141" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>If you have created an image map, you can apply a condition tag to each link area within the Image Map Editor.<MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly"> See <MadCap:xref href="../../../../Nav_Links/Image_Hyperlinks/Creating_Image_Maps.htm">Creating Image Maps</MadCap:xref> and <MadCap:xref href="../../../../Condition_Tags/Applying_Condition_Tags_to_Content.htm">Applying Condition Tags to Content</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.ContributorOnlineOnly"> See <MadCap:xref href="../../../../Nav_Links/Image_Hyperlinks/Creating_Image_Maps_Contributor.htm">Creating Image Maps</MadCap:xref> and <MadCap:xref href="../../../../Condition_Tags/Applying_Condition_Tags_to_Content.htm">Applying Condition Tags to Content</MadCap:xref>.</MadCap:conditionalText></p>
+        <p>To do this, in the XML Editor, right-click on your image that contains the image map, and from the context menu select <span class="Emphasis">Image Map</span>.</p>
+        <p>In the Image Map Editor, click the appropriate link area on the image. Then click <img src="../../../Images/conditions_btn2.png" class="ReduceButtonSize" alt="" /> in the local toolbar.</p>
+        <p>
+            <img src="../../../Images/image_maps_conditions1.png" class="MaxWidth80Percent" />
+        </p>
+        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,AnalyzerGuides.AnalyzerWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide" />
+        <p>Alternatively, you can right-click the area/link and select <span class="Emphasis">Conditions</span>.</p>
+        <p>
+            <img src="../../../Images/image_maps_conditions2.png" class="MaxWidth90Percent" />
+        </p>
+        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,AnalyzerGuides.AnalyzerWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide" />
+        <p>And other options are to select <span class="Emphasis">Edit&gt;Conditions</span> or use the <span class="Emphasis">CTRL+SHIFT+C</span> shortcut on your keyboard.</p>
+        <p>
+            <img src="../../../Images/image_maps_conditions3.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,AnalyzerGuides.AnalyzerWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide" />
+        <p>Whichever method you use, the Condition Tags dialog opens, which you can use to select any conditions in your project.</p>
+        <p>
+            <img src="../../../Images/image_maps_conditions4.png" alt="" title="" class="MaxWidth80Percent" />
+        </p>
+        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,AnalyzerGuides.AnalyzerWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide" />
+        <p>After you finish, you can see a condition tag box in the upper-right corner of the map shape in the Image Map Editor, showing the color(s) of the condition(s) you selected.</p>
+        <p>
+            <img src="../../../Images/image_maps_conditions5.png" alt="" title="" class="MaxWidth80Percent" />
+        </p>
+    </body>
+</html>

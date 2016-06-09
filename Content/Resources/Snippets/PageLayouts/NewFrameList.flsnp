@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer,Products.Contributor" MadCap:lastBlockDepth="8" MadCap:lastHeight="903" MadCap:lastWidth="789">
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Page layouts: frame modes" />New Frame Mode </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> The first time you select this option, it will allow you to draw a body frame. The second time you select this option, it will allow you to draw a header frame. The third time, it will allow you to draw a footer frame. And the fourth time, it will allow you to draw a decoration frame.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">New Header Frame Mode </span>
+                    <MadCap:expanding>
+                        <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                        <MadCap:expandingBody> This option allows you to draw a header frame. <MadCap:snippetText src="HeaderFrameSummary1.flsnp" /></MadCap:expandingBody>
+                    </MadCap:expanding>
+                </p>
+                <MadCap:dropDown>
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can have only one header frame per page.</p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">New Footer Frame Mode </span>
+                    <MadCap:expanding>
+                        <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                        <MadCap:expandingBody>  This option allows you to draw a footer frame. <MadCap:snippetText src="FooterFrameSummary1.flsnp" /></MadCap:expandingBody>
+                    </MadCap:expanding>
+                </p>
+                <MadCap:dropDown>
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can have only one footer frame per page.</p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li><span class="SetOffFirstLevel">New Body Frame Mode </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> This option allows you to draw a body frame. <MadCap:snippetText src="BodyFrameSummary1.flsnp"></MadCap:snippetText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" />
+            <li>
+                <p><span class="SetOffFirstLevel">New Decoration Frame Mode </span>&#160;<MadCap:expanding><MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead><MadCap:expandingBody>  This option allows you to draw a decoration frame. <MadCap:snippetText src="DecorationFrameSummary1.flsnp"></MadCap:snippetText></MadCap:expandingBody></MadCap:expanding></p>
+                <MadCap:dropDown MadCap:conditions="Products.Flare">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="Products.FlareOnlineOnly">note</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <MadCap:snippetBlock src="../Notes/NoteDecorationFramesNotSupportedWordFM.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">New Image Frame </span>
+                    <MadCap:expanding>
+                        <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                        <MadCap:expandingBody> This option allows you to draw an image frame. <MadCap:snippetText src="ImageFrameSummary.flsnp"></MadCap:snippetText></MadCap:expandingBody>
+                    </MadCap:expanding>
+                </p>
+                <MadCap:dropDown MadCap:conditions="Products.Flare">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="Products.FlareOnlineOnly">note</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <MadCap:snippetBlock src="../Notes/NoteImageFramesNotSupportedWordFM.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+        </ul>
+    </body>
+</html>

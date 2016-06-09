@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer" MadCap:lastBlockDepth="2" MadCap:lastHeight="283" MadCap:lastWidth="1211">
+    <head>
+    </head>
+    <body>
+        <p class="TableText">Opens the Check Out dialog, which lets you check out files from source control. </p>
+        <p class="TableText">When you need to work on any of the <MadCap:snippetText src="../AllProductVariables.flsnp"></MadCap:snippetText> project files, you can check them out. Checking out files means to copy the latest source control files to your local <MadCap:snippetText src="../AllProductVariables.flsnp"></MadCap:snippetText> project and remove the "Read Only" designation from them so that you can edit the files. A red check mark <img src="../../Images/SourceControlCheckedOut.png" style="width: 10px; height: 10px;" class="ReduceButtonSize"></img> is displayed next to each file that is checked out. </p>
+        <p class="TableText">See <MadCap:xref href="../../../Source_Control/Checking_Out_Source_Control_Files.htm">Checking Out Source Control Files</MadCap:xref>.</p>
+    </body>
+</html>

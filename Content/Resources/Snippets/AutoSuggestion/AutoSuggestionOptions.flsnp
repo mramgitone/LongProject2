@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor" MadCap:lastBlockDepth="8" MadCap:lastHeight="866" MadCap:lastWidth="866">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>There are three kinds of content that you can select when using Auto Suggestion: phrases from custom lists, variables, snippets.</p>
+        <ul>
+            <li>
+                <p><span class="SetOffFirstLevel">Phrases From Custom List </span>
+                    <MadCap:expanding>
+                        <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                        <MadCap:expandingBody> Rather than automatically basing auto suggestions on all of the text throughout your entire project, you have control over the phrases that you see in the popup when you type. You can add your own words and phrases to an auto suggestions list<MadCap:conditionalText MadCap:conditions="Products.Analyzer"> in the <MadCap:variable name="Products.Flare" /> project</MadCap:conditionalText>. That way, instead of being overwhelmed with too many suggestions every time you begin typing text, you only see suggestions that you are likely to use.</MadCap:expandingBody>
+                    </MadCap:expanding>
+                </p>
+                <MadCap:dropDown MadCap:conditions="Products.Contributor,Products.FlareOnlineOnly">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="Products.ContributorOnlineOnly,Products.FlareOnlineOnly">examples</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p class="ExampleHead" MadCap:conditions="Products.Flare,Products.Contributor">examples</p>
+                        <p MadCap:conditions="Products.Flare,Products.Contributor" class="ExampleMiddleSection">
+                            <img src="../../Images/auto_suggestion_list_example.png" class="MaxWidth100Percent" />
+                        </p>
+                        <p MadCap:conditions="Products.Flare,Products.Contributor" class="Example">
+                            <img src="../../Images/auto_suggestion_list_example2.png" class="MaxWidth90Percent" />
+                        </p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel"><MadCap:keyword term="Auto suggestion:variables;Variables:auto suggestion" />Variables </span>
+                    <MadCap:expanding>
+                        <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                        <MadCap:expandingBody>
+                            <MadCap:snippetText src="../AllProductVariables.flsnp" /> recognizes when you are typing content that matches existing variables in your project. This includes system variables, such as the date and time, and custom variables that you create. <MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly">See <MadCap:xref href="../../../Variables/About_Variables.htm" MadCap:conditions="Products.Flare">About Variables</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                    </MadCap:expanding>
+                </p>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel"><MadCap:keyword term="Auto suggestion:snippets;Snippets:auto suggestion" />Snippets </span>
+                    <MadCap:expanding>
+                        <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                        <MadCap:expandingBody>
+                            <MadCap:snippetText src="../Snippets/SnippetAutoSuggestionSummary.flsnp" />
+                            <MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly"> See <MadCap:xref href="../../../Snippets/About_Snippets.htm" MadCap:conditions="Products.Flare">About Snippets</MadCap:xref>.</MadCap:conditionalText>
+                        </MadCap:expandingBody>
+                    </MadCap:expanding>
+                </p>
+                <MadCap:dropDown MadCap:conditions="General.OnlineLive">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <MadCap:snippetBlock src="../Snippets/SnippetAutoSuggestionExample.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+        </ul>
+    </body>
+</html>

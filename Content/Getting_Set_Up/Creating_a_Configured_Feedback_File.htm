@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:conditionTagExpression="include[Snippets.Snippet1]exclude[Snippets.Snippet2 or Snippets.Snippet3 or Snippets.Snippet4 or Snippets.Snippet5 or Snippets.Snippet6]" MadCap:conditions="Products.FeedbackExplorer" MadCap:lastBlockDepth="10" MadCap:lastHeight="1743" MadCap:lastWidth="523" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+        <link href="../Resources/Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+        <meta name="description" content="How to create and configure a MadCap Feedback file." />
+    </head>
+    <body>
+        <h1 MadCap:conditions="General.OnlineLive">
+            <MadCap:keyword term="Files:Feedback" />
+            <MadCap:concept term="GettingSetUp" />Creating a Configured Feedback File</h1>
+        <h1 MadCap:conditions="General.Print">
+            <MadCap:keyword term="Files:Feedback" />
+            <MadCap:keyword term="Files:Feedback" MadCap:conditions="General.Print" />Creating and Opening a Configured Feedback File</h1>
+        <p>
+            <MadCap:snippetText src="../Resources/Snippets/Feedback/FeedbackCreateOpenFilesSummary.flsnp" />
+        </p>
+        <MadCap:snippetBlock src="../Resources/Snippets/Feedback/FeedbackCreateOpenFilesSummary1a.flsnp" />
+        <p>
+            <MadCap:snippetText src="../Resources/Snippets/Feedback/FeedbackCreateOpenFilesSummary2.flsnp" /> Following are steps for creating the initial configured Feedback file from Feedback Explorer<MadCap:conditionalText MadCap:conditions="General.Print">, followed by steps for opening an existing configured Feedback file</MadCap:conditionalText>. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">For information about opening existing Feedback files to view user activity or work in them, see <MadCap:xref href="Opening_a_Configured_Feedback_File.htm" MadCap:conditions="General.OnlineLive">Opening a Configured Feedback File</MadCap:xref>.</MadCap:conditionalText> For more information about creating the configuration file from Flare, see the Flare online Help.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="MadCap Feedback:creating initial files" />how to create the initial configured feedback file</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <ol>
+                    <li>Do one of the following.<ul><li><p>Select <span class="Emphasis">File&gt;New</span>.</p><p>OR</p></li><li>Press <span class="Emphasis">CTRL+N</span> on your keyboard.</li></ul><p>The New Local Target dialog opens. </p></li>
+                    <li>
+                        <p>In the <span class="Emphasis">Feedback Server URL</span> field, <MadCap:snippetText src="../Resources/Snippets/Feedback/FeedbackEnterServerOption.flsnp" /></p>
+                        <MadCap:dropDown>
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">It is highly recommended that you purchase an SSL certificate and install it on your web server. SSL uses encryption for certain processes, which helps to ensure that the data transfer is secure. If you have an SSL certificate installed on your web server, make sure you begin the path to the server with https://.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>In the <span class="Emphasis">Feedback Key</span> field, enter the Feedback license that you have been issued.</li>
+                    <li>Click <span class="Emphasis">OK</span>.The Feedback file (with an <MadCap:keyword term="FBCONF file" />.fbconf extension) opens in the Feedback Admin. The file has no name until you save it.</li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                    <li>
+                        <p>In the Save As dialog, enter a name for the new Feedback file (perhaps naming it after the Flare target or project).</p>
+                        <MadCap:dropDown MadCap:conditions="General.OnlineLive">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <MadCap:snippetBlock src="../Resources/Snippets/Notes/NoteMyLiveHelpAdminFolder.flsnp" MadCap:conditions="General.OnlineLive" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>Click <span class="Emphasis">Save</span>.</li>
+                    <li>In Flare open the target and enter the same Feedback license that you entered for the Feedback file. This step does not apply to you unless you are an individual responsible for working in the Flare project. If you are a manager who simply wants to view the user activity, ignore this step.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../Resources/Snippets/WhatsNext/WhatsNextHeading.flsnp" MadCap:conditions="General.OnlineLive" />
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:keyword term="Feedback Explorer" />
+            <MadCap:snippetText src="../Resources/Snippets/WhatsNext/WhatsNextAfterCreateOpenFile.flsnp" /> See <MadCap:xref href="../Introduction_Topics/Key_Features_Feedback_Explorer.htm">Key Features</MadCap:xref>.</p>
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:conceptLink term="GettingSetUp" />
+        </p>
+    </body>
+</html>

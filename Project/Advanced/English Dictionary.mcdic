@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SpellingDictionary conditions="Products.AllProductsPlusDocBible">
+    <Word>autonumber</Word>
+    <Word>stylesheet</Word>
+    <Word>boolean</Word>
+    <Word>wildcard</Word>
+    <Word>checkmark</Word>
+    <Word>Wildcard</Word>
+    <Word>Whitespace</Word>
+    <Word>whitespace</Word>
+    <Word>checkmarks</Word>
+    <Word>checkboxes</Word>
+    <Word>IIS</Word>
+    <Word>bulleted</Word>
+    <Word>metadata</Word>
+</SpellingDictionary>

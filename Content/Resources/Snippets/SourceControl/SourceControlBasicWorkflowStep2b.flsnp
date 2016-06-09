@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="67" MadCap:lastWidth="925">
+    <body>
+        <p><span class="SetOffFirstLevel">Bind Existing Project </span> If you have an existing <MadCap:variable name="Products.Flare" /> project on your local machine, bind the project to the source control application. See <MadCap:xref href="../../../Source_Control/Binding_an_Existing_Project_to_Source_Control.htm">Binding an Existing Project to Source Control</MadCap:xref>.</p>
+    </body>
+</html>

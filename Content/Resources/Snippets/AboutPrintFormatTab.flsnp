@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:ignoredWords="s;C;F;F1;F4;P;W;Y;Z;Tollfree;MadCap1;F11;F3;F7;NewWord;MadCap's" MadCap:lastBlockDepth="6" MadCap:lastHeight="783" MadCap:lastWidth="695" MadCap:conditions="Products.Capture">
+    <head>
+        <link href="../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>Use the Flare Print Format tab to set the file format, JPEG quality, color depth, and DPI for an image. You can also apply gray scale to the image. This tab is almost identical to the Format tab. Most of the time, the settings from the Format tab will be applied to the image that you capture. When will the settings from the Flare Print tab be used instead? It has to do with Capture's tight integration with MadCap Flare and printed output. When you have inserted a Capture image into a Flare project and produce printed output (<MadCap:snippetText src="Output/AllPrintOutputTypes.flsnp" />) from that project, Flare automatically uses the Flare Print tab settings to display the image, rather than the Format tab settings. What does this mean? This means you only have to worry about creating and maintaining one image for both online and printed outputs in Flare. The less attractive alternative is to create and maintain two separate images and then use condition tags in Flare to determine which image is to be included with which output.</p>
+        <MadCap:dropDown class="ThirdLevel">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="ImagesAndCapture/SingleSourceImageExample.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown class="ThirdLevel">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="Notes/NoteFlarePrintFormatTab.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

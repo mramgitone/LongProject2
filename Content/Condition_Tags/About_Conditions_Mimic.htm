@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" p2:check_list="First Draft,Added To TOC,See Also keywords,Images,Browse Sequences,Ran Smart Index" xmlns:p2="http://www.madcapsoftware.com/schemas/MadCap.xsd" xml:lang="en" MadCap:ignoredWords="dialog...;Help.);target...;Default.&quot;" MadCap:lastBlockDepth="8" MadCap:lastHeight="2628" MadCap:lastWidth="630" MadCap:conditions="Products.Mimic">
+    <head><title></title>
+        <link rel="StyleSheet" href="../Resources/Stylesheets/styles.css" />
+        <meta name="description" content="Use condition tags in MadCap Capture to define which movies, frames and objects based on the Conditional&#160;Text settings in the target output." />
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="FilterConditionTags" />
+            <MadCap:concept term="ConditionTags" />
+            <MadCap:keyword term="Conditions" />
+            <MadCap:concept term="FilterSingleSourcePublishing" />
+            <MadCap:conditionalText MadCap:conditions="General.OnlineLive">About </MadCap:conditionalText>Conditions</h1>
+        <p>
+            <MadCap:keyword term="Conditions:targets" />
+            <MadCap:snippetText src="../Resources/Snippets/ConditionalText/ConditionsSummary.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../Targets/About_Targets_Mimic.htm">About Targets</MadCap:xref>.</MadCap:conditionalText></p>
+        <MadCap:snippetBlock src="../Resources/Snippets/ThisChapterDiscussesFollowing.flsnp" MadCap:conditions="MimicGuides.MimicMovieEnhancementGuide" />
+        <h2 MadCap:conditions="General.Print">Conditions Example</h2>
+        <p MadCap:conditions="General.Print">Following is an example of how conditions might be used in Mimic.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">
+                    <MadCap:keyword term="Conditions:targets" />example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="ExampleHead">example</p>
+                <p class="ExampleMiddleSection">Let's say that you are creating a movie that will be shown to two different audiences. Perhaps all of the frames in the movie are appropriate for each audience, except for the final five frames, which should be shown only to Audience A. In that case, you might create two condition tags—one called "AudienceA" and the other "AudienceB." </p>
+                <p class="ExampleMiddleSection">
+                    <img src="../Resources/Images/create_condition_tags_example_mimic.png" class="MaxWidth90Percent" />
+                </p>
+                <p class="ExampleMiddleSection" style="page-break-before: always;">Then you can mark each of the final five frames so that they are associated with the AudienceA marker.</p>
+                <p class="ExampleMiddleSection">
+                    <img src="../Resources/Images/apply_condition_tags_example_mimic.png" class="MaxWidth90Percent" />
+                </p>
+                <p class="ExampleMiddleSection">
+                    <img src="../Resources/Images/apply_condition_tags_example2_mimic.png" class="MaxWidth90Percent" />
+                </p>
+                <p class="ExampleMiddleSection">
+                    <img src="../Resources/Images/apply_condition_tags_example3_mimic.png" class="MaxWidth90Percent" />
+                </p>
+                <p class="ExampleMiddleSection" style="page-break-before: always;">In addition, you can create two targets—perhaps one is called "OutputA" and the other "OutputB." </p>
+                <p class="ExampleMiddleSection">
+                    <img src="../Resources/Images/create_targets_example_mimic.png" class="MaxWidth90Percent">
+                    </img>
+                </p>
+                <p class="ExampleMiddleSection" style="page-break-before: always;">In the OutputA target, you tell Mimic to include the AudienceA condition tag and exclude the AudienceB condition tag. In the OutputB target, you do the opposite.</p>
+                <p class="ExampleMiddleSection">
+                    <img src="../Resources/Images/associate_condition_tags_example_mimic.png" class="MaxWidth90Percent" />
+                </p>
+                <p class="ExampleMiddleSection">
+                    <img src="../Resources/Images/associate_condition_tags_example2_mimic.png" alt="" title="" class="MaxWidth90Percent" />
+                </p>
+                <p class="Example">When you generate the movie outputs, the movie using OutputA will show the final five frames. The movie using OutputB will not show the final five frames.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="MimicGuides.MimicMovieEnhancementGuide" />
+        <h2 MadCap:conditions="General.Print">Steps for Using Conditions</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">steps for using conditions</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p>Following are the basic steps involved with condition tags.</p>
+                <ol>
+                    <li>
+                        <p><span class="SetOffFirstLevel"><MadCap:keyword term="Conditions:project link" />(Optional) Link to Flare Project </span>
+                            <MadCap:expanding>
+                                <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                                <MadCap:expandingBody> If you want to use existing condition tags from a MadCap Flare project, you can link your Mimic collection or movie to that Flare project. There are two ways to do this. The easiest method is to insert the Mimic collection or movie into a Flare project. When you open that collection or movie in <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp"></MadCap:snippetText> to edit it, the condition tags from the Flare project are already available. The second method is to manually link the Mimic collection or movie to the Flare project from within <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp"></MadCap:snippetText>. For the first method, see the online Help in Flare. For the second method, see <MadCap:xref href="../Project_Links/Linking_to_Flare_Projects.htm">Linking to Flare Projects</MadCap:xref>.</MadCap:expandingBody>
+                            </MadCap:expanding>
+                        </p>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Conditions:creating" />(Optional) Create Condition Tags </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody> Whether or not you intend to use existing condition tags from a Flare project, you always have the option of creating your own condition tags from within <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp"></MadCap:snippetText>. In addition, when you create a new Mimic collection or movie, two condition tags are already provided for you—Demo and Practice. You can use these condition tags, rename them, or delete them if you wish. See <MadCap:xref href="Creating_Condition_Tags_Mimic.htm">Creating Condition Tags</MadCap:xref>.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li>
+                        <p><span class="SetOffFirstLevel"><MadCap:keyword term="Conditions:applying" />Apply Condition Tags </span>
+                            <MadCap:expanding>
+                                <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                                <MadCap:expandingBody>
+                                    <MadCap:snippetText src="../Resources/Snippets/ConditionalText/ApplyConditionsMimicSummary.flsnp" /> See <MadCap:xref href="Applying_Conditions_Mimic.htm">Applying Condition Tags</MadCap:xref>.</MadCap:expandingBody>
+                            </MadCap:expanding>
+                        </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">After you record a movie, you might notice that some objects (i.e., cursors and invisible rectangles) already have condition tags applied. That is why you see small red and blue squares on those objects. The reason for this is that Mimic provides you with two condition tags to get started—Demo and Practice. By default the Demo condition tag is associated with blue, and the Practice condition tag is associated with red. If you wanted to produce demo output that would simply show actions, you would most likely want to include the cursors, but not the invisible rectangles, which end users can click to perform the actions. This is why cursors are already associated the Demo condition tag and the action rectangles are associated with the Practice condition tag. You can always remove these condition tags from any of the objects. And if you do not want to use either the Demo or the Practice condition tag, you can delete them; the conditions will therefore be automatically removed from the objects, although the objects themselves will still exist in the frames.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Conditions:associating" />Associate Condition Tags with Movies, Collections, or Targets </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody> After applying condition tags to the appropriate elements, you can tell Mimic to include or exclude those conditions in the output. This can be done in three places—at the movie level (if it is a standalone movie), at the collection level, or on individual targets. In most cases, you will probably associate condition tags with targets, which is recommended. See <MadCap:xref href="Associating_Condition_Tags_Mimic.htm">Associating Condition Tags</MadCap:xref>.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:conceptLink term="ConditionTags" xmlns:MadCap="http://www.madcapsoftware.com/schemas/MadCap.xsd" />
+        </p>
+        <MadCap:snippetBlock src="../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="MimicGuides.MimicMovieEnhancementGuide" />
+    </body>
+</html>

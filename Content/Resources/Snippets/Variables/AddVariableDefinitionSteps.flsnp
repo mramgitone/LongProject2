@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare">
+    <body>
+        <ol>
+            <li>In the Project Organizer, double-click the <span class="Emphasis">Variables</span> folder. </li>
+            <li>Double-click a variable set. The Variable Set Editor opens.</li>
+            <li>Click on a row where you want to provide an additional definition.</li>
+            <li>In the local toolbar click <img src="../../Images/add_variable_definition_btn.png" alt="" title="" class="ReduceButtonSize" />. A new row is added for the new definition.</li>
+            <li>
+                <p>In the empty cell that is added, type the definition and press <span class="Emphasis">Enter</span>.</p>
+                <p>When a variable has multiple definitions, cells of the non-default definitions are grayed out (except for the definition cell).</p>
+                <p>The default definition is determined by the order of creation. The first definition created is the default.</p>
+                <p>
+                    <img src="../../Images/variable_definitions1.png" alt="" title="" class="MaxWidth80Percent" />
+                </p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

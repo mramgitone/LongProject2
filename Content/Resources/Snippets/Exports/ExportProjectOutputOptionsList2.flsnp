@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="4" MadCap:lastHeight="159" MadCap:lastWidth="1173">
+    <body>
+        <ul class="SecondLevel">
+            <li><span class="SetOffSecondLevel">Project Files </span>
+                <MadCap:snippetText src="ProjectFilesOption.flsnp" />
+            </li>
+            <li><span class="SetOffSecondLevel">Project Template </span>
+                <MadCap:snippetText src="ProjectTemplateOption.flsnp" />
+            </li>
+            <li><span class="SetOffSecondLevel">Zip Files </span>
+                <MadCap:snippetText src="ZipFilesOption.flsnp" />
+            </li>
+        </ul>
+    </body>
+</html>

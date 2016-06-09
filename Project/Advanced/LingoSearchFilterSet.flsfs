@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSearchFilterSet
+  conditions="Products.Lingo">
+  <SearchFilter
+    Name="Dictionaries"
+    Comment=""
+    Concepts="FilterDictionaries" />
+  <SearchFilter
+    Name="Projects"
+    Comment=""
+    Concepts="FilterProjects" />
+  <SearchFilter
+    Name="Translation Memory"
+    Comment=""
+    Concepts="FilterTM" />
+  <SearchFilter
+    Name="Tour Workspace"
+    Comment=""
+    Concepts="FilterTourWorkspace" />
+  <SearchFilter
+    Name="User Interface Elements"
+    Comment=""
+    Concepts="User Interface Elements" />
+  <SearchFilter
+    Name="Termbase"
+    Comment=""
+    Concepts="FilterTermbase" />
+</CatapultSearchFilterSet>

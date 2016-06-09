@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo">
+    <body>
+        <div>
+            <p class="ExampleHead">example</p>
+            <p class="ExampleMiddleSection">Let’s say you are translating a project using a translation memory that has been passed along to you from a former colleague. It was assembled using translations from lots of other projects, and you're not sure exactly how accurate it will be, but you want to make a first pass through your project to see what matches there are.</p>
+            <p class="ExampleMiddleSection">You build a new project and add the translation memory, then tell <MadCap:snippetText src="../AllProductVariables.flsnp" /> to pre-translate the project using matches from the translation memory only. When it finishes, you have a few solid matches and a lot of fuzzy matches. </p>
+            <p class="ExampleMiddleSection">
+                <img src="../../Images/new_project_wizard_lingo6.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <p class="ExampleMiddleSection">You decide to rebuild the project and add a machine translation provider as a backup for the pre-translation option, because you know it will fill in the gaps where you are missing translations.</p>
+            <p class="ExampleMiddleSection">When the new project finishes, you have translations for all your segments. Now you can review the machine translations and make any necessary adjustments, add the new translations to the translation memory, and return the completed project to the client.</p>
+            <p class="Example">
+                <img src="../../Images/new_project_wizard_lingo7.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+        </div>
+    </body>
+    <head>
+    </head>
+</html>

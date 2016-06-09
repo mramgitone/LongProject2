@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="91" MadCap:lastWidth="928" MadCap:conditions="Products.AllProducts,Products.Contributor">
+    <body>
+        <p>is a handy window pane that displays when you first launch <MadCap:snippetText src="../AllProductVariables.flsnp" /> and remains open unless you close it. This window pane consists of links to high-level tasks and information.</p>
+    </body>
+</html>

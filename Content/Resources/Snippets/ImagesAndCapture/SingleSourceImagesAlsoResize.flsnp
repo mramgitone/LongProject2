@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Capture" MadCap:lastBlockDepth="2" MadCap:lastHeight="165" MadCap:lastWidth="677">
+    <body>
+        <p>If you use the "Flare Print tab" feature in MadCap Capture to single-source your images, you may need to take into account the DPI (dots per inch) setting that you set for the image in Capture. If you specify a large DPI that is recommended for print output (e.g., 300 DPI), you may notice that the image shrinks when you generate print output. If necessary, you can resize the width and/or height of the image ahead of time in Capture or later in the Flare project to enlarge the image as necessary for the generated output. The DPI that you specify will be retained, and you will end up with the image dimensions that you need.</p>
+    </body>
+</html>

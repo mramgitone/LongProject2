@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="646" MadCap:lastWidth="915" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Family List </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Displays the name of the font family (e.g., Arial, Tahoma, etc.) after you select it in the dialog.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Add To My Favorites </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Adds the selected font family to a list called My Favorite Families. This is a way to create a list of your favorite fonts so that it is easier to find and select them in the future.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">My Favorite Families </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Displays the font families that you have added by clicking the Add To My Favorites button. To use one of these fonts, click it. The My Favorite Families list is a way to create a list of your favorite fonts so that it is easier to find and select them in the future.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Recent Families </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Displays the most recent font families that you have used. To use one of these fonts, click it.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare"><span class="SetOffFirstLevel">Defined Font Sets </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Displays the font sets that you have created. <MadCap:snippetText src="FontSetDescription.flsnp"></MadCap:snippetText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Installed Families </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Displays the system font families. To use one of these fonts, click it.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Generic Families </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Displays a list of generic font families. To use one of these fonts, click it.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Clear List </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Removes the font families listed in the My Favorite Families list, the Recent Families list, or the Defined Font Sets list. To enable this button, first select one of those lists.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Remove </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Removes a selected color that is listed in the My Favorite Families list, the Recent Families list, or the Defined Font Sets list. To enable this button, first select one of those lists. Then select the font(s) to be removed. You can select multiple fonts by holding down the SHIFT or CTRL key and clicking in the list.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Products.Flare"><span class="SetOffFirstLevel">Define Set </span> <MadCap:expanding><MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead><MadCap:expandingBody>Opens the Define Font Set dialog, which lets you create a new font set. This button is enabled only if you select the Defined Font Sets list above.</MadCap:expandingBody></MadCap:expanding></li>
+            <li><span class="SetOffFirstLevel">Pick UI Family List </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Opens the Pick Font List dialog, which lets you select a font family list to be used in the <MadCap:snippetText src="../AllProductVariables.flsnp" /> interface. In other words, when you select the drop-down list from the Text Format toolbar (as well as from other areas of the user interface), you can select certain fonts to apply to your content. By using this dialog, you can limit which fonts are made available from that list. You can select the My Favorite Families List, the Defined Font Sets list, or the Installed Families list.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+        </ul>
+    </body>
+</html>

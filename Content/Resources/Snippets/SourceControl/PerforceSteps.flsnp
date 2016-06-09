@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="6" MadCap:lastHeight="507" MadCap:lastWidth="860">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <ol class="LowerAlpha">
+            <li>From the drop-down, select <span class="Emphasis">Perforce</span>. </li>
+            <li>In the <span class="Emphasis">Server</span> field, enter the server address. </li>
+            <li>Next to the <span class="Emphasis">User</span> field, click <span class="Emphasis">Browse</span>. The Select User dialog opens.</li>
+            <li>Select a user and click <span class="Emphasis">OK</span>. (Users are set up separately in Perforce.)</li>
+            <li>
+                <p>Next to the <span class="Emphasis">Stream</span> field, click <span class="Emphasis">New</span>.</p>
+                <p>The Login dialog opens if you have not logged in before. If it does, enter the password for the user and click <span class="Emphasis">OK</span>.</p>
+                <p>The New Perforce Stream dialog opens.</p>
+            </li>
+            <li>Next to the <span class="Emphasis">Placeholder</span> field, click <span class="Emphasis">Browse</span>. The Browse Depots dialog opens.</li>
+            <li>Select a depot. This is essentially a folder or directory in Perforce that contains multiple streams, one of which will be your <MadCap:snippetText src="../AllProductVariables.flsnp" /> files.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+            <li>(Optional) In the New Perforce Stream dialog, you can complete any of the other fields as necessary. For information about these fields, please refer to the documentation provided with Perforce.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" /> </li>
+            <li>
+                <MadCap:snippetText src="OptionalCommentFieldStep.flsnp" />
+            </li>
+            <li>(Optional) If you want the files in the project to be checked out when you are finished, click <span class="Emphasis">Keep files checked out</span>.</li>
+            <li MadCap:conditions="Snippets.Snippet2">In the Bind Project dialog, click <span class="Emphasis">OK</span>.</li>
+        </ol>
+    </body>
+</html>

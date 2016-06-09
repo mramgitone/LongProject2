@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="11" MadCap:lastHeight="1474" MadCap:lastWidth="829" MadCap:conditions="Products.Lingo" MadCap:fileTags="LingoTopicStatusNeeds.5 Needs to be Finished with Edits,LingoTopicStatusNeeds.6 Needs to be Sent for Review,LingoTopicStatusNeeds.7 Needs to be Tested in Online Output,LingoTopicStatusNeeds.8 Needs to be Tested in Print Output">
+    <head><title></title>
+        <meta name="description" content="How to create and export TMX&#160;files from MadCap Lingo for use in SDL&#160;Trados, Catalyst, or other translation software tools." />
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="TranslationMemory">
+            </MadCap:concept>
+            <MadCap:keyword term="TMX file;TMX file:exporting">
+            </MadCap:keyword>
+            <MadCap:concept term="FilterTM">
+            </MadCap:concept>Exporting TMX Files</h1>
+        <MadCap:snippetBlock src="../Resources/Snippets/NOTyetUPDATED.flsnp" />
+        <p>When you have finished translating content in <MadCap:variable name="Products.Lingo" />, you can export a<MadCap:conditionalText MadCap:conditions="Products.LingoOnlineOnly"> Translation Memory eXchange (TMX)</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="LingoGuides.LingoGettingStartedGuide"> TMX</MadCap:conditionalText> file. After exporting a TMX file, it can be used in other tools such as <MadCap:keyword term="SDL Trados" />Trados and <MadCap:keyword term="CATALYST" />CATALYST.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to export tmx files</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                        <ul style="list-style-type: square;">
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon</span> <MadCap:snippetText src="../Resources/Snippets/UIElements/SelectTranslateRibbon.flsnp" /> In the <span class="Emphasis">TMX</span> section select <span class="Emphasis">Export to TMX</span>. </p>
+                                <p MadCap:conditions="General.OnlineLive">
+                                    <MadCap:snippetBlock src="../Resources/Snippets/UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" />
+                                </p>
+                            </li>
+                            <li><span class="SetOffFirstLevel">Menu</span> Select <span class="Emphasis">Translate&gt;Export to TMX</span>.</li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Translate Toolbar</span> Click <img src="../Resources/Images/export_tmx_btn.jpg" class="ReduceButtonSize" />.</p>
+                                <MadCap:snippetBlock src="../Resources/Snippets/UIElements/ToOpenTranslateToolbar.flsnp" />
+                            </li>
+                        </ul>
+                        <p>The Export to TMX Dialog opens.</p>
+                    </li>
+                    <li>Next to the <span class="Emphasis">TMX File</span> field, click <img src="../Resources/Images/browse_ellipses.png" class="ReduceButtonSize" />.</li>
+                    <li>In the dialog that opens, navigate to the folder where you want to export the file. Also in the <span class="Emphasis">File name</span> field, enter a name for the new TMX file. Then click <span class="Emphasis">Save</span>.</li>
+                    <li>In the <span class="Emphasis">Languages to export</span> field, all of the languages involved in your translation memory database are listed, showing both the source and target languages. Select the languages that you want to include in the exported TMX file. </li>
+                    <li>
+                        <p>In the <span class="Emphasis">Source language</span> field, select the language(s) that you want to be available as the source in the exported TMX file. You can select an individual language or you can select "Any," which allows tools to use translations in any direction in the TMX file. </p>
+                        <MadCap:snippetBlock src="../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="LingoGuides.LingoTranslationGuide" />
+                        <MadCap:dropDown>
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p class="ExampleHead">example</p>
+                                <p class="ExampleMiddleSection">Let's say that the "Languages to export" field shows English-to-Danish and English-to-German translations. Like this:</p>
+                                <p class="ExampleMiddleSection">
+                                    <img src="../Resources/Images/export_to_tmx_example1.jpg" class="MaxWidth80Percent">
+                                    </img>
+                                </p>
+                                <MadCap:snippetBlock src="../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="LingoGuides.LingoTranslationGuide" />
+                                <p class="ExampleMiddleSection">If you select "English" in the Source Language field to the right, the tool using the exported TMX file will be able to use the translations going from English to Danish or English to German. </p>
+                                <p class="ExampleMiddleSection">
+                                    <img src="../Resources/Images/export_to_tmx_example2.jpg" class="MaxWidth80Percent">
+                                    </img>
+                                </p>
+                                <MadCap:snippetBlock src="../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="LingoGuides.LingoTranslationGuide" />
+                                <p class="ExampleMiddleSection">If you select "Any" in the Source Language field to the right, the tool using the exported TMX file will be able to use the translations going from English to Danish, English to German, Danish to English, and German to English.</p>
+                                <p class="Example">
+                                    <img src="../Resources/Images/export_to_tmx_example3.jpg" class="MaxWidth80Percent" />
+                                </p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>Click <span class="Emphasis">Start Export</span>. A message lets you know the results of the export.</li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/ClickOK.flsnp">
+                        </MadCap:snippetText>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:conceptLink term="TranslationMemory" />
+        </p>
+    </body>
+</html>

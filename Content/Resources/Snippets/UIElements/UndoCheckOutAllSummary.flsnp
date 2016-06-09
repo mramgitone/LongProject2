@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="211" MadCap:lastWidth="1211" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <head>
+    </head>
+    <body>
+        <p class="TableText">Opens the Undo Check Out dialog, which lets you reverse the check-out of all files in the project.</p>
+        <p class="TableText">If you have files checked out from source control but do not want them checked out anymore, you can use the "Undo Check Out" option instead of checking in the files. </p>
+        <p class="TableText">See <MadCap:xref href="../../../Source_Control/More_About_Source_Control/Undoing_a_Check_Out_of_Source_Control_Files.htm">Undoing a Check-Out of Source Control Files</MadCap:xref>.</p>
+    </body>
+</html>

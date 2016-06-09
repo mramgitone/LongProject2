@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="563" MadCap:lastWidth="894" MadCap:conditions="Products.Flare">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="FilterOutputTypes" />
+            <MadCap:concept term="FilterTargets" />
+            <MadCap:keyword term="Skins:generating;Skins:context-sensitive Help;Context-sensitive Help:skins;Skins:targets" />
+            <MadCap:concept term="FilterSkins" />Setting All Skins to be Generated</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Banners/Flare/FeatureSupportedDotNet_MHTML_WH_WHA_WHP.flsnp" />
+        <p>An option on the Advanced tab of the Target Editor controls whether every skin in the project or just the selected skin in the target (which is set on the General tab) will be generated for the output. This option is enabled by default.</p>
+        <p>The reason to keep this option enabled is if you need the ability to make context-sensitive Help (CSH) calls to different skins. In this case, each of those skins must be generated so that they are available in the output for the CSH calls.</p>
+        <p>If you are not using multiple skins for CSH calls, you might want to disable this option. If you disable it, the size of the entire output will be minimized because unnecessary skins will be excluded.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to set all skins to be generated</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Open a target used for online output.</li>
+                    <li>On the <span class="Emphasis">Advanced</span> tab of the Target Editor, select <span class="Emphasis">Generate all skins</span> so that it has a check mark.</li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">For <MadCap:variable name="Outputs.HTML5" /> targets, this option is not necessary because all skins are always automatically generated. This is due to the fact that compiling all skins does not affect the file size in <MadCap:variable name="Outputs.HTML5" /> like it does in other output types.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:conceptLink term="DevelopOutputs" />
+        </p>
+    </body>
+</html>

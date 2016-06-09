@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="10" MadCap:lastHeight="2636" MadCap:lastWidth="1017" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p><MadCap:variable name="Outputs.HTML5" /> output is an online format that is the next generation of <MadCap:variable name="Outputs.WebHelp" />. It is similar to the regular <MadCap:variable name="Outputs.WebHelp" /> format; however, whereas the original <MadCap:variable name="Outputs.WebHelp" /> format works with <MadCap:keyword term="HTML4" />HTML4, this output format supports the <MadCap:variable name="Outputs.HTML5" /> specification developed by the Web Hypertext Application Technology Working Group (WHATWG—<a href="http://whatwg.org/" target="_blank">http://whatwg.org</a>) and the World Wide Web Consortium (W3C—<a href="http://w3.org/" target="_blank">http://w3.org</a>). Therefore, the <MadCap:variable name="Outputs.HTML5" /> format results in better markup and offers additional features not found in the other <MadCap:variable name="Outputs.WebHelp" /> outputs.</p>
+        <p>The <MadCap:variable name="Outputs.HTML5" /> output consists of a collection of files that you will distribute to users. The output will be displayed in the user's Internet browser window. The main entry file has <MadCap:keyword term="HTM" />an .htm extension.</p>
+        <p>
+            <img src="../../Images/html5_output_example.png" class="MaxWidth100Percent" />
+        </p>
+        <p>The online Help on the madcapsoftware.com website was created with <MadCap:variable name="Outputs.HTML5" />.</p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTargetsGuide,FlareGuides.FlareWebHelpGuide" />
+        <h2 MadCap:conditions="Snippets.Snippet1,FlareGuides.FlareWebHelpGuide">Key Features</h2>
+        <MadCap:dropDown class="ThirdLevel">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive,Snippets.Snippet1,Snippets.Snippet2,FlareGuides.FlareTargetsGuide">key features</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p>Following are some of the key features of the <MadCap:variable name="Outputs.HTML5" /> format:</p>
+                <ul>
+                    <li><span class="SetOffFirstLevel">WebHelp Features </span> This format lets you take advantage of features and benefits available with the regular <MadCap:variable name="Outputs.WebHelp" /> output type.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Frameless output" />Frameless Output </span>Pages in <MadCap:variable name="Outputs.HTML5" /> output do not use <MadCap:keyword term="Framesets" />&lt;frameset&gt; or <MadCap:keyword term="Frames" />&lt;frame&gt; tags, like they do in regular <MadCap:variable name="Outputs.WebHelp" /> output. This means that, behind the scenes, <MadCap:variable name="Outputs.HTML5" /> output can be said to be "frameless," even though the user still sees distinct areas that display content, navigation, and toolbars. By being frameless, <MadCap:variable name="Outputs.HTML5" /> output is much easier for web crawlers to find, thus improving search engine results.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="HTML5:responsive output;Responsive output" />Responsive Output </span> <MadCap:snippetText src="../ResponsiveDesign/ResponsiveDesignSummary.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Responsive_Output/About_Responsive_Output.htm">About Responsive Output</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Specific Page Addresses </span>With the regular <MadCap:variable name="Outputs.WebHelp" /> output, you can only give readers a single URL path, which opens the starting page for the output. With <MadCap:variable name="Outputs.HTML5" /> output, you can point end users to a specific page in the output by giving them the exact URL path.</p>
+                        <MadCap:dropDown>
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p class="ExampleHead">example</p>
+                                <p class="ExampleMiddleSection">Let's say you generate regular <MadCap:variable name="Outputs.WebHelp"></MadCap:variable> output, with the primary output file called "MyOutput.htm." When you view the output with the initial topic shown (say it's called "Welcome.htm"), the URL path in the browser might look something like this.</p>
+                                <p class="ExampleMiddleSectionIndented">http://www.mycompany.com/documentation/<span class="YellowBackground">MyOutput.htm</span></p>
+                                <p class="ExampleMiddleSection">And if you then click on another topic (say, "WhatsNew.htm"), the same URL&#160;path will be shown. It does not change, even though you opened a different page.</p>
+                                <p class="ExampleMiddleSection">On the other hand, suppose you generate <MadCap:variable name="Outputs.HTML5" /> output. The URL in the browser may look the same as the path for regular WebHelp when the output is first displayed.</p>
+                                <p class="ExampleMiddleSectionIndented">http://www.mycompany.com/documentation/<span class="YellowBackground">MyOutput.htm</span></p>
+                                <p class="ExampleMiddleSection">But if you click on the "WhatsNew.htm" page, the URL will change to this.</p>
+                                <p class="ExampleMiddleSectionIndented">http://www.mycompany.com/documentation/<span class="YellowBackground">MyOutput.htm#WhatsNew.htm</span></p>
+                                <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTargetsGuide" />
+                                <p class="ExampleMiddleSection">And if you click on the "Welcome.htm" page to return to it, the URL will change to this.</p>
+                                <p class="ExampleIndented">http://www.mycompany.com/documentation/<span class="YellowBackground">MyOutput.htm#Welcome.htm</span></p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Search;Search:optimization" />Sitemap/Search Engine Optimization (SEO) </span>
+                        <MadCap:snippetText src="../Targets/GenerateSitemap.flsnp" />
+                        <MadCap:conditionalText MadCap:conditions="General.OnlineLive"> See <MadCap:xref href="../../../Targets/More_About_Targets/Generating_Sitemaps_for_Search_Engine_Optimization.htm" target="" title="" alt="">Generating Sitemaps for Search Engine Optimization</MadCap:xref>.</MadCap:conditionalText>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Modern Looking </span>When you build <MadCap:variable name="Outputs.HTML5" /> output, you will notice that it has a more modern look, compared with the older <MadCap:variable name="Outputs.WebHelp" /> formats.</li>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Search Bar </span>In the other online outputs, the search feature is displayed in an accordion or tab. In <MadCap:variable name="Outputs.HTML5" /> output, the search feature is included in a search bar above the topics.</p>
+                        <p>
+                            <img src="../../Images/search_bar.png" class="MaxWidth90Percent" />
+                        </p>
+                        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTargetsGuide" />
+                        <p>In addition, rather than enabling or disabling the search feature on the General tab of the Skin Editor, you do so on the Styles tab by editing the Search Bar property.</p>
+                        <p>
+                            <img src="../../Images/search_bar2.png" class="MaxWidth90Percent" />
+                        </p>
+                    </li>
+                    <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTargetsGuide" />
+                    <li>
+                        <p><span class="SetOffFirstLevel">Search with Context </span>If end users perform a search in your output, they will see context next to each result, rather than terms only.</p>
+                        <p>
+                            <img src="../../Images/search_with_context.jpg" class="MaxWidth90Percent" />
+                        </p>
+                        <p>In addition, you can create topic meta descriptions, which will be used in the search results abstract. Also, the meta description itself is searchable. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Topics/More_About_Topics/Adding_Meta_Descriptions_for_Topics.htm" target="" title="" alt="">Adding Meta Descriptions for Topics</MadCap:xref>.</MadCap:conditionalText></p>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Smoother Dynamic Effects </span>  Features such as drop-down text, expanding text, and popups have a smoother appearance when they are activated.</li>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Unique Skin </span>Because <MadCap:variable name="Outputs.HTML5" /> output is quite different from the other online formats, it requires its own skin. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Skins/About_Skins.htm" target="" title="" alt="">About Skins</MadCap:xref>.</MadCap:conditionalText></p>
+                        <p>
+                            <img src="../../Images/skin_types.jpg" class="MaxWidth100Percent" />
+                        </p>
+                        <MadCap:dropDown>
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;"><span class="Emphasis"><MadCap:keyword term="Language support:language skins;Language support:skins;Skins:language skins;Skins:language" /></span>Unlike other output types, separate language skins are not used for <MadCap:variable name="Outputs.HTML5" /> targets. Instead, a UI Text tab is located in the Skin Editor, which lets you perform all of the localization tasks that you would normally accomplish in a language skin. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Language_Support/Changing_Text_Strings_in_HTML5_Skins.htm" target="" title="" alt="">Changing Text Strings in HTML5 Skins</MadCap:xref>.</MadCap:conditionalText></p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWebHelpGuide,FlareGuides.FlareTargetsGuide" />
+                    <li>
+                        <p><span class="SetOffFirstLevel"><MadCap:keyword term="Search:server;Search:HTML5;HTML5:search;Server:HTML5;Server:search" />Server-based Output </span>You can create <MadCap:variable name="Outputs.HTML5" /> output in its regular state, or you can select an option in the Publishing tab of the Target Editor to enable server-based functionality. This allows you to accomplish the same results as <MadCap:variable name="Outputs.WebHelp Plus" /> output—searching of non-XHTML content, faster server-side search, and automatic runtime merging. <MadCap:conditionalText MadCap:conditions="General.OnlineLive,FlareGuides.FlareWebHelpGuide">See <MadCap:xref href="../../../Output/HTML5_Output/Enabling_HTML5_Server_Output.htm" target="" title="" alt="">Enabling HTML5 Server-based Output</MadCap:xref>.</MadCap:conditionalText></p>
+                        <p>
+                            <img src="../../Images/html5_server_based_output.png" class="MaxWidth100Percent" />
+                        </p>
+                        <p>Following are benefits of server-based HTML5 output;</p>
+                        <ul class="SecondLevel">
+                            <li><span class="SetOffSecondLevel">Multiple Platforms </span>
+                                <MadCap:expanding>
+                                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                                    <MadCap:expandingBody> You can publish to a machine running <MadCap:keyword term="Microsoft Windows XP" />Windows XP, <MadCap:keyword term="Microsoft Windows Server 2003" />Windows Server 2003, <MadCap:keyword term="Microsoft Windows Server 2008" />Windows Server 2008, <MadCap:keyword term="Microsoft Windows 7" />Windows 7, or <MadCap:keyword term="Microsoft Windows Vista" />Windows Vista.</MadCap:expandingBody>
+                                </MadCap:expanding>
+                            </li>
+                            <li><span class="SetOffSecondLevel"><MadCap:keyword term="Search:non-XHTML files;HTML5:search;Search:HTML5" />Searching of Non-XHTML Content </span>
+                                <MadCap:expanding>
+                                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                                    <MadCap:expandingBody>
+                                        <MadCap:snippetText src="../WHP/SearchNonXHTMLFiles.flsnp" />&#160;<MadCap:snippetText src="../WHP/SearchNonXHTMLFiles3.flsnp" /><MadCap:conditionalText MadCap:conditions="General.OnlineLive,FlareGuides.FlareWebHelpGuide"> See <MadCap:xref href="../../../Output/HTML5_Output/Search/Including_Non_XHTML_Files_in_Search_HTML5.htm" target="" title="" alt="">Including Non-XHTML Files in HTML5 Search</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                                </MadCap:expanding>
+                            </li>
+                            <li><span class="SetOffSecondLevel"><MadCap:keyword term="HTML5:search;Search:HTML5" />Faster Searching </span>
+                                <MadCap:expanding>
+                                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                                    <MadCap:expandingBody>
+                                        <MadCap:snippetText src="../WHP/FasterSearching.flsnp" />
+                                    </MadCap:expandingBody>
+                                </MadCap:expanding>
+                            </li>
+                            <li><span class="SetOffSecondLevel"><MadCap:keyword term="Projects:merging;Merging:projects;Merging:HTML5;HTML5:merging" />Automatic Runtime Merging of Flare Projects </span>
+                                <MadCap:expanding>
+                                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                                    <MadCap:expandingBody>
+                                        <MadCap:snippetText src="../WHP/AutomaticRuntimeMerging.flsnp" />
+                                        <MadCap:conditionalText MadCap:conditions="General.OnlineLive,FlareGuides.FlareWebHelpGuide"> See <MadCap:xref href="../../../Output/HTML5_Output/AutoMerge/Merging_Output_at_Runtime_Using_HTML5.htm" target="" title="" alt="">Merging Output at Runtime Using HTML5</MadCap:xref>.</MadCap:conditionalText>
+                                    </MadCap:expandingBody>
+                                </MadCap:expanding>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

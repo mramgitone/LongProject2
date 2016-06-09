@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor" MadCap:lastBlockDepth="4" MadCap:lastHeight="498" MadCap:lastWidth="832">
+    <body>
+        <p>A file Preview Bar has been added to many of the panes in <MadCap:snippetText src="../../AllProductVariables.flsnp" /> that display a list of files. When you click on a file or folder, this bar shows an icon, as well as the name of the folder or file.</p>
+        <p>
+            <img src="../../../Images/file_preview_bar1.png" alt="" title="" class="MaxWidth50Percent" />
+        </p>
+        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+        <p>When you click on an image file, a small copy of that image is shown.</p>
+        <p>
+            <img src="../../../Images/file_preview_bar2.png" alt="" title="" class="MaxWidth50Percent" />
+        </p>
+        <p MadCap:conditions="General.OnlineLive">The File Preview Bar is available in the following:</p>
+        <ul MadCap:conditions="General.OnlineLive">
+            <li><span class="SetOffFirstLevel">Content Explorer </span>
+                <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../../UI_Elements/Content_Explorer.htm">Content Explorer</MadCap:xref>.</MadCap:conditionalText>
+            </li>
+            <li><span class="SetOffFirstLevel">Project Organizer </span>
+                <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../../UI_Elements/Project_Organizer.htm">Project Organizer</MadCap:xref>.</MadCap:conditionalText>
+            </li>
+            <li><span class="SetOffFirstLevel">File List </span>
+                <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../../UI_Elements/File_List_Window.htm">File List Window Pane</MadCap:xref>.</MadCap:conditionalText>
+            </li>
+            <li><span class="SetOffFirstLevel">Pending Check-Ins </span>
+                <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../../Source_Control/More_About_Source_Control/Viewing_Files_That_are_Checked_Out.htm">Viewing Files That are Checked Out</MadCap:xref>.</MadCap:conditionalText>
+            </li>
+            <li><span class="SetOffFirstLevel">External Resources </span>
+                <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../../UI_Elements/External_Resources_Window_Pane.htm">External Resources Window Pane</MadCap:xref>.</MadCap:conditionalText>
+            </li>
+            <li><span class="SetOffFirstLevel">SharePoint Explorer </span>
+                <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../../UI_Elements/SharePoint_Explorer.htm">SharePoint Explorer</MadCap:xref>.</MadCap:conditionalText>
+            </li>
+        </ul>
+    </body>
+</html>

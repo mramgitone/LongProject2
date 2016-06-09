@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:ignoredWords="n;b" MadCap:lastBlockDepth="3" MadCap:lastHeight="193" MadCap:lastWidth="865" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <li>Make sure the Content Explorer is open. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">By default, the Content Explorer is located on the left side of the interface in an accordion structure with the Project Organizer, unless you have previously moved it and saved the new layout. You may have to click the <span class="Emphasis">Content Explorer</span> bar to bring it into view.</MadCap:conditionalText></li>
+    </body>
+</html>

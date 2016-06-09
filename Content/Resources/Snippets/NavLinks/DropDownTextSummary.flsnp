@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="117" MadCap:lastWidth="1234">
+    <body>
+        <p>Drop-down text is a feature that lets you collapse content in your topic. Let's say you have a topic that seems to be getting quite lengthy. So you decide to condense the portion of the topic that contains step-by-step procedures. When users open the topic in the output, they will see a link (also called a "drop-down <MadCap:keyword term="Drop-down text:hotspot;Drop-down text:heading;Hotspot:drop-down text;Heading:drop-down text" />hotspot"). This hotspot is the first paragraph (or a section of the first paragraph) that you condensed. It might be something like "How to create a thingamajig." When users click that hotspot, the hidden content (e.g., the actual steps to create the thingamajig) is displayed below the hotspot. When users click the hotspot again, the content becomes hidden once more. </p>
+    </body>
+</html>

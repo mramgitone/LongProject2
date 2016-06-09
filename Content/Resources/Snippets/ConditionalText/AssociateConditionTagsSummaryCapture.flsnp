@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Capture" MadCap:lastBlockDepth="2" MadCap:lastHeight="53" MadCap:lastWidth="1055">
+    <body>
+        <p>You can associate condition tags with an image, telling <MadCap:snippetText src="../AllProductVariables.flsnp"></MadCap:snippetText> whether certain condition tags should be included or excluded from that image's output.</p>
+    </body>
+</html>

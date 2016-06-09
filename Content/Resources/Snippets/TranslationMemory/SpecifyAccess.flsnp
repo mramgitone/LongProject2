@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo,Products.Align">
+    <body>
+        <p>In the grid listing TM databases, there is a drop-down field to specify the access rights for each database. There are options for Read &amp; Write, as well as for Read Only. By default all databases are set to Read &amp; Write, which means they can be altered once they are loaded into the Lingo project. However, you can change any of the databases to Read Only access if you want. In order to switch to Read Only access, the Use check box must first be selected for that database.</p>
+        <p class="ExampleHead">example</p>
+        <p class="ExampleMiddleSection">Let's say you are connecting your new Lingo project to four different TM databases, like this:</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/multiple_tms9.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="LingoGuides.LingoWhatsNewGuide,LingoGuides.LingoTranslationGuide" />
+        <p class="ExampleMiddleSection">You want to receive translation suggestions from all of the databases. However, when you confirm new translations and upload them to TM, let's say you only want to upload them to the database called "Local1." Therefore, even though the Lingo project will be connected to all four databases, three of them should be set as Read Only, and Local1 should be set to Read &amp; Write.</p>
+        <p class="Example">
+            <img src="../../Images/multiple_tms10.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+    </body>
+</html>

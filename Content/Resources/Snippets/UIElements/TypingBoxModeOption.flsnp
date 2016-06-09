@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="193" MadCap:lastWidth="1199" MadCap:conditions="Products.Mimic,Products.MovieSync">
+    <head>
+    </head>
+    <body>
+        <p>Lets you create an animated typing box. When you record a movie, <MadCap:variable name="Products.Mimic" /> captures any typing actions that you perform on screen. This typing is therefore animated in the movie output. In other words, each letter of the content is typed as the user watches it. Not only are these animated text boxes added automatically when you record movies, but you can also add them manually when you edit the movie.<MadCap:conditionalText MadCap:conditions="Products.Mimic"> See <MadCap:xref href="../../../Objects/Typing_Objects/Adding_Animated_Typing_Boxes.htm">Adding Animated Typing Boxes</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

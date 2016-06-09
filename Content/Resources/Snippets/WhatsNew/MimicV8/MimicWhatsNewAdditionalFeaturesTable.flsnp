@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="1758" MadCap:lastWidth="809" MadCap:conditions="Products.Mimic">
+    <head>
+        <link href="../../../TableStyles/BasicAlternateRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table class="TableStyle-BasicAlternateRows" style="margin-left: 0;margin-right: auto;mc-table-style: url('../../../TableStyles/BasicAlternateRows.css');" cellspacing="0">
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" />
+            <col class="TableStyle-BasicAlternateRows-Column-Regular" MadCap:conditions="" />
+            <thead>
+                <tr class="TableStyle-BasicAlternateRows-Head-Header1">
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">Feature</p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">What's New?</p>
+                    </th>
+                    <th class="TableStyle-BasicAlternateRows-HeadD-Regular-Header1">
+                        <p class="TableTextHead">For More Information</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Animations</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <ul>
+                            <li>Convert fade and move animations to keyframes</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p MadCap:conditions="General.Print">See xxx.</p>
+                        <p MadCap:conditions="General.OnlineLive">See xxx</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Audio</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <ul>
+                            <li>audio propertiespane</li>
+                            <li>Insert sound command</li>
+                            <li>Loop property</li>
+                            <li>Preview support for looping audio</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p MadCap:conditions="General.Print">See xxx.</p>
+                        <p MadCap:conditions="General.OnlineLive">See xxx</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Caption elements</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <ul>
+                            <li>Add other caption elements</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p MadCap:conditions="General.Print">See xxx.</p>
+                        <p MadCap:conditions="General.OnlineLive">See xxx</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Color</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <ul>
+                            <li>Support background gradients</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p MadCap:conditions="General.Print">See xxx.</p>
+                        <p MadCap:conditions="General.OnlineLive">See xxx</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Editor</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <ul>
+                            <li>Make background gray</li>
+                            <li>add border to content work area</li>
+                            <li>allow selection to extend beyond content work area</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p MadCap:conditions="General.Print">See xxx.</p>
+                        <p MadCap:conditions="General.OnlineLive">See xxx</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Effects</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <ul>
+                            <li>Add Move and Scale effect</li>
+                            <li>Add support for effects/keyframes to Shape class</li>
+                            <li>fade effect working</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p MadCap:conditions="General.Print">See xxx.</p>
+                        <p MadCap:conditions="General.OnlineLive">See xxx</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">EmptyPropertyGroup, add support for ImageShapes, backgrounds, and screen captures</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <ul>
+                            <li>xxx</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p MadCap:conditions="General.Print">See xxx.</p>
+                        <p MadCap:conditions="General.OnlineLive">See xxx</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Grid</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <ul>
+                            <li>add support for showing grid on editor</li>
+                            <li>snapping to grid</li>
+                            <li>editing grid size</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p MadCap:conditions="General.Print">See xxx.</p>
+                        <p MadCap:conditions="General.OnlineLive">See xxx</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Import</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <ul>
+                            <li>Add import video feature to Mimic Movie</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p MadCap:conditions="General.Print">See xxx.</p>
+                        <p MadCap:conditions="General.OnlineLive">See xxx</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Inline Formatting—Remove</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <ul>
+                            <li>add remove inline formatting command</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p MadCap:conditions="General.Print">See xxx.</p>
+                        <p MadCap:conditions="General.OnlineLive">See xxx</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Objects/Elements</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <ul>
+                            <li>Can be dragged outside canvas bounds</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p MadCap:conditions="General.Print">See xxx.</p>
+                        <p MadCap:conditions="General.OnlineLive">See xxx</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Playback</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <ul>
+                            <li>Skip back command</li>
+                            <li>Forward command</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p MadCap:conditions="General.Print">See xxx.</p>
+                        <p MadCap:conditions="General.OnlineLive">See xxx</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Reveal</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <ul>
+                            <li>Initial iteration of RevealEffect to support reveal in and reveal out</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p MadCap:conditions="General.Print">See xxx.</p>
+                        <p MadCap:conditions="General.OnlineLive">See xxx</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">RTF Editing</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <ul>
+                            <li>add support for RTF editing of fontfamily, fontsize, and fontcolor</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p MadCap:conditions="General.Print">See xxx.</p>
+                        <p MadCap:conditions="General.OnlineLive">See xxx</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Shapes</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <ul>
+                            <li>add support for shape anchors in properties panel</li>
+                            <li>Add condition indicator</li>
+                            <li>Add support for padding property for text based shapes</li>
+                            <li>Add properties pane support for LoopShape, CursorOvalShape, InputBoxShape, and TypingBoxShape</li>
+                            <li>add/create shapes, start support of shape properties in Properties Pane</li>
+                            <li>Add support for arrows on polyline shape</li>
+                            <li>Make rectangle and arrow shapes bindable basic properties</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p MadCap:conditions="General.Print">See xxx.</p>
+                        <p MadCap:conditions="General.OnlineLive">See xxx</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Trajectory</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-DarkerRows">
+                        <ul>
+                            <li>edit Bezier trajectory control points in Wpf editor</li>
+                            <li>support switching between bezier and linear interpolation on keyframe points</li>
+                            <li>Add MoveEffect trajectory control</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-DarkerRows">
+                        <p MadCap:conditions="General.Print">See xxx.</p>
+                        <p MadCap:conditions="General.OnlineLive">See xxx</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-LightRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Video Frames</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyE-Regular-LightRows">
+                        <ul>
+                            <li>create video frame thumbnail for imported video frames</li>
+                            <li>initialize video upon frame load</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyD-Regular-LightRows">
+                        <p MadCap:conditions="General.Print">See xxx.</p>
+                        <p MadCap:conditions="General.OnlineLive">See xxx</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-BasicAlternateRows-Body-DarkerRows">
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Zoom</p>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyB-Regular-DarkerRows">
+                        <ul>
+                            <li>Add zoom commands to editor</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-BasicAlternateRows-BodyA-Regular-DarkerRows">
+                        <p MadCap:conditions="General.Print">See xxx.</p>
+                        <p MadCap:conditions="General.OnlineLive">See xxx</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

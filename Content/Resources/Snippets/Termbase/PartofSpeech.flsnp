@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo">
+    <body>
+        <p class="TableText">You can click in this drop-down and select the part of speech for the term in each row.</p>
+        <p class="ExampleHead">example</p>
+        <p class="Example">Adjective, verb, noun, and so on.</p>
+    </body>
+    <head>
+    </head>
+</html>

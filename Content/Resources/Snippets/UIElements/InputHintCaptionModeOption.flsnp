@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Mimic,Products.MovieSync" MadCap:lastBlockDepth="2" MadCap:lastHeight="169" MadCap:lastWidth="1199">
+    <head>
+    </head>
+    <body>
+        <p>Lets you create an input hint caption. After you add an input box to a frame, you can add a hint caption to accompany it. This is a message that displays to users if they hover over the input box for help. <MadCap:conditionalText MadCap:conditions="Products.Mimic">See <MadCap:xref href="../../../Objects/Typing_Objects/Adding_Input_Hint_Captions.htm">Adding Input Hint Captions</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

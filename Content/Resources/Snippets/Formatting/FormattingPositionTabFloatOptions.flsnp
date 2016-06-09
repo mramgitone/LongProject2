@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="575" MadCap:lastWidth="903" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">None </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Does not place the <MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">object</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet8">text box</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet5">image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet9">paragraph</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet19">QR code</MadCap:conditionalText> in a specific location.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Left </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Positions the <MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">object</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet8">text box</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet5">image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet9">paragraph</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet19">QR code</MadCap:conditionalText> on the left side of the page frame, allowing you to type text to the right of the <MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">object</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet8">text box</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet5">image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet9">paragraph</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet19">QR code</MadCap:conditionalText>.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Right </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Positions the <MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">object</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet8">text box</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet5">image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet9">paragraph</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet19">QR code</MadCap:conditionalText> on the right side of the page frame, allowing you to type text to the left of the <MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">object</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet8">text box</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet5">image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet9">paragraph</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet19">QR code</MadCap:conditionalText>.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Center of Column </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Positions the <MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">object</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet8">text box</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet5">image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet9">paragraph</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet19">QR code</MadCap:conditionalText> in the center of the column on the page.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Outside Left Margin </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Positions the <MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">object</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet8">text box</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet5">image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet9">paragraph</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet19">QR code</MadCap:conditionalText> beyond the left margin of the topic text.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Outside Right Margin </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Positions the <MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">object</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet8">text box</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet5">image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet9">paragraph</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet19">QR code</MadCap:conditionalText> beyond the right margin of the topic text.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Outside Frame </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Positions the <MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">object</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet8">text box</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet5">image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet9">paragraph</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet19">QR code</MadCap:conditionalText> outside of the page frame.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Outside Frame, Top Align </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Positions the <MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">object</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet8">text box</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet5">image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet9">paragraph</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet19">QR code</MadCap:conditionalText> outside of the page frame, as well as aligning it with the top of the frame.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Left of Frame </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Positions the <MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">object</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet8">text box</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet5">image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet9">paragraph</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet19">QR code</MadCap:conditionalText> to the left of the page frame.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Right of Frame </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Positions the <MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">object</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet8">text box</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet5">image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet9">paragraph</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet19">QR code</MadCap:conditionalText> to the right of the page frame.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Center of Frame </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Positions the <MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">object</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet8">text box</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet5">image</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet9">paragraph</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet19">QR code</MadCap:conditionalText> both vertically and horizontally in the middle of the page frame.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+        </ul>
+    </body>
+</html>

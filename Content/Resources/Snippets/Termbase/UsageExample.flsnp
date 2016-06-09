@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo">
+    <body>
+        <p class="ExampleHead">example</p>
+        <p class="Example">Not recommended, preferred, obsolete, and so on.</p>
+    </body>
+    <head>
+    </head>
+</html>

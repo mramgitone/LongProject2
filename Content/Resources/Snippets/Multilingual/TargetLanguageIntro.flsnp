@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo">
+    <body>
+        <ol type="1" class="Decimal">
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                <ul style="list-style-type: square;">
+                    <li>
+                        <p><span class="SetOffFirstLevel">Ribbon</span> Select <span class="Emphasis">File&gt;New Project</span>. </p>
+                        <p>
+                            <MadCap:snippetBlock src="../UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" />
+                        </p>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Menu</span> Select <span class="Emphasis">File&gt;New Project</span>.</li>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Standard Toolbar</span> Click <img src="../../Images/start_new_project_wizard_btn.png" class="ReduceButtonSize" />.</p>
+                        <MadCap:snippetBlock src="../UIElements/ToOpenStandardToolbar.flsnp" MadCap:conditions="General.OnlineLive" />
+                    </li>
+                    <li><span class="SetOffFirstLevel">Keyboard Shortcut</span> Press <span class="Emphasis">CTRL+SHIFT+N</span>.</li>
+                </ul>
+                <p>The Start New Project Wizard opens.</p>
+            </li>
+            <li>
+                <p>In the <span class="Emphasis">Name</span> field, type an appropriate name for your project.</p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p class="ExampleHead">example</p>
+                        <p class="Example">If you have an English version of a <MadCap:variable name="Products.Flare" /> project called "FictionSoftPro," and you intend to translate the project into German, you might name your <MadCap:variable name="Products.Lingo" /> project something like "FictionSoftPro German."</p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li>By default, a path to the Documents\My Translated Projects folder on your hard drive is entered in the <span class="Emphasis">Folder</span> field. (<MadCap:snippetText src="../AllProductVariables.flsnp" /> creates the My Translated Projects folder when you install the program.) All subfolders and files related to the translated project will be placed in this folder as you work on the project. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">Continue with the next step, unless you want to have your project files placed in a different folder. If so, do the following.</MadCap:conditionalText><ol type="1" MadCap:conditions="General.OnlineLive" class="LowerAlpha"><li>Click <span class="Emphasis"><img src="../../Images/browse_ellipses.png" class="ReduceButtonSize" /></span>.</li><li>Navigate to the folder you want, select it, and click <span class="Emphasis">Select Folder</span>.</li></ol><MadCap:dropDown class="SecondLevel"><MadCap:dropDownHead><MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody class="Final"><MadCap:snippetBlock src="../Notes/NoteVistaMyDocuments.flsnp" /></MadCap:dropDownBody></MadCap:dropDown></li>
+            <li>
+                <p>In the <span class="Emphasis">Domain</span> field, type a subject category for your project, or select one from the drop-down. If you enter your own custom category in the Domain field, it will appear in the drop-down the next time you create a new project. Domain metadata appears throughout the project, such as when you select a suggestion in the translation memory.</p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p class="ExampleHead">example</p>
+                        <p class="ExampleMiddleSection">If you have a project called "FictionSoftPro,"&#160;and it is for a company that writes software for publishing companies, you might choose to categorize your project using the domain "Art/Literary" or "Tech/Engineering." </p>
+                        <p class="ExampleMiddleSection">
+                            <img src="../../Images/new_project_wizard_domain_lingo.png" alt="" title="" class="MaxWidth90Percent" />
+                        </p>
+                        <p class="ExampleMiddleSection">Alternatively, you could also create a new domain called "Fiction" by typing <span class="TypedEntry">Fiction</span> in the Domain field. The next time you want to use that domain, you can select it from the drop-down.</p>
+                        <p class="Example">
+                            <img src="../../Images/new_project_wizard_domain_lingo2.png" alt="" title="" class="MaxWidth90Percent" />
+                        </p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li>
+                <p>In the <span class="Emphasis">Client</span> field, type the name of the client you are creating a translation project for. When you enter a client name in the field, it will appear in the Client drop-down the next time you create a new project. Client metadata appears throughout the project, such as when you select a suggestion in the translation memory.</p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p class="ExampleHead">example</p>
+                        <p class="ExampleMiddleSection">If you are creating a translation project for FictionSoft, the company that makes "FictionSoftPro," enter FictionSoft in the Client field. The next time you create a translation project for FictionSoft, you can select their client name from the Client drop-down.</p>
+                        <p class="Example">
+                            <img src="../../Images/new_project_wizard_client_lingo.png" alt="" title="" class="MaxWidth90Percent" />
+                        </p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li>
+                <MadCap:snippetBlock src="SourceLanguageIntro.flsnp" />
+            </li>
+            <li>
+                <p> In the <span class="Emphasis">Target language</span> grid, select the language(s) that you want to use for the translation and click <img src="../../Images/right_arrow3.png" alt="" title="" class="ReduceButtonSize" /> to move it to the Selected Language grid. If you need to remove a language from the Selected Language grid, click <img src="../../Images/left_arrow.png" alt="" title="" class="ReduceButtonSize" />. </p>
+                <p>Selecting a target language does not determine or limit which language(s) you can use for translating content, because you can add or remove languages at any time from the <MadCap:xref href="../../../UI_Elements/Project_Editor.htm">Project Editor</MadCap:xref>. Instead, selecting languages in this wizard accomplishes the following:</p>
+                <MadCap:snippetBlock src="SourceLanguagePoints.flsnp" />
+            </li>
+            <li>Click <span class="Emphasis">Next</span>.</li>
+            <li>
+                <p>Add files or folders to your <MadCap:snippetText src="../AllProductVariables.flsnp" /> project.</p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>Add Files to a Lingo Project</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <ol>
+                            <li>
+                                <p>Click <span class="Emphasis">Add File</span>.</p>
+                                <p>
+                                    <img src="../../Images/new_project_wizard_lingo2.png" alt="" title="" class="MaxWidth100Percent" />
+                                </p>
+                            </li>
+                            <li>
+                                <p>In the dialog that opens, navigate to the project or files that you want to translate. You may need to click the file type drop-down to view and select the appropriate kind of files you want to add.</p>
+                                <p>
+                                    <img src="../../Images/select_file_type_for_translating.png" class="MaxWidth100Percent" />
+                                </p>
+                            </li>
+                            <li>
+                                <p>If you need to select only one file, you can double-click it. If you need to select multiple files (e.g., multiple Word documents) in the same folder, you can hold your <span class="Emphasis">SHIFT</span> or <span class="Emphasis">CTRL</span> key and select either a range or individual files; then click <span class="Emphasis">Open</span>. The various types of files that you can open to translate include: <MadCap:keyword term="MadCap Flare:projects;Projects:MadCap Flare;FLPRJ file" />MadCap <MadCap:variable name="Products.Flare" />; <MadCap:keyword term="MadCap Mimic:projects;Projects:MadCap Mimic;MIMOV file;MadCap Mimic:movies;Movies:MadCap Mimic;MIPRJ file" />MadCap <MadCap:variable name="Products.Mimic" />; <MadCap:keyword term="Images;BMP file;GIF file;HDP file;JPG file;JPEG file;PNG file;TIF file;TIFF file;WDP file;MadCap Capture" />Madcap Capture; <MadCap:keyword term="MadCap Contributor;MCDOC file" />Madcap Contributor; <MadCap:keyword term="Bundles;Projects:bundles" />MadCap bundles <MadCap:keyword term="ZIP file" />(ZIP files); <MadCap:keyword term="TXT file" />TXT; <MadCap:keyword term="Rich text file;RTF file" />Rich Text files; <MadCap:keyword term="HTM;HTML;XML" />HTM, HTML, and XML; <MadCap:keyword term="DITA;DITAMAP" />DITA; <MadCap:keyword term="XML files;XML" />XML&#160;files; <MadCap:keyword term="Microsoft .NET Resource" />Microsoft .NET&#160;Resource files; <MadCap:keyword term="Microsoft Word" />Microsoft Word; <MadCap:keyword term="Adobe FrameMaker;FM file;MIF file;BOOK file" />Adobe <MadCap:variable name="Outputs.Frame" />; <MadCap:keyword term="Adobe InDesign" />Adobe InDesign; <MadCap:keyword term="Microsoft PowerPoint" />Microsoft PowerPoint; <MadCap:keyword term="SDLXLIFF file;SDL Trados" /><MadCap:keyword term="SDL Trados;TTX file" />SDL Trados; <MadCap:keyword term="Wordfast;TXML file" />Wordfast; and <MadCap:keyword term="XLIFF file;XLF file" />XLIFF.</p>
+                                <MadCap:dropDown class="ThirdLevel">
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">notes</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody class="Final">
+                                        <MadCap:snippetBlock src="../Notes/NoteIndividualImages.flsnp" />
+                                        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You must have Adobe FrameMaker installed in order to work with FM and BOOK files. However, if you are adding MIF files, you do not need FrameMaker installed. FrameMaker 8 and above are supported.</p>
+                                        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">When you create a project from a bundle (ZIP file) in <MadCap:variable name="Products.Lingo" />, the files are extracted and converted to <MadCap:keyword term="XLIFF file" />XLIFF format. </p>
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </li>
+                            <li>
+                                <p>(Optional) If you want to add more files from another location, you can repeat steps 2 and 3. Keep in mind that if you select MadCap project type files, you cannot also add other types of files (e.g. Word documents). However, if you have not selected MadCap project files, you can add any other types of files to the same Lingo project (e.g., you can add Word, FrameMaker, and PowerPoint documents to the same project).</p>
+                                <MadCap:dropDown>
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">Note</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody>
+                                        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can also add files to your project later using the <span class="Emphasis">Add Files to Project</span> button.</p>
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </li>
+                            <li>(Optional) If you need to remove a file from the project, click <span class="Emphasis">Remove</span>.</li>
+                            <li>
+                                <p>(Optional)&#160;<MadCap:snippetText src="../Filters/FiltersforFiles.flsnp" /><MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../File_Filters/About_File_Filters.htm">About File Filters</MadCap:xref>.</MadCap:conditionalText></p>
+                                <MadCap:dropDown class="FourthLevel">
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot>How to Create a File Type Filter—Word Files</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody>
+                                        <MadCap:snippetBlock src="../Filters/FileTypeFilterWord.flsnp" />
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                                <MadCap:dropDown class="FourthLevel">
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot>How to Create a File Type Filter—XML Files</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody class="Final">
+                                        <p>
+                                            <MadCap:snippetBlock src="../Filters/FileTypeFilterXML.flsnp" />
+                                        </p>
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                                <MadCap:dropDown class="FourthLevel">
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot>How to Create a File Type Filter—Text Files</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody class="Final">
+                                        <p>
+                                            <MadCap:snippetBlock src="../Filters/FileTypeFilterTXT.flsnp" />
+                                        </p>
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </li>
+                        </ol>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+        </ol>
+    </body>
+</html>

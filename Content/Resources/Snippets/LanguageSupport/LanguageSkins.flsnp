@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:ignoredWords="n;b" MadCap:lastBlockDepth="4" MadCap:lastHeight="439" MadCap:lastWidth="1101" MadCap:conditions="Products.Flare,Products.Mimic">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p MadCap:conditions="Products.Flare,Products.Mimic">There are two pieces to the generated output: the content and the user interface (e.g., navigation buttons and labels). <MadCap:conditionalText MadCap:conditions="Products.Flare,Products.Mimic">If you are generating </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Flare">one of the <MadCap:keyword term="WebHelp" /><MadCap:variable name="Outputs.WebHelp" /> output formats (<MadCap:keyword term="WebHelp AIR" /><MadCap:keyword term="WebHelp Plus" /><MadCap:keyword term="WebHelp Mobile" /><MadCap:snippetText src="../Output/AllWebHelpOutputsOR.flsnp" />)</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic"><MadCap:variable name="Outputs.AdobeAIR" />, <MadCap:variable name="Outputs.Flash" />, or <MadCap:variable name="Outputs.Silverlight" /></MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Flare,Products.Mimic"> output, you can select a specific language skin for displaying the user interface. You can then edit the language skin as necessary, adjusting text for buttons and labels. Normally, you would edit a skin in the Skin Editor. However if you want to display the output user interface in a particular language, you can use the Language Skin Editor instead.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic">(The rest of the interface settings, such as which buttons to include and where to place the navigation toolbar, should still be specified in the Skin Editor.)</MadCap:conditionalText></p>
+        <p>
+            <MadCap:snippetText src="../AllProductVariables.flsnp" /> provides completed language skins for certain languages, such as French, German, and Spanish (i.e., they are already translated for you). These are languages that are already identified as being "localized" skins. For other languages, you can create language skins so that they can be applied to the output too.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p class="ExampleHead" MadCap:conditions="Products.Flare,Products.Mimic">example</p>
+                <p class="Example" MadCap:conditions="Products.Flare,Products.Mimic">Let's say that you want to display the user interface of the <MadCap:variable name="Outputs.WebHelp" MadCap:conditions="Products.Flare" /><MadCap:conditionalText MadCap:conditions="Products.Mimic">Flash</MadCap:conditionalText> output in Bulgarian. <MadCap:snippetText src="../AllProductVariables.flsnp" /> does not provide a language skin in Bulgarian, so you can create your own skin, entering the Bulgarian text in the skin where appropriate. After you create the user-defined language skin with Bulgarian text, you can select it for use in the <MadCap:variable name="Outputs.WebHelp" MadCap:conditions="Products.Flare" /><MadCap:conditionalText MadCap:conditions="Products.Mimic">Flash</MadCap:conditionalText> output interface.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

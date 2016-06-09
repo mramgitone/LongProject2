@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="1" MadCap:lastHeight="27" MadCap:lastWidth="1298">
+    <body>When working in a  project that is connected to a source control application, there may be occasions when you have files in your local copy of the project that are not yet part of the source control copy. For example, when you add a new topic in your local copy of the project, that file will not be included in the source control copy of the project until you add it.</body>
+</html>

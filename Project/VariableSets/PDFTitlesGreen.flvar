@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="Products.AllProductsPlusDocBible">
+  <Variable
+    Comment=""
+    Name="FlareAccessibilityGuide"
+    OriginalName="FlareAccessibilityGuide">Accessibility Guide</Variable>
+  <Variable
+    Comment=""
+    Name="FlareAnalyzerGuide"
+    OriginalName="FlareAnalyzerGuide">Analyzer Guide</Variable>
+  <Variable
+    Name="FlareAutonumbersGuide"
+    Comment=""
+    OriginalName="FlareAutonumbersGuide">Autonumbers Guide</Variable>
+  <Variable
+    Name="FlareConditionTagsGuide"
+    Comment=""
+    OriginalName="FlareConditionTagsGuide">Condition Tags Guide</Variable>
+  <Variable
+    Name="FlareCSHGuide"
+    Comment=""
+    OriginalName="FlareCSHGuide">Context-Sensitive Help Guide</Variable>
+  <Variable
+    Name="FlareDNHGuide"
+    Comment=""
+    OriginalName="FlareDNHGuide">DotNet Help Guide</Variable>
+  <Variable
+    Name="FlareGettingStartedGuide"
+    Comment=""
+    OriginalName="FlareGettingStartedGuide">Getting Started Guide</Variable>
+  <Variable
+    Name="FlareGlobalProjectLinkingGuide"
+    Comment=""
+    OriginalName="FlareGlobalProjectLinkingGuide">Global Project Linking Guide</Variable>
+  <Variable
+    Name="FlareHTMLHelpGuide"
+    Comment=""
+    OriginalName="FlareHTMLHelpGuide">HTML Help Guide</Variable>
+  <Variable
+    Name="FlareImagesGuide"
+    Comment=""
+    OriginalName="FlareImagesGuide">Images Guide</Variable>
+  <Variable
+    Name="FlareImportGuide"
+    Comment=""
+    OriginalName="FlareImportGuide">Import Guide</Variable>
+  <Variable
+    Name="FlareIndexingGuide"
+    Comment=""
+    OriginalName="FlareIndexingGuide">Index Guide</Variable>
+  <Variable
+    Name="FlareKeyFeaturesGuide"
+    Comment=""
+    OriginalName="FlareKeyFeaturesGuide">Key Features Guide</Variable>
+  <Variable
+    Name="FlareLanguageSupportGuide"
+    Comment=""
+    OriginalName="FlareLanguageSupportGuide">Language Support Guide</Variable>
+  <Variable
+    Name="FlareMoviesGuide"
+    Comment=""
+    OriginalName="FlareMoviesGuide">Movies Guide</Variable>
+  <Variable
+    Name="FlareNavigationLinksGuide"
+    Comment=""
+    OriginalName="FlareNavigationLinksGuide">Navigation Links Guide</Variable>
+  <Variable
+    Name="FlarePrintedOutputGuide"
+    Comment=""
+    OriginalName="FlarePrintedOutputGuide">Printed Output Guide</Variable>
+  <Variable
+    Name="FlareProjectCreationGuide"
+    Comment=""
+    OriginalName="FlareProjectCreationGuide">Project Creation Guide</Variable>
+  <Variable
+    Name="FlarePulseGuide"
+    Comment=""
+    OriginalName="FlarePulseGuide">Pulse Guide</Variable>
+  <Variable
+    Name="FlareQRCodesGuide"
+    Comment=""
+    OriginalName="FlareQRCodesGuide">QR Codes Guide</Variable>
+  <Variable
+    Name="FlareReportsGuide"
+    Comment=""
+    OriginalName="FlareReportsGuide">Reports Guide</Variable>
+  <Variable
+    Name="FlareReviewsContributionsGuide"
+    Comment=""
+    OriginalName="FlareReviewsContributionsGuide">Reviews and Contributions Guide</Variable>
+  <Variable
+    Name="FlareSearchGuide"
+    Comment=""
+    OriginalName="FlareSearchGuide">Search Guide</Variable>
+  <Variable
+    Name="FlareSharePointGuide"
+    Comment=""
+    OriginalName="FlareSharePointGuide">SharePoint Guide</Variable>
+  <Variable
+    Name="FlareShortcutsGuide"
+    Comment=""
+    OriginalName="FlareShortcutsGuide">Shortcuts Guide</Variable>
+  <Variable
+    Name="FlareSkinsGuide"
+    Comment=""
+    OriginalName="FlareSkinsGuide">Skins Guide</Variable>
+  <Variable
+    Name="FlareSnippetsGuide"
+    Comment=""
+    OriginalName="FlareSnippetsGuide">Snippets Guide</Variable>
+  <Variable
+    Name="FlareSourceControlGuide"
+    Comment=""
+    OriginalName="FlareSourceControlGuide">Source Control Guide</Variable>
+  <Variable
+    Name="FlareStylesGuide"
+    Comment=""
+    OriginalName="FlareStylesGuide">Styles Guide</Variable>
+  <Variable
+    Name="FlareTablesGuide"
+    Comment=""
+    OriginalName="FlareTablesGuide">Tables Guide</Variable>
+  <Variable
+    Name="FlareTOCsGuide"
+    Comment=""
+    OriginalName="FlareTOCsGuide">Tables of Contents Guide</Variable>
+  <Variable
+    Name="FlareTargetsGuide"
+    Comment=""
+    OriginalName="FlareTargetsGuide">Targets Guide</Variable>
+  <Variable
+    Name="FlareTemplatesGuide"
+    Comment=""
+    OriginalName="FlareTemplatesGuide">Templates Guide</Variable>
+  <Variable
+    Name="FlareTopicsGuide"
+    Comment=""
+    OriginalName="FlareTopicsGuide">Topics Guide</Variable>
+  <Variable
+    Name="FlareTouringWorkspaceGuide"
+    Comment=""
+    OriginalName="FlareTouringWorkspaceGuide">Touring the Workspace Guide</Variable>
+  <Variable
+    Name="FlareTransitionFMGuide"
+    Comment=""
+    OriginalName="FlareTransitionFMGuide">Transition from FrameMaker Guide</Variable>
+  <Variable
+    Name="FlareVariablesGuide"
+    Comment=""
+    OriginalName="FlareVariablesGuide">Variables Guide</Variable>
+  <Variable
+    Name="FlareWebHelpOutputsGuide"
+    Comment=""
+    OriginalName="FlareWebHelpOutputGuide">WebHelp Outputs Guide</Variable>
+  <Variable
+    Name="FlareWhatsNewGuide"
+    Comment=""
+    OriginalName="FlareWhatsNewGuide">What's New Guide</Variable>
+  <Variable
+    Name="ContributorContributionWorkflow"
+    Comment="">Contribution Workflow Guide</Variable>
+  <Variable
+    Name="ContributorGettingStartedGuide"
+    Comment="">Getting Started Guide</Variable>
+  <Variable
+    Name="ContributorReviewWorkflowGuide"
+    Comment="">Review Workflow Guide</Variable>
+  <Variable
+    Name="ContributorShortcutsGuide"
+    Comment="">Shortcuts Guide</Variable>
+  <Variable
+    Name="ContributorWhatsNewGuide"
+    Comment="">What's New Guide</Variable>
+</CatapultVariableSet>

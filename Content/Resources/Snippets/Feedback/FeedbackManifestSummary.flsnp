@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.FeedbackExplorer">
+    <body>
+        <p>A manifest is a periodic email summary of various reports. This means that you do not even need to open Feedback Explorer at all; the information automatically comes to you in email format. In order to take advantage of this feature, you must create a manifest in the Feedback Admin (using the Manifest tab), selecting the types of reports you wish it to include. You can create a custom schedule to send the emails at specific intervals (daily, weekly, monthly), and you can use filters to start the emails on a particular date or to run for a certain number of days.</p>
+    </body>
+</html>

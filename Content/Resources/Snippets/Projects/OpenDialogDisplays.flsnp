@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastBlockDepth="2" MadCap:lastHeight="55" MadCap:lastWidth="1058" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Lingo,Products.Align" MadCap:ignoredWords="lialign" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>The Open dialog displays. The <MadCap:variable name="Products.Flare" MadCap:conditions="Products.Flare,Products.Analyzer" /><MadCap:variable name="Products.Lingo" MadCap:conditions="Products.Lingo" /><MadCap:variable name="Products.Align" MadCap:conditions="Products.Align" /> project file extension<MadCap:conditionalText MadCap:conditions="Products.Analyzer">s</MadCap:conditionalText> (<MadCap:conditionalText MadCap:conditions="Products.Analyzer,Products.Flare">.flprj</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Lingo">.liprj</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Align">.lialign</MadCap:conditionalText>) appear<MadCap:conditionalText MadCap:conditions="Products.Flare,Products.Lingo,Products.Align">s</MadCap:conditionalText> in the File Type field.</p>
+    </body>
+</html>

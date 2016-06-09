@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare">
+    <body>
+        <p>Because the style settings that we're working on are intended only for our online outputs, we're going to do our style work with the default medium selected. The online targets are currently set to use the default medium, and the PDF targets are currently set to use the print medium. Because styles trickle down from the default medium to all other mediums automatically, the print medium will automatically get the same settings. However, in this case, it doesn't matter because the print-based outputs do not support these style settings; they will be ignored in those outputs.</p>
+    </body>
+</html>

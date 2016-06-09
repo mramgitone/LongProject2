@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="2" MadCap:lastHeight="207" MadCap:lastWidth="1182">
+    <body>
+        <p>You can use buttons at the bottom of the Segmentation Rule Editor to import or export SRX files.</p>
+        <p>
+            <img src="../../Images/segmentation_rules16.png" alt="" title="" class="MaxWidth100Percent">
+            </img>
+        </p>
+        <p>After exporting an SRX file, another Lingo user can import it into a project. Only SRX files generated from Lingo can be imported into Lingo.</p>
+        <p class="note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">When you import an SRX file, it replaces your current SRX file, including any custom rules in it.</p>
+    </body>
+</html>

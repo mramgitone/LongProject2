@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo">
+    <body>
+        <p>
+            <MadCap:snippetText src="../AllProductVariables.flsnp" />'s segmentation rules are based on regular expressions. Therefore, you can use regular expressions in the Segmentation Rule Editor when creating segmentation rules. However, this is purely optional; it is not required that you enter regular expressions in your segmentation rules.</p>
+    </body>
+</html>

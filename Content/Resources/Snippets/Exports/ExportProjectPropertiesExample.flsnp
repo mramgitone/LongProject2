@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="4" MadCap:lastHeight="492" MadCap:lastWidth="1161">
+    <body>
+        <p class="ExampleHead">example</p>
+        <p class="ExampleMiddleSection">You can open the Project Properties dialog from the Project ribbon.</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/project_properties_export1.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <p class="ExampleMiddleSection">Let's say the Defaults tab looks like this:</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/project_properties_export2.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <p class="ExampleMiddleSection">Notice that the fields point to specific files.</p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareProjectCreationGuide" />
+        <p class="ExampleMiddleSection">Suppose you export this project and include the TOC and styles files in the export, but you do not include the page layout file. In that case, the Project Properties dialog will look like this in the exported project:</p>
+        <p class="Example">
+            <img src="../../Images/project_properties_export3.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+    </body>
+</html>

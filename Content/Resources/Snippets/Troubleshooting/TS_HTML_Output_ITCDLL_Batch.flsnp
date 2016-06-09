@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="532" MadCap:lastWidth="1117" MadCap:conditions="Products.Flare" MadCap:fileTags="AlignTopicAuthor.Kate">
+    <head>
+    </head>
+    <body>
+        <ol>
+            <li>
+                <p>In Windows Explorer, navigate to the <MadCap:variable name="Products.Flare" /> installation's \bin directory. Typically, the path is as follows (where [<span class="TypedEntry">#</span>]= the <MadCap:variable name="Products.Flare" /> version number):</p>
+                <ul class="FirstLevel">
+                    <li><span class="SetOffFirstLevel">Windows XP, Vista, 7, or 8 (64-bit versions) </span><span class="TypedEntry">C:\Program Files (x86)\MadCap Software\MadCap Flare&#160;V[#]\Flare.app\Resources\Bin</span>
+                    </li>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Windows XP, Vista, 7 or 8 (32-bit versions) </span><span class="TypedEntry">C:\Program Files\MadCap Software\MadCap Flare&#160;V[#]\Flare.app\Resources\Bin</span>
+                        </p>
+                        <MadCap:dropDown>
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">The path that you use depends on your specific system configuration. For users running the 64-bit version of Windows, you will see two folders named Program&#160;Files on your C: drive.&#160;Typically, the folder named "\Program&#160;Files (x86)" stores non-native 32-bit applications, such as <MadCap:variable name="Products.Flare" />, and the "\Program Files" folder stores native 64-bit applications. If you installed <MadCap:variable name="Products.Flare" /> in a different location, you need to determine the appropriate path to the \bin directory.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <p>In the bin directory, double-click the file named <span class="Emphasis">RegisterItcc.bat</span>. </p>
+                <p>This runs the batch file. If the registration is successful, the following message appears:</p>
+                <p>
+                    <img src="../../Images/search_itcc_dll_succeeded.png" class="MaxWidth100Percent" />
+                </p>
+                <MadCap:dropDown>
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p class="noteTop" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If the following error message appears, the account you are using may not have sufficient permissions to run the batch file on the computer. </p>
+                        <p class="noteMiddle">
+                            <img src="../../Images/search_itcc_dll_failed.png" class="MaxWidth100Percent" />
+                        </p>
+                        <p class="noteBottom">You will need to use your computer's command line utility to register the DLL as described below or contact your Windows administrator for assistance with registering the DLL. </p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+        </ol>
+    </body>
+</html>

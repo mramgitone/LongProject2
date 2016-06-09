@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="348" MadCap:lastWidth="1121" MadCap:conditions="Products.Flare">
+    <body>
+        <p class="ExampleHead">example</p>
+        <p class="ExampleMiddleSection">Let's say you want to create <MadCap:variable name="Outputs.WebHelp Mobile"></MadCap:variable> output so that end users can see your documentation on their cell phones. In the skin associated with the target, you specify that the output should include a TOC, an index, a glossary, and search. After generating the output, the home page might look something like this:</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/wh_mobile_example1.png" class="MaxWidth40Percent">
+            </img>
+        </p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/wh_mobile_example2.png" class="MaxWidth55Percent">
+            </img>
+        </p>
+        <p class="Example">
+            <img src="../../Images/wh_mobile_example3.png" class="MaxWidth60Percent">
+            </img>
+        </p>
+    </body>
+</html>

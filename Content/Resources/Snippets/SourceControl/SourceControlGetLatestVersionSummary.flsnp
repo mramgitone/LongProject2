@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="1" MadCap:lastHeight="133" MadCap:lastWidth="1144">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>After you bind a <MadCap:variable name="Products.Flare" /> project to a source control application, you can get the latest version of any of the source control files. When you do this, you are copying the most current files stored in the source control application to your local <MadCap:variable name="Products.Flare" /> project without necessarily checking out the files. This means that the "Read Only" designation will remain associated with the files until you check them out.</body>
+</html>

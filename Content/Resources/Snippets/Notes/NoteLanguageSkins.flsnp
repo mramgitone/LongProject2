@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:ignoredWords="n;b" MadCap:lastBlockDepth="2" MadCap:lastHeight="137" MadCap:lastWidth="1170" MadCap:conditions="Products.Flare,Products.Mimic">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you want to display the output user interface in a particular language, you can modify styles in a language skin instead of a regular skin. <MadCap:conditionalText MadCap:conditions="Products.Flare">However, separate language skins are not used for <MadCap:variable name="Outputs.HTML5" /> targets. Instead, a UI Text tab is located in the Skin Editor, which lets you perform all of the localization tasks that you would normally accomplish in a language skin. </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic">(The rest of the interface settings, such as which buttons to include and where to place the navigation toolbar, should still be specified in the Skin Editor.) </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.MimicOnlineOnly">For more information see <MadCap:xref href="../../../Language_Support/About_Language_Support_Mimic.htm" MadCap:conditions="General.OnlineLive">About Language Support</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Flare">For more information see <MadCap:xref href="../../../Language_Support/About_Language_Skins.htm" target="" title="" alt="" class="FirstPageOfChapter">About Language Skins</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

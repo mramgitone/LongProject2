@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="67" MadCap:lastWidth="925">
+    <body>
+        <p><span class="SetOffFirstLevel">Create and Bind New Project </span>Create a new <MadCap:variable name="Products.Flare" /> project and simultaneously bind it to an integrated source control application. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Projects_Starting/Creating_a_Project.htm">Creating a New Project</MadCap:xref>.</MadCap:conditionalText><MadCap:snippetText src="../ForMoreInfo/SeeOnlineHelp.flsnp" MadCap:conditions="FlareGuides.FlareSourceControlGuide" /></p>
+    </body>
+</html>

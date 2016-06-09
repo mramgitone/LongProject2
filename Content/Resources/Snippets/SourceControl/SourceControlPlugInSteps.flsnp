@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="4" MadCap:lastHeight="301" MadCap:lastWidth="1140">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <ol class="LowerAlpha">
+            <li>From the drop-down, select <span class="Emphasis">Third Party Plug-in</span>. </li>
+            <li>In the <span class="Emphasis">Provider</span> field, select the appropriate source control program from the list.</li>
+            <li>(Optional) You might be able to click the Advanced button to enter more options. This depends on whether the provider has enabled advanced options; if not, the button is disabled. The advanced options available to you are different for each provider. </li>
+            <li>Next to the <span class="Emphasis">Project Name</span> field, click <span class="Emphasis">Browse</span>. If the Log In dialog opens, complete the <span class="Emphasis">User name</span> and <span class="Emphasis">Password</span> fields.</li>
+            <li>Find and select the project to which you want to bind the <MadCap:variable name="Products.Flare" /> project. </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="OptionalCommentFieldStep.flsnp" />
+            </li>
+            <li>(Optional) If you want the files in the project to be checked out when you are finished, click <span class="Emphasis">Keep files checked out</span>.</li>
+            <li MadCap:conditions="Snippets.Snippet2">In the Bind Project dialog, click <span class="Emphasis">OK</span>.</li>
+        </ol>
+    </body>
+</html>

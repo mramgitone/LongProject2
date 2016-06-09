@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="251" MadCap:lastWidth="1122" MadCap:conditions="Products.AllProducts">
+    <head>
+        <link href="../../../../TableStyles/Simple.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>&#160;</p>
+        <table style="mc-table-style: url('../../../../TableStyles/Simple.css');margin-left: auto;margin-right: auto;caption-side: top;" class="TableStyle-Simple" cellspacing="0">
+            <col class="TableStyle-Simple-Column-Column1" />
+            <col class="TableStyle-Simple-Column-Column1" />
+            <col class="TableStyle-Simple-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-Simple-Body-Row1">
+                    <td class="TableStyle-Simple-BodyB-Column1-Row1"><a href="http://docs.madcapsoftware.com/FlareV11/FlarePulseGuide.pdf" target="_blank"><img src="../../../../Images/pdf_cover_pulse_guide.png" alt="" title="Pulse is a documentation-centric social collaboration platform that enables you to connect, collaborate, and share knowledge with fellow authors, employees, and your end users.  It functions much like many of the social media websites on the Internet, except it revolves specifically around your online output." class="Hyperlinked" /></a>
+                    </td>
+                    <td class="TableStyle-Simple-BodyB-Column1-Row1"><a href="http://docs.madcapsoftware.com/FlareV11/FlareQRCodesGuide.pdf" target="_blank"><img src="../../../../Images/pdf_cover_qr_codes_guide.png" alt="" title="A QR&#160;code is a type of barcode that can be read by devices such as smart phones. The data encoded in the QR&#160;code can be text, a website URL, an email address, contact information, or SMS (Short Message Service, which is used for sending text messages)." class="Hyperlinked" /></a>
+                    </td>
+                    <td class="TableStyle-Simple-BodyA-Column1-Row1"><a href="http://docs.madcapsoftware.com/FlareV11/FlareReportsGuide.pdf" target="_blank"><img src="../../../../Images/pdf_cover_reports_guide.png" alt="" title="In Flare you can generate custom reports based on the information contained in your project. You can create reports for just about any type of information that MadCap  captures. You can also design the look and feel of reports, save them for future access, and open them in a browser window (where you can print them)." class="Hyperlinked" /></a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&#160;</p>
+    </body>
+</html>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:conditions="Products.FeedbackExplorer" MadCap:lastBlockDepth="4" MadCap:lastHeight="111" MadCap:lastWidth="873" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol class="LowerAlpha">
+            <li>In the local toolbar, click <img src="../../Images/options_btn.jpg" class="ReduceButtonSize" />. The Options dialog opens.</li>
+            <li>Click <span class="Emphasis">Show</span> for each piece of data you want be displayed in the grid.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

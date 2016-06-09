@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="4" MadCap:lastHeight="373" MadCap:lastWidth="1334">
+    <body>
+        <ol>
+            <li>
+                <p>If you want to select the file types in the folder to import for translation, click the <span class="Emphasis">File Types</span> link. The Translatable File Types dialog opens. </p>
+                <p>
+                    <img src="../../Images/filters_customize_filter2_folders_lingo.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>
+                <p>In the <span class="Emphasis">Translate</span> column, select the file types you want to import. You can click the <span class="Emphasis">Select All</span> check box to add all the file types at once.</p>
+                <p>
+                    <img src="../../Images/filters_customize_filter3_folders_lingo.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+            <li>
+                <p>If you want to create file type filters for the files within the folder, select <span class="Emphasis">Customize Folder</span> from the Filter drop-down. The File Types Filters dialog opens. </p>
+                <p>
+                    <MadCap:snippetText src="FiltersforFiles.flsnp" />
+                </p>
+                <p>
+                    <img src="../../Images/filters_customize_filter4_folders_lingo.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+        </ol>
+    </body>
+    <head>
+    </head>
+</html>

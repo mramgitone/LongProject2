@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="129" MadCap:lastWidth="1221">
+    <body>
+        <p class="note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">When people click a link like this in the output, the text shown for each of the topics depends on whether the topic in question has a title or heading. The title set in the Properties dialog has the highest level of precedence. If there is no topic title specified in the Properties dialog, Flare uses text associated with &lt;h1&gt; through &lt;h6&gt; heading styles. If there is no topic title or headings in a topic, Flare uses the topic file name.</p>
+    </body>
+</html>

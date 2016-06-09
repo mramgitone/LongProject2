@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary
+  conditions="Products.FeedbackServerAdmin">
+  <GlossaryEntry
+    Terms="Copy (25) of New">
+    <Terms>
+      <Term>Floating window</Term>
+    </Terms>
+    <Definition
+      Link="">A window that has been moved in the interface and then "dropped" so that it "floats" in the interface, not being attached (or "docked") to any other elements.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    Terms="Copy (62) of New">
+    <Terms>
+      <Term>Drag Pane</Term>
+    </Terms>
+    <Definition
+      Link="">The area at the top-left of a window with a series of nine dots. You can easily move any of the windows in the interface, floating them anywhere in the workspace that you like. Just click on the Drag Pane area of the window, hold your mouse button, and drag/drop the window.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>MadCap Feedback</Term>
+    </Terms>
+    <Definition
+      Link="">A live Help reporting service that works in conjunction with Flare to provide live Web 2.0 community benefits for your online output—including integrated user comments and statistics such as search keywords used and topics visited. Most of these benefits are available not only for Web-based Help (i.e.,   WebHelp and WebHelp Plus), but also for desktop Help (i.e., Dot Net Help and HTML Help). This is true regardless of where you publish your online output. Even if you have attached your online Help to a desktop application, you can still take advantage of the Feedback features.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Feedback Server Admin</Term>
+    </Terms>
+    <Definition
+      Link="">The main control panel for configuring the MadCap Feedback Server.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>SQL Server</Term>
+    </Terms>
+    <Definition
+      Link="">A relational database management system created by Microsoft that uses the Structured Query Language (SQL). Various features in MadCap Software products require the installation of SQL Server. Express versions of SQL Server can be downloaded for free from msdn.microsoft.com.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    Terms="Copy (26) of New">
+    <Terms>
+      <Term>Docked window</Term>
+    </Terms>
+    <Definition
+      Link="">A window that has been moved in the interface and then "dropped" so that it is attached (or "docked") to the sides, top, or bottom of the program interface. When you move the cursor over one of the square icons, semi-transparent shading shows where the window will be docked when you release the mouse button.</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer">
+    <body>
+        <p>Specifiers are based on Microsoft's custom date and time format strings. For details of the specifiers available, see <a href="http://msdn.microsoft.com/en-us/library/8kb3ddd4.aspx" target="_blank">http://msdn.microsoft.com/en-us/library/8kb3ddd4.aspx</a>.</p>
+    </body>
+</html>

@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="Products.AllProductsPlusDocBible">
+  <Variable
+    Comment=""
+    Name="Flare">Flare</Variable>
+  <Variable
+    Name="Movie Viewer"
+    Comment=""
+    Definition="Some text">Movie Viewer</Variable>
+  <Variable
+    Name="Capture"
+    Comment=""
+    Definition="Some text">Capture</Variable>
+  <Variable
+    Name="Feedback Explorer"
+    Comment=""
+    Definition="Some text">Feedback Explorer</Variable>
+  <Variable
+    Name="Mimic"
+    Comment=""
+    Definition="Some text">Mimic</Variable>
+  <Variable
+    Name="Help Viewer"
+    Comment=""
+    Definition="Some text">Help Viewer</Variable>
+  <Variable
+    Name="Analyzer"
+    Comment=""
+    Definition="Some text">Analyzer</Variable>
+  <Variable
+    Name="Lingo"
+    Comment=""
+    Definition="Some text">Lingo</Variable>
+  <Variable
+    Name="Contributor"
+    Comment=""
+    Definition="Some text">Contributor</Variable>
+  <Variable
+    Name="Align"
+    Comment=""
+    Definition="Some text">Align</Variable>
+  <Variable
+    Name="FeedbackServerAdmin"
+    Comment=""
+    Definition="Some text">Feedback Server Admin</Variable>
+  <Variable
+    Name="MovieSync"
+    Comment=""
+    Definition="Some text">MovieSync</Variable>
+  <Variable
+    Name="AlignFull"
+    Comment=""
+    Definition="Some text">MADCAP ALIGN</Variable>
+  <Variable
+    Name="AnalyzerFull"
+    Comment=""
+    Definition="Some text">MADCAP ANALYZER</Variable>
+  <Variable
+    Name="CaptureFull"
+    Comment=""
+    Definition="Some text">MADCAP CAPTURE</Variable>
+  <Variable
+    Name="ContributorFull"
+    Comment=""
+    Definition="Some text">MADCAP CONTRIBUTOR</Variable>
+  <Variable
+    Name="Feedback ExplorerFull"
+    Comment=""
+    Definition="Some text">MADCAP FEEDBACK</Variable>
+  <Variable
+    Name="FeedbackServerAdminFull"
+    Comment=""
+    Definition="Some text">MADCAP FEEDBACK</Variable>
+  <Variable
+    Name="FlareFull"
+    Comment=""
+    Definition="Some text">MADCAP FLARE</Variable>
+  <Variable
+    Name="Help ViewerFull"
+    Comment=""
+    Definition="Some text">MADCAP HELP VIEWER</Variable>
+  <Variable
+    Name="LingoFull"
+    Comment=""
+    Definition="Some text">MADCAP LINGO</Variable>
+  <Variable
+    Name="MimicFull"
+    Comment=""
+    Definition="Some text">MADCAP MIMIC</Variable>
+  <Variable
+    Name="Movie ViewerFull"
+    Comment=""
+    Definition="Some text">MADCAP MOVIE VIEWER</Variable>
+  <Variable
+    Name="MovieSyncFull"
+    Comment=""
+    Definition="Some text">MADCAP MOVIESYNC</Variable>
+  <Variable
+    Name="Pulse"
+    Comment=""
+    Definition="Some text">Pulse</Variable>
+  <Variable
+    Name="PulseFull"
+    Comment=""
+    Definition="Some text">MADCAP PULSE</Variable>
+  <Variable
+    Name="AlignCaps"
+    Comment="">ALIGN</Variable>
+  <Variable
+    Name="AnalyzerCaps"
+    Comment="">ANALYZER</Variable>
+  <Variable
+    Name="CaptureCaps"
+    Comment="">CAPTURE</Variable>
+  <Variable
+    Name="ContributorCaps"
+    Comment="">CONTRIBUTOR</Variable>
+  <Variable
+    Name="FlareCaps"
+    Comment="">FLARE</Variable>
+  <Variable
+    Name="HelpViewerCaps"
+    Comment="">HELP VIEWER</Variable>
+  <Variable
+    Name="LingoCaps"
+    Comment="">LINGO</Variable>
+  <Variable
+    Name="MimicCaps"
+    Comment="">MIMIC</Variable>
+  <Variable
+    Name="MovieViewerCaps"
+    Comment="">MOVIE VIEWER</Variable>
+  <Variable
+    Comment=""
+    Name="PulseCaps">PULSE</Variable>
+  <Variable
+    Name="MovieSyncCaps"
+    Comment="">MOVIESYNC</Variable>
+</CatapultVariableSet>

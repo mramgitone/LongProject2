@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Pulse">
+    <body>
+        <p>When you enter a published URL path, make sure you include http:// at the beginning of the URL.</p>
+        <p class="ExampleHead">example</p>
+        <p class="Example">Let's say you've generated a target called "FlareOutput" and you've uploaded the output so that users access it here:&#160;help.mycompany.com/FlareOutput/Default.htm. In that case, enter <span class="EightyFiveEM">http://help.mycompany.com/FlareOutput</span> in the Published Url field. </p>
+    </body>
+</html>

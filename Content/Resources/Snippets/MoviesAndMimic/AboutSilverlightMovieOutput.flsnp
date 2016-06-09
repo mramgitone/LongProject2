@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="411" MadCap:lastWidth="1150" MadCap:conditions="Products.Flare,Products.Mimic">
+    <body>
+        <MadCap:snippetBlock src="../Output/SilverlightOutputSummary.flsnp" />
+        <p>Following are some important characteristics of the <MadCap:variable name="Outputs.Silverlight" /> format.</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Output File Types </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> The output consists of an <MadCap:keyword term="HTM" />HTM file (XML-based), as well as various ancillary files.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Skins </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> You can edit the interface of the movie output (e.g., the navigation features) through the use of skins, including language skins. <MadCap:conditionalText MadCap:conditions="Products.MimicOnlineOnly">See <MadCap:xref href="../../../Skins/About_Skins_Mimic.htm">About Skins</MadCap:xref> and <MadCap:xref href="../../../Language_Support/Editing_Language_Skins_Mimic.htm">Editing Language Skins</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li>
+                <MadCap:keyword term="MadCap Movie Viewer" /><span class="SetOffFirstLevel">Viewer </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Movies can be viewed in a browser window.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">XML </span>
+                    <MadCap:expanding>
+                        <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                        <MadCap:expandingBody> The output files are <MadCap:keyword term="XML" />XML-based, so you can open them in any XML editor to modify them. </MadCap:expandingBody>
+                    </MadCap:expanding>
+                </p>
+            </li>
+        </ul>
+        <p>In addition to generating the output, what other actions are required?</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">MIME Type (From Server) </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> In order for end users to see <MadCap:variable name="Outputs.Silverlight" /> movies delivered from a server, the MIME type must first be set up correctly. This is something that your server administrator would need to do. You should provide the admin with the necessary steps. <MadCap:conditionalText MadCap:conditions="Products.MimicOnlineOnly">See <MadCap:xref href="../../../Output/More_About_Publishing_Output/Setting_the_MIME_Type_on_a_Server_for_Silverlight.htm">Setting the MIME Type on a Server for Silverlight</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Flare">See the Mimic online Help.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.MimicPrintOnly">For more information see the Mimic online Help.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Silverlight (From Desktop)&#160;</span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>  In order for end users to see <MadCap:variable name="Outputs.Silverlight" /> movies locally on their desktop, they must have Microsoft Silverlight installed.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+        </ul>
+    </body>
+</html>

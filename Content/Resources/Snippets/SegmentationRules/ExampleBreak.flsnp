@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="4" MadCap:lastHeight="468" MadCap:lastWidth="1410">
+    <body>
+        <p class="ExampleHead">example—break</p>
+        <p class="ExampleMiddleSection">Let's say you import a Word document and the segments look like this in the Translation Editor:</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/segmentation_rules5.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="LingoGuides.LingoWhatsNewGuide" />
+        <p class="ExampleMiddleSection">This is a situation where you want the first segment to remain as it is, but you need the second segment to break after Dr. You can do this manually by splitting the segment, or you can do it automatically by creating a segmentation rule like the following:</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/segmentation_rules6.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="LingoGuides.LingoWhatsNewGuide" />
+        <p class="ExampleMiddleSection">With this rule in place, you can update the project and the segments will look like this:</p>
+        <p class="Example">
+            <img src="../../Images/segmentation_rules7.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+    </body>
+</html>

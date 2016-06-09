@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Pulse">
+    <body>
+        <p>To integrate the embedded discussion forms and other <MadCap:variable name="Products.Pulse" /> features with your <MadCap:variable name="Products.Flare" /> output, add a new community in <MadCap:variable name="Products.Flare" />. This action automatically creates a new system in <MadCap:variable name="Products.Pulse" />, allowing your web server to host, store, and serve the embedded discussion forms that appear below the topics in your <MadCap:variable name="Products.Flare" /> output. This system also gives you and your team members the ability to moderate and administer the <MadCap:variable name="Products.Pulse" /> features and content from the Pulse dashboard.</p>
+    </body>
+</html>

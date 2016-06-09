@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor" MadCap:lastBlockDepth="8" MadCap:lastHeight="964" MadCap:lastWidth="751">
+    <body>
+        <p>
+            <MadCap:snippetText src="TableEnhancementsSummary.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.OnlineLive"> See <MadCap:xref href="../../../../Tables/More_About_Tables/Inserting_Table_Columns_and_Rows.htm">Inserting Table Columns and Rows</MadCap:xref> and <MadCap:xref href="../../../../Tables/More_About_Tables/Moving_Table_Columns_and_Rows.htm">Moving Table Columns and Rows</MadCap:xref>.</MadCap:conditionalText></p>
+        <h3 MadCap:conditions="General.Print">Insert Selected Number of Selected Columns or Rows</h3>
+        <MadCap:dropDown class="ThirdLevel">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">insert selected number of selected columns or rows</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Following are steps for inserting a specific number of columns or rows into a table:</p>
+                <ol>
+                    <li>If you have not done so already, insert a table. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../../Tables/Inserting_Tables.htm">Inserting Tables</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li>
+                        <p>In a table, click and drag to select the number of rows or columns you want to add (e.g., if you want to insert three rows, select three in the table). You do not need to select entire columns or rows, just portions of them.</p>
+                        <p>
+                            <img src="../../../Images/tables_insert_selected_rows1.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>Right-click, and in the context menu select one of the following:<ul class="FirstLevel"><li><span class="SetOffFirstLevel">Insert&gt;Columns to the Left </span>Adds the selected number of columns to the left.</li><li><span class="SetOffFirstLevel">Insert&gt;Columns to the Right </span>Adds the selected number of columns to the right.</li><li><span class="SetOffFirstLevel">Insert&gt;Rows Above </span>Adds the selected number of rows above.</li><li><span class="SetOffFirstLevel">Insert&gt;Rows Below </span>Adds the selected number of rows below.</li></ul><p><img src="../../../Images/tables_insert_selected_rows2.png" alt="" title="" class="MaxWidth85Percent" /></p><MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide" /><p>The same number of selected columns or rows are inserted into the table.</p><p><img src="../../../Images/tables_insert_selected_rows3.png" alt="" title="" class="MaxWidth100Percent" /></p></li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide" />
+        <h3 MadCap:conditions="General.Print">Move Rows With Shortcut Keys</h3>
+        <MadCap:dropDown class="ThirdLevel">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">move rows with shortcut keys</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p>In addition to clicking and dragging structure bars, you can now move selected rows up or down in a table by holding down <span class="Emphasis">ALT+SHIFT</span> on your keyboard and pressing the <span class="Emphasis">Up</span> or <span class="Emphasis">Down</span> arrow key.</p>
+                <p>
+                    <img src="../../../Images/tables_move_rows1.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <p>
+                    <img src="../../../Images/tables_move_rows2.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

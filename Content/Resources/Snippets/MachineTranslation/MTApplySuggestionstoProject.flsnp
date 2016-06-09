@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="9" MadCap:lastHeight="356" MadCap:lastWidth="961">
+    <body>
+        <ol>
+            <li>Open the project.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                <ul style="list-style-type: square;">
+                    <li>
+                        <p><span class="SetOffFirstLevel">Ribbon </span>Select the <span class="Emphasis">Resources</span> ribbon. In the <span class="Emphasis">Machine Translation</span> section select <span class="Emphasis">Machine Translate Project</span>. </p>
+                        <p MadCap:conditions="General.OnlineLive">
+                            <MadCap:snippetBlock src="../UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" />
+                        </p>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Menu</span> Select <span class="Emphasis">Translate&gt;Machine Translate Project</span>.</li>
+                </ul>
+                <p>A message lets you know if segments were applied, and how many.</p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+        </ol>
+    </body>
+    <head>
+    </head>
+</html>

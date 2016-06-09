@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="6" MadCap:lastHeight="318" MadCap:lastWidth="576">
+    <body>
+        <ul class="FirstLevel">
+            <li>
+                <p><span class="SetOffFirstLevel">New from template </span>
+                    <MadCap:expanding>
+                        <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                        <MadCap:expandingBody> This lets you choose either the factory template file or one of your own customized template files as a starting point. The new file will take on all of the settings contained in the template. If you want to use the factory template provided by <MadCap:snippetText src="../AllProductVariables.flsnp" />, expand the <span class="Emphasis"><MadCap:keyword term="Templates:factory" />Factory Templates</span> folder and click on a template file. If you want to use your own customized template file, expand the appropriate folder and click on a file. <MadCap:conditionalText MadCap:conditions="General.Print">For more information about templates, see the online Help.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Templates/About_Templates.htm" target="" title="" alt="">About Templates</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                    </MadCap:expanding>
+                </p>
+                <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareSearchGuide" />
+                <MadCap:dropDown MadCap:conditions="Products.Flare">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="Products.FlareOnlineOnly">note</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p class="note" MadCap:conditions="Products.Flare" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">In some dialogs and wizards you can click the <span class="Emphasis">Manage Templates</span> button <img src="../../Images/manage_templates_btn.png" class="ReduceButtonSize" /> if you want to open the Template Manager. This lets you manage any of your template files (e.g., add new templates, enter descriptions for templates). <MadCap:conditionalText MadCap:conditions="General.Print">For more information see the online Help.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Templates/Managing_Templates.htm">Managing Templates</MadCap:xref>.</MadCap:conditionalText></p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li>
+                <MadCap:snippetText src="NewFromExisting.flsnp" />
+            </li>
+        </ul>
+    </body>
+</html>

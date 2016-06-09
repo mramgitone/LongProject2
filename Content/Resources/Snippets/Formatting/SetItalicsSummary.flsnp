@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="69" MadCap:lastWidth="1309" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor">
+    <body>
+        <p>You can apply italics to text. Perhaps the easiest way to do this is to highlight the text, select the <span class="Emphasis">Home</span> ribbon, and click <img src="../../Images/italic_btn.png" class="ReduceButtonSize" />. You can also highlight text and click <img src="../../Images/italic_btn.png" class="ReduceButtonSize" /> in the Text Format toolbar.<MadCap:conditionalText MadCap:conditions="Products.Flare,Products.Analyzer,Products.Contributor">However, you can also change the properties of a different tag so that it uses italics.</MadCap:conditionalText></p>
+    </body>
+</html>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor" MadCap:lastBlockDepth="4" MadCap:lastHeight="726" MadCap:lastWidth="803">
+    <body>
+        <p>
+            <MadCap:snippetText src="FontParagraphPropertyOptionsSummary.flsnp" />
+            <MadCap:conditionalText MadCap:conditions="General.OnlineLive"> See <MadCap:xref href="../../../../Fonts/Editing_Font_Properties.htm">Editing Font Properties</MadCap:xref> and <MadCap:xref href="../../../../Paragraphs/About_Paragraph_Formatting.htm">About Paragraph Formatting</MadCap:xref>.</MadCap:conditionalText>
+        </p>
+        <p class="ExampleHead">example</p>
+        <p class="ExampleMiddleSection">In the XML Editor, you can right-click on content (e.g., a paragraph or heading, selected text in a paragraph) and from the context menu select <span class="Emphasis">Paragraph</span> or <span class="Emphasis">Font</span> to open the Paragraph Properties dialog or Font Properties dialog, respectively.</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../../Images/font_paragraph_context_options1.png" alt="" title="" class="MaxWidth80Percent" />
+        </p>
+        <p class="ExampleMiddleSection">
+            <img src="../../../Images/font_paragraph_context_options2.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide" />
+        <p class="ExampleMiddleSection">You can also right-click on a span bar to open the Font Properties dialog and change the look of the text related to it.</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../../Images/font_paragraph_context_options3.png" alt="" title="" class="MaxWidth85Percent" />
+        </p>
+        <MadCap:snippetBlock src="../../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide" />
+        <p class="ExampleMiddleSection">For block-level content, you can right-click the appropriate structure bar (in the following example, we selected the p structure bar). Your cursor doesn't even need to be in the same paragraph or heading that you want to change.</p>
+        <p class="Example">
+            <img src="../../../Images/font_paragraph_context_options4.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">These paragraph and font properties options are not available when you right-click on body or html structure bars.</p>
+    </body>
+</html>

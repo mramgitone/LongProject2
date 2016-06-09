@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="10" MadCap:lastHeight="852" MadCap:lastWidth="1059">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                <ul class="FirstLevel">
+                    <li>
+                        <p><span class="SetOffFirstLevel">Ribbon </span>
+                            <MadCap:snippetText src="../UIElements/SelectProjectRibbon.flsnp" /> In the <span class="Emphasis">Content</span> section select <span class="Emphasis">New&gt;Table of Contents</span>. </p>
+                        <p>
+                            <MadCap:snippetBlock src="../UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" />
+                        </p>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Menu </span>Select <span class="Emphasis">Project&gt;&gt;Add Table of Contents</span>.</li>
+                    <li><span class="SetOffFirstLevel">Right-Click </span>In the Project Organizer, right-click on the <span class="Emphasis">TOCs</span> folder and from the context menu select <span class="Emphasis">Add Table of Contents</span>.</li>
+                </ul>
+                <p>The Add File dialog opens.</p>
+            </li>
+            <li>In the <span class="Emphasis">File Type</span> field at the top, make sure <span class="Emphasis">TOC</span> is selected.</li>
+            <li>
+                <MadCap:snippetText src="../Templates/InSourceAreaTemplateStep.flsnp" />
+                <MadCap:snippetBlock src="../Templates/TemplateOptionsStep.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SelectSubfolderProjectOrganizerStep.flsnp" />
+            </li>
+            <li>In the <span class="Emphasis">File Name</span> field, type a new name for the TOC.</li>
+            <li>Click <span class="Emphasis">Add</span>. The TOC is added to the TOCs folder in the Project Organizer. The TOC Editor opens to the right, with the page for the new TOC shown and some initial TOC books and entries added for you.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/SaveYourWork.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

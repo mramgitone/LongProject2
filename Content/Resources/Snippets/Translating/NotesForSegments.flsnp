@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="4" MadCap:lastHeight="561" MadCap:lastWidth="1074">
+    <body>
+        <p MadCap:conditions="">For each segment in the Translation Editor, you can enter a note. For example, you might want to add a note to remind yourself to do additional research about a term, or to tell a reviewer why a particular translation was used.</p>
+        <p MadCap:conditions="">A Note column on the right side of the segment row and a tab at the bottom of the editor are available for this purpose.</p>
+        <p MadCap:conditions="">
+            <img src="../../Images/segment_notes1.png" alt="" title="" class="MaxWidth100Percent">
+            </img>
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="LingoGuides.LingoTranslationGuide,LingoGuides.LingoWhatsNewGuide" />
+        <p MadCap:conditions="">To add a note, open the Segment Notes tab at the bottom of the editor. You can do this in one of the following ways:</p>
+        <ul>
+            <li MadCap:conditions="">Click the <span class="Emphasis">Segment Notes</span> tab.</li>
+            <li MadCap:conditions="">Click the <span class="Emphasis">Note</span> icon <img src="../../Images/note_icon_not_used.png" alt="" title="" class="ReduceButtonSize"></img> for that segment.</li>
+            <li MadCap:conditions="">Right-click in the segment and in the context menu select <span class="Emphasis">Add Note</span>.</li>
+        </ul>
+        <p MadCap:conditions="">In the Segment Notes tab, type in either the <span class="Emphasis">Source&#160;Note</span> or <span class="Emphasis">Target Note</span> area. If you want to create a new paragraph, press <span class="Emphasis">CTRL+Enter</span>. After you enter a note, the icon changes in the Note column.</p>
+        <p MadCap:conditions="">
+            <img src="../../Images/segment_notes2.png" alt="" title="" class="MaxWidth100Percent">
+            </img>
+        </p>
+        <p MadCap:conditions="" class="note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">Segment notes travel with the project. Therefore, if you create a new <MadCap:snippetText src="../AllProductVariables.flsnp" /> project based on the same source files, the same notes will not automatically be associated with those segments because it is a new project.</p>
+    </body>
+</html>

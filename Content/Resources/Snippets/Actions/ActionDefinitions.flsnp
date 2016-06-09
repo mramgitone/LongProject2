@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:ignoredWords="XXXX" MadCap:lastBlockDepth="8" MadCap:lastHeight="2386" MadCap:lastWidth="630" MadCap:conditions="Products.Mimic">
+    <head><title></title>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">GotoFrame </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Select this option to open a specific frame in the movie when the user clicks the button or other object. When you select this option, the Frame Name field appears at the bottom of the tab. Enter the number or name of the destination frame in this field. (The name of the frame is identified above it in the Frames window pane. You can change the name in the Frame Properties dialog.)</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">GotoFirst&#160;</span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Select this option to open the first frame in the movie when the user clicks the button or other object.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">GotoNext&#160;</span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Select this option to open the next frame in the movie when the user clicks the button or other object.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">GotoPrevious&#160;</span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Select this option to open the previous frame in the movie when the user clicks the button or other object.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li class="PageBreakBefore"><span class="SetOffFirstLevel">StartCursor&#160;</span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Select this option to start the cursor movement (if the frame has one) when the user clicks the button or other object.</MadCap:expandingBody>
+                </MadCap:expanding> <MadCap:dropDown MadCap:conditions="Snippets.Snippet2" class="SecondLevel"><MadCap:dropDownHead MadCap:conditions="Snippets.Snippet2"><MadCap:dropDownHotspot>example</MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody class="Final"><p class="ExampleHead" MadCap:conditions="Snippets.Snippet2">example</p><p class="ExampleMiddleSection" MadCap:conditions="Snippets.Snippet2">This option would be useful if you have a frame containing a cursor trajectory, and you want to give users a choice of performing a task (e.g., clicking an area in your movie) or watching as the task is performed for them (watching the cursor move along its trajectory and click the area). In a situation such as this, you might do the following:</p><ol class="Example" MadCap:conditions="Snippets.Snippet2"><li class="Example1" MadCap:conditions="Snippets.Snippet2">Add a rectangle shape and place it around the area that you want the user to click. Then double-click that rectangle and select an action for it, such as "GotoNext." <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Objects/Shapes/Adding_Shapes_to_Frames.htm">Adding Shapes to Frames</MadCap:xref> and <MadCap:xref href="../../../Actions/Selecting_Actions_for_Objects.htm">Selecting Actions for Objects</MadCap:xref>.</MadCap:conditionalText></li><li class="Example1" MadCap:conditions="Snippets.Snippet2">Add a callout, pointing it to that rectangle area. Add text to the callout, providing instructions for the user (e.g., "Click this area. Otherwise, click the button below to see it done."). <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Objects/Callouts/Adding_Callouts.htm">Adding Callouts</MadCap:xref> and <MadCap:xref href="../../../Text/Adding_Text_Mimic.htm">Adding Text</MadCap:xref>.</MadCap:conditionalText></li><li class="Example1" MadCap:conditions="Snippets.Snippet2">Add a button. Give it an appropriate label (e.g., "Do it for me"). Then apply the correction action to the button. To do this, double-click the button and select the <span class="Emphasis" style="font-weight: bold;">StartCursor</span> action for it. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Objects/Buttons/Adding_Buttons.htm">Adding Buttons</MadCap:xref>.</MadCap:conditionalText></li><li class="Example1" MadCap:conditions="Snippets.Snippet2">Select an end action for the cursor. Double-click the cursor on the frame, and select an action (e.g., "GotoNext") on the End Action tab. This is needed in case the user opts to click the "Do it for me" button. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Objects/Cursors/Selecting_an_End_Action_for_a_Cursor.htm">Selecting an End Action for a Cursor</MadCap:xref>.</MadCap:conditionalText></li><li class="Example1" MadCap:conditions="Snippets.Snippet2">Pause the timing of the frame. To do this, double-click the frame and select <span class="Emphasis" style="font-weight: normal;">"Pause movie at end of frame"</span> on the Transition tab. This will ensure that the frame waits for the user to perform an action (either clicking in the rectangle area or clicking the button) before moving on. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Frames/Pausing_Frames.htm">Pausing Frames</MadCap:xref>.</MadCap:conditionalText></li></ol></MadCap:dropDownBody></MadCap:dropDown></li>
+        </ul>
+        <ul>
+            <li><span class="SetOffFirstLevel">GotoFirstSection&#160;</span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Select this option to open the first movie in the collection when the user clicks the button or other object. This option assumes you have created a collection and added multiple movies to it.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">GotoPreviousSection&#160;</span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Select this option to open the previous movie in the collection when the user clicks the button or other object. This option assumes you have created a collection and added multiple movies to it.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">GotoNextSection&#160;</span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Select this option to open the next movie in the collection when the user clicks the button or other object. This option assumes you have created a collection and added multiple movies to it.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">GotoSection&#160;</span>
+                    <MadCap:expanding>
+                        <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                        <MadCap:expandingBody> Select this option to open a specific movie in the collection when the user clicks the button or other object. When you select this option, the Section Name field appears at the bottom of the tab. Select the name of the destination movie from the drop-down list in this field. This option assumes you have created a collection and added multiple movies to it.</MadCap:expandingBody>
+                    </MadCap:expanding>
+                </p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">notes</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <MadCap:snippetBlock src="../Notes/NoteMovieNames.flsnp" />
+                        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you use this action and are generating Flash output, you might encounter problems with movies correctly jumping from one movie to the next. This is due to Flash-related security issues.</p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li><span class="SetOffFirstLevel">Pause&#160;</span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Select this option to pause the movie when the user clicks the button or other object. When the user clicks the button or other object again, the movie will continue.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Accept&#160;</span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Select this option to accept the user's input. Let's say you add an input box to a frame. After users complete the input box, they can usually simply press Enter on the keyboard. However, if you want users to click say, a button, when they are finished with the input, you can create a button and apply this action to it. After users finish typing the input, they can click that button to submit the input (instead of pressing Enter on the keyboard).</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Open&#160;</span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Select this option to open a remote file (such as a website) when the user clicks the button or other object. When you select this option, the URL field appears at the bottom of the tab. Enter the full URL in this field. With this option, the website or other file will open in the viewer used for displaying the movie (e.g., MadCap Movie Viewer, MadCap Help Viewer).</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">OpenWithDefault&#160;</span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Select this option to open a remote file (such as a website) when the user clicks the button or other object. When you select this option, the URL field appears at the bottom of the tab. Enter the full URL in this field. With this option, the website or other file will open in the default Windows application for the file type (e.g., HTM files open in Internet Explorer, DOC files open in Microsoft Word).</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Snippets.Snippet1"><span class="SetOffFirstLevel">Perform action on "Double Click"&#160;</span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Select this option if you want the action to be performed only when the user double-clicks the button. Otherwise, the action will be performed when the user single-clicks the button.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Argument&#160;</span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> This field will change to "Frame Name," "Section Name," or "URL" when you select "GotoFrame," "GotoSection," "Open," or "OpenWithDefault" (see below).</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Frame Name&#160;</span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> If you selected the "GotoFrame" option, enter the number or name of the destination frame in this field. (The name of the frame is identified above it in the Frames window pane. You can change the name in the Frame Properties dialog.)</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">Section Name&#160;</span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> If you selected the "GotoSection" option, select the name of the destination movie from this field. </MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">URL&#160;</span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> If you selected the "Open" or "OpenWithDefault" option, enter the full URL in this field.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+        </ul>
+    </body>
+</html>

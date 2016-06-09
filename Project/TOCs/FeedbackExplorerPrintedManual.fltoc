@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.FeedbackExplorer">
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/PrintOnlyTopics/Copyright.htm"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/PrintOnlyTopics/PrintTOC.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TOC.flpgl"
+    PageNumberReset="reset"
+    PageNumberFormat="lower-roman"
+    PageNumber="1"
+    StartSection="false"></TocEntry>
+  <TocEntry
+    Title="Introduction"
+    Link="/Content/Feedback/About_MadCap_Feedback.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageNumber="1"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumberReset="reset"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue">
+    <TocEntry
+      Title="About the MadCap Feedback Explorer"
+      Link="/Content/Introduction_Topics/About_the_MadCap_Feedback_Explorer.htm" />
+    <TocEntry
+      Title="Getting Additional Help"
+      Link="/Content/PrintOnlyTopics/Getting_Help.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Getting Set Up with MadCap Feedback"
+    StartSection="false"
+    Link="/Content/Getting_Set_Up/Getting_Set_Up_with_MadCap_Feedback.htm"
+    PageNumber="1"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Installing MadCap Feedback Server"
+      Link="/Content/Getting_Set_Up/Installing_MadCap_Feedback_Server_Admin_and_Other_Components.htm" />
+    <TocEntry
+      Title="Installing SQL Server"
+      Link="/Content/SQL/Installing_SQL_Server.htm" />
+    <TocEntry
+      Title="Configuring the MadCap Feedback Server Admin"
+      Link="/Content/Getting_Set_Up/Configuring_and_Maintaining_the_MadCap_Feedback_Server_Admin.htm" />
+    <TocEntry
+      Title="Excluding IP Addresses"
+      Link="/Content/Excluded_IPs/Excluding_IP_Addresses.htm" />
+    <TocEntry
+      Title="Localizing Activation Success and Failure Pages"
+      Link="/Content/Getting_Set_Up/Localizing_Success_Failure_Pages.htm" />
+    <TocEntry
+      Title="Creating a Configured Feedback File"
+      Link="/Content/Getting_Set_Up/Creating_a_Configured_Feedback_File.htm" />
+    <TocEntry
+      Title="Opening a Configured Feedback File"
+      Link="/Content/Getting_Set_Up/Opening_a_Configured_Feedback_File.htm" />
+    <TocEntry
+      Title="Clearing the Feedback Database"
+      Link="/Content/Getting_Set_Up/Clearing_the_Feedback_Database.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Touring the Feedback Explorer Workspace"
+    Link="/Content/Tour_of_the_Workspace/Touring_the_Feedback_Explorer_Workspace.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false">
+    <TocEntry
+      Title="Customizing the Workspace"
+      Link="/Content/Tour_of_the_Workspace/Customizing_the_Workspace.htm" />
+    <TocEntry
+      Title="Window Layouts"
+      Link="/Content/Tour_of_the_Workspace/More_About_Customizing_the_Workspace/Window_Layouts.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="PrintIndex"
+    Link="/Content/PrintOnlyTopics/PrintIndex.htm"
+    StartSection="false"
+    PageNumber="1"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Index.flpgl"
+    PageNumberReset="continue" />
+</CatapultToc>

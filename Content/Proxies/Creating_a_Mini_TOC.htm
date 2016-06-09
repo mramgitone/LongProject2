@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="11" MadCap:lastHeight="3732" MadCap:lastWidth="1127">
+    <head><title></title>
+        <link href="../Resources/Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+        <meta name="description" content="Create a miniature table of contents (mini-TOC) to include part of a TOC in a master page or topic. Its easy to add Mini TOCs with MadCap Flare. " />
+    </head>
+    <body>
+        <h1 MadCap:conditions="General.OnlineLive,FlareGuides.FlareTablesOfContentsGuide">
+            <MadCap:concept term="FilterPrintedOutput" MadCap:conditions="Products.Flare" />
+            <MadCap:keyword term="Mini-TOC:proxies;Proxies:mini-TOC" />Creating a Mini-TOC</h1>
+        <h1 MadCap:conditions="FlareGuides.FlarePrintedOutputGuide">
+            <MadCap:keyword term="Mini-TOC:proxies;Proxies:mini-TOC" />Mini-TOCs</h1>
+        <MadCap:snippetBlock src="../Resources/Snippets/Banners/Flare/FeatureSupportedAllOnlineAndPrint.flsnp" />
+        <p>
+            <MadCap:snippetText src="../Resources/Snippets/Proxies/MiniTOCProxySummary.flsnp" />
+        </p>
+        <h2 MadCap:conditions="General.Print">How It Works</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">how it works</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../Resources/Snippets/Proxies/MiniTOCProxySummary2.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">examples</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="ExampleHead" MadCap:conditions="">examples for online output</p>
+                <p MadCap:conditions="" class="ExampleMiddleSection">
+                    <img src="../Resources/Images/mini_toc_example1.png" class="MaxWidth90Percent" />
+                </p>
+                <p MadCap:conditions="" class="ExampleMiddleSection" style="page-break-before: always;">Here is how a mini-TOC might look in the output for a Help system:</p>
+                <p MadCap:conditions="" class="Example">
+                    <img src="../Resources/Images/mini_toc_example.png" class="MaxWidth80Percent" />
+                </p>
+                <p class="ExampleHead" MadCap:conditions="">examples for print-based output</p>
+                <p class="ExampleMiddleSection">
+                    <img src="../Resources/Images/mini_toc_print_example1.png" class="MaxWidth90Percent" />
+                </p>
+                <p class="Example">
+                    <img src="../Resources/Images/mini_toc_print_example2.png" class="MaxWidth80Percent" />
+                </p>
+                <MadCap:snippetBlock src="../Resources/Snippets/Proxies/MiniTOCProxyStylesMethodExample.flsnp" />
+                <MadCap:snippetBlock src="../Resources/Snippets/Proxies/MiniTOCProxyStructureMethodExample.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to create a mini-toc</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Open a topic.</li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                        <ul class="FirstLevel">
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon </span>
+                                    <MadCap:snippetText src="../Resources/Snippets/UIElements/SelectInsertRibbon.flsnp" /> In the <span class="Emphasis">Proxy</span> section select <span class="Emphasis">Proxy&gt;Mini-Toc Proxy</span>. </p>
+                                <p MadCap:conditions="General.OnlineLive">
+                                    <MadCap:snippetBlock src="../Resources/Snippets/UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" />
+                                </p>
+                            </li>
+                            <li><span class="SetOffFirstLevel">Menu </span>Select <span class="Emphasis">Insert&gt;Proxy&gt;Insert Mini-Toc Proxy</span>.</li>
+                        </ul>
+                        <p>The Mini-TOC Proxy dialog opens.</p>
+                    </li>
+                    <li>(Optional) From the <span class="Emphasis"><MadCap:keyword term="TOC depth" />TOC Depth</span> field, select a number to dictate the depth of the mini-TOC. For example, if the proxy is intended for print output and you want the mini-TOC to be based on heading levels in the topics, you might place the proxy after an &lt;h1&gt; heading and select 4 as the depth. In that case, the proxy will include headings that are using &lt;h2&gt;, &lt;h3&gt;, and &lt;h4&gt; styles (but not &lt;h5&gt; or &lt;h6&gt;).</li>
+                    <li>
+                        <p>(Optional) From the <span class="Emphasis">Stylesheet class</span> field, you can select a style for the mini-TOC. </p>
+                        <p>You might create and use style classes if you want to generate multiple mini-TOCs with different looks for each output. Otherwise, the generated mini-TOC will use the style settings from the parent &lt;MadCap|miniTocProxy&gt; style. You can create a style class for this purpose in the Stylesheet Editor. To do this, select the <span class="Emphasis">MadCap|miniTocProxy</span> style and click <span class="Emphasis">Add Class</span> to create a class. </p>
+                        <MadCap:dropDown>
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody class="Final">
+                                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you want to affect the look of the individual entries in the generated mini-TOC, you can use the MiniTOC1 through MiniTOC9 styles (classes of the &lt;p&gt; tag) in the Stylesheet Editor. For example, let's say that you want to use blue font for the first-level headings in the generated mini-TOC. You can change the font color setting on the p.MiniTOC1 style. You can also modify the entire container holding the mini-TOC. <MadCap:conditionalText MadCap:conditions="General.OnlineLive,FlareGuides.FlareTablesOfContentsGuide">See <MadCap:xref href="Using_Styles_to_Determine_the_Look_of_a_MiniTOC.htm" class="FirstPageOfChapter">Using Styles to Determine the Look of a Mini-TOC</MadCap:xref>.</MadCap:conditionalText><MadCap:snippetText src="../Resources/Snippets/ForMoreInfo/ForMoreInfoAboutStylesOnlineHelpOrStylesGuide.flsnp" MadCap:conditions="FlareGuides.FlarePrintedOutputGuide" /></p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/ClickOK.flsnp">
+                        </MadCap:snippetText> The proxy is added to the topic.</li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp">
+                        </MadCap:snippetText>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.OnlineLive">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../Resources/Snippets/Notes/NoteProxiesExcludeContent.flsnp" MadCap:conditions="General.OnlineLive" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.Future">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">how did you do that<span style="font-size: 0.85em;">?</span></MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../Resources/Snippets/HDYDT/HDYDT_note.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

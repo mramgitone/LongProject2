@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="8" MadCap:lastHeight="517" MadCap:lastWidth="668">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                <ul class="FirstLevel">
+                    <li>
+                        <p><span class="SetOffFirstLevel">Ribbon</span> Select <span class="Emphasis">File&gt;Options</span>. </p>
+                        <MadCap:snippetBlock src="../UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel">Menu</span> Select <span class="Emphasis">Tools&gt;Options</span>.  </li>
+                </ul>
+                <p>The Options dialog opens.</p>
+            </li>
+            <li>
+                <p>Click the <span class="Emphasis">Keyboard Shortcuts</span> tab.</p>
+            </li>
+            <li>In the <span class="Emphasis">Action</span> section, select the option whose hot keys you want to change.</li>
+            <li>In the <span class="Emphasis">Key Assignment</span> section, select the hot key that you want to assign to the option. </li>
+            <li>(Optional) In the <span class="Emphasis">Modifier Key Assignment</span> section, you can select the <span class="Emphasis">Control Key</span>, <span class="Emphasis">Shift Key</span>, and/or <span class="Emphasis">Alt Key</span> check boxes if you want to use a combination for the shortcut. For example, if you select D from the list to the right and add check marks to the Shift Key and Alt Key boxes, the new shortcut for the option will be SHIFT+ALT+D.</li>
+            <li>(Optional) In the <span class="Emphasis">Options</span> section, you can assign a hot key to a command that does not appear in the Action section by clicking <b>Unlisted Commands</b>. In the Other Commands dialog, select a command, then click <b>OK</b>. The unlisted command appears in the Action section.</li>
+            <li>(Optional) In the <span class="Emphasis">Options</span> section, you can return to the factory default keyboard shortcuts by clicking <span class="Emphasis">Reset to Factory Defaults</span>.</li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+        </ol>
+    </body>
+    <head>
+    </head>
+</html>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Contributor" MadCap:lastBlockDepth="4" MadCap:lastHeight="246" MadCap:lastWidth="832">
+    <body>
+        <p>In previous versions, the following window panes opened by default on the left side of the workspace:</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">File List Window Pane </span>
+                <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../../UI_Elements/File_List_Window.htm">File List Window Pane</MadCap:xref>.</MadCap:conditionalText>
+            </li>
+            <li><span class="SetOffFirstLevel">Pending Check-Ins Window Pane </span>
+                <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../../Source_Control/More_About_Source_Control/Viewing_Files_That_are_Checked_Out.htm">Viewing Files That are Checked Out</MadCap:xref>.</MadCap:conditionalText>
+            </li>
+            <li><span class="SetOffFirstLevel">Project Analysis Window Pane </span>
+                <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../../UI_Elements/Project_Analysis_Window_Pane.htm">Project Analysis Window Pane</MadCap:xref>.</MadCap:conditionalText>
+            </li>
+        </ul>
+        <p>Starting with this version, they open by default in the large, middle area of the workspace, where the editors and Start Page are shown. This allows for more space to work in these window panes.</p>
+        <p>If you prefer the old location of these window panes, you can move them by selecting <span class="Emphasis">Window&gt;Float</span>. Then drag and dock the window pane where you want it. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../../Tour_of_the_Workspace/Customizing_the_Workspace.htm">Customizing the Workspace</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare,Products.Lingo,Products.Align" MadCap:lastBlockDepth="7" MadCap:lastHeight="753" MadCap:lastWidth="568">
+    <head>
+        <link href="../../TableStyles/BasicAlternateRowsOnColoredBackground.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p class="ExampleHead">examples</p>
+        <Div class="ExampleIndent">
+            <p class="ExampleMiddleSectionInDiv">Following are some examples of regular expressions:</p>
+            <table style="width: 100%; margin-left: 0; margin-right: auto; mc-table-style: url('../../TableStyles/BasicAlternateRowsOnColoredBackground.css'); mc-table-style-original: url('../../TableStyles/BasicAlternateRowsOnColoredBackground.css');" class="TableStyle-BasicAlternateRowsOnColoredBackground" cellspacing="0">
+                <col class="TableStyle-BasicAlternateRowsOnColoredBackground-Column-Regular" />
+                <col class="TableStyle-BasicAlternateRowsOnColoredBackground-Column-Regular" />
+                <thead>
+                    <tr class="TableStyle-BasicAlternateRowsOnColoredBackground-Head-Header1">
+                        <th class="TableStyle-BasicAlternateRowsOnColoredBackground-HeadE-Regular-Header1">
+                            <p class="TableTextHead">Expression</p>
+                        </th>
+                        <th class="TableStyle-BasicAlternateRowsOnColoredBackground-HeadD-Regular-Header1">
+                            <p class="TableTextHead">Description</p>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="TableStyle-BasicAlternateRowsOnColoredBackground-Body-LightRows">
+                        <td class="TableStyle-BasicAlternateRowsOnColoredBackground-BodyE-Regular-LightRows">
+                            <p class="TableTextEmphasis">[a-z]</p>
+                        </td>
+                        <td class="TableStyle-BasicAlternateRowsOnColoredBackground-BodyD-Regular-LightRows">
+                            <p class="TableText">Matches any lowercase letter</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-BasicAlternateRowsOnColoredBackground-Body-DarkerRows">
+                        <td class="TableStyle-BasicAlternateRowsOnColoredBackground-BodyE-Regular-DarkerRows">
+                            <p class="TableTextEmphasis">[A-Z]</p>
+                        </td>
+                        <td class="TableStyle-BasicAlternateRowsOnColoredBackground-BodyD-Regular-DarkerRows">
+                            <p class="TableText">Matches any uppercase letter</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-BasicAlternateRowsOnColoredBackground-Body-LightRows">
+                        <td class="TableStyle-BasicAlternateRowsOnColoredBackground-BodyE-Regular-LightRows">
+                            <p class="TableTextEmphasis">\d</p>
+                        </td>
+                        <td class="TableStyle-BasicAlternateRowsOnColoredBackground-BodyD-Regular-LightRows">
+                            <p class="TableText">Matches any decimal digit</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-BasicAlternateRowsOnColoredBackground-Body-DarkerRows">
+                        <td class="TableStyle-BasicAlternateRowsOnColoredBackground-BodyE-Regular-DarkerRows">
+                            <p class="TableTextEmphasis">\D</p>
+                        </td>
+                        <td class="TableStyle-BasicAlternateRowsOnColoredBackground-BodyD-Regular-DarkerRows">
+                            <p class="TableText">Matches any non-digit</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-BasicAlternateRowsOnColoredBackground-Body-LightRows">
+                        <td class="TableStyle-BasicAlternateRowsOnColoredBackground-BodyE-Regular-LightRows">
+                            <p class="TableTextEmphasis">\s</p>
+                        </td>
+                        <td class="TableStyle-BasicAlternateRowsOnColoredBackground-BodyD-Regular-LightRows">
+                            <p class="TableText">Matches any white-space character</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-BasicAlternateRowsOnColoredBackground-Body-DarkerRows">
+                        <td class="TableStyle-BasicAlternateRowsOnColoredBackground-BodyE-Regular-DarkerRows">
+                            <p class="TableTextEmphasis">{…}</p>
+                        </td>
+                        <td class="TableStyle-BasicAlternateRowsOnColoredBackground-BodyD-Regular-DarkerRows">
+                            <p class="TableText">Explicit quantifier</p>
+                            <p class="TableText">For example,<span class="Emphasis"> a{3}</span> finds "<span class="YellowBackground">aaa</span>"</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-BasicAlternateRowsOnColoredBackground-Body-LightRows">
+                        <td class="TableStyle-BasicAlternateRowsOnColoredBackground-BodyE-Regular-LightRows">
+                            <p class="TableTextEmphasis">|</p>
+                        </td>
+                        <td class="TableStyle-BasicAlternateRowsOnColoredBackground-BodyD-Regular-LightRows">
+                            <p class="TableText">Alternation</p>
+                            <p class="TableText">For example, <span class="Emphasis">gray|grey</span> finds "<span class="YellowBackground">gray</span>" or "<span class="YellowBackground">grey</span>"</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-BasicAlternateRowsOnColoredBackground-Body-DarkerRows">
+                        <td class="TableStyle-BasicAlternateRowsOnColoredBackground-BodyE-Regular-DarkerRows">
+                            <p class="TableTextEmphasis">(…)</p>
+                        </td>
+                        <td class="TableStyle-BasicAlternateRowsOnColoredBackground-BodyD-Regular-DarkerRows">
+                            <p class="TableText">Logical grouping</p>
+                        </td>
+                    </tr>
+                    <tr class="TableStyle-BasicAlternateRowsOnColoredBackground-Body-LightRows">
+                        <td class="TableStyle-BasicAlternateRowsOnColoredBackground-BodyB-Regular-LightRows">
+                            <p class="TableTextEmphasis">?</p>
+                        </td>
+                        <td class="TableStyle-BasicAlternateRowsOnColoredBackground-BodyA-Regular-LightRows">
+                            <p class="TableText">0 or 1 of previous expression; forces minimal matching when expression might match several strings within a search string</p>
+                            <p class="TableText">For example, <span class="Emphasis">reg(ular expressions?|ex(p|es?)</span> finds "<span class="YellowBackground">regular expression</span>," "<span class="YellowBackground">regular expressions</span>," <span class="YellowBackground">regex</span>, <span class="YellowBackground">regexp</span>, or "<span class="YellowBackground">regexes</span>"</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <p class="ExampleMiddleSectionInDiv">For more examples and information about regular expressions, see the following:</p>
+        </Div>
+        <p class="ExampleMiddleSection"><a href="http://www.regular-expressions.info/" target="_blank">http://www.regular-expressions.info/</a>
+        </p>
+        <p class="Example"><a href="http://regexlib.com/CheatSheet.aspx" target="_blank">http://regexlib.com/CheatSheet.aspx</a>
+        </p>
+    </body>
+</html>

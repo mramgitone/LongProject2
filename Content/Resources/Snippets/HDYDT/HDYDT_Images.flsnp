@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="93" MadCap:lastWidth="991">
+    <body>
+        <p>In the Web Print Mobile template there are several images, many that are intended to be included in all of the outputs. Some of the images are large, some are small, and some are associated with figure captions. Some images display as thumbnails in online output, and some are set to display at a certain size in PDF output. Some have special opacity/hover effects, and some are applied behind the scenes (e.g., in the stylesheet).</p>
+    </body>
+</html>

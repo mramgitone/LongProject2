@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="11" MadCap:lastHeight="1621" MadCap:lastWidth="851" MadCap:ignoredWords="s;g;Ghostscript;ghostscript">
+    <head>
+        <meta name="description" content="How to create and insert equations into your content. Enclosing equations in the Math tag to render it as a single block of content in XML." />
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Equations;MathML" />
+            <MadCap:concept term="Equations" />Creating and Inserting Equations</h1>
+        <MadCap:snippetBlock src="../Resources/Snippets/Banners/Flare/FeatureSupportedAll.flsnp" MadCap:conditions="Products.Flare" />
+        <MadCap:snippetBlock src="../Resources/Snippets/Banners/Contributor/SupportedInReviewContributionNewDocWorkflows.flsnp" MadCap:conditions="Products.Contributor" />
+        <p>From any location in a <MadCap:snippetText src="../Resources/Snippets/Topics/ContentFileDocument.flsnp" /> you can create an equation (using the Equation Editor) and insert it into your content. In the markup the equation is contained in the &lt;math&gt; tag, which is the MathML root of the equation. Although an equation may be composed of many different parts, in the XML Editor it renders as a single block of content. In that way, it behaves much like an image.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to create and insert an equation</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/Topics/OpenContentFileDocument.flsnp" />
+                    </li>
+                    <li>In the XML Editor place your cursor where you want to insert the equation.</li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                        <ul class="FirstLevel">
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon</span>&#160;<MadCap:snippetText src="../Resources/Snippets/UIElements/SelectInsertRibbon.flsnp" /> In the <span class="Emphasis">Symbols</span> section select&#160;<span class="Emphasis">Equation</span>.   </p>
+                                <p>
+                                    <MadCap:snippetBlock src="../Resources/Snippets/UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" />
+                                </p>
+                            </li>
+                            <li><span class="SetOffFirstLevel">Menu</span>&#160;Select&#160;<span class="Emphasis">Insert&gt;Equation</span>.</li>
+                            <li><span class="SetOffFirstLevel">Keyboard Shortcut</span>&#160;Press&#160;<span class="Emphasis">CTRL+E</span>.</li>
+                        </ul>
+                        <p>The Equation Editor opens.</p>
+                    </li>
+                    <li>
+                        <p>In the editing area, create an equation, using the menus and toolbars as necessary. </p>
+                        <p>The Equation Editor contains its own online Help, which is separate from the rest of <MadCap:snippetText src="../Resources/Snippets/AllProductVariables.flsnp" />'s online Help. Therefore, if you need assistance with the features in the Equation Editor, use the Help menu in that editor for more information.</p>
+                    </li>
+                    <li>(Optional) In the <span class="Emphasis"><MadCap:keyword term="Screen tip" />Screen Tip</span> field you can type a phrase that will appear when the end user hovers over the equation.</li>
+                    <li>
+                        <p>(Optional) In the <span class="Emphasis"><MadCap:keyword term="Alternate text" />Alternate Text</span> field you can type alternate text to display when the equation is not available, such as when a disabled individual is using a screen reader. </p>
+                        <p MadCap:conditions="Products.Flare">
+                            <MadCap:keyword term="Section 508;Accessibility;WCAG" />For more information see <MadCap:xref href="../Accessibility/About_Accessibility.htm" class="seepara">About Accessibility</MadCap:xref>.</p>
+                        <p MadCap:conditions="Products.Contributor">
+                            <MadCap:keyword term="Section 508;Accessibility;WCAG" />For more information see <MadCap:xref href="../Accessibility/About_Accessibility_Contributor.htm">About Accessibility</MadCap:xref>.</p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/ClickOK.flsnp" /> The equation is added to the <MadCap:conditionalText MadCap:conditions="Products.Flare"> content file</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor"> document</MadCap:conditionalText>.</li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="../Resources/Snippets/Notes/NoteEquationHelpMenu.flsnp" MadCap:conditions="General.OnlineLive" />
+                <p class="note" MadCap:conditions="General.OnlineLive" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">When an equation is used in a heading and that heading is referenced in any way (e.g., cross-reference, table of contents entry), the equation is stripped from the reference.</p>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">In order to use the Equation Editor, you need to have Ghostscript installed on your machine. If you do not have Ghostscript, visit www.ghostscript.com to download the latest version.</p>
+                <MadCap:snippetBlock src="../Resources/Snippets/Notes/NoteEquationsJRE.flsnp" />
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;" MadCap:conditions="Products.Flare">
+                    <MadCap:snippetText src="../Resources/Snippets/Accessibility/EmptyAltTextGlobalSetting.flsnp" /> This also works for equations, which are converted to images in the output. See <MadCap:xref href="../Accessibility/Applying_Empty_Alt_Text.htm">Applying Empty Alt Text</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:conceptLink term="Equations" />
+        </p>
+    </body>
+</html>

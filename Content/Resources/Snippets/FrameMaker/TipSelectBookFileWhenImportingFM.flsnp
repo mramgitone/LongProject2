@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="95" MadCap:lastWidth="1221" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <body>
+        <p class="tip" MadCap:autonum="&lt;b&gt;Tip: &lt;/b&gt;">When possible, it is recommended that you select a <span>Adobe FrameMaker</span> BOOK file for import and let <span><MadCap:snippetText src="../AllProductVariables.flsnp" /></span>locate and import all the associated document files within the <span><MadCap:variable name="Outputs.Frame" /></span> book. </p>
+    </body>
+</html>

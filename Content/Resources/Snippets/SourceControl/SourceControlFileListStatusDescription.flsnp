@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Lingo">
+    <body>
+        <p>Displays the status of the file, such as whether you have it checked out. This status is blank if another user has the file checked out through source control.</p>
+    </body>
+</html>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="329" MadCap:lastWidth="871" MadCap:conditions="Products.Lingo">
+    <body>
+        <p>The Start Page has undergone a major redesign. This includes the following:</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Getting Started</span> This section now runs along the left edge of the Start page. Here, you can open a file, create a new project, or launch MadCap Align.</li>
+            <li><span class="SetOffFirstLevel">Recent Projects </span>This section also runs along the left edge of the Start Page. This allows for more room to list the most recent projects. Projects are listed in order of how recently they were opened. Click on a project link to open that project.</li>
+            <li><span class="SetOffFirstLevel">Help Resources Tab </span>This tab contains links to additional resources, such as the Help system, PDFs, webinars, video tutorials, the online community, and the MadCap blog.</li>
+            <li><span class="SetOffFirstLevel">News and Updates </span>This section is at the bottom of the Start Page. It contains images and links to events, MadCap services, and other information.</li>
+        </ul>
+        <p>
+            <img src="../../../Images/start_page_new_lingo.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+    </body>
+    <head>
+    </head>
+</html>

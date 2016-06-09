@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="249" MadCap:lastWidth="923">
+    <body>
+        <p>Styles are what you use to give your content the look that you want it to have. Flare uses cascading stylesheets (or CSS) and the rules around them. CSS isn’t a Flare thing. It’s an international standard for formatting web content, and it was developed by a group called the World Wide Web Consortium (or W3C). You can learn all about the W3C at <a href="http://w3.org/" target="_blank">w3.org</a>. </p>
+        <p>Now, it would take an eternity to explain CSS here. The important thing for you to know is that’s the basis of styles in Flare. And even though Flare has a user interface that makes it easy to work with these styles and you don’t have to be an expert to get started, the difference between a good Flare user and a great Flare user is often an understanding and mastery of CSS. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Styles/About_Styles_and_Style_Sheets.htm">About Styles and Stylesheets</MadCap:xref>.</MadCap:conditionalText></p>
+        <p>The bottom line is that you want to avoid the opposite of styles as much as possible. That's called "local formatting." For example, you can highlight some text and make it green and italic right where that content exists. But if you do that same thing in many places, it takes a lot longer and it's a lot more work to control the look of that content if you later change your mind. Instead, it's much smarter and better to use a style. </p>
+    </body>
+</html>

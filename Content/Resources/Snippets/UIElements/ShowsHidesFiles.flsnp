@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor,Products.Analyzer" MadCap:lastBlockDepth="2" MadCap:lastHeight="69" MadCap:lastWidth="782">
+    <body>
+        <p class="TableText">Shows or hides the files. If you click this button when the Show Folders button <img src="../../Images/show_hide_folders_btn.png" class="ReduceButtonSize" /> is selected, the area splits into two halves. The folder is shown on the left side, and the files and subfolders within it are shown on the right.</p>
+    </body>
+</html>

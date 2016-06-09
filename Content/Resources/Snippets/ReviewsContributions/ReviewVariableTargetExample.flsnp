@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="4" MadCap:lastHeight="910" MadCap:lastWidth="918">
+    <body>
+        <p class="ExampleHead">example</p>
+        <p class="ExampleMiddleSection">Let's say you have a variable called "UserGuideTitle," and your default definition for it in the Variable Set Editor is "User Guide A."</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/reviews_variable_definition.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareReviewsAndContributionsGuide" />
+        <p class="ExampleMiddleSection">However, for some targets, you override that definition in the Target Editor so that it becomes "User Guide B."</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/reviews_variable_definition2.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareReviewsAndContributionsGuide" />
+        <p class="ExampleMiddleSection">Suppose you send a topic for review that has the variable inserted into it, and you keep the default variable selection in the Send Files for Review Wizard.</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/reviews_variable_definition3.png" alt="" title="" class="MaxWidth80Percent" />
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareReviewsAndContributionsGuide" />
+        <p class="ExampleMiddleSection">In that case, the reviewer sees the "User Guide A" variable definition.</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/reviews_variable_definition4.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareReviewsAndContributionsGuide" />
+        <p class="ExampleMiddleSection">On the other hand, in the Send Files for Review Wizard let's say you select a target that uses the alternate definition.</p>
+        <p class="ExampleMiddleSection">
+            <img src="../../Images/reviews_variable_definition5.png" alt="" title="" class="MaxWidth80Percent" />
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,FlareGuides.FlareReviewsAndContributionsGuide" />
+        <p class="ExampleMiddleSection">In that case, the reviewer see the "User Guide B" variable definition.</p>
+        <p class="Example">
+            <img src="../../Images/reviews_variable_definition6.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+    </body>
+</html>

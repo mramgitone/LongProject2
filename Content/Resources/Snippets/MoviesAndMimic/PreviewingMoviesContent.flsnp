@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Mimic,Products.MovieSync" MadCap:lastBlockDepth="12" MadCap:lastHeight="1488" MadCap:lastWidth="578">
+    <body>
+        <p>Previewing a movie is an extremely important and useful part of creating a movie. This gives you a chance to see how a movie looks and works without having to build the movie or collection.</p>
+        <p>You can preview a movie in various "chunks," depending on how much you want to see—preview entire movie, current frame, starting at the current frame, next 5 frames, or next 10 frames. </p>
+        <p>There is no need to wait for the application to process your movie when you want to preview it (or part of it). In <MadCap:variable name="Products.Mimic" MadCap:conditions="Products.Mimic" /><MadCap:variable name="Products.MovieSync" MadCap:conditions="Products.MovieSync" />, the preview is immediate, whether you are previewing 1 frame, 10 frames, or 100 frames.</p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="MimicGuides.MimicMovieEnhancementGuide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to preview a movie</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Open the movie.</li>
+                    <li>
+                        <p MadCap:conditions="Products.Mimic">
+                            <MadCap:snippetText src="../StepsGeneral/DoOneOfTheFollowingDependingOnUI.flsnp" />
+                        </p>
+                        <ul class="FirstLevel">
+                            <li MadCap:conditions="Products.Mimic">
+                                <p><span class="SetOffFirstLevel">Ribbon </span>
+                                    <MadCap:snippetText src="../UIElements/SelectMovieRibbon.flsnp" /> In the <span class="Emphasis">Quick Preview</span> section, select any of the preview options. </p>
+                                <MadCap:snippetBlock src="../UIElements/SwitchBetweenRibbonsMenusToolbars.flsnp" MadCap:conditions="General.OnlineLive" />
+                            </li>
+                            <li MadCap:conditions="Products.Mimic"><span class="SetOffFirstLevel">Menu </span>Select <span class="Emphasis">Movie&gt;Quick-preview Movie&gt;[preview option]</span>.</li>
+                            <li MadCap:conditions="Products.Mimic"><span class="SetOffFirstLevel">Local Toolbar </span>In the local toolbar of the Frame Editor, click the face of the preview button <img src="../../Images/quick_preview_movie_btn.png" class="ReduceButtonSize" /> to preview the entire movie or click the down arrow and from the drop-down menu, select a preview option.<ul class="SecondLevel"><li><span class="SetOffSecondLevel">Movie </span><MadCap:snippetText src="../UIElements/PreviewEntireMovieOption.flsnp" /></li><li><span class="SetOffSecondLevel">This Frame </span><MadCap:snippetText src="../UIElements/PreviewCurrentFrameOption.flsnp" /></li><li><span class="SetOffSecondLevel">Start at this Frame </span><MadCap:snippetText src="../UIElements/StartAtThisFrameOption.flsnp" /></li><li><span class="SetOffSecondLevel">Next 5 Frames </span><MadCap:snippetText src="../UIElements/PreviewNextFiveFramesOption.flsnp" /></li><li><span class="SetOffSecondLevel">Next 10 Frames </span><MadCap:snippetText src="../UIElements/PreviewNextTenFramesOption.flsnp" /></li></ul></li>
+                        </ul>
+                        <p MadCap:conditions="Products.MovieSync">In the local toolbar of the Frame Editor, click the down arrow next to the <span class="Emphasis">Quick Preview</span> button <img src="../../Images/quick_preview_movie_btn.png" class="ReduceButtonSize" /> and select one of the preview options.</p>
+                        <ul class="FirstLevel" MadCap:conditions="Products.MovieSync">
+                            <li><span class="SetOffFirstLevel">Movie </span>
+                                <MadCap:snippetText src="../UIElements/PreviewEntireMovieOption.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">This Frame </span>
+                                <MadCap:snippetText src="../UIElements/PreviewCurrentFrameOption.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">Start at this Frame </span>
+                                <MadCap:snippetText src="../UIElements/StartAtThisFrameOption.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">Next 5 Frames </span>
+                                <MadCap:snippetText src="../UIElements/PreviewNextFiveFramesOption.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">Next 10 Frames </span>
+                                <MadCap:snippetText src="../UIElements/PreviewNextTenFramesOption.flsnp" />
+                            </li>
+                        </ul>
+                        <p>The MadCap Movie Viewer opens and plays the selected portions of the movie.</p>
+                    </li>
+                    <li value="3">Close the viewer when you are finished.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">When you preview a movie, it always opens in the MadCap Movie Viewer (which is used for displaying output generated from the MadCap Mimic Movie Format). Even if you plan to create movie output using <MadCap:snippetText src="../Output/BrowserBasedOutput.flsnp" />, the MadCap Movie Viewer is used for the preview feature.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

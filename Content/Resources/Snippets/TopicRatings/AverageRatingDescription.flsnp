@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.FeedbackExplorer">
+    <body>
+        <p>Displays the average rating for the topic, taking into account all rating scores received for that topic.</p>
+    </body>
+</html>

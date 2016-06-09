@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Mimic">
+    <body>
+        <p>After you add a button to a movie frame, you can apply mouse hover properties to it. In other words, when a user hovers the mouse cursor over the button in the movie, the background, font, and line of the button will be displayed as you have specified.</p>
+    </body>
+</html>

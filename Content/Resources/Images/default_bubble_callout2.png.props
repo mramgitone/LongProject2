@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties conditions="Products.Mimic" fileTags="">
+    <ImageOverlay HasImage="false" Profile="C:\Users\pstoecklein\Documents\My Profiles\NoBorder.capro" ProfileHash="608a0ba25ab9149d40d3c99c3ec83bb3">
+        <OriginalImage Folder="C:\Trunk\Shared\Content\Resources\Images" ExportFormat="png" medium_print_EnableFormat="False" medium_print_ColorDepth="32" medium_print_DPI="300" FileName="" BackgroundColor="transparent" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" medium_print_EnableGrayScaleFormat="False" Border="none" BorderWidth="1" BorderColor="#000000" JPEGQuality="80" BackgroundType="Solid" MinWidth="20" MinHeight="20" ComputedWidth="108" ComputedHeight="124" />
+        <Shapes>
+            <Shape Type="Bubble" X="11" Y="18" Width="83" Height="50" TipX="67" TipY="110" BackgroundColor="#ffff00" BackgroundColorAlt="#eeeeee" BackgroundType="GradientNS" Color="Black" FontSize="11pt" LineColor="#4169e1" LineWidth="1" EnableShadow="True" ShadowDX="4" ShadowDY="4" ShadowColor="#696969" ShadowTransparency="0.7" Right="14" Bottom="56" Left="11" Top="18" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false">Click here</Shape>
+        </Shapes>
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <Variables />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

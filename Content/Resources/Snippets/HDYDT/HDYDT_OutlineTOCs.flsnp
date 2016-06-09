@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare">
+    <body>
+        <p>One of the most important tasks when it comes to print-based output is to set up an outline TOC. This involves adding outline TOC entries that link to your topics, in the order that you want them to appear in the output. It also means setting properties on the outline TOC entries so that Flare knows where to start new chapters, which page layouts to use, and more. In the Web Print Mobile template, we created four separate outline TOCs, one for each of our PDF outputs. And we configured these outline TOCs to always start new chapters on the right side and to increment chapter autonumbering.</p>
+    </body>
+</html>

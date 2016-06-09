@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="11" MadCap:lastHeight="2250" MadCap:lastWidth="1070" MadCap:conditions="Products.Flare,Products.Contributor">
+    <head>
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="FilterStyles" />
+            <MadCap:keyword term="Styles:pseudo classes;Pseudo classes" />
+            <MadCap:concept term="StylesUsingFlare" />Pseudo Classes</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Banners/Contributor/SupportedInContributionNewDocWorkflows.flsnp" MadCap:conditions="Products.Contributor" />
+        <p MadCap:conditions="">Pseudo classes are a special group of style classes in cascading stylesheets that pertain to elements when they're in a certain state. They are most often used for styles associated with hyperlinks.</p>
+        <h2 MadCap:conditions="General.Print" class="NoPageBreakBefore">
+            <MadCap:keyword term="Pseudo classes:link;Linking:pseudo classes" />Link Pseudo Classes </h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">
+                    <MadCap:keyword term="Pseudo classes:link;Linking:pseudo classes" />link pseudo classes </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p MadCap:conditions="">Link pseudo classes include the following.</p>
+                <MadCap:snippetBlock src="../../Resources/Snippets/NavLinks/PseudoClassesList.flsnp" MadCap:conditions="">
+                </MadCap:snippetBlock>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../../Resources/Snippets/NavLinks/PseudoClassesExample.flsnp" MadCap:conditions="">
+                        </MadCap:snippetBlock>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody class="Final">
+                        <p MadCap:conditions="" class="noteTop" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">In order for &lt;a&gt; link pseudo classes to function properly, they must appear in the following order in the stylesheet (you can see this by opening the stylesheet in Notepad).</p>
+                        <p class="noteMiddle">a:link</p>
+                        <p class="noteMiddle">a:visited</p>
+                        <p class="noteMiddle">a:hover</p>
+                        <p class="noteMiddle">a:focus</p>
+                        <p class="noteMiddle">a:active</p>
+                        <p class="noteBottom">In order to avoid issues with this, and to ensure that your pseudo classes are working, you should explicitly set values on those pseudo classes, rather than expecting them to inherit settings from other tags.</p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareStylesGuide" />
+        <h2 MadCap:conditions="General.Print">
+            <MadCap:keyword term="Pseudo classes:first-letter;Pseudo classes:first-child;Pseudo classes:drop caps;Pseudo classes:initial caps" />First-Letter and First-Child Pseudo Classes </h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">
+                    <MadCap:keyword term="Pseudo classes:first-letter;Pseudo classes:first-child;Pseudo classes:drop caps;Pseudo classes:initial caps" />first-letter and first<span style="font-size: 0.85em;">-</span>child pseudo classes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p MadCap:conditions="">There are a couple of additional kinds of pseudo classes that you can create from the Stylesheet Editor. These are called "first-letter" and "first-child" pseudo classes. </p>
+                <p MadCap:conditions="">The first-letter class lets you apply style settings to the first letter in a block (such as a paragraph), if it is not preceded by any other content (such as an image). This pseudo class is useful for creating drop caps and initial caps effects. See <MadCap:xref href="../../Paragraphs/Effects/Creating_Initial_Caps_Effects.htm" MadCap:conditions="General.OnlineLive">Creating Initial Caps Effects</MadCap:xref><MadCap:conditionalText MadCap:conditions="General.OnlineLive"> and </MadCap:conditionalText><MadCap:xref href="../../Paragraphs/Effects/Creating_Drop_Caps_Effects.htm">Creating Drop Caps Effects</MadCap:xref>.</p>
+                <p MadCap:conditions="">
+                    <img src="../../Resources/Images/initial_caps_example.png" class="MaxWidth50Percent">
+                    </img>
+                </p>
+                <p MadCap:conditions="">
+                    <img src="../../Resources/Images/drop_caps_example.png" class="MaxWidth65Percent">
+                    </img>
+                </p>
+                <p MadCap:conditions="">The first-child class lets you apply style settings to the first child of another element (e.g., the first &lt;p&gt; tag that occurs within a &lt;div&gt; tag).</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="General.Print">
+            <MadCap:keyword term="Pseudo classes:before;Pseudo classes:after" />Before and After Pseudo Classes </h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">
+                    <MadCap:keyword term="Pseudo classes:before;Pseudo classes:after" />before and after pseudo classes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>You can use "before" and "after" pseudo classes on a style to insert content before or after an element.</p>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Styles/BeforeAfterPseudoClassExample.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:conceptLink term="StylesUsingFlare" />
+        </p>
+    </body>
+</html>

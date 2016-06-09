@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="141" MadCap:lastWidth="743">
+    <body>
+        <p>
+            <MadCap:conditionalText MadCap:conditions="Products.Flare">Mediums can be used if you want to use one group of settings for online output types (<MadCap:snippetText src="../Output/OnlineOutputTypes.flsnp" MadCap:conditions="Products.Flare" />) and another group of settings for print-based output types (<MadCap:snippetText src="../Output/AllPrintOutputTypes.flsnp" />). For example, you might use the "default" medium for your online outputs and you might use the "print" medium for your print outputs. </MadCap:conditionalText>
+            <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Styles/Mediums/About_Stylesheet_Mediums.htm">About Stylesheet Mediums</MadCap:xref>.</MadCap:conditionalText>
+        </p>
+    </body>
+</html>

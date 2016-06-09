@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties conditions="Products.Mimic" fileTags="">
+    <ImageOverlay Profile="C:\Users\rmartinez\Documents\My Profiles\SharedImagesBorder.capro" ProfileHash="54db5c24cb8b652271c02c6580da0b7a" ScreenRectangle="191,477,19,20">
+        <OriginalImage FileName="" Folder="C:\Shared\Content\Resources\Images" BackgroundColor="#ffffff" Border="solid" BorderWidth="1" BorderColor="#000000" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" Right="0" Bottom="0" ExportFormat="png" JPEGQuality="80" ComputedWidth="21" ComputedHeight="22" Format="tiff">SUkqAM4CAACAPuBP8AQWDQeEQmFQuGQ2HQmBPuCQ+KRWLRcARGJw0drVogB/yEAP6SSOSsooDSEMoXkyCvN0gAbN5lwxojUpAB8vp9TJorSETx9RuEDxbNIAMknjOKC1TsMAM4qDiEMsYE0AP16uYADhts0ANAelmMvN6AAatBZwyhUSjUilUxNTWKGYawUUKJfVl+v2+X5SI9IAAOtlygBxicN2i1RS2weOx8uB+VP0AxgAHEYQ1jkY0gB3t1qgAIiMVgAaLVJRR862iDpaNAAFITjYAPwBwVXNJjZiDJtOqcAOpytgAG44nQAKdBHoAAEUDoAFMoEcANwxkaEa180QcLJnAAmC6qLJob1oFbpRdrkc2AB5MVhAAbvSkQdBcYAEkkj4AAYEwXAAEZZkc7bXIOGxYGYAAhBs6RimisAxg0piHggb5UN8gp4BCLDMlyULQDssiDnxE6iBoVxlAAHsXAAZkYgAMgNpUfACISDBtw0KwrQ/DZVFVDQvmwe4AHgO4tIRE58KIGRWGQAAfymABjSsAA1BC6R2AUgoSGrHkfIQTZKluigyjWJKESDDQnieKMlxQg4XlSYsGiEIQAGBPYADgE4gAAcgHoKFhoTDD8yTMJopB4AACAGy4DAOAqEFSUi9zRNU2ABN04IOe9QKIpyoCLUoAFzVAADuFzrGwCqChwZVDgBRIACWKDpAEAYBAABFJgAAQBMvS1MTSAFNicJwoIQe1mqIZVoAAL5snqkZ+n8v6TWwSIMHyAEe0RMsGiMlQCUeAAEgUA1gV2ABXlSYIAUzY8hAAJomifZlnQ2g5ZlmWNvzFWoeCAGNHAIy4FAUA4AAHc5ZlcYl5WNTd73yg564yokNloWhZYDH7f3Eh95oPTYmCYJyEYyeuN34guO4/cF+ZPlKGHpnGXZeg5alqtcNiWJasIeeei51nekMxop56PpOnIogIBAA/gAEAAEAAAAAAAAAAAEEAAEAAAATAAAAAQEEAAEAAAAUAAAAAgEDAAQAAACUAwAAAwEDAAEAAAAFAAAABgEDAAEAAAACAAAAEQEEAAEAAAAIAAAAFQEDAAEAAAAEAAAAFgEEAAEAAAAUAAAAFwEEAAEAAADGAgAAGgEFAAEAAACcAwAAGwEFAAEAAACkAwAAHAEDAAEAAAABAAAAKAEDAAEAAAACAAAAPQEDAAEAAAACAAAAUgEDAAEAAAACAAAAAAAAAAgACAAIAAgAAHcBAOgDAAAAdwEA6AMAAA==</OriginalImage>
+        <Shapes />
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <Variables />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

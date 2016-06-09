@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo">
+    <body>
+        <p class="note">Translators must return a bundle in the same file format as the original bundle they received. If you sent the translator a Lingo Project File (*.LIPRJZIP), you will receive a Lingo Project File back from the translator. Likewise, if you sent the translator an XLIFF file (*.ZIP), they will send the completed bundle back as an XLIFF file.</p>
+    </body>
+    <head>
+    </head>
+</html>

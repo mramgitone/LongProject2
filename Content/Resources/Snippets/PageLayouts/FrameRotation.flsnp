@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="6" MadCap:lastHeight="643" MadCap:lastWidth="1115">
+    <body>
+        <p> To rotate a body frame, select the body frame in a page. In the local toolbar, select <span class="Emphasis">Layout&gt;Rotate</span>. Then choose the degree of rotation and the direction.</p>
+        <p>
+            <img src="../../Images/rotate_body_frame1.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,Products.Contributor" />
+        <p>You can also access the rotation options by right-clicking on a body frame.</p>
+        <p>
+            <img src="../../Images/rotate_body_frame4.png" alt="" title="" class="MaxWidth85Percent" />
+        </p>
+        <p>This feature can be used in conjunction with frame breaks to ensure that only certain text displays in the rotated body frame.</p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,Products.Contributor" />
+        <MadCap:snippetBlock src="RotateBodyFrameExample.flsnp" />
+    </body>
+</html>

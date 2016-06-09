@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Contributor,Products.Flare,Products.Lingo">
+    <body>
+        <MadCap:snippetText src="../AllProductVariables.flsnp" /> finds only occurrences of the text that match the case (e.g., uppercase, lowercase) of the text entered in the "Find what" field.</body>
+    <head>
+    </head>
+</html>

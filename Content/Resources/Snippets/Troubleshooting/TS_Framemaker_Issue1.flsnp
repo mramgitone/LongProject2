@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="4" MadCap:lastHeight="1043" MadCap:lastWidth="1127" MadCap:ignoredWords="Framemaker">
+    <head>
+    </head>
+    <body>
+        <p class="Subheading2"><MadCap:variable name="Outputs.Frame" /> targets will not build because <MadCap:variable name="Products.Flare" /> cannot detect FrameMaker</p>
+        <p class="Subheading2">Cause</p>
+        <p>This might be caused by incorrect settings on the Flare.exe file.</p>
+        <p class="Subheading2">Solution</p>
+        <p>Perform the following steps.</p>
+        <ol>
+            <li>Navigate to the folder where you installed Flare (e.g.,C:\Program Files (x86)\MadCap Software\MadCap Flare V[your version number]\Flare.app\).</li>
+            <li>Right-click the <span class="Emphasis">Flare.exe</span> file.</li>
+            <li>
+                <p>Select <span class="Emphasis">Run as administrator</span>.</p>
+                <p>
+                    <img src="../../Images/TS_framemaker_ex1.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>Open <span class="Emphasis">Adobe FrameMaker</span>.</li>
+            <li>Build the <MadCap:variable name="Outputs.Frame" /> target in <MadCap:variable name="Products.Flare" />.</li>
+            <li>Close <MadCap:variable name="Outputs.Frame" /> and build the  target in <MadCap:variable name="Products.Flare" /> again. </li>
+        </ol>
+    </body>
+</html>

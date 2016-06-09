@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor" MadCap:lastBlockDepth="4" MadCap:lastHeight="111" MadCap:lastWidth="873">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../Topics/OpenContentFileDocument.flsnp" />
+            </li>
+            <li>Right-click on the image.</li>
+            <li>From the drop-down list, select <span class="Emphasis">Edit Image</span>. The Edit Image dialog opens.</li>
+        </ol>
+    </body>
+</html>

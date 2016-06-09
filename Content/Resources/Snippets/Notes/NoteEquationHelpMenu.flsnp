@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Analyzer,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="167" MadCap:lastWidth="1221">
+    <body>
+        <p class="noteTop" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">The Equation Editor contains its own online Help, which is separate from the rest of <MadCap:snippetText src="../AllProductVariables.flsnp" />'s online Help. To access this, please click the Help menu at the top the Equation Editor.</p>
+        <p class="noteBottom">
+            <img src="../../Images/equation_editor.png" class="MaxWidth100Percent" />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Mimic" MadCap:lastBlockDepth="2" MadCap:lastHeight="984" MadCap:lastWidth="1497">
+    <body>
+        <p>Mimic users may now access and upload their videos to their Vimeo/Youtube account via the Video Services pane in Mimic. This may be accessed under Tools =&gt; Video Services pane.</p>
+        <p>
+            <img src="../../../Images/video_services1.png" class="MaxWidth100Percent" />
+        </p>
+        <p>Logging in/Authentification</p>
+        <p>To access the Vimeo/Youtube API, the user needs to authenticate using OAuth. The login button will be enabled once the user selects which service they want to access. Clicking on it will pull up the  OAuth Login dialog. To authenticate, the user will need to generate a new request URL and then open it in a browser.</p>
+        <p>
+            <img src="../../../Images/video_services2.png" class="MaxWidth100Percent" />
+        </p>
+        <p>The user will then need to follow the directions and copy/paste the given verifier code to retrieve the Access Token needed for API access.</p>
+        <p>
+            <img src="../../../Images/video_services3.png" class="MaxWidth100Percent" />
+        </p>
+        <p>
+            <img src="../../../Images/video_services4.png" class="MaxWidth100Percent" />
+        </p>
+        <p>After pasting the verifier code into the textbox, hitting Get Access Token will complete the authentification process.</p>
+        <p>Note: for Youtube, users need to first go to https://code.google.com/apis/console to register an application and toggle on Youtube API V3 under “Services”.</p>
+        <p>The Video Pane should now populate with the user’s videos.</p>
+        <p>Uploading</p>
+        <p>Uploading can be done in one of 3 ways:</p>
+        <p>1.	“Upload…” button. Clicking on it will invoke the “Add a Video to Upload Queue” dialog where the user may select the video to upload and populate the video metadata.</p>
+        <p>2.	Drag and drop the video directly onto the Video Services pane will also pull up the “Add a Video to Upload Queue” dialog with the Video field pre-populated.</p>
+        <p>3.	Users may choose to upload to a Video Service as a Publishing option. Youtube and Vimeo are new options added to the Publishing dialog.</p>
+        <p>
+            <img src="../../../Images/video_services5.png" class="MaxWidth100Percent" />
+        </p>
+        <p>
+            <img src="../../../Images/video_services6.png" class="MaxWidth100Percent" />
+        </p>
+        <p>Resuming Uploads</p>
+        <p>In the event of a network interruption, uploads will stop and will display “FAILED” in its progress. The upload may be resumed once the network is operational again by right clicking on the failed upload and selecting “Resume/Restart Upload” in its context menu.</p>
+        <p>
+            <img src="../../../Images/video_services7.png" class="MaxWidth100Percent" />
+        </p>
+        <p>Viewing Videos</p>
+        <p>Right clicking on a completed upload and selecting “View” will redirect the user to the appropriate Youtube/Vimeo page hosting the selected video.</p>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="4" MadCap:lastHeight="69" MadCap:lastWidth="1194">
+    <body>
+        <p>Because the style settings that we're working on are intended only for our PDF output, we're going to do our style work with the print medium selected. If we were going to use the style settings for the online output too, we would probably make some changes in the default medium and other changes in the print medium.</p>
+    </body>
+</html>

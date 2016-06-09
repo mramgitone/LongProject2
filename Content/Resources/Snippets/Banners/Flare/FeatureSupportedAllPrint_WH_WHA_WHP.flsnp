@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="2" MadCap:lastHeight="103" MadCap:lastWidth="991">
+    <body>
+        <p class="OutputsSupported">This feature is supported in <MadCap:variable name="Outputs.WebHelp" />, <MadCap:variable name="Outputs.WebHelpAIR" />, <MadCap:variable name="Outputs.WebHelp Plus" />, and to a certain extent in all print outputs (<MadCap:snippetText src="../../Output/AllPrintOutputTypes.flsnp" />).</p>
+    </body>
+</html>

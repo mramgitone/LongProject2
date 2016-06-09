@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="4" MadCap:lastHeight="917" MadCap:lastWidth="903">
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">MadCap|helpControlList </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Edit this style to change the look of the entire list (&lt;ul&gt; element) when links are displayed in a list, rather than in a popup.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">MadCap|helpControlListItem </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Edit this style to change the look of individual items in the list (&lt;li&gt; elements) when links are displayed in a list, rather than in a popup.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">MadCap|helpControlListItemLink </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Edit this style to change the look of links in the list (&lt;a&gt; elements) when links are displayed in a list, rather than in a popup.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">MadCap|helpControlMenu </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Edit this style to change the look of links (i.e., menu items) when links are displayed in a popup, rather than in a list. This particular style controls the entire list.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li><span class="SetOffFirstLevel">MadCap|helpControlMenuItem </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Edit this style to change the look of links (i.e., menu items) when links are displayed in a popup, rather than in a list. This particular style controls the individual list items.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Snippets.Snippet1"><span class="SetOffFirstLevel">MadCap|conceptLink </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Edit this style to change the look of the heading for concept links. The following three concept link styles inherit properties from this style.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Snippets.Snippet1"><span class="SetOffFirstLevel">MadCap|conceptLinkControlList </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Edit this style to change the look of the entire list (&lt;ul&gt; element) when concept links are displayed in a list, rather than in a popup.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Snippets.Snippet1"><span class="SetOffFirstLevel">MadCap|conceptLinkControlListItem </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Edit this style to change the look of individual items in the list (&lt;li&gt; elements) when concept links are displayed in a list, rather than in a popup.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Snippets.Snippet1"><span class="SetOffFirstLevel">MadCap|conceptLinkControlListItemLink </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Edit this style to change the look of links in the list (&lt;a&gt; elements) when concept links are displayed in a list, rather than in a popup.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Snippets.Snippet2"><span class="SetOffFirstLevel">MadCap|keywordLink </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Edit this style to change the look of the heading for keyword links. The following three keyword link styles inherit properties from this style.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Snippets.Snippet2"><span class="SetOffFirstLevel">MadCap|keywordLinkControlList </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Edit this style to change the look of the entire list (&lt;ul&gt; element) when keyword links are displayed in a list, rather than in a popup.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Snippets.Snippet2"><span class="SetOffFirstLevel">MadCap|keywordLinkControlListItem </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Edit this style to change the look of individual items in the list (&lt;li&gt; elements) when keyword links are displayed in a list, rather than in a popup.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Snippets.Snippet2"><span class="SetOffFirstLevel">MadCap|keywordLinkControlListItemLink </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Edit this style to change the look of links in the list (&lt;a&gt; elements) when keyword links are displayed in a list, rather than in a popup.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Snippets.Snippet3"><span class="SetOffFirstLevel">MadCap|relatedTopics </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Edit this style to change the look of the heading for related topic links. The following three related topic link styles inherit properties from this style.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Snippets.Snippet3"><span class="SetOffFirstLevel">MadCap|relatedTopicsControlList </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Edit this style to change the look of the entire list (&lt;ul&gt; element) when related topics are displayed in a list, rather than in a popup.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Snippets.Snippet3"><span class="SetOffFirstLevel">MadCap|relatedTopicsControlListItem </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Edit this style to change the look of individual items in the list (&lt;li&gt; elements) when related topics are displayed in a list, rather than in a popup.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li MadCap:conditions="Snippets.Snippet3"><span class="SetOffFirstLevel">MadCap|relatedTopicsControlListItemLink </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Edit this style to change the look of links in the list (&lt;a&gt; elements) when related topics are displayed in a list, rather than in a popup.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+        </ul>
+    </body>
+</html>

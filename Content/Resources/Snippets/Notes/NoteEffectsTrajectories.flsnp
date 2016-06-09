@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="105" MadCap:lastWidth="1221" MadCap:conditions="Products.Mimic">
+    <body>
+        <p class="note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt;">If you add a blur, gray scale, or shading effect to a frame and then apply a trajectory to that effect, it will work only when generating output in the MadCap Mimic Movie Format (MMF) or <MadCap:variable name="Outputs.Silverlight" />. Trajectories applied to these effects do not function in the other outputs.</p>
+    </body>
+</html>

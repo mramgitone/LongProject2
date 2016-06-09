@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="6" MadCap:lastHeight="387" MadCap:lastWidth="1048">
+    <head>
+        <link href="../../TableStyles/Simple.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>If the source segment contains formatting or tags, you might see an error or warning icon in the Status column.</p>
+        <table class="TableStyle-Simple" style="mc-table-style: url('../../TableStyles/Simple.css');" cellspacing="0">
+            <col class="Column-Column1" />
+            <col class="Column-Column1" />
+            <tbody>
+                <tr class="Body-Body1">
+                    <td class="BodyE-Column1-Body1">
+                        <p class="TableText">
+                            <img src="../../Images/warning_icon.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="BodyD-Column1-Body1">
+                        <p class="TableText">This warning icon means that the source segment contains formatting or tags, but that you have not yet added them to the target segment. If you see this icon, you can still save, export, or preview the file (when applicable). In addition, you can confirm the translated segment as completed.</p>
+                    </td>
+                </tr>
+                <tr class="Body-Body1">
+                    <td class="BodyB-Column1-Body1">
+                        <p class="TableText">
+                            <img src="../../Images/error_icon.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="BodyA-Column1-Body1">
+                        <p class="TableText">This error icon means that you have incomplete tags in the target segment. In other words, some tags require a beginning and ending tag, and if you have only one of those, <MadCap:snippetText src="../AllProductVariables.flsnp" /> identifies it as invalid and gives you the error. If you see this icon, you cannot save, export, or preview the file (when applicable).</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="LingoGuides.LingoTranslationGuide" />
+        <p class="ExampleHead">example</p>
+        <p class="ExampleMiddleSection">The following example shows segments with inline formatting and a tag, as well as the error icon:</p>
+        <p class="Example">
+            <img src="../../Images/cells4.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+    </body>
+</html>

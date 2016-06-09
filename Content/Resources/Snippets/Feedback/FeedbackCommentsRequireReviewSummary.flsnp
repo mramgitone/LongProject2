@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.FeedbackExplorer" MadCap:lastBlockDepth="2" MadCap:lastHeight="196" MadCap:lastWidth="485">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>As the author, you have control over whether new user comments should be reviewed before they are displayed in the online output. If you specify that all incoming comments require review, those comments will have Pending status until you take action on them (e.g., accepting, discarding, hiding). If you specify that reviewing comments is not necessary, all incoming comments will automatically move to Accepted status and become immediately visible in your online output. You can always change the status of a comment, thereby affecting whether it is visible and to whom. <MadCap:conditionalText MadCap:conditions="Products.Flare,Products.Analyzer">Specifying whether comments require review must be done in Feedback Explorer. See <MadCap:xref href="../../../Feedback/Opening_the_Feedback_Explorer.htm">Opening Feedback Explorer</MadCap:xref> and refer to the online Help provided with Feedback Explorer for steps.</MadCap:conditionalText></p>
+    </body>
+</html>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo">
+    <body>
+        <ul class="FirstLevel">
+            <li MadCap:conditions=""><span class="SetOffFirstLevel">Local Termbase</span> Select this option if you want to use SQLite for a local termbase. This option opens a simple dialog that lets you give the new database a name and choose where to store it. By default, the location for SQLite databases is in Documents\Lingo Translation Memories on your computer. However, you can choose a different location if you like.</li>
+            <li MadCap:conditions=""><span class="SetOffFirstLevel">Server Termbase</span> Select this option if you want to use SQL Server Express for a termbase to be stored on a <MadCap:annotation MadCap:createDate="2014-08-11T12:45:36.3652493-07:00" MadCap:creator="KSchneider" MadCap:initials="KS" MadCap:comment="Can you store this locally? (TM topic said &quot;on a server or locally&quot; but I don't see this option in termbases)" MadCap:editor="KSchneider" MadCap:editDate="2014-08-11T12:46:02.1164373-07:00">server</MadCap:annotation>. This opens a dialog with fields for the name, server, and security information related to the database.</li>
+        </ul>
+    </body>
+</html>

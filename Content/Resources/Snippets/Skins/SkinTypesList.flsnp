@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare" MadCap:lastBlockDepth="4" MadCap:lastHeight="205" MadCap:lastWidth="418">
+    <body>
+        <ul style="list-style-type: square;">
+            <li><span class="SetOffFirstLevel">Standard Skins </span>
+                <img src="../../Images/standard_skin_icon.png" class="ReduceButtonSize" MadCap:conditions="FlareGuides.FlareNotPrintedManual" /> for <MadCap:variable name="Outputs.WebHelp" />, <MadCap:variable name="Outputs.WebHelp Plus" />, <MadCap:variable name="Outputs.WebHelpAIR" />, <MadCap:variable name="Outputs.DotNetHelp" />, and <MadCap:variable name="Outputs.HTMLHelp" /> outputs.</li>
+            <li><span class="SetOffFirstLevel">HTML5 Skins </span>
+                <img src="../../Images/html5_skin_icon.png" class="ReduceButtonSize" MadCap:conditions="FlareGuides.FlareNotPrintedManual" /> for <MadCap:variable name="Outputs.HTML5" /> output.</li>
+            <li><span class="SetOffFirstLevel">WebHelp Mobile Skins </span>
+                <img src="../../Images/wh_mobile_skin_icon.png" class="ReduceButtonSize" MadCap:conditions="FlareGuides.FlareNotPrintedManual" /> for <MadCap:variable name="Outputs.WebHelp Mobile" /> output.</li>
+        </ul>
+    </body>
+</html>

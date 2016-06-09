@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare">
+    <body>
+        <p>Creating a table of contents in Flare can be very easy to do for both online and print output. For online output, it can be as easy as dragging topics into the TOC Editor<MadCap:conditionalText MadCap:conditions="General.OnlineLive"> (see <MadCap:xref href="../../../TOCs/Creating_a_TOC_Manually.htm">Creating a Table of Contents</MadCap:xref>)</MadCap:conditionalText>. You can create a TOC by adding books and items with links. The links usually point to topics, but for online outputs they can also point to external files, other Help systems, and movies. You put all of these books and items in a structure that you think would be useful for the individual. End users then browse through a TOC to find information.</p>
+    </body>
+</html>

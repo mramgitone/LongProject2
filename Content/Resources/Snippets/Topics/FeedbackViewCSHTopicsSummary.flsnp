@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="57" MadCap:lastWidth="1173" MadCap:conditions="Products.FeedbackExplorer,Products.Flare,Products.Analyzer">
+    <head>
+    </head>
+    <body>
+        <p>You can view all of the topics that users have opened through context-sensitive Help (CSH) calls that you integrated into your output. This includes each CSH ID, the topic it points to, and the number of times it has been accessed.</p>
+    </body>
+</html>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.AllProducts" MadCap:lastBlockDepth="8" MadCap:lastHeight="965" MadCap:lastWidth="575">
+    <head>
+    </head>
+    <body>
+        <p>Following are some key features of the <MadCap:snippetText src="../AllProductVariables.flsnp" /> user interface.</p>
+        <MadCap:snippetBlock src="KeyFeaturesInterfaceList.flsnp" />
+    </body>
+</html>

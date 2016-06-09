@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="1" MadCap:lastHeight="133" MadCap:lastWidth="995" MadCap:conditions="Products.Analyzer,Products.Flare">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>This indicates that the file has been checked out from source control. You can check in the file when you are ready (if you are the user who has checked it out). <MadCap:conditionalText MadCap:conditions="Products.FlareOnlineOnly">See <MadCap:xref href="../../../Source_Control/Checking_In_Source_Control_Files.htm">Checking In Source Control Files</MadCap:xref> and <MadCap:xref href="../../../Source_Control/Checking_Out_Source_Control_Files.htm">Checking Out Source Control Files</MadCap:xref>.</MadCap:conditionalText></body>
+</html>

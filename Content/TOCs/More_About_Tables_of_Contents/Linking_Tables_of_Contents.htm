@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" p2:check_list="Added To TOC,Links,See Also keywords,Browse Sequences,Ran Smart Index" xmlns:p2="http://www.madcapsoftware.com/schemas/MadCap.xsd" xml:lang="en" MadCap:ignoredWords="etc.)?;Examples...;FAQs;this.&quot;;CSS;Stylesheets;F;alternative...;F3;F1;F2;C;F4;F6;F7;F8;F9;F10;F12;J;K;P;W;Y;Z;(.flmsp;Indexing.&quot;;editors...;ConditionTagSet;SearchFilterSet;Stylesheet;TableStyle;VariableSet;tools...;Unformat;etc.);p;topic.);.pdf,;.doc,;.txt),;TocEntry;ToolbarItem;Practice.&quot;;b;Page...;Editor...;panes...;Organizer...;Explorer...;tags.&quot;;hidden.&quot;;none.&quot;;effect.);a.,;b.,;c.,;d.,;A.,;B.,;C.,;D.,;i.,;ii.,;iii.,;iv.,;I.,;II.,;III.,;IV.,;information.);keyword.&quot;;table...;(.flprj);file.);xls;right.);this...;Editor.);s;style.);Software.&quot;;.htm,;.html,;.xhtm,;xhtm;.xml,;.xhtml,;skins.&quot;;movie...;dialog.&quot;;Dialog.&quot;;Main.&quot;;Dialogs.&quot;;MyWebProject.mcwebhelp,&quot;;MyHtmlHelp.chm&quot;).;Close.&quot;;markers.);example...;Tollfree;MadCap1;Wizard...;program.);target.&quot;;'Empty';(.css;MySubhead;MySubhead.Subheading&quot;;EmphasisBlue;EmphasisGreen;EmphasisGreen.EmphasisBlue&quot;;(.mpj,;.xpj,;.hhp;Reimport;project...;MyProject.flprj).;Report.&quot;;Reports.htm;Report.htm).;.jpg,;.gif,;.bmp).;(.flsnp;TimeSheets.&quot;;TimeSheets;dialog...;Pets.&quot;;dogs.&quot;;Dog.&quot;;etc.).;NewTopic;www.acme.com).;(.chm;temp.hhc,&quot;;MyHelp.chm#MyToc.hhc).;TestFolder;MyHelp.chm,;AnotherHelpSystem.chm).;Master.mchelp,;AnotherHelpSystem;AnotherHelpSystem.mchelp).;Help.);file.&quot;;IdentifierName.&quot;;allowed.);option...;default.);CorporateGlossary.&quot;;CorporateGlossary.flglo&quot;;MyGlossary.&quot;;change.&quot;;Snippets.&quot;;page...;system...;footer...;NameOfMasterPage.flmsp);clickable;Contact.&quot;;Contact.fltoc&quot;;TOC.&quot;;acme.com).;hhc;MyToc.hhc).;MyToc;n;reimport;flsfs;mcvariable;VariableSet.VariableName;MyVariables.CompanyName;flbrs;flali;flglo;VariableName;h;hh" MadCap:lastBlockDepth="6" MadCap:lastHeight="958" MadCap:lastWidth="1192" MadCap:conditions="Products.Flare" MadCap:conditionTagExpression="include[Snippets.Snippet1]exclude[Snippets.Snippet2 or Snippets.Snippet3 or Snippets.Snippet4]">
+    <head><title></title>
+        <link rel="StyleSheet" href="../../Resources/Stylesheets/styles.css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Linking:tables of contents;Tables of contents:linking;Tables of contents:merging;Merging:tables of contents" />
+            <MadCap:concept term="FilterTOCs" />Linking Tables of Contents</h1>
+        <p>You can link multiple TOCs together. From the perspective of the end user, it will be seamless in the final output, appearing as just one TOC. </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="ExampleHead">example</p>
+                <p class="ExampleMiddleSection">Let's say the documentation team where you work is creating many Help systems for different products in the company. The documentation manager has decided that each TOC in each Help system must contain the same book and topics for contacting the company. For example, it might look something like this:</p>
+                <p class="ExampleMiddleSection">
+                    <img src="../../Resources/Images/toc_example2.png" class="MaxWidth90Percent" />
+                </p>
+                <p class="Example">Your team could create a TOC with this structure and name the TOC "Contact." Flare would create a TOC file called <MadCap:keyword term="FLTOC file" />"Contact.fltoc" behind the scenes. Authors on the team could then share copies of that TOC file and the associated HTML Help topics. Each author adds the TOC and topic files to his or her Help system, linking that TOC to the master TOC for that particular project. </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Resources/Snippets/EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareTablesOfContentsGuide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to link tocs</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Open your main TOC.</li>
+                    <li>Select the location in the TOC where you want to add the new entry (the link to the other TOC). For example, if you select an entry that already exists in the TOC, your new entry will be placed directly after that existing entry.</li>
+                    <li>In the local toolbar of the TOC Editor, click <img src="../../Resources/Images/new_item_btn.png" class="ReduceButtonSize" />. An entry called "New entry" is added to the TOC. (You can rename the entry as needed by clicking it, pressing <span class="Emphasis">F2</span>, and typing a new name.)</li>
+                    <li>If necessary, adjust the location of the entry by selecting it and clicking any of the directional arrows in the local toolbar: <img src="../../Resources/Images/move_item_to_left_btn.png" class="ReduceButtonSize" /><img src="../../Resources/Images/move_item_to_right_btn.png" class="ReduceButtonSize" /><img src="../../Resources/Images/move_item_up_btn.png" class="ReduceButtonSize" /><img src="../../Resources/Images/move_item_down_btn.png" class="ReduceButtonSize" />.</li>
+                    <li>With the entry still selected, click <img src="../../Resources/Images/run_properties2_btn.png" class="ReduceButtonSize" /> in the local toolbar. The Properties dialog opens.</li>
+                    <li>On the <span class="Emphasis">General</span> tab, click <span class="Emphasis">Select TOC</span>. The Link to TOC dialog opens, displaying all the TOCs in your project.</li>
+                    <li>Select the TOC to which you want to link the entry and click <span class="Emphasis">Open</span>.</li>
+                    <li>(Optional) By default the linked TOC will be displayed under the entry where you linked it. If you want the linked TOC to replace that entry altogether, select the <span class="Emphasis">Advanced</span> tab and click <span class="Emphasis">When merging, replace node with merged TOC</span>.</li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/InPropertiesDialogClickOK.flsnp" /> The icon in the TOC Editor changes to <img src="../../Resources/Images/linked_to_toc_icon.png" class="ReduceButtonSize" />, indicating that the entry is linked to a TOC.</li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/StepsGeneral/SaveYourWork.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.OnlineLive">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #bed230;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can also merge your project with other Flare projects, or with <MadCap:keyword term="HTML Help" />CHM files created in another Help authoring tool. Doing this "pulls in" the output from the other project, connecting it to your TOC. See <MadCap:xref href="../Merging_Projects.htm" class="FirstPageOfChapter">Merging Projects</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.OnlineLive">
+            <MadCap:conceptLink term="TOCs" xmlns:MadCap="http://www.madcapsoftware.com/schemas/MadCap.xsd" />
+        </p>
+    </body>
+</html>

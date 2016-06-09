@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="141" MadCap:lastWidth="1211">
+    <body>
+        <p>After you create or import a stylesheet, you can create new classes of a parent tag (or selector). Think of new style classes as children of the parent tags, which are already provided in the existing stylesheet. You cannot create new parent tags using the <MadCap:snippetText src="../AllProductVariables.flsnp" /> user interface. For example, &lt;p&gt; (which stand for a "paragraph") is a parent tag, as are &lt;h1&gt;, &lt;a&gt;, and &lt;span&gt;. You can create a class under any of those parent tags to give you more variety and flexibility when using styles in your content (e.g., p.Tip, p.Note, h1.IndexHeading). But you cannot use the Stylesheet Editor to create a new parent tag called, say, "MyTag" at the same level as the other parent tags; instead, it must be created as a style class under one of the existing parent tags.</p>
+    </body>
+</html>

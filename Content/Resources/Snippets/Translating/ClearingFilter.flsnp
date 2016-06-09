@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Lingo" MadCap:lastBlockDepth="4" MadCap:lastHeight="340" MadCap:lastWidth="1074">
+    <body>
+        <p MadCap:conditions="">When you want to clear the search fields and show all of the segments again, you can click <img src="../../Images/clear_filter_btn.png" alt="" title="" class="ReduceButtonSize" />.</p>
+        <p MadCap:conditions="" class="ExampleHead">example</p>
+        <p MadCap:conditions="" class="ExampleMiddleSection">Let's say you have used the filter fields so that the Translation Editor shows only a single segment in the file.</p>
+        <p MadCap:conditions="" class="ExampleMiddleSection">
+            <img src="../../Images/translation_filter12.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+        <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="LingoGuides.LingoWhatsNewGuide,LingoGuides.LingoTranslationGuide" />
+        <p MadCap:conditions="" class="ExampleMiddleSection">Now you want to clear the filter fields and return to the original view showing all of the segments in the file. To do this, you simply click <img src="../../Images/clear_filter_btn.png" alt="" title="" class="ReduceButtonSize" />.</p>
+        <p MadCap:conditions="" class="Example">
+            <img src="../../Images/translation_filter13.png" alt="" title="" class="MaxWidth90Percent" />
+        </p>
+    </body>
+</html>

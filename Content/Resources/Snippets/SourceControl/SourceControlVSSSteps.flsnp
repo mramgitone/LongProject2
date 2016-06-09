@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Analyzer,Products.Flare" MadCap:lastBlockDepth="4" MadCap:lastHeight="277" MadCap:lastWidth="1140">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <ol class="LowerAlpha">
+            <li>From the drop-down, select <span class="Emphasis">Microsoft Visual SourceSafe</span>. </li>
+            <li>Next to the Database field, click <span class="Emphasis">Browse</span>. </li>
+            <li>Find the appropriate SourceSafe database and double-click the <span class="Emphasis">INI</span> file. </li>
+            <li>Next to the <span class="Emphasis">Database Folder</span> field, click <span class="Emphasis">Browse</span>. If the Log In dialog opens, complete the <span class="Emphasis">User name</span> and <span class="Emphasis">Password</span> fields.</li>
+            <li>Find and click on the folder for the new project files in Source Safe. </li>
+            <li>
+                <MadCap:snippetText src="../StepsGeneral/ClickOK.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="OptionalCommentFieldStep.flsnp" />
+            </li>
+            <li>(Optional) If you want the files in the project to be checked out when you are finished, click <span class="Emphasis">Keep files checked out</span>.</li>
+            <li MadCap:conditions="Snippets.Snippet2">In the Bind Project dialog, click <span class="Emphasis">OK</span>.</li>
+        </ol>
+    </body>
+</html>

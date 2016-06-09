@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="FeedbackServerAdminGuides.FeedbackServerInstallationGuide">
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/PrintOnlyTopics/Copyright.htm"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false" />
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/PrintOnlyTopics/PrintTOC.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/TOC.flpgl"
+    PageType="firstright"
+    PageNumberReset="reset"
+    PageNumberFormat="lower-roman"
+    PageNumber="1"
+    StartSection="false"></TocEntry>
+  <TocEntry
+    Title="Introduction"
+    Link="/Content/Introduction_Topics/WelcomeFeedbackServer.htm"
+    StartSection="false"
+    StartChapter="true"
+    PageNumber="1"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="reset"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"></TocEntry>
+  <TocEntry
+    Title="Installing MadCap Feedback Server"
+    StartSection="false"
+    Link="/Content/Getting_Set_Up/Installing_MadCap_Feedback_Server_Admin_and_Other_Components.htm"
+    PageNumber="1"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"></TocEntry>
+  <TocEntry
+    Title="Installing SQL Server"
+    Link="/Content/SQL/Installing_SQL_Server.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"></TocEntry>
+  <TocEntry
+    Title="Configuring and Maintaining Admin"
+    Link="/Content/Getting_Set_Up/Configuring_and_Maintaining_the_MadCap_Feedback_Server_Admin.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"></TocEntry>
+  <TocEntry
+    Title="Localizing Activation Success and Failure Pages"
+    Link="/Content/Getting_Set_Up/Localizing_Success_Failure_Pages.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"></TocEntry>
+  <TocEntry
+    Title="Importing Data from Feedback Databases"
+    Link="/Content/Getting_Set_Up/Importing_Data.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"></TocEntry>
+</CatapultToc>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="2" MadCap:lastHeight="278" MadCap:lastWidth="1167">
+    <body>
+        <p>Another trick you can use while working in the Advanced section is to double-click any tag from the Basic section. This adds the condition to the Advanced section so you do not have to type it. <span class="EmphasisItalic">Just make sure your cursor has been placed in the Advanced section before double-clicking a condition tag. If you don't click in the Advanced section first, the newly added condition tag will overwrite all of the text you've entered previously in the Advanced section.</span></p>
+        <p class="ExampleHead" MadCap:conditions="Products.Flare">example</p>
+        <p class="ExampleMiddleSection" MadCap:conditions="Products.Flare">
+            <img src="../../Images/conditions6.png" class="MaxWidth90Percent" />
+        </p>
+        <p class="Example" MadCap:conditions="Products.Flare">
+            <img src="../../Images/conditions7.png" class="MaxWidth90Percent" />
+        </p>
+    </body>
+</html>

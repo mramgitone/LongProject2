@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:ignoredWords="n;b;(.mimov;Tooltip;s;(.swf" MadCap:conditions="Products.Flare,Products.Analyzer" MadCap:lastBlockDepth="10" MadCap:lastHeight="575" MadCap:lastWidth="810">
+    <head>
+        <link href="../../Stylesheets/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">File </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Displays the path to the movie or collection file after you select it.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li>
+                <img src="../../Images/browse_ellipses.png" class="ReduceButtonSize" />&#160;<MadCap:expanding><MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead><MadCap:expandingBody> Lets you find and select a different movie or collection file.</MadCap:expandingBody></MadCap:expanding></li>
+            <li>
+                <p><span class="SetOffFirstLevel">Format </span>
+                    <MadCap:expanding>
+                        <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                        <MadCap:expandingBody> You can use this drop-down to select the type of output to be generated.</MadCap:expandingBody>
+                    </MadCap:expanding>
+                </p>
+                <MadCap:snippetBlock src="MovieOutputFormatOptions.flsnp" />
+            </li>
+            <li><span class="SetOffFirstLevel">Style Class </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody> Select the kind of style class to be used for the link to affect the way it looks and behaves. You can select the main hyperlink style tag (&lt;a&gt;) or a class of that style. <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Styles/About_Styles_and_Style_Sheets.htm">About Styles and Stylesheets</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">Link Text </span>
+                    <MadCap:expanding>
+                        <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                        <MadCap:expandingBody> Displays the text that you highlighted in the topic, which will be used as the movie link. Leave the text as it is, unless you decide you would like to change it. If you want to change the link text, type the new text in the field. It will replace the previously selected text in the topic. If you do not provide link text, the file name for the movie or collection will be used.</MadCap:expandingBody>
+                    </MadCap:expanding>
+                </p>
+            </li>
+            <li><span class="SetOffFirstLevel">Screen Tip </span>
+                <MadCap:expanding>
+                    <MadCap:expandingHead MadCap:conditions="General.OnlineLive">Read more… </MadCap:expandingHead>
+                    <MadCap:expandingBody>Type a phrase that will appear when the end user hovers over the movie link in the output.</MadCap:expandingBody>
+                </MadCap:expanding>
+            </li>
+        </ul>
+    </body>
+</html>

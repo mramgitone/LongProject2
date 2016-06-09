@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Mimic" MadCap:lastBlockDepth="2" MadCap:lastHeight="69" MadCap:lastWidth="1061">
+    <body>
+        <p>A skin is an element that contains information about the appearance of the output window, as well as navigation elements, if you are generating <MadCap:snippetText src="../Output/AIRFlashSilverlightOR.flsnp" />. Skins are not used for movie output generated in the <MadCap:keyword term="Mimic Movie Format" />MadCap Mimic Movie Format (MMF) or <MadCap:variable name="Outputs.HTML5" />.</p>
+    </body>
+</html>

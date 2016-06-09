@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="721" MadCap:lastWidth="1155" MadCap:conditions="Products.Flare,Products.Contributor">
+    <body>
+        <p>You can control the size of slides in a few different ways. To do this, open the Edit Slideshow dialog. On the <span class="Emphasis">General</span> tab, you can change any of the following:</p>
+        <p>
+            <img src="../../Images/slideshow27.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Width </span>You can limit the width of the slides to a specific value. In most cases, you probably want to leave this field set to <span class="Emphasis">(default)</span> so that slide content is not cut off. However, if you want to set a specific width, click the arrow in the upper-right corner of the field and select <span class="Emphasis">Length</span>. Then enter a number and in the lower-right corner click the arrow to select the unit of measurement (e.g., pixels, centimeters, inches).</li>
+            <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide" />
+            <li>
+                <p><span class="SetOffFirstLevel">Adaptive height </span>Select this option if you want the height of the slide to adjust automatically to the content in it.</p>
+                <p class="ExampleHead">example</p>
+                <p class="ExampleMiddleSection">Let's say you have some slides with tall images and other slides with just a couple of lines of text. If you do not have this option set, all slides will be shown at the height of the tallest content in the slideshow. Therefore, the slides with minimal content may have lots of extra space below it.</p>
+                <p class="ExampleMiddleSection">
+                    <img src="../../Images/slideshow28.png" alt="" title="" class="MaxWidth90Percent" />
+                </p>
+                <p class="ExampleMiddleSection">
+                    <img src="../../Images/slideshow29.png" alt="" title="" class="MaxWidth90Percent" />
+                </p>
+                <MadCap:snippetBlock src="../EmptyPageBreakAfter.flsnp" MadCap:conditions="FlareGuides.FlareWhatsNewGuide,ContributorGuides.ContributorWhatsNewGuide" />
+                <p class="ExampleMiddleSection">But if you make the height adaptive, each slide will be adjusted so that the slides with shorter content are shorter in the output. This also makes it easier to see any bullets, thumbnails, captions, or auto controls at the bottom of the slide.</p>
+                <p class="Example">
+                    <img src="../../Images/slideshow30.png" alt="" title="" class="MaxWidth90Percent" />
+                </p>
+            </li>
+            <li><span class="SetOffFirstLevel">Responsive size </span>Select this option to make sure the content automatically resizes if the end user shrinks the size of the browser.</li>
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="251" MadCap:lastWidth="622" MadCap:conditions="Products.AllProducts">
+    <head>
+        <link href="../../../../TableStyles/Simple.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>&#160;</p>
+        <table style="mc-table-style: url('../../../../TableStyles/Simple.css');margin-left: auto;margin-right: auto;caption-side: top;" class="TableStyle-Simple" cellspacing="0">
+            <col class="TableStyle-Simple-Column-Column1" />
+            <col class="TableStyle-Simple-Column-Column1" />
+            <col class="TableStyle-Simple-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-Simple-Body-Row1">
+                    <td class="TableStyle-Simple-BodyB-Column1-Row1"><a href="http://docs.madcapsoftware.com/FlareV11/FlareAnalyzerGuide.pdf" target="_blank" title="Analyzer is a tool that lets you scan your project to find and fix issues, as well as create reports that display the information captured." alt="Analyzer is a tool that lets you scan your project to find and fix issues, as well as create reports that display the information captured."><img src="../../../../Images/pdf_cover_analyzer_guide.png" alt="" title="Analyzer is a tool that lets you scan your project to find and fix issues, as well as create reports that display the information captured." class="Hyperlinked" /></a>
+                    </td>
+                    <td class="TableStyle-Simple-BodyB-Column1-Row1"><a href="http://docs.madcapsoftware.com/FlareV11/FlareAutoNumbersGuide.pdf" target="_blank" title="Autonumbering is just what it sounds like—a feature where content is numbered automatically." alt="Autonumbering is just what it sounds like—a feature where content is numbered automatically."><img src="../../../../Images/pdf_cover_autonumbers_guide.png" alt="" title="Autonumbering is just what it sounds like—a feature where content is numbered automatically." class="Hyperlinked" /></a>
+                    </td>
+                    <td class="TableStyle-Simple-BodyA-Column1-Row1"><a href="http://docs.madcapsoftware.com/FlareV11/FlareConditionTagsGuide.pdf" target="_blank" title="A condition tag is a marker that you can apply to different areas of your content so that some sections show up in some of your outputs but not in others." alt="A condition tag is a marker that you can apply to different areas of your content so that some sections show up in some of your outputs but not in others."><img src="../../../../Images/pdf_cover_condition_tags_guide.png" alt="" title="A condition tag is a marker that you can apply to different areas of your content so that some sections show up in some of your outputs but not in others." class="Hyperlinked" /></a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&#160;</p>
+    </body>
+</html>

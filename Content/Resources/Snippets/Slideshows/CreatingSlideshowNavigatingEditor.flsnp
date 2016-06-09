@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.Flare,Products.Contributor" MadCap:lastBlockDepth="6" MadCap:lastHeight="1009" MadCap:lastWidth="806">
+    <body>
+        <p>
+            <MadCap:snippetText src="SlideshowInserting.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.OnlineLive">See <MadCap:xref href="../../../Slideshow/Inserting_Slideshows.htm">Inserting Slideshows</MadCap:xref>.</MadCap:conditionalText></p>
+        <p MadCap:conditions="Products.Flare">
+            <img src="../../Images/slideshow1.png" alt="" title="" class="MaxWidth50Percent" />
+        </p>
+        <p MadCap:conditions="Products.Contributor">
+            <img src="../../Images/slideshow_contributor1.png" alt="" title="" class="MaxWidth50Percent" />
+        </p>
+        <MadCap:snippetBlock src="NavigatingSlideshow.flsnp" />
+    </body>
+</html>
